@@ -12,7 +12,10 @@ import { RENEWAL_WARNING_DAYS, daysUntil } from "./score";
 
 // Key accounts produce news every few weeks, not daily, so a signal stays relevant longer.
 const HALF_LIFE_DAYS = 30;
+// Scoring is recency-first: only the last 90 days count. Older history (backfilled
+// up to 12 months) shows in timelines and as an account's "last notable event".
 const LOOKBACK_DAYS = 90;
+const HISTORY_DAYS = 365;
 const INDUSTRY_WINDOW_DAYS = 30;
 const PRODUCT_BOOST = 0.5; // per relevance point of a product-matched industry signal
 // Market-wide news boosts ranking but can't surface an account on its own —
@@ -60,6 +63,7 @@ export interface AccountPriority {
   status: "expansion" | "risk" | "watch" | "quiet";
   topSignal: RankedSignal | null;
   recentSignals: RankedSignal[];
+  lastEvent: RankedSignal | null; // most recent notable (non-neutral) signal from the past year, scored or not
   industryMatches: IndustrySignal[]; // named, or touches a product they own
   whitespaceMatches: IndustrySignal[]; // touches only products they don't own yet
   industryWeight: number; // so the browser can recompute priority with feedback weights
@@ -96,8 +100,11 @@ export function getAccountPriorities(): AccountPriority[] {
       const slug = slugify(company.name);
       const history = getCompanyHistory(slug);
 
-      const recentSignals: RankedSignal[] = history
-        .flatMap((run) => run.signals.map((signal) => ({ signal, at: signalDate(signal, run.runAt) })))
+      const dated = history.flatMap((run) => run.signals.map((signal) => ({ signal, at: signalDate(signal, run.runAt) })));
+      const lastEventRaw = dated
+        .filter((r) => r.signal.score !== 0 && ageDays(r.at) <= HISTORY_DAYS)
+        .sort((a, b) => new Date(b.at).getTime() - new Date(a.at).getTime())[0];
+      const recentSignals: RankedSignal[] = dated
         .filter((r) => ageDays(r.at) <= LOOKBACK_DAYS)
         .map((r) => ({
           ...r,
@@ -146,6 +153,7 @@ export function getAccountPriorities(): AccountPriority[] {
         status,
         topSignal,
         recentSignals,
+        lastEvent: lastEventRaw ? { ...lastEventRaw, weight: 0 } : null,
         industryMatches,
         whitespaceMatches: whitespaceMatchesFor(company, industry),
         industryWeight,

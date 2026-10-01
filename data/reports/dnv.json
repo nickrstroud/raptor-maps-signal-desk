@@ -1,6 +1,74 @@
 [
   {
     "company": "DNV",
+    "runAt": "2026-02-03T18:13:50.275Z",
+    "source": "backfill",
+    "headline": "DNV acquires Automa to expand digital operations platform; bullish MENA forecasts signal long-term market expansion",
+    "signals": [
+      {
+        "category": "M&A: Automa Acquisition",
+        "updateType": "ma",
+        "play": "none",
+        "score": 1,
+        "summary": "DNV announced acquisition of Automa Power & Utilities, a Brazilian digital operations and SCADA vendor. This strengthens DNV's position as an end-to-end digital operations partner for energy assets globally. The move signals DNV's strategic intent to deepen its software/digital footprint beyond advisory.",
+        "suggestedAction": "Schedule a call with Scott DuBois to understand Automa's scope (does it include drone analytics, solar APM, or SCADA integration?), DNV's go-to-market plans, and whether there are co-sell or integration opportunities with Raptor Solar—especially for DNV's utility customer programs or new digital O&M mandates.",
+        "sourceName": "balkangreenenergynews.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOR2pSQjJTRE13MmhCVlUwZjNNQm1MVlJUaHNlbjVWQWw2LUdrYi0yYl8wblozUmFpNEM0QjdvbXZaSW00U01OVUlfYzZLemZ4RVZEd2lkb2lKdGh1Yy1hSUhZWWJRa0ptYUVEOTZXOGNSYXhsUGFvb3lEa3I4eDYxaEE4ci1oMEZyRFRpWlhBUi1TMDVtdk9OdENhTEYyc1h6T1M3WHZaZjlZSkkwUTVndkZUT25kcGFPQnVja3hBUkpudzhXUjRSMUlGT3hzT2liVzFRekZPYUIxN3k5OFRRTjdQa3p5WEExOFJxMTNxNXA1UHdCc3c?oc=5",
+        "publishedAt": "2026-01-14T08:00:00.000Z"
+      },
+      {
+        "category": "Market Forecast: MENA Solar & Storage Expansion",
+        "updateType": "policy",
+        "play": "none",
+        "score": 0,
+        "summary": "DNV published forecasts predicting tenfold growth in MENA solar and wind capacity by 2040 and energy storage capacity by 2030. This reflects DNV's bullish view on the region and positions DNV as a thought leader in energy-transition markets.",
+        "suggestedAction": "Monitor DNV's MENA engagement; if they win utility programs or independent engineer mandates in the region, flag for Raptor Solar localization and regional partner discussions.",
+        "sourceName": "Energy Digital",
+        "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONlNEaW16b3FFcWhVQ3dXVVEwMXNjNGNtZldrMFI3Tms4UEpKZS14Zm5lZ01LakYyandnNTFCcEZlRkRiUmYyTWRoQ0VpVGlOWWtaaWI3U0FEckxveUUtbVVjZmRlTTliaXdMbVc5Rlo5dmJ6VEZGcTRKNFpNdlNBNEZUR0VMZG93alczRzZGQVM?oc=5",
+        "publishedAt": "2026-01-16T08:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "company": "DNV",
+    "runAt": "2026-04-04T18:13:50.275Z",
+    "source": "backfill",
+    "headline": "DNV solar thought leadership active; no material expansion, competitive, or whitespace signals in March 2026 news",
+    "signals": [
+      {
+        "category": "Solar sector growth forecast",
+        "updateType": "brand",
+        "play": "advocacy",
+        "score": 0,
+        "summary": "DNV published research on UK solar sector reaching 160 GW by 2060 with emphasis on 'whole system thinking.' Positions DNV as trusted energy-systems advisor and reinforces their solar domain expertise.",
+        "suggestedAction": "Acknowledge DNV's research visibility—ask Scott DuBois whether this UK solar forecast work is generating new advisory mandates or utility-program inquiries that could run on Raptor Solar/Inspections. Low-lift: consider DNV case study or co-authored thought piece on digital twins in large-scale solar planning.",
+        "sourceName": "Solar Power Portal",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZVk0MUMyNWNpSTVpUkN0VGMtbXZRNHhfWXFSM3VGYmJxZEc0ZVVpWldWclJORnJMNXVSaVJUbl9uLXBFTXpyZ3ZtVnZpelZwMnVwTEEtTUM5WUl3bTlJN1VzVnZIT1NOS2JxUmkwMDdJaElOMmdNeUI5bkdVa1hockJSeElOdDF2SXNpejJKSGo5SHNBUmFTWmtQSXYwSGprY0pNVTZNa3ctWDFLYm1yOU1zR0hJTHpFcURLSzg4b0w?oc=5",
+        "publishedAt": "2026-03-06T08:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "company": "DNV",
+    "runAt": "2026-06-03T18:13:50.275Z",
+    "source": "backfill",
+    "headline": "DNV floating solar standards launch—technical authority expansion, no immediate platform growth",
+    "signals": [
+      {
+        "category": "Floating solar technical standards",
+        "updateType": "regulatory",
+        "play": "none",
+        "score": 0,
+        "summary": "DNV published new technical standards for floating photovoltaic (FPV) systems in May 2026, establishing safety and performance guidance for a growing market segment. This reinforces DNV's role as an independent technical authority on solar design and operations.",
+        "suggestedAction": "Monitor whether DNV's FPV standards work creates new due-diligence or engineering-assessment opportunities with utility or IPP customers deploying floating solar. Ask Scott DuBois whether any of DNV's current or prospective utility clients are evaluating FPV projects and might need independent engineering or performance verification—potential Raptor Solar + Inspections engagement.",
+        "sourceName": "PV Tech",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMnBrTHlUX3cxN0l2dDFWM0lRdl9sRjBXUlAwOEtpUVpCb1UybHpGT0VMMEFUUURWRUEwVlFneDA4WmdJZlNPZXlEdmlaY3l0ODJwd3pnTGV5TDN3ZkVpbHVjRzBZbTJreEVxdlpGYmIteDN5SUgzV2ZZNWJJdUI1dXF3?oc=5",
+        "publishedAt": "2026-05-14T07:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "company": "DNV",
     "runAt": "2026-07-03T17:19:29.929Z",
     "source": "backfill",
     "headline": "No relevant coverage in the backfill window",

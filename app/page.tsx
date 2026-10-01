@@ -36,7 +36,7 @@ export default function Home() {
   const industry30 = industry.filter((i) => Date.now() - new Date(i.publishedAt).getTime() <= 30 * DAY);
   const laneItems = withAffectedAccounts(rankIndustry(industry30), companies);
 
-  const withNews = key.filter((p) => p.recentSignals.length > 0).length;
+  const withNews = key.filter((p) => p.recentSignals.some((r) => Date.now() - new Date(r.at).getTime() <= 30 * DAY)).length;
   const atRisk = priorities.filter((p) => p.status === "risk").length;
   const upsell = key.reduce((n, p) => n + p.whitespaceMatches.length, 0);
   const actNow = industry30.filter((i) => i.relevance === 3).length;
@@ -59,7 +59,7 @@ export default function Home() {
           <p className="text-[11px] text-slate-400">Last agent run {relativeDays(lastRun ?? null)}</p>
         </div>
         <div className="grid grid-cols-2 lg:grid-cols-5 gap-3">
-          <StatTile label="Key accounts" value={String(key.length)} detail={`${withNews} with news in 90 days`} />
+          <StatTile label="Key accounts" value={String(key.length)} detail={`${withNews} with news in the last 30 days`} />
           <StatTile label="At risk" value={String(atRisk)} detail="recent risk signals outweigh upside" />
           <StatTile label="Industry signals (30d)" value={String(industry30.length)} detail={`${actNow} flagged act-this-week`} />
           <StatTile label="Upsell angles" value={String(upsell)} detail="market news on products they don't own" />

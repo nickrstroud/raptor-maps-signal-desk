@@ -1,6 +1,268 @@
 [
   {
     "company": "BayWa r.e.",
+    "runAt": "2025-11-05T18:13:50.275Z",
+    "source": "backfill",
+    "headline": "BayWa r.e. parent divesting Australian renewables; North American O&M business status unclear amid broader portfolio restructuring",
+    "signals": [
+      {
+        "category": "BayWa AG Australia divestment via Macquarie auction",
+        "updateType": "ma",
+        "play": "retention",
+        "score": -1,
+        "summary": "BayWa AG's parent company has appointed Macquarie Capital to conduct an auction of its Australian renewables business (Igneo and other assets). This is part of the broader BayWa AG financial restructuring that began in 2024 and extends through 2030. While the articles focus on Australia and are not specifically about BayWa r.e.'s North American O&M business, the aggressive portfolio liquidation signals continued divestment pressure across the group.",
+        "suggestedAction": "Reach out to Sean Bucher to understand whether the North American O&M business (BayWa r.e. Operations Services) is on the divestment radar or ringfenced. Ask whether there are budget or headcount changes planned in Q4/Q1 and whether a potential new owner review of vendor contracts is underway. Position Raptor Maps as a cost-per-MW driver that strengthens the business case for retention or sale.",
+        "sourceName": "AFR",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcWRZVl9pTzhxbmRDYU5ZOEhiQjlWV3B5alJEQkhmTGtFSVBueTdUbHVDRmlmV1lVTzQ3OGpvS01vNXRISjg2b0w3ZWJSYkNPUXREbThtMjVaV190N3BrMGlXZkdtVHotSUplUmJIeTByYTRDSnNtWmplTU5BQXpLUWxGX2RyMzRzdnFnVnNQVGhXalo1TVVQOEZTYmQyMHlTeEVnZVRTckxGWTRlY1VRV1ZZcw?oc=5",
+        "publishedAt": "2025-10-26T07:00:00.000Z"
+      },
+      {
+        "category": "Green CPPA execution (France/SNCF)",
+        "updateType": "expansion",
+        "play": "raptor_solar",
+        "score": 0,
+        "summary": "BayWa r.e. closed a green corporate power purchase agreement with SNCF Énergie in France, advised by Watson Farley & Williams. This indicates BayWa r.e. is still executing new contracts and managing assets in Europe (not North America O&M), but signals operational continuity and customer confidence despite parent restructuring.",
+        "suggestedAction": "Monitor whether this French CPPA asset is under BayWa r.e.'s operational or asset-management scope in Europe. If BayWa r.e. Europe or a parent team is managing this asset remotely, it may be a conversation starter to include it in Raptor Solar's footprint (currently focused on North America). For now, mark as awareness only—not an immediate NA expansion signal.",
+        "sourceName": "Watson Farley & Williams",
+        "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc2VCWGp3QlYwdTR3THVuMndMOXRyYml3SGE4SjZlemtWcWxNRkZFOGNMM2RiYmIwUm5BUEdzQzVGMjdQR1JqVDRzUG56ei1hdjRFQVBuc2hyR0xTVVJuYmNGcG5WWG5NQmI5NlhsQWF6RXplSG1NX0pPd1pqbUxmRGw2a2NiYWN0cnhXV1FreGVRZWxIUzQyNVI0VjdwX3hwdVJHWWptYmREMV8zN2xsVw?oc=5",
+        "publishedAt": "2025-10-15T07:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "company": "BayWa r.e.",
+    "runAt": "2025-12-05T18:13:50.275Z",
+    "source": "backfill",
+    "headline": "BayWa r.e. in active divestment phase: portfolio sales signal potential shrinkage of NA O&M base under restructuring",
+    "signals": [
+      {
+        "category": "UK Solar Site Divestment",
+        "updateType": "ma",
+        "play": "retention",
+        "score": -1,
+        "summary": "BayWa r.e. completed sale of two UK solar sites. While UK-focused, this is part of a broader portfolio rationalization pattern under the parent's financial restructuring.",
+        "suggestedAction": "Confirm with Sean Bucher whether the divested UK sites were on the Raptor Solar platform and whether any NA O&M sites are being considered for sale. Clarify the scope of the NA business under the turnaround plan and any expected impact to 1+ GW under management.",
+        "sourceName": "Solar Power Portal",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMTE3LS1Uakd6bElhSmVWVVhuYUhzRE1pM0o4WERwSW9BLUJ3cDB5cTB4TDV5WmVyaDlPUm5ZZ1NZaElZWFlBZDFRdXVUR1lNMm00QlBPcHlOWHItaWZVU1lOZTNjenNEeHc1MFl1YmZZalJhblFzTjVUMmFRSEtKOF9PcHBkeGFKTnV0d1IySWhRLThEcU5Za3pNcw?oc=5",
+        "publishedAt": "2025-12-04T08:00:00.000Z"
+      },
+      {
+        "category": "Parent Company Restructuring & Asset Sales",
+        "updateType": "distress",
+        "play": "retention",
+        "score": -2,
+        "summary": "Macquarie-led auction of BayWa AG and strategic sale process underway. Parent restructuring extended to 2030 with major shareholder stakes in trust, signaling potential forced divestment, consolidation, or change of control at BayWa r.e. that could impact NA O&M strategy, budget, and vendor partnerships.",
+        "suggestedAction": "Prepare a concise ROI summary (cost per MW managed, production recovered, uptime %) for BayWa r.e. Operations Services under the Raptor Maps partnership. Be ready to present to new ownership or management: highlight how Raptor Solar + Inspections reduce O&M cost per MW and support a ROCC model. Flag Sentry and Comply as upsell levers if new owner expands remote operations or utility services.",
+        "sourceName": "AFR",
+        "sourceLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM3MxUG1DTTQ2dlRrUUVVU2M3UU5qTkRTMHZrMTlOS3l0WUNOQzV2VEh6aTQ4cGEyejlpN25ybG1SN01hX3RPNDVRR3UwSzhnWS1hUmE3cURWWmdTOUcySmk0UENPc1R4WHFvbVVIeGFiRTBURXREdTJYTFlZX3ZzQlEtbnlZNTl1ZGlCNVZYOGZ0MS16cDhCUmstUFRlYm1QZWRNRVFtUWN2a2dV?oc=5",
+        "publishedAt": "2025-11-05T08:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "company": "BayWa r.e.",
+    "runAt": "2026-01-04T18:13:50.275Z",
+    "source": "backfill",
+    "headline": "BayWa r.e. capital raises $416M for US solar+storage growth while divesting non-core assets; rebranding signals ongoing transformation",
+    "signals": [
+      {
+        "category": "San Diego Solar+Storage Financing",
+        "updateType": "financing",
+        "play": "raptor_solar",
+        "score": 1,
+        "summary": "BayWa r.e. secured $416M for the JVR Energy Park solar+storage project in San Diego, operational Fall 2026. New projects at construction/COD stage are commissioning opportunities for RS Inspections and Raptor Solar platform onboarding.",
+        "suggestedAction": "Confirm with Sean Bucher: is the JVR Energy Park (assumed 100+ MW) being built in-house or for a third-party owner. If third-party, it could be an O&M contract win under BayWa r.e.'s management—offer a commissioning inspection plan (RS Inspections) and onboard to Raptor Solar for performance baseline. If in-house generation, same play applies.",
+        "sourceName": "PR Newswire",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaFZlSUF2dG92dU50UWQ0Ujl1U0ctTEdvdjhRYUpKY0N5QnlycjlHbjdFenhFcFMzei1mYkFDcWFBYVpIRnBJanBpeWdHMXc3UGQ0RHhpcGdzcWlDMmhJZlZhQ0t2S1FfRHg2VDh5TTNLNUZkaWNuMWJXMmw3TVFHbXFEemZoMG54b2hDQzhjNDlWRlJHdG5WR1B0WWR4MnZGakRlUnNMVW43WTdnY2FLTm9tb3ltenZfV3pNX0xjb3JkQU1DY0c1ZTZKOS1oa0RzNHhvWHVmeUVVeDgtYXc?oc=5",
+        "publishedAt": "2025-12-09T08:00:00.000Z"
+      },
+      {
+        "category": "Japan Platform Divestment",
+        "updateType": "ma",
+        "play": "retention",
+        "score": -1,
+        "summary": "BayWa r.e. sold its Japan solar platform to Virya Energy. Signals ongoing portfolio restructuring as parent company undergoes turnaround; watch for similar divestitures of non-core or lower-margin regional O&M businesses, including potential North America exit.",
+        "suggestedAction": "Monitor for announcements of divestment or spin-off of the North American O&M business. Reach out to Sean Bucher to understand the strategic direction of Operations Services and whether BayWa r.e. is more or less committed to North American O&M post-rebranding. Prepare ROI case study (MW under management, production recovered, cost per MW) to present to any potential new owner.",
+        "sourceName": "Mercom Capital Group",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc0hxa29jOWcxOXU3Z21jQ2dTR2szT24tU0VlcF9uMlB6cjllR3c5elZDamtfd2k0T1JyVm8ybjlMOUNWLWV6SVNPaHNMTS1tZ0VoRGhfTjQtNXV1blNMZ29QbDZpM1RMNDl4U29neHNQMG5QcHlxX0k2SmQ3WkFwSGNSMGk0NE96?oc=5",
+        "publishedAt": "2025-12-16T08:00:00.000Z"
+      },
+      {
+        "category": "Global Rebranding Initiative",
+        "updateType": "leadership",
+        "play": "none",
+        "score": 0,
+        "summary": "BayWa r.e. announced a global rebranding for 2026 as part of its transformation program. Typical of restructuring efforts; rebranding often accompanies leadership changes, strategic refocus, and vendor reviews.",
+        "suggestedAction": "Prepare for potential vendor review and re-introduction conversations with BayWa r.e. leadership post-rebranding (likely Q1 2026). Document and showcase ROI metrics (production gains, inspection costs saved, ROCC efficiency gains) to position Raptor Maps as critical to the new operating model.",
+        "sourceName": "Renewables Now",
+        "sourceLink": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWVhCd3dMaVBKYy1qRUQ0V3ktQXU4YnVRQWhEZkJpTnJBeTlMV1NaWGhteXpOaXg3TlB6Y2c2UVR0OTFBZ2M0amdWNkpfbjNubnNHYzBFWWR5ZzAwYzZ3RXNMa0VBekdIRHdNejRmdjRZc2hwcUhZRkxqT2szZjNqV2VvQQ?oc=5",
+        "publishedAt": "2025-12-26T08:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "company": "BayWa r.e.",
+    "runAt": "2026-02-03T18:13:50.275Z",
+    "source": "backfill",
+    "headline": "BayWa r.e. financial turnaround extends; parent's renewables unit deterioration signals budget and vendor-review risk for O&M operations",
+    "signals": [
+      {
+        "category": "Parent company financial distress and transformation extension",
+        "updateType": "distress",
+        "play": "retention",
+        "score": -1,
+        "summary": "BayWa AG's renewables unit deterioration and extended turnaround (to 2030) increase restructuring risk for BayWa r.e. Operations Services. Signals potential budget freezes, vendor consolidation reviews, and leadership churn at the North American O&M subsidiary.",
+        "suggestedAction": "Proactively schedule a check-in with Sean Bucher to understand any changes to 2026 capex plans for the ROCC and drone/inspection program. Offer a brief ROI summary (MW under management, cost per MW, hours/truck rolls saved through Raptor Solar and drone data) to prepare him for vendor reviews by incoming shareholders or turnaround management. Frame as partner support during restructuring, not a pitch.",
+        "sourceName": "Renewables Now",
+        "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUDhqVXdqWkRvYk5WX1gzLVcybFlfRE9TbWRtTjFOVWpfWDVGVmZrV1UzYTNxd25EejI0V1RLaktHc2VyY29pMGtDT09KUXhWb25yTlFTRWo1U2FHZDR4TFFJZ2IyaXdIQVJnYngxTUh5dk9jRHBwOU1OVUhUbTJTblJyc2J1VzBIWlFpZ3NqU1RrNzlfcjZmUDRBREM?oc=5",
+        "publishedAt": "2026-02-03T08:00:00.000Z"
+      },
+      {
+        "category": "Major shareholder restructuring and delayed capital event",
+        "updateType": "ma",
+        "play": "retention",
+        "score": -1,
+        "summary": "BayWa r.e. sale plan deteriorated sharply (€1.7B to €900M); largest shareholders placed 67.1% stake in trust and appointed turnaround-focused leadership. Indicates potential divestment of non-core assets, including North American O&M, and vendor reviews under new ownership.",
+        "suggestedAction": "Flag internally: monitor for announcements of new owner, divestment of North American O&M, or leadership changes (CFO, COO, VP Asset Management). Prepare a one-pager on Raptor Maps' role in BayWa r.e. Operations Services' competitive advantage (ROCC efficiency, drone-to-action workflow, digital twin for managed MW) to brief any incoming buyer or new COO.",
+        "sourceName": "AD HOC NEWS",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdW8yd2N2MDBiaXZGanpkSnMxclVTNUNkQWpCam9XZGlKVmktRFlra1ZIdE0tUzRGSmxrQVZELXpFNlVyc2JrWWZaSDNVWHRtRDg2dDNLVG44Mi1wRFhQRWtVU3BSSlQ1Qm1BRGdXN3BkM3RoSTJnNGJaZWp6QXdJb3JXeUt2UjFhaDF5VGFUa0FCQjhPMUZ5eTBKU1RVZ1NzZW42Z2hzNV8xVUo3MVdzUDgyenp1NG1WRVZzaHRhbDl6T2tjeWZMaU95SlgybE5z?oc=5",
+        "publishedAt": "2026-01-08T08:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "company": "BayWa r.e.",
+    "runAt": "2026-03-05T18:13:50.275Z",
+    "source": "backfill",
+    "headline": "BayWa AG turnaround deepens: renewables unit deterioration and asset sales signal restructuring pressure on BayWa r.e. O&M business",
+    "signals": [
+      {
+        "category": "Parent company financial distress and restructuring",
+        "updateType": "distress",
+        "play": "retention",
+        "score": -2,
+        "summary": "BayWa AG (parent of BayWa r.e.) warns of 'deteriorated situation' in renewables unit amid ongoing turnaround extending to 2030. Asset sales accelerating (German charging businesses divested with TotalEnergies) signal aggressive portfolio rationalization to shore up balance sheet. North American O&M business—Raptor Maps' key account—is under implicit divestment/restructuring risk.",
+        "suggestedAction": "Contact Sean Bucher (ROCC Director) this week to check: (1) Are there any updates on the timeline or scope of potential North American O&M divestment or ownership change? (2) Has budget authority or vendor-review decision shifted away from him? (3) Prepare a one-pager quantifying Raptor Solar + RS Inspections' documented ROI (cost per MW, production recovered, field efficiency gains) for potential new owners or restructuring advisors—this will be a selling tool if leadership changes.",
+        "sourceName": "Renewables Now",
+        "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUDhqVXdqWkRvYk5WX1gzLVcybFlfRE9TbWRtTjFOVWpfWDVGVmZrV1UzYTNxd25EejI0V1RLaktHc2VyY29pMGtDT09KUXhWb25yTlFTRWo1U2FHZDR4TFFJZ2IyaXdIQVJnYngxTUh5dk9jRHBwOU1OVUhUbTJTblJyc2J1VzBIWlFpZ3NqU1RrNzlfcjZmUDRBREM?oc=5",
+        "publishedAt": "2026-02-03T08:00:00.000Z"
+      },
+      {
+        "category": "Industry commentary on solar performance and storage economics",
+        "updateType": "brand",
+        "play": "none",
+        "score": 0,
+        "summary": "PV Tech article on co-located storage as overhyped solution for underperforming solar is industry commentary, not specific to BayWa r.e.'s operations or strategy. No direct account relevance.",
+        "suggestedAction": "No action required. Monitor for BayWa r.e.'s own public statements on storage strategy or underperformance issues at their managed portfolio.",
+        "sourceName": "PV Tech",
+        "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZDJrQ1dIc09wUTBRS2VEcTZZMEVuMWFjRnF4aTRVNnZVamI1a2laTEZNMDBJN3l6bFZ1QUk2UExJSHJsbjB2ZjBabmxtZjVfLTJBb1ltSk40eUEySUZ0MGh3WTlkU1MzWVFwODdYVkh6ZU9Wakw0OGxtaUhQa3RhbGxfd1F6dlFrUnNrRFdoajJLdkE?oc=5",
+        "publishedAt": "2026-02-26T08:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "company": "BayWa r.e.",
+    "runAt": "2026-04-04T18:13:50.275Z",
+    "source": "backfill",
+    "headline": "BayWa r.e. divesting European solar portfolios amid parent restructuring; North American O&M book at risk",
+    "signals": [
+      {
+        "category": "European Portfolio Divestment",
+        "updateType": "ma",
+        "play": "retention",
+        "score": -1,
+        "summary": "BayWa r.e. sold 14.2 MW C&I solar portfolio in Italy to NetOn Power and 63 MW solar project in Hampshire, UK to Capital Dynamics. These are non-strategic divestitures in Europe, signaling asset sales to shore up the parent company's balance sheet during its extended restructuring (now targeted through 2030).",
+        "suggestedAction": "Reach out to Sean Bucher proactively to confirm the status of the North American O&M business and managed MW. Ask whether the parent's restructuring and European divestitures will impact budgets or strategy for the US operations—specifically whether Raptor Solar and inspections investments are protected or under review. This is a retention moment.",
+        "sourceName": "Mercom Capital Group",
+        "sourceLink": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdURHdXJOSmFHTXVKYW8wbExyTmVOelNNT2VCRTJBc1lYLVFiZ25OS1ctdjR5bUNMWW81eDVxak9FMzhZaVhQNFFtZXNuUldxdzNzWENyN09rWlN4U0pfZHZHVkxJZXh3b3NEN0hHUnNPZWZISWFzNHBLQjVqTWlNbGlLMjM?oc=5",
+        "publishedAt": "2026-03-10T07:00:00.000Z"
+      },
+      {
+        "category": "Profit Guidance Cut",
+        "updateType": "distress",
+        "play": "retention",
+        "score": -1,
+        "summary": "BayWa r.e. reduced mid-term profit expectations, consistent with the parent company's ongoing financial restructuring and the failed EUR 1.7B sale (scaled back to EUR 900M in 2026 after US subsidy cuts).",
+        "suggestedAction": "Monitor for budget freeze notices or capex deferrals at Operations Services. Be prepared to pivot Raptor Maps value from expansion to cost/ROI: emphasize production recovery, reduced truck rolls (Sentry), and warranty evidence collection (Inspections) to justify continued spend under cost pressure.",
+        "sourceName": "Renewables Now",
+        "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSmRkc3BNdWFSc09YdGNhcllDTTB0NkZmTVJVRzYxaEhmMHM3dFN6YVc2QVJTUFA5MnQtNlVKM1NoV1ZPOGhmbmM4YVB1X21iRm5xY0lsYXlGeTBWblhhMHhFaTlraThFdVYybEtnanhqSkdrMUJaV1JXNlg4ZkVSVnFwXy0yX1lYYWZld09jcw?oc=5",
+        "publishedAt": "2026-03-11T07:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "company": "BayWa r.e.",
+    "runAt": "2026-06-03T18:13:50.275Z",
+    "source": "backfill",
+    "headline": "BayWa r.e. divests EPC unit and solar assets amid parent restructuring; O&M business expands into BESS in Germany but faces headwinds on shareholder value",
+    "signals": [
+      {
+        "category": "EPC unit divestment to Fervo",
+        "updateType": "ma",
+        "play": "retention",
+        "score": -1,
+        "summary": "Fervo acquired BayWa r.e. Power Solutions (solar EPC unit in Italy and elsewhere). This signals ongoing portfolio rationalization at BayWa r.e. as part of the parent's restructuring. While the O&M business (Operations Services, which runs the ROCC and manages 1+ GW in North America) is not directly mentioned as divested, EPC divestment shows BayWa AG is shedding non-core assets and may continue trimming the footprint.",
+        "suggestedAction": "Confirm with Sean Bucher that the North American O&M operations (the ROCC and 1+ GW managed fleet) remain in-house and are not part of any planned divestment; ask for clarity on whether the EPC sale triggers any changes to the O&M contract pipeline or internal priorities.",
+        "sourceName": "energynews.pro",
+        "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSGpFa0hJbDB5WXVrT0tkZ0t5ajU1MjZJQ3BtMlVxaUdmcGN5eG5fN3haSUlNUjhsckc1MEp4UWJyNU9LbkVPRFBwanlkbjVDNWlJZ3VhdktDVUlaYU5zSXluckFrQlZseGpCMUZqa0ZyallmMURzczA2aXRfYVFLVUpOWmtJa1pxUE1WQThSYlhhMWZsWDZ5NGh3Q2pnWEhzQ1dzSTludDc0Y0VqeWc?oc=5",
+        "publishedAt": "2026-05-06T07:00:00.000Z"
+      },
+      {
+        "category": "Triple solar farm disposal in progress",
+        "updateType": "ma",
+        "play": "retention",
+        "score": -1,
+        "summary": "BayWa r.e. is disposing of three solar farms, advised by Burges Salmon. These are generation assets (not necessarily O&M-managed), but continued divestment indicates capital constraints and potential shrinkage in the renewable portfolio under management. Risk: if any of these farms are currently on Raptor Solar or Inspections, they will be off-platform post-sale.",
+        "suggestedAction": "Ask whether any of the three solar farms being disposed are currently monitored on Raptor Solar or covered by RS Inspections; if so, initiate a smooth off-boarding and document the MWs and contract terms being lost to track churn.",
+        "sourceName": "Burges Salmon",
+        "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSEV1S0dGTFFxNTlIOVlTMGdlWVdWWnJFdVRsWm00NU5ocmwwTEpZVHF4YkdEQzcxRnVSQjRob2kxWG9TalpuTDJiN25CTHIwMVpTcnlmQUJ5LW0xR2JsNW1QUVJEWTZ5M1VEVVlCR0FyUW9DODMycjZSV3Z1ajNHbGU2U0lqZ3BMeGZlTE1iX0owWDVILWpF?oc=5",
+        "publishedAt": "2026-05-11T07:00:00.000Z"
+      },
+      {
+        "category": "BESS operations contract win in Germany",
+        "updateType": "expansion",
+        "play": "none",
+        "score": 0,
+        "summary": "BayWa r.e. secured an operations contract for Germany's largest battery storage system. This is a positive sign of O&M contract wins and capability expansion, and it reinforces their ROCC and asset management expertise. However, it is geographically outside North America (where Raptor Solar and Inspections are currently deployed) and applies to BESS, not solar—outside the current Raptor Maps footprint. No immediate expansion signal for Raptor Maps products, but worth monitoring as an indicator of healthy O&M pipeline and business momentum.",
+        "suggestedAction": "Monitor for any expansion of this German BESS contract to include remote monitoring or diagnostics; assess whether Raptor Maps can expand into battery storage analytics (future product whitespace) or if BayWa r.e. will adopt a different vendor for BESS operations.",
+        "sourceName": "renewableenergymagazine.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb050TXJfMGUzUzVEYmRvaFNXR3NMVW50RGFGWEhheVlLLWtWem5rcEFuWlo3N0dDTW1ibU0tZUxpcEhIMWlGWkdLaXJoWm4yQUFDVjFLVEtFRnJFdWdSSW9OdlhzWVJDNGlQSnlGb0FxZ3hnX2syMEE0MWNrTU94SDZUb0VYTTRQRDE0RWJNSlM5dDJQOVZXbktuNjlhd1U?oc=5",
+        "publishedAt": "2026-05-11T07:00:00.000Z"
+      },
+      {
+        "category": "BayWa AG shareholder value erosion and restructuring",
+        "updateType": "distress",
+        "play": "retention",
+        "score": -1,
+        "summary": "BayWa AG shares have fallen to fresh lows as investors lose confidence in the turnaround plan. Planned sale of BayWa r.e. collapsed from ~EUR 1.7B to ~EUR 900M, and restructuring is extended to 2030. New ownership or continued pressure to cut costs and prove ROI on all vendor relationships.",
+        "suggestedAction": "Proactively reach out to Sean Bucher to understand the internal budget outlook for 2H 2026 and 2027, and prepare a financial impact summary (cost per MW, production recovered, inspection efficiency gains) to support any vendor review or budget justification that a new owner or CFO might initiate.",
+        "sourceName": "AD HOC NEWS",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLUtZSl9sMnRaOGRrOWRjeVFZanVxZkx0eWk1aDVtUXFGRk5mY3otclZlODhwbGdGTnR3QVJYQ01aTUFZU2EtdzAxOVdpMHRwUkVUX1VfT2RLNk1JcmMxZV8zMHBudzFzX1pXVENsekpHaTRjWDh3ZFlCX2J3cVBmMHFCNHMxUWpybWNhcGh4TTdTVjRzbnFkMGJfY0pBb1dZd3RucVhqNmdxVzFmRUp0N09NaEhPSVg5VzNHaUpTY1AxV3E2aDgtSmloR2dybXJrbFR3VmRrMGpqM2pDc0E?oc=5",
+        "publishedAt": "2026-05-08T07:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "company": "BayWa r.e.",
+    "runAt": "2026-07-03T18:13:50.275Z",
+    "source": "backfill",
+    "headline": "BayWa AG restructuring deepens; r.e. subsidiary faces extended turnaround and potential divestment risk",
+    "signals": [
+      {
+        "category": "Parent company restructuring / asset value erosion",
+        "updateType": "distress",
+        "play": "retention",
+        "score": -2,
+        "summary": "BayWa AG's financial crisis is intensifying. The planned 2026 sale of BayWa r.e. collapsed from EUR 1.7B to EUR 900M after US subsidy cuts; major shareholders have placed their 67.1% stake in a trust; restructuring is now extended to 2030. Multiple recent articles (Jun–Jul 2026) document creditor negotiations, asset-value shrinkage, and shareholder disempowerment. This signals heightened risk of O&M subsidiary divestment, vendor reviews by new owners, and potential budget freezes.",
+        "suggestedAction": "Schedule a one-on-one with Sean Bucher (Director, ROCC and Engineering) to understand how the extended restructuring affects 2H 2026 and 2027 capex/opex budgets, vendor agreements, and team continuity. Clarify whether the North American O&M business is on the divestment radar, and if a new owner is likely, offer a proof-of-ROI summary (cost per MW managed, uptime gains, production recovered) to strengthen Raptor Maps' position in any vendor review.",
+        "sourceName": "TradingView",
+        "sourceLink": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOdVdrZjhNN3p6VlJiemZLakh6cFZBQU5xWThhYVZtUFJVdHNtZkoyVjNmWjdveWZQM2ZleGk1aTAtUDVXZlFZZld0TUs1OW5HVVBQcnJWck9ZN202Q3hLcFl4UHEtZzNuamlSZE1zcmpwREtjVExRTzlrYy00VkE2dTFHaDl3Y01kZl93YzJUa0dIdnhVczlQSk0yTnVodnZ4d2NidlREQjZReUFiT2J5ekJsVHNjMUtMdFRyNUJCZnVudjVzckcycEdOaVRNdkFaZXZBODhhSlVmTEwzbVpEa2JyMi1QUk0zTVI0U3VQcUJPeFhqZGVoS0x1aEYydGprbnlWR0JQVzloLVFwUzFCR01tUlY?oc=5",
+        "publishedAt": "2026-06-30T07:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "company": "BayWa r.e.",
     "runAt": "2026-08-02T17:23:26.285Z",
     "source": "backfill",
     "headline": "BayWa r.e. in extended restructuring through 2030; parent company financial stress poses renewal risk; no material operational changes to North American O&M business",

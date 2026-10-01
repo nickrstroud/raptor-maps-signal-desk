@@ -2,6 +2,7 @@ import { fetchNews, type NewsItem } from "./fetch-news.ts";
 import { analyzeCompany } from "./analyze.ts";
 import { runIndustry } from "./industry.ts";
 import type { CompanyAnalysis } from "../lib/types.ts";
+import { slugify } from "../lib/slug.ts";
 import {
   appendHistory,
   dedupe,
@@ -15,12 +16,17 @@ import {
   seenKey,
 } from "./common.ts";
 
-// Seeds ~3 months of history so the queue has depth on day one. Uses Google
-// News `after:`/`before:` windows (one Claude call per account-month that has
-// coverage). Accounts that already have backfill entries are skipped, so it's
-// safe to re-run after adding new accounts.
+// Seeds history so accounts have depth on day one. Uses Google News
+// `after:`/`before:` windows (one Claude call per account-month that has
+// coverage). Each account records how far back it's been backfilled
+// (state.backfilledFrom), so re-running with a larger --months only fetches the
+// older months still missing. Safe to re-run after adding new accounts.
 
-const MONTHS_BACK = 3;
+const monthsArg = process.argv.find((a) => a.startsWith("--months="));
+const MONTHS_BACK = monthsArg ? Number(monthsArg.split("=")[1]) : 12;
+const INDUSTRY_MONTHS = 3;
+// Accounts backfilled before coverage was tracked got the 3 most recent months.
+const LEGACY_BACKFILL_DAYS = 90;
 const CONCURRENCY = 3;
 
 function monthWindows(months: number) {
@@ -44,12 +50,21 @@ async function main() {
 
   if (!onlyIndustry) {
     await mapPool(companies, CONCURRENCY, async (company) => {
+      const slug = slugify(company.name);
       const existing = await loadHistory(company);
-      if (existing.some((r) => r.source === "backfill")) return;
+      const legacy = existing.some((r) => r.source === "backfill")
+        ? new Date(Date.now() - LEGACY_BACKFILL_DAYS * 86_400_000).toISOString()
+        : null;
+      const coveredFrom = state.accounts[slug]?.backfilledFrom ?? legacy;
+      // Only months that end before what's already covered (small slack for rounding).
+      const todo = coveredFrom
+        ? windows.filter((w) => w.end.getTime() <= new Date(coveredFrom).getTime() + 86_400_000)
+        : windows;
+      if (todo.length === 0) return;
 
       const entries: CompanyAnalysis[] = [];
       const links: string[] = [];
-      for (const w of windows) {
+      for (const w of todo) {
         let news: NewsItem[];
         try {
           news = dedupe(
@@ -73,18 +88,9 @@ async function main() {
         }
       }
 
-      // A marker entry, even when empty, so re-runs skip this account.
-      if (entries.length === 0) {
-        entries.push({
-          company: company.name,
-          runAt: windows[0].start.toISOString(),
-          source: "backfill",
-          headline: "No relevant coverage in the backfill window",
-          signals: [],
-        });
-      }
-      await appendHistory(company, entries);
+      if (entries.length > 0) await appendHistory(company, entries);
       markAccountSeen(state, company, links);
+      state.accounts[slug].backfilledFrom = todo[0].start.toISOString();
       const n = entries.reduce((s, e) => s + e.signals.length, 0);
       console.log(`${company.name}: ${n} historical signal(s)`);
     });
@@ -92,7 +98,7 @@ async function main() {
   }
 
   if (process.argv.includes("--accounts-only")) return;
-  await runIndustry({ feedPages: 8, topicWindow: `${MONTHS_BACK * 30}d`, fedRegDaysBack: MONTHS_BACK * 30 });
+  await runIndustry({ feedPages: 8, topicWindow: `${INDUSTRY_MONTHS * 30}d`, fedRegDaysBack: INDUSTRY_MONTHS * 30 });
 }
 
 main();

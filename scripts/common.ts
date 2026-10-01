@@ -47,6 +47,7 @@ export function markAccountSeen(state: PipelineState, company: Company, links: s
   const slug = slugify(company.name);
   const prev = state.accounts[slug]?.seenLinks ?? [];
   state.accounts[slug] = {
+    ...state.accounts[slug],
     lastCheckedAt: new Date().toISOString(),
     seenLinks: [...new Set([...prev, ...links])].slice(-MAX_SEEN_PER_ACCOUNT),
   };

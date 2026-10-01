@@ -1,6 +1,44 @@
 [
   {
     "company": "Madison Energy Infrastructure",
+    "runAt": "2025-11-05T18:13:50.275Z",
+    "source": "backfill",
+    "headline": "Madison Energy Infrastructure acquires NextEra's US DG platform; ~300 MW expansion opportunity for Raptor Solar onboarding and baseline inspections",
+    "signals": [
+      {
+        "category": "NextEra DG platform acquisition",
+        "updateType": "expansion",
+        "play": "raptor_solar",
+        "score": 2,
+        "summary": "Madison Energy Infrastructure acquired NextEra Energy Resources' US distributed generation development platform. This is a material portfolio expansion for a 1 GW C&I owner-operator, bringing new MW under management and requiring full onboarding to Raptor Solar as the system of record, plus baseline RS Inspections across the new assets.",
+        "suggestedAction": "Contact Matthew Messer (VP Asset Management) this week to confirm the acquisition scope (MW count, number of sites, geographic distribution, asset age/condition). Propose a two-phase onboarding: (1) backfill historical SCADA and maintenance data into Raptor Solar for anomaly baselining, then (2) full-fleet baseline inspection plan. Reference Project Slingshot success (3 MW recovery in 3 weeks) to establish credibility with the new assets.",
+        "sourceName": "Renewables Now",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWk1aRDJncG16R05Qa19UanhGdnpDVERxaWpBdFlSdkJ1cjd2NlIyakpnOXBoTjV5aGp2WW13MjVkZFF6TzAyMm5BMnFqZ2xDLWJoTTBrdlk3cXhnNTNzLUdSblZzajZQNVJ0NV94aEptVktBcFF1dW1GcGNDMjZDZTRMeVlYZWh2a25vRjhFVGduVHpwa3NDX0ZVRnVaeFhqamJpQk5PUkgwZmc?oc=5",
+        "publishedAt": "2025-10-06T07:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "company": "Madison Energy Infrastructure",
+    "runAt": "2026-06-03T18:13:50.275Z",
+    "source": "backfill",
+    "headline": "Madison Energy Infrastructure completes largest Fairfax County solar project at I-95 Landfill; baseline inspection and Raptor Solar onboarding opportunity",
+    "signals": [
+      {
+        "category": "I-95 Landfill project completion",
+        "updateType": "expansion",
+        "play": "raptor_solar",
+        "score": 1,
+        "summary": "Madison Energy Infrastructure has completed construction on the largest solar project in Fairfax County history at the I-95 Landfill Complex. This represents either a new asset acquisition or a development reaching commercial operation—a material expansion event for a C&I owner-operator with 1 GW across 800 sites. Project size and site location (Fairfax County, Virginia) unknown from headline, but landfill-top solar projects typically range 5–50 MW depending on available space. If material to their portfolio, this is both a Raptor Solar onboarding trigger (baseline digital twin, SCADA integration, production analytics) and an RS Inspections commissioning QA play.",
+        "suggestedAction": "Reach out to Matthew Messer (VP Asset Management) to confirm: (1) project size in MW, (2) commissioning status and expected COD, (3) number of sites (often landfill projects are single-site but multi-block), and (4) whether initial baseline inspection and Raptor Solar onboarding is planned for Q2 or Q3. If not yet scanned, offer a rapid commissioning inspection package to validate DC/AC systems and catch any construction defects before handoff to operations.",
+        "sourceName": "Fairfax County (.gov)",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdlNRSUtLZ1h4Z3YxOGhPUldVeElEUE8tU1NVcTJrQWZqYXNNV1VVX0pMd3ZCZmR0b2hXTWF3SzBjRllOeUlIdEQ2Tnl2UVRfS3liLWphSF83aEhndTI4ZVdqLVFPd0pyZ19Mc0tTTHFSVklYLXlPN0w3Q1dHQlVEV2RNWHU3WVRLRHpSY3E4OTRZdWNyRlc4eG1rUQ?oc=5",
+        "publishedAt": "2026-05-21T07:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "company": "Madison Energy Infrastructure",
     "runAt": "2026-10-01T17:04:50.033Z",
     "source": "backfill",
     "headline": "Madison Energy launches 1 GW Community Infrastructure Initiative for AI data center power; major fleet expansion opportunity for Raptor Solar + baseline inspections across new sites",

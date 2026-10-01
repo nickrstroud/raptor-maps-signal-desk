@@ -54,7 +54,7 @@ export interface IndustrySignal {
 // Pipeline bookkeeping — what's already been sent to Claude, so daily runs
 // only pay for genuinely new articles.
 export interface PipelineState {
-  accounts: Record<string, { lastCheckedAt: string; seenLinks: string[] }>;
+  accounts: Record<string, { lastCheckedAt: string; seenLinks: string[]; backfilledFrom?: string }>;
   industrySeenLinks: string[];
   lastIndustryRunAt?: string;
 }

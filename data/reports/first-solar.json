@@ -1,6 +1,167 @@
 [
   {
     "company": "First Solar",
+    "runAt": "2025-11-05T18:13:50.275Z",
+    "source": "backfill",
+    "headline": "First Solar expanding US manufacturing capacity (+3.7 GW fifth factory) amid policy/trade tailwinds; workplace safety incident requires attention",
+    "signals": [
+      {
+        "category": "New 3.7 GW US manufacturing plant",
+        "updateType": "expansion",
+        "play": "raptor_solar",
+        "score": 1,
+        "summary": "First Solar announced opening its fifth US factory with 3.7 GW annual production capacity in 2026, driven by trade/tariff policy tailwinds and increased domestic demand. This represents significant capacity growth and reinforces First Solar's strategic position as the leading US thin-film manufacturer.",
+        "suggestedAction": "Reach out to First Solar's VP Field Quality or VP Reliability Engineering to discuss how RS Inspections (especially thin-film-specific crack detection) can support quality assurance and warranty analytics across their expanding manufacturing footprint and the larger installed base of First Solar modules across US utility-scale plants. Frame as a co-marketing opportunity: every new First Solar module shipped increases the addressable market for field inspections at their downstream customers.",
+        "sourceName": "PV Tech",
+        "sourceLink": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObEpyN2haSmFZTUV5WUVmN0t1Y09Da1hyeG50ZjBsSEhJXzU3amVja1licDBKRFhib3plMWxVVzZCTXlnZEdhWVBlSFI3eDBnWDRMZUZvblR5cXJzVFhMcjhaeHVZY1QwalZla1c2SWNxU3VrYnB2dEJqRkdYcVNzTGtMUDVsOU5PdjdnU0FR?oc=5",
+        "publishedAt": "2025-10-31T07:00:00.000Z"
+      },
+      {
+        "category": "Manufacturing facility workplace fatality",
+        "updateType": "incident",
+        "play": "none",
+        "score": -1,
+        "summary": "First Solar employee fatally crushed by hydraulic press at Perrysburg Township manufacturing facility in October 2025. Safety incident at manufacturing operations.",
+        "suggestedAction": "Monitor for any operational disruptions or quality-control changes at First Solar's manufacturing plants. If quality or production delays emerge, proactively reach out to confirm RS Inspections coverage for warranty tracking and module-defect trending across their customer base remains in place. No immediate outreach needed unless relationship sponsor surfaces concerns.",
+        "sourceName": "WTVG",
+        "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORjJLYTItQUxQV3MwOHA4SXowVHgzLXRCMV96NkdVcnhIbDJFYnlrQm04NzVpVkRzTlNSQW4tcFZtVzlsd2c1ZDBpa1J0N3d6VmgxU0JFb1dnU0l4VlFqNXZEQ093bG1CTTRlVzNKeGctc3ZjeGJrNnFhdkUzX3lkZTZJbTNPQ3PSAZsBQVVfeXFMUDZPaG1XNkc2dFM2bHdYRGtXSW9EQ09XS1hPaGg1cXE2b1VzYWRocnZPY0xRRThtQlRQa3NFWDRiTExHN1NpVC02aTZhZzRJN2NlUEtIOHdfV0I1NVRmaUFyeVFiLVN3RzNCaGhtYm5WbWNsUDkxNHJ2QmtzOEgxWlVFN2ZFWDdObl9uTFRwRWNpQTcxMXF4VFJpWG8?oc=5",
+        "publishedAt": "2025-10-13T07:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "company": "First Solar",
+    "runAt": "2025-12-05T18:13:50.275Z",
+    "source": "backfill",
+    "headline": "First Solar inaugurates $1.1B Louisiana plant and commits to new 3.7GW South Carolina facility—major US capacity expansion signals strong domestic manufacturing momentum",
+    "signals": [
+      {
+        "category": "Louisiana Manufacturing Plant Inauguration",
+        "updateType": "expansion",
+        "play": "none",
+        "score": 1,
+        "summary": "First Solar inaugurated a $1.1B AI-enabled assembly facility in Louisiana (operational), signaling confidence in US thin-film manufacturing and domestic market demand. This expands the total installed base of First Solar modules eligible for Raptor inspection standards and co-marketing.",
+        "suggestedAction": "Reach out to First Solar's Supply Chain or Field Quality leadership to discuss how Raptor's thin-film ML detection standards could be positioned to their utility-scale customer base as a quality assurance and warranty-claim-evidence tool during the ramp of Louisiana production. Monitor module quality KPIs from this facility.",
+        "sourceName": "Louisiana Economic Development - LED (.gov)",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNTAxd0tNeVFVajYwMXo4RmtyeVFzNDJEOVd5MWk4eFZpVF9oUXppQUduT2N6MzJmOUNMYlpxaDJEVHM2VTVrM3RROTJQN05kMWN3bzZySHlDQ0VVX19lWjFhOWpQbkwxaThEeXRkUWlyWDFMNG1NTlZiMnVqRC1odVp5dVNVZlNMQU9ZdlBBZG1rSnNKRmVZU2FrS01qZjNTRHJDbXBOb0NCUFhOdkZnYk1yX2RvQWcyNHV5ZEF4RmpCcFU?oc=5",
+        "publishedAt": "2025-11-21T08:00:00.000Z"
+      },
+      {
+        "category": "South Carolina 3.7GW New Facility Commitment",
+        "updateType": "expansion",
+        "play": "raptor_solar",
+        "score": 1,
+        "summary": "First Solar committed $330M to build a new 3.7GW module manufacturing facility in Gaffney, South Carolina, with construction underway. Significant capacity addition underscores growth in First Solar's addressable market and installed base on utility-scale projects.",
+        "suggestedAction": "Schedule a call with First Solar's VP Field Quality or Warranty Engineering to discuss how Raptor Solar (performance intelligence + field-quality analytics) can help monitor and reduce warranty claims across their expanding installed base of modules, especially as new production ramps. Position this as a co-marketing opportunity: joint inspection standards for the new South Carolina product line, and baseline Raptor Solar onboarding for their major utility-scale customers.",
+        "sourceName": "PV Tech",
+        "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMFptemVnLWY2eDJXM3BPNTYxQ0dEWUFHaXFtZVRMWjN3OGZTSk5pV2hheFk1YURSX1NMcU1KTkcyQ1B0cHFidEJqbnplTUw5LV9TcGlZMTdfMzM4YmxjQlF2SDJfWjJnQzNZNzR5VVhCNGRjUkduUWhHdVpWb2JzaTJDbnFHOHEwWTdtMFl3QVp4MjQ?oc=5",
+        "publishedAt": "2025-11-17T08:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "company": "First Solar",
+    "runAt": "2026-03-05T18:13:50.275Z",
+    "source": "backfill",
+    "headline": "First Solar pursuing next-gen perovskite technology and domestic manufacturing expansion amid permitting headwinds",
+    "signals": [
+      {
+        "category": "Perovskite Patent Licensing",
+        "updateType": "technology",
+        "play": "none",
+        "score": 0,
+        "summary": "First Solar inked a US perovskite patent licensing deal with Oxford PV, signaling R&D momentum toward tandem-cell technology. This is a long-term capability play, not an immediate product shift.",
+        "suggestedAction": "Monitor First Solar's perovskite roadmap and timeline to market. When they move perovskite production closer to commercialization, revisit whether field-quality inspection workflows (especially aerial crack detection and thermal analysis) will need module-type-specific calibration—a future RS Inspections expansion opportunity.",
+        "sourceName": "PV Tech",
+        "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOHA1VjV5UVJsS3NiZmlINUtjdElqZTNXYlVFaXVPZGNhV0tkU1I5T0dCZVdTR0o5Wl8xWlFlLUNpRVlJNWVSaEVPMHVPWlJLSEpSZ1A1M1l6cjVrcWFiVXdUS0wwYnZDQ3Z4NVE0ekJmV2xVakJ6SlBHS3k2RmJVWGdrZXNrVXBhZXJzVFlxZw?oc=5",
+        "publishedAt": "2026-02-25T08:00:00.000Z"
+      },
+      {
+        "category": "Permitting/Regulatory Headwinds",
+        "updateType": "policy",
+        "play": "retention",
+        "score": -1,
+        "summary": "First Solar's Q1 2026 outlook disappointed partly due to Trump-era permitting delays affecting downstream utility-scale solar projects. This indirectly pressures their OEM customer base (utility-scale owners already on RS Inspections) who may defer or stretch capex.",
+        "suggestedAction": "Check in with First Solar's supply/business-development team to understand which customer projects are being delayed. Offer a retention touch with their OEM customers—emphasize how RS Inspections now optimizes existing fleet performance and warranty ROI during slower deployment cycles.",
+        "sourceName": "Reuters",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLW5Kc0w1U1RJUkFvTEF5M3U4cHFnVjZ3Nlp5eDBVbGNYRjg3OWZ6dng0b1RZWG5ZZlFwV1UzN1pva3dpOXF4VXhpUDM0eEZ6dTlfMjRxMFA2cTRWRWpySEN2Z09yTlh2NWlSWUw5QXNzNnZXS3g1TkFfWGtBdkV5cFRpS2t6dFNqYndzQzV1TlVrS3RzVUh2QWdRbVpmVjBWSkhNV216YzRBbDU4OTJkT3lERXdSVUVWUjB3?oc=5",
+        "publishedAt": "2026-02-24T08:00:00.000Z"
+      },
+      {
+        "category": "US Manufacturing Expansion",
+        "updateType": "expansion",
+        "play": "raptor_solar",
+        "score": 1,
+        "summary": "First Solar is expanding US manufacturing capacity ('Glass Capital of the World'), projecting ~40,000 American jobs and $7.8B GDP contribution by 2027. This signals rising domestic thin-film volume and a larger installed base of First Solar modules in US utility-scale plants.",
+        "suggestedAction": "Coordinate with First Solar's field-quality and reliability teams on the new factory ramp. Frame Raptor Solar as a tool to monitor field performance, warranty trends, and production-batch quality across their growing US customer base—position it as co-marketing leverage to their OEM customers and a data-driven moat against imported competition.",
+        "sourceName": "JobsOhio",
+        "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeUlfcFp6NXhPSERmY0w3c0RfcWU1WVBsWUlYQ3NYQW95SFJ3WTNIRzZEajNGSEpaN0NxdUxvUGl3allQRmNJdTdaYlBvZGpaWm1JakpiTVU3T2s5d09NTEZSeVgxUl91UHBFa1dMbUhIREt3T01vSFhGM2ZSM0VUMGd6MThpX2pKWlVGLTh0UmtmWW5Fa21FMUZySXM?oc=5",
+        "publishedAt": "2026-02-25T08:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "company": "First Solar",
+    "runAt": "2026-04-04T18:13:50.275Z",
+    "source": "backfill",
+    "headline": "First Solar facing market headwinds and IP challenges; single-threaded relationship at risk without identified champion",
+    "signals": [
+      {
+        "category": "US solar market contraction post-Trump tariffs",
+        "updateType": "policy",
+        "play": "none",
+        "score": -1,
+        "summary": "US solar installations down in 2025 following Trump administration policy shifts, pressuring First Solar's domestic demand outlook and OEM customer volumes.",
+        "suggestedAction": "Schedule a check-in with First Solar's field quality and warranty leadership to understand how installation slowdown is affecting their warranty claim volumes and fleet inspection priorities—this could shift inspection frequency and Raptor Solar expansion timing.",
+        "sourceName": "Reuters",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNEsyd3pzaGdxYmliV21XcnFYZmdJdmNkRkI1UUNwc2lEb3hpOUdNTTVkRW1YNkVNQ0VYeHhIWFdzdlZpQnlhd1U0dHAzRW9YaE9hZFNUc1dZUDRrS2kxNTBSUm9IRTRiYTVlRGNDb2Z2eE9xY3Nsd3FpR2dnOTk5S05sSF9qeDJOVW5KOUYzYXB0RXUxVEtIeXhfQzdmeWZiRkFUXzRVdHExTHJXRUszVDZCVzBSelBudW1VSldVVVprYmhOb1J4NWtfWTVnMTlkMjhrUjQ5Z0FsSlk?oc=5",
+        "publishedAt": "2026-03-10T07:00:00.000Z"
+      },
+      {
+        "category": "ITC patent litigation (TOPCon supply chain case)",
+        "updateType": "regulatory",
+        "play": "none",
+        "score": 0,
+        "summary": "US ITC opens investigation into First Solar patents in TOPCon supply chain, creating legal and competitive uncertainty around their technology position and module differentiation.",
+        "suggestedAction": "Monitor the outcome, but no immediate action. If First Solar's patent position weakens, their bargaining power with OEM customers shrinks, potentially delaying joint co-marketing deals with Raptor Maps.",
+        "sourceName": "PV Tech",
+        "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdi1aQ3NnV3NMUW84clgwSC0tXy1adlBRUTZzbldiRWo5Y2tRMlhKTlVzd2pRQWxnOVIzeHJRb0pSdFBvY1FqZy1TbF9TTTZHVGxWLWd6bmtvM0VRTGtMb1BudUZkaGxVY2ZDamUtM0s0TDRfZS1PNWFoT3I3cjdaY0dvZnp6X0Y3a1hlN1N1ZUU?oc=5",
+        "publishedAt": "2026-03-27T07:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "company": "First Solar",
+    "runAt": "2026-06-03T18:13:50.275Z",
+    "source": "backfill",
+    "headline": "First Solar expands India footprint with GameChange partnership; US manufacturing capacity and trade-policy tailwinds support domestic installed base growth",
+    "signals": [
+      {
+        "category": "India manufacturing & supply partnership",
+        "updateType": "expansion",
+        "play": "raptor_solar",
+        "score": 1,
+        "summary": "First Solar and GameChange Solar partnered to deploy India-made thin-film modules, signaling expansion of First Solar's supply reach into India's utility-scale market. This increases total addressable installed base for First Solar modules globally.",
+        "suggestedAction": "Confirm with First Solar's field quality or warranty leadership whether the India-manufactured modules use the same thin-film specifications as US-made Series 7 and whether they expect Raptor Maps RS Inspections to be adopted by GameChange Solar customers in India. Position Raptor Solar as a fleet-analytics tool for GameChange's growing portfolio.",
+        "sourceName": "PR Newswire",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPZ3h6NWpMZWtwVDcyS2dmQVdkRGpDVmtPRDFUQU5FTGlFbDBoSW1DalA4YnQ1SkhvSUktUk4wZnZhVDY2MUVUM1QyRUxmWV9jcEFnZGRBeFhVM0dqbWV2Q1hnMmZPWkhvLTl2QklrUVZZSUhTMl9uejBMREo5aU84aVpLSkY2Y243WUpzeF90Q3BaZkdIRTdVOGU5Sm9aMVJtWjQ4LXEzSmFtaGhVeXVjWUdPTWFDX1c2ejhlZFR6UWJoWDNsQ0kzajcwZ2VNU0RLd2s0ZGp2ZVVfWEg2c2loOGFrREhKbnI2dmhnSkFibTZMSXdjczZObmVmTUVEbko3X3c?oc=5",
+        "publishedAt": "2026-05-19T07:00:00.000Z"
+      },
+      {
+        "category": "US domestic manufacturing & capacity growth",
+        "updateType": "policy",
+        "play": "raptor_solar",
+        "score": 1,
+        "summary": "Lawmakers touring First Solar's Perrysburg, Ohio facility and record sales driven by favorable US trade policy (45X IRA credits, Section 232 tariffs) indicate sustained domestic manufacturing expansion and strong US utility-scale demand.",
+        "suggestedAction": "Ask First Solar's VP of Sales or Field Quality whether new domestic module capacity will flow to specific large utility-scale owners, and propose a co-marketing or joint pilot with one anchor customer to showcase RS Inspections + thin-film-specific detection on their new deployments.",
+        "sourceName": "WTVG",
+        "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNXBvRjFQR1VUV2J6SVhtdEZMQXQxN05FZ25nZF81WGo2aVNMM1dUMTQxVjRQX2NjZXJuTWRFMTFWYVZsalBpQlNxb3cwLU9jbmtUOUJsdU5HRFhCdV9jS0NMaVoyeUNlSV8wdzA1UGQwMHlNWU9RaXA5ZXUtRnd5ZTlONHRlZmw5TDBXLS1INGY?oc=5",
+        "publishedAt": "2026-05-09T07:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "company": "First Solar",
     "runAt": "2026-08-02T17:26:36.084Z",
     "source": "backfill",
     "headline": "First Solar Q2 2026: contract cancellations and revenue miss signal demand headwinds; monitor warranty/quality impact on Raptor Maps installed base",

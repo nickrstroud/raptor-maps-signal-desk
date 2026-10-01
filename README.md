@@ -39,8 +39,8 @@ contract values are shown.
    Tech, Utility Dive, Canary Media, the Federal Register (DOE, IRS, FERC, FAA, ITA), and
    Google News topic searches. Claude keeps in-scope items, rates relevance 1–3, and tags
    affected solutions. Named-account mentions are verified in code against the article text.
-4. **Ranking** (`lib/priority.ts`): signal weight × 30-day half-life decay × learned type
-   weight, plus industry items naming the account or touching a solution it owns (capped).
+4. **Ranking** (`lib/priority.ts`): recency-first. Only the last 90 days count: signal weight
+   × 30-day half-life decay × learned type weight, plus industry items naming the account or touching a solution it owns (capped).
 5. **Schedule**: a GitHub Action runs daily and commits `data/` back to the repo; Vercel
    redeploys the static Next.js site on each commit.
 
@@ -72,7 +72,7 @@ renewal flag.
 bun install
 cp .env.local.example .env.local      # add ANTHROPIC_API_KEY
 bun run enrich      # fill in missing newsQuery values
-bun run backfill    # ~3 months of account + industry history
+bun run backfill    # 12 months of account history (--months=N), 3 months of industry
 bun run run         # one daily run
 bun --bun next dev  # preview locally
 ```

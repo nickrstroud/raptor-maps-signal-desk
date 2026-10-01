@@ -1,6 +1,25 @@
 [
   {
     "company": "ACT Power Services",
+    "runAt": "2026-05-04T18:13:50.275Z",
+    "source": "backfill",
+    "headline": "ACT Power Services emerges from Chapter 11 under BridgePeak ownership; Kyle Cooper (CEO, Raptor Maps champion) reappointed; platform coverage risk on 6 GW added since 2023 deal, but strong sponsor position to secure.",
+    "signals": [
+      {
+        "category": "Ownership transition & champion retention",
+        "updateType": "ma",
+        "play": "retention",
+        "score": 1,
+        "summary": "ACT Power Services emerged from Chapter 11 bankruptcy on Jan 31, 2026 (announced Apr 14-16), acquired by BridgePeak Energy Capital-led investor group. Kyle Cooper, cofounder and prior CEO who signed the Feb 2023 exclusive Raptor Maps partnership, was reappointed as CEO. Max Isaacs (ex-Chief Safety Officer) joined as COO. New ownership typically triggers vendor reviews, but Kyle Cooper's reappointment as CEO—and his prior decision to make Raptor Maps the exclusive analytics provider—is a strong anchor. However, the 2023 deal is ~3.5 years old and likely near renewal; the bankruptcy may have disrupted contract assumptions and created pre-petition receivables risk.",
+        "suggestedAction": "Urgently schedule a contract-review call with Kyle Cooper and Rebecca Cooper (CLO/GC, also returning). Confirm: (1) whether the Feb 2023 Raptor Maps exclusive partnership agreement was assumed through bankruptcy or requires amendment under new ownership; (2) any pre-petition receivables outstanding; (3) whether exclusivity and pricing terms remain unchanged; (4) whether the ~6 GW ACT added since 2023 (now at 9+ GWdc total, vs. 3 GW in original deal) is already onboarded or pending. Frame as 'ensuring continuity and expanding platform coverage to the full 9 GW footprint.' Bring deal and technical summary to the call; prepare a 2026-27 scope and renewal roadmap.",
+        "sourceName": "Business Wire",
+        "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWxvZU4yTUpJSi16TWh2M2dZVEpHRW5WN25NTUlkVDFpdHVubFZianBhRld4WWNGRW1vQTJIcWdQQ0REMjZuS3FHZm9mY0YwdVQ4NzdQdnVNSnByUTBCS196aUxpQVJIa0N1MjBnemZVSUo3ZXBtN0NRQXlxa2VkWVdQdjVZRWdtMWRiYnVDZ3pQSWtzOENUNVBoRVJhZGc?oc=5",
+        "publishedAt": "2026-04-14T07:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "company": "ACT Power Services",
     "runAt": "2026-07-03T17:42:51.580Z",
     "source": "backfill",
     "headline": "No relevant coverage in the backfill window",

@@ -1,6 +1,74 @@
 [
   {
     "company": "Luminace",
+    "runAt": "2025-12-05T18:13:50.275Z",
+    "source": "backfill",
+    "headline": "Temasek ownership stake completed; Luminace now jointly controlled — confirm contracting entity and vendor-review status",
+    "signals": [
+      {
+        "category": "Ownership consolidation — Temasek stake completed",
+        "updateType": "ma",
+        "play": "retention",
+        "score": 0,
+        "summary": "EU clearance on Temasek's 50% acquisition of Brookfield's North American distributed energy platform (including Luminace) was finalized in October 2025. Luminace is now jointly controlled by Brookfield Super-Core Infrastructure Partners and Temasek. Luminace was simultaneously split into an operating company (managing existing assets) and a separate development company. This completes a major ownership transition that began in late 2025.",
+        "suggestedAction": "Confirm the current contracting entity for Raptor Maps services (operating company or Luminace parent). Request a call with their finance and procurement leads at both Temasek and Brookfield to understand any vendor-review or cost-optimization initiatives post-deal. Highlight the operational efficiencies Raptor Maps (Instant Inspections + Raptor Solar) delivers: 99% faster inspections reduce truck rolls and fire-risk exposure across their 1,700+ distributed sites. Position this as a strategic retention conversation, not a pitch.",
+        "sourceName": "realassets.ipe.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbVJvQ3BtZkoyMV83WVBwM1UtN2VTNjNKMjRteDhBcGw1bEhDVXpGbUo3cjhsbGhlaWYwa0xyTkRqY0JzSkdFQVB2Y2lyVzhYWmxobEtsR3V6RUJHdXBKZ3ZUS3VPYjRnTE1DMERsS1IwbkxqMGtmTEMxbmt1azYtYWpZS082NVIzOVRCczBkRDlvRnZwaHFkYVJFcXIyWnVzOXNBenc5QnlQSXFhbXVneFN5M3g1R2VBQjJRbHdYaXFvUQ?oc=5",
+        "publishedAt": "2025-11-21T08:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "company": "Luminace",
+    "runAt": "2026-02-03T18:13:50.275Z",
+    "source": "backfill",
+    "headline": "Luminace expands community solar footprint by ~9 MW via Renewable Properties acquisition; Raptor Solar/Inspections coverage opportunity on new sites",
+    "signals": [
+      {
+        "category": "Community solar portfolio acquisition",
+        "updateType": "expansion",
+        "play": "raptor_solar",
+        "score": 1,
+        "summary": "Luminace acquired Renewable Properties' 9.3 MW Illinois community solar portfolio, adding new distributed sites to its existing 500+ customer base and 1,700+ site network. Consistent with their strategy of scaling decarbonization-as-a-service across geographies and asset types (rooftop, carport, ground-mount).",
+        "suggestedAction": "Contact Elizabeth Brennan (COO) or her direct report in Asset Management to understand: (1) the site count and commissioning timeline for the Renewable Properties 9.3 MW; (2) whether these sites are already onboarded to Raptor Solar; (3) baseline inspection coverage plan for the new portfolio. Offer to accelerate Instant Inspections deployment across these new sites to establish thermal anomaly baselines and validate performance in their first operating season.",
+        "sourceName": "POWER Magazine",
+        "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN1ptUXBVWUFSRHdLWjdvLTduWTdQMFdELWNQRkx5Vmx5bFliNjJSbTlPajJYT1B4cnNJVUo2OFpKNDVQcmZlWnZjX0VPdUh5R0NXQ1FXOVVTY01lbm9wZzZRSDZ6WXdKcWJUNnFKUEU0V1YxeWYyVUNxR2pCY3k1UWQ2dnFoUE5oY3U3SDhsU1E2aGFrZ3Zr?oc=5",
+        "publishedAt": "2026-01-28T08:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "company": "Luminace",
+    "runAt": "2026-03-05T18:13:50.275Z",
+    "source": "backfill",
+    "headline": "Luminace completes Rhode Island landfill solar project; Temasek ownership transition underway — routine growth with vendor-review risk",
+    "signals": [
+      {
+        "category": "Rhode Island landfill solar COD",
+        "updateType": "expansion",
+        "play": "raptor_solar",
+        "score": 1,
+        "summary": "Luminace completed a 5.74 MW solar project on a capped Rhode Island landfill in partnership with Ameresco. This represents new generation capacity coming online and adds to Luminace's distributed portfolio.",
+        "suggestedAction": "Confirm whether the Rhode Island landfill site is now live on Raptor Solar; if not yet onboarded, offer baseline RS Inspections to validate thermal performance and establish baseline metrics for the new ground-mount installation.",
+        "sourceName": "Solar Power World",
+        "sourceLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOampOdldTeFM0dWpCcDhWa21ZN2dQdmUtY3RIeDY4S3lERUhhYi1YR0dURGNZUkY3d05EVnlfRi1KcFh2Y211ZjExd0lQcThuazRnb21qZU5QWGNxMWJjUXJNTFIySUwzMl9Sazk4WWUwWXdma2NEMTh4ZFo1SmhUd0JNSE54QzQtMFJHeF9jQ3JVN0ZGdDN6MjdGQmtCV3N3cHF5bTNsbS0yQW1MX0lPYQ?oc=5",
+        "publishedAt": "2026-02-17T08:00:00.000Z"
+      },
+      {
+        "category": "Temasek ownership consolidation",
+        "updateType": "leadership",
+        "play": "retention",
+        "score": -1,
+        "summary": "Temasek completed a 50% acquisition of Luminace from Brookfield in October 2025 (EU-cleared), and Luminace's operating company is now jointly controlled by Brookfield Super-Core Infrastructure Partners and Temasek. This ownership restructuring creates vendor-review risk and O&M cost-cutting pressure typical of new institutional ownership.",
+        "suggestedAction": "Schedule a relationship check-in with Elizabeth Brennan (COO) and the contracting entity's procurement/operations lead to confirm the Raptor Maps contract sits with the operating company, understand Temasek's vendor-evaluation priorities, and proactively address any O&M cost-reduction initiatives by showcasing Raptor Solar + RS Inspections ROI (truck-roll elimination, fire risk mitigation, faster remediation).",
+        "sourceName": "Temasek",
+        "sourceLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNW9NNkZXbklySUJqUXZsQy1pN0VzUEJwOFd6d0I2V0Q1cERzVDJrVk5wUGtWejA0dEFWZE5uRmxHTzlqTmJVMm5UTEJKNlVqMjVUa0ViMTBONDJkei1UbUphdXh6UTQ5WkFjazZBZ19hUkJCbzE4OWxQbTBKM0VMVnc0RXJqQ1FQNElMWmpvYkgxNXlRWDI3b3ZmZDdSSmQ3U2U4MW9TT2UtcVFuQWVhNDRJcjF4LW5wSHA2aGg3V3Z0WjZ5RWlF?oc=5",
+        "publishedAt": "2026-03-02T08:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "company": "Luminace",
     "runAt": "2026-07-03T17:12:37.088Z",
     "source": "backfill",
     "headline": "No relevant coverage in the backfill window",

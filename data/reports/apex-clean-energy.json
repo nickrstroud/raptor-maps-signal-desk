@@ -1,6 +1,55 @@
 [
   {
     "company": "Apex Clean Energy",
+    "runAt": "2026-02-03T18:13:50.275Z",
+    "source": "backfill",
+    "headline": "$2.79B financing closed for portfolio expansion; strong budget signal for Raptor Comply cross-sell at NERC-registerable scale",
+    "signals": [
+      {
+        "category": "Portfolio Financing Closed",
+        "updateType": "financing",
+        "play": "raptor_solar",
+        "score": 1,
+        "summary": "Apex closed $2.79B in debt and tax-equity financing for three renewable energy projects totaling 670 MW (wind, storage, solar). Represents material expansion of assets under management and available capex for operational infrastructure.",
+        "suggestedAction": "Confirm with Neil James whether any of the three financed projects are solar or co-located solar+storage. If yes, prioritize baseline Raptor Solar + Sentry onboarding as sites approach COD; scope a weather-response inspection plan for the new sites.",
+        "sourceName": "POWER Magazine",
+        "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM3lDUERCUFhUV25YemRjV2ZRZ2U5LXZ4MUJOQXlEdTRiOEVVa1o0aW55TEFWNEpKSG4yM1hRV0lleUNRNW5xeW9oWFhXaGhSRUFwekNhX3prZHozRVprODhySGJuZ3NRNHFlNHc1Y3kzckpTdW1rTVBjN1kzZWZFY05xekxoMXlvbkt3d1p4bkkybTdUQWNBUlN6alRwOTdFdkE2a0dEdFRQRzNROFBfRGpB?oc=5",
+        "publishedAt": "2026-01-15T08:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "company": "Apex Clean Energy",
+    "runAt": "2026-07-03T18:13:50.275Z",
+    "source": "backfill",
+    "headline": "Apex divests 28 MW community solar while expanding storage portfolio; mixed portfolio signals",
+    "signals": [
+      {
+        "category": "Portfolio divestiture",
+        "updateType": "ma",
+        "play": "retention",
+        "score": -1,
+        "summary": "Apex sold 28 MW of Illinois community solar projects to SolAmerica. While modest relative to 2+ GW portfolio (1.4%), any MW leaving the platform represents churn and potential revenue risk. Community solar is lower-complexity than utility-scale; asset loss warrants retention check.",
+        "suggestedAction": "Confirm with Neil James whether the divested 28 MW Illinois portfolio is being offboarded from Raptor Solar and Sentry, and clarify if Apex intends to backfill with organic growth or M&A. Reinforce the value Sentry brought during the Midwest tornado event to strengthen stickiness on remaining solar fleet.",
+        "sourceName": "Renewables Now",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWUYtdzl1aXY5R24zSjc2czZiSDJfSFlNY3JuVXNYY3R4NnpOdDNHUERscW9saDhELXdDdmd1V1B3NnBaQUZZOUFiYnItVnpmTDZ1VzNpOE9vMG9jSkVjZ1l2bmtCSTZNSnBJYzlxMkJOdlF6TlFibFVnYmxXc0RlcDRqazhhbjBENjEtZndsdldEQ3ViMi1PeVBWajVPeHpGOG90V1AxTWJPS28?oc=5",
+        "publishedAt": "2026-06-11T07:00:00.000Z"
+      },
+      {
+        "category": "Battery storage expansion",
+        "updateType": "expansion",
+        "play": "raptor_solar",
+        "score": 1,
+        "summary": "e-STORAGE contracted to supply 381 MWh battery system to Apex Clean Energy. Storage is increasingly co-located with solar; new battery assets may require performance monitoring, asset health tracking, and integrated operations workflows—all within Raptor Solar's purview as Apex scales hybrid projects.",
+        "suggestedAction": "Reach out to Neil James to learn which solar projects will pair with the new 381 MWh storage capacity. Discuss how Raptor Solar's digital twin and performance analytics can be extended to hybrid solar-plus-storage sites to optimize round-trip efficiency and warranty claims on battery systems.",
+        "sourceName": "scanx.trade",
+        "sourceLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY09UQXY0alo3OXlZUWpTQW9pSVlXdEJuSUMyRXFyMVJnOWh6UUVTSUFjajB0NTV6NnAtRVFHYVlWXzJNbk91UERvUW11TjJ0WEVRd3dxd3NKX1Zla1RwYmNmNFltQ2o4d05xbXdQUHEyWDUwTk5XQUZZcE1KMEpkT2JpTV84NXFEN19Oc3lFS1V1LXRlN05acFMzWEt4ZWJrdy1tMEw3LWpGRXQ3WXNqOFhVdWlJTEU?oc=5",
+        "publishedAt": "2026-06-24T07:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "company": "Apex Clean Energy",
     "runAt": "2026-08-02T17:08:34.924Z",
     "source": "backfill",
     "headline": "Apex Clean Energy planning 350 MW solar plant near Buckeye; material expansion opportunity for Raptor Solar and Sentry onboarding",

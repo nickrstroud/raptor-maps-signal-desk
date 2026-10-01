@@ -1,6 +1,93 @@
 [
   {
     "company": "Enel Green Power",
+    "runAt": "2025-11-05T18:13:50.275Z",
+    "source": "backfill",
+    "headline": "Enel Green Power partnership announcement signals continued momentum on Sentry expansion and performance analytics",
+    "signals": [
+      {
+        "category": "Raptor Maps partnership highlight",
+        "updateType": "brand",
+        "play": "advocacy",
+        "score": 1,
+        "summary": "Enel Green Power published a dedicated article highlighting joint work with Raptor Maps to increase solar energy efficiency. Public partnership visibility and case-study credibility.",
+        "suggestedAction": "Confirm the scope and timeline of the partnership story with William Badnaruk; propose a formal case study or co-marketing asset (webinar, whitepaper) featuring the Texas 181 MWdc drone-in-a-box pilot and efficiency gains. Use it to build awareness of Sentry across Enel's broader fleet.",
+        "sourceName": "Enel Green Power",
+        "sourceLink": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU3BZUXYwSVduSm85TmhDZTlublhQNVRpQzVnOEZlZXhndTdScGp4VGF2RGFwWWxTWVFXNFRKdXRxMkZrUDJGcDNUQjNpNTBzbmlDUVN2SHhlaU5oeEhfa252UHdLQmRfT2ZNYmRLQkJ6dDNpekpPMlVwN3pyWHJkOGw4VkY5d2w1WHBHUTR1NmhFQ29ZeFExQXJ5TDVidzE3UUN1d1VhdVZ5aXFUM1c3X3hCNlpLX3hEWEZGLV81VG1HeUhSYWpMdF84RHU?oc=5",
+        "publishedAt": "2025-10-07T07:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "company": "Enel Green Power",
+    "runAt": "2025-12-05T18:13:50.275Z",
+    "source": "backfill",
+    "headline": "Enel North America completes 911 MW GulfStar mega-project; 556 MW solar co-location signals operational portfolio growth requiring baseline Raptor Solar/Inspections onboarding and Sentry expansion planning",
+    "signals": [
+      {
+        "category": "GulfStar 911 MW Solar + Storage COD",
+        "updateType": "expansion",
+        "play": "raptor_solar",
+        "score": 2,
+        "summary": "Enel North America completed GulfStar, a 911 MW hybrid solar and storage project—Enel's largest US power plant. This represents material portfolio growth requiring Raptor Solar baseline deployment to cover the new MW under management.",
+        "suggestedAction": "Contact William Badnaruk to confirm GulfStar's onboarding timeline to Raptor Solar. Offer a commissioning and baseline RS Inspections plan (aerial thermography + visual) for the 911 MW site to ensure warranty documentation and performance establishment at COD.",
+        "sourceName": "SolarQuarter",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYkcySmluLUdxZDZ1eHlQa18zN3JwUEJCOC0xMXRHdGZIZFpiNnFwTzhvSktJN2ZjT0ZEUktULUJCaGRGc2JHV0FwWU9oMVI5Z2FkbHRhQ1lIMDdmaHpHMkIxTG52TnFGbHhqMV9uVWdmUHdvTC05YTNCSG92WTlnNEpHRmhmS3E2M3h4bXZtMlJsRHNqNGpNNlF0aTVXeTM0Tk9HeDZTZEY3SG1KUlFjWjlXZmxSVjF5WmpJS2NVbWZmNnNDMVZrTWd1NE55TTVo?oc=5",
+        "publishedAt": "2025-11-08T08:00:00.000Z"
+      },
+      {
+        "category": "556 MW Solar + 355 MW BESS Co-Location",
+        "updateType": "expansion",
+        "play": "inspections",
+        "score": 1,
+        "summary": "Enel completed a 556 MW solar array co-located with an operational 355 MW battery energy storage system. The hybrid asset presents an opportunity to expand RS Inspections and Sentry to cover both solar and battery plant health monitoring.",
+        "suggestedAction": "Clarify with Enel whether this 556 MW site is distinct from GulfStar or part of it. If separate, ensure it is on the Raptor Solar roadmap and propose RS Inspections and Sentry for the hybrid asset (solar + BESS) to capture performance and risk data across both equipment classes.",
+        "sourceName": "Solar Power World",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVVg5WjZQZ1NCMjhLRHBlZGxtZEY4eHdrdWpoSG00c19mNEt0aUpIM2RvQUNUdmxiUFpkTFdnMmlyXzdQVGh2ZDM5cGVrcUNoMFliTzhRell3MFVPc0JvWDBxdU1leEg1YWp1emdxZTlHMXNqLXpSMjFtWXc3M3BySk11eHpXZ0lpOVkzWjdFZ3Y1aWRUMTVrTWxHbEZjVl9DbFV1bFlsaThKWGJXN1JYT3d2d3hMRkgzeUE?oc=5",
+        "publishedAt": "2025-11-06T08:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "company": "Enel Green Power",
+    "runAt": "2026-03-05T18:13:50.275Z",
+    "source": "backfill",
+    "headline": "Enel Green Power signs $1B agreement to acquire 830 MW US wind and solar portfolio, with major renewables capex plan acceleration.",
+    "signals": [
+      {
+        "category": "830 MW US portfolio acquisition",
+        "updateType": "expansion",
+        "play": "raptor_solar",
+        "score": 2,
+        "summary": "Enel Green Power has signed an agreement to acquire 830 MW of operating US wind and solar capacity for ~$1 billion, as part of a broader $63 billion renewables investment plan through 2026. This material acquisition of operating assets (majority solar by Enel's portfolio mix) will significantly expand the MW under management on Raptor Solar and create onboarding opportunities for the new sites.",
+        "suggestedAction": "Contact William Badnaruk and Enel North America's Asset Management team this week to: (1) Confirm the solar MW breakdown of the 830 MW acquisition and expected close date; (2) schedule an onboarding kickoff for the new sites to Raptor Solar, including baseline RS Inspections scope; (3) identify which sites are candidates for RS Sentry expansion (especially if any are large/utility-scale with high automation potential); (4) assess whether the new portfolio includes any NERC-registered facilities to open Raptor Comply discussion.",
+        "sourceName": "Renewables Now",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdGtyRkhjRDBqM0oxRmE1QlZUWVJuNEs2aFAwRzllbm1QNWZmdGRzQzdKNjVJWVRKSW5TNEhzZVR1SlR5MUFfOVZ3b1g1V3FUMFdwVTFwZVlSR3QyNURUampQcHFsTjJ6b3RiYTJxU3NiSF9UX3o1MW5JUFNUYVZOMzU4dTNJNk15LU5JUFZ4em9zZUZYN1NJN18zZw?oc=5",
+        "publishedAt": "2026-02-23T08:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "company": "Enel Green Power",
+    "runAt": "2026-06-03T18:13:50.275Z",
+    "source": "backfill",
+    "headline": "Enel Green Power acquires 270 MW operational US solar portfolio across three states—material MW addition for Raptor Solar and Sentry expansion",
+    "signals": [
+      {
+        "category": "270 MW operational solar portfolio acquisition",
+        "updateType": "expansion",
+        "play": "raptor_solar",
+        "score": 2,
+        "summary": "Enel Green Power acquired 270 MW of operational solar PV across seven farms in three new US states for $140M. This is material growth to their North American fleet and a direct onboarding opportunity for Raptor Solar (if not already on platform) and baseline RS Inspections; also a strong candidate for Sentry expansion, aligning with William Badnaruk's vision of drone-in-a-box deployment across the portfolio.",
+        "suggestedAction": "Contact William Badnaruk this week to confirm: (1) Which of the seven acquired sites are already on Raptor Solar and which require onboarding; (2) Whether they plan to baseline-inspect the new acquisitions with RS Inspections (with thermal, structural, and construction QA data for asset health baseline); (3) Whether Sentry drone-dock deployment is planned for any of the new sites as part of their 'faster issue discovery' operational roadmap.",
+        "sourceName": "Reuters",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV1R4SmQ0UEdrTkY2dFp5dkFNdGFwbVU2cXlRd0FOWEwwby1SaTlraWRPbzRJTnF0cldkRWhpejk0cS02YWRTSndPMGE5djduNFVlbkczc283dkc5T2xhZ0UxZ3Vsb3M3MnZOdUF2RHRlb0JENk1VOHFNOTNRanN5RWV0SzhVTWNQS0Nscml2SllTYUpDZWhJZEFGYVd3N3F4ODU2a3F3Y045LUJlTkFtdzJwZWdQMW5uQzNoeg?oc=5",
+        "publishedAt": "2026-05-18T07:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "company": "Enel Green Power",
     "runAt": "2026-10-01T17:32:50.084Z",
     "source": "backfill",
     "headline": "Enel acquires 625 MW US solar portfolio in September 2026; material expansion play for Raptor Solar, Sentry, and Inspections across North America",

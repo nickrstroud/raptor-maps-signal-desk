@@ -14,6 +14,11 @@ import SignalCard from "./SignalCard";
 
 const PRODUCT_VALUES = new Set(PRODUCTS.map((p) => p.value));
 
+function monthsAgo(iso: string): string {
+  const m = Math.round((Date.now() - new Date(iso).getTime()) / (30 * 86_400_000));
+  return m <= 1 ? "about a month ago" : `${m} months ago`;
+}
+
 // Ranked account cards. Used for the pinned key accounts (`pinned`: always
 // shown, even with nothing matching the filters) and for other accounts that
 // surface on their own. Priority is recomputed here with the weights learned
@@ -119,6 +124,13 @@ export default function OpportunityQueue({ accounts, pinned = false }: { account
             <div className="px-4 pb-3 pl-12">
               {a.lead ? (
                 <SignalCard signal={a.lead.signal} at={a.lead.at} account={a.company.name} compact />
+              ) : !signalFilterActive && a.lastEvent ? (
+                <div>
+                  <p className="text-[11px] text-slate-500 mb-1.5">
+                    Quiet for 90 days. Last notable event, {monthsAgo(a.lastEvent.at)} (context only, not in the score):
+                  </p>
+                  <SignalCard signal={a.lastEvent.signal} at={a.lastEvent.at} account={a.company.name} compact />
+                </div>
               ) : (
                 <p className="text-sm text-slate-500">
                   {signalFilterActive

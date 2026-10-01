@@ -4,7 +4,7 @@ const STEPS = [
   {
     n: "1",
     title: "Watch every account, cheaply",
-    body: "Each day the agent pulls recent news for every account from Google News RSS. Articles it has already analyzed are skipped, so a quiet day costs one free RSS request and zero model calls.",
+    body: "Each day the agent pulls recent news for every account from Google News RSS (accounts were backfilled with 12 months of history for context). Articles it has already analyzed are skipped, so a quiet day costs one free RSS request and zero model calls.",
   },
   {
     n: "2",
@@ -19,7 +19,7 @@ const STEPS = [
   {
     n: "4",
     title: "Rank, don't list",
-    body: "Every signal gets a weight by strength, decays with a 30-day half-life (key accounts make news every few weeks, not daily), and risk weighs slightly more than equal-strength upside. Industry news that names the account counts like a +1 (capped), and news on solutions they own nudges ranking without outranking real account news. With CRM data, ARR and the 90-day renewal window would multiply the score. Key accounts are always on top; any other account that crosses the threshold surfaces on its own.",
+    body: "Every signal gets a weight by strength, counts only if it's from the last 90 days, decays with a 30-day half-life, and risk weighs slightly more than equal-strength upside. Industry news that names the account counts like a +1 (capped), and news on solutions they own nudges ranking without outranking real account news. With CRM data, ARR and the 90-day renewal window would multiply the score. Key accounts are always on top; any other account that crosses the threshold surfaces on its own.",
   },
   {
     n: "5",
