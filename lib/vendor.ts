@@ -67,6 +67,15 @@ export function industryTouchesOwned(owned: string[] | undefined, signal: { prod
   });
 }
 
+// The mirror image: an industry signal on a solution the account doesn't own yet.
+export function industryTouchesWhitespace(owned: string[] | undefined, signal: { products: string[]; relevance: number }): boolean {
+  return signal.products.some((v) => {
+    if (owned?.includes(v)) return false;
+    const core = PRODUCTS.find((p) => p.value === v)?.core;
+    return core ? signal.relevance >= 3 : signal.relevance >= 2;
+  });
+}
+
 export function productLabel(value: string): string {
   return PRODUCTS.find((p) => p.value === value)?.label ?? value;
 }

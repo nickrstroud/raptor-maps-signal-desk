@@ -19,7 +19,7 @@ const STEPS = [
   {
     n: "4",
     title: "Rank, don't list",
-    body: "Every signal gets a weight by strength, decays with a 14-day half-life, and is multiplied by account value: the ARR band, with a bump for accounts inside the 90-day renewal window. Industry news on products they own nudges ranking but can't outrank real account news. Key accounts are always on top; any other account that crosses the threshold surfaces on its own.",
+    body: "Every signal gets a weight by strength, decays with a 30-day half-life (key accounts make news every few weeks, not daily), and risk weighs slightly more than equal-strength upside. Industry news that names the account counts like a +1 (capped), and news on solutions they own nudges ranking without outranking real account news. With CRM data, ARR and the 90-day renewal window would multiply the score. Key accounts are always on top; any other account that crosses the threshold surfaces on its own.",
   },
   {
     n: "5",
@@ -63,8 +63,8 @@ export default function AboutPage() {
       <section className="border border-slate-200 rounded-xl bg-white p-5 shadow-sm">
         <h2 className="text-sm font-semibold text-slate-900 mb-2">Priority formula</h2>
         <pre className="text-xs bg-slate-50 border border-slate-200 rounded-md p-3 overflow-x-auto text-slate-700">
-{`priority = value × ( Σ signal_weight × type_weight × 0.5^(age_days / 14)
-                   + Σ named_industry_mentions
+{`priority = value × ( Σ signal_weight × type_weight × 0.5^(age_days / 30)
+                   + min(Σ named_industry_mentions × 5, 10)
                    + min(owned_product_industry_boost, 1.3) )
 
 signal_weight:  +2 → 10   +1 → 5   0 → 0.5   −1 → 6   −2 → 12

@@ -80,16 +80,15 @@ export default async function AccountPage({ params }: { params: Promise<{ slug: 
 
         <dl className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4 mt-5 pt-4 border-t border-slate-100">
           <Fact label="Type">{company.type ?? "—"}</Fact>
-          <Fact label="ARR">{company.arr != null ? formatCurrency(company.arr) : "—"}</Fact>
-          <Fact label="Renewal">
-            {company.renewalDate && renewalDays != null ? (
+          {company.arr != null && <Fact label="ARR">{formatCurrency(company.arr)}</Fact>}
+          {company.renewalDate && renewalDays != null && (
+            <Fact label="Renewal">
               <span className={renewalDays < RENEWAL_WARNING_DAYS ? "text-red-700 font-bold" : ""}>
                 {formatDate(company.renewalDate + "T12:00:00Z")} ({renewalDays}d)
               </span>
-            ) : (
-              "—"
-            )}
-          </Fact>
+            </Fact>
+          )}
+          <Fact label="Sponsors">{company.sponsors?.length ? company.sponsors.length : "None named"}</Fact>
           <Fact label="Last checked">{relativeDays(p.lastCheckedAt)}</Fact>
         </dl>
         <div className="mt-4 pt-4 border-t border-slate-100">
@@ -116,7 +115,7 @@ export default async function AccountPage({ params }: { params: Promise<{ slug: 
           </div>
         )}
         <p className="text-[10px] text-slate-400 mt-3">
-          Product mix is inferred from public case studies; ARR and renewal date, where shown, are illustrative demo values.
+          Product mix and relationship notes are inferred from public case studies.
         </p>
       </div>
 

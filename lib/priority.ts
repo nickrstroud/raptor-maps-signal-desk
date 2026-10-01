@@ -1,4 +1,4 @@
-import { industryTouchesOwned } from "./vendor";
+import { industryTouchesOwned, industryTouchesWhitespace } from "./vendor";
 import type { AccountSignal, Company, IndustrySignal } from "./types";
 import { getCompanies, getCompanyHistory, getIndustrySignals, getPipelineState, slugify } from "./data";
 import { RENEWAL_WARNING_DAYS, daysUntil } from "./score";
@@ -10,14 +10,18 @@ import { RENEWAL_WARNING_DAYS, daysUntil } from "./score";
 // product. Key (pinned) accounts are always shown; other accounts above
 // SURFACE_THRESHOLD rise into the queue on their own.
 
-const HALF_LIFE_DAYS = 14;
+// Key accounts produce news every few weeks, not daily, so a signal stays relevant longer.
+const HALF_LIFE_DAYS = 30;
 const LOOKBACK_DAYS = 90;
 const INDUSTRY_WINDOW_DAYS = 30;
 const PRODUCT_BOOST = 0.5; // per relevance point of a product-matched industry signal
 // Market-wide news boosts ranking but can't surface an account on its own —
 // otherwise one big tariff ruling would flood the queue with every account.
 const PRODUCT_BOOST_CAP = 1.3; // × max value weight 1.875 = 2.4, still under the threshold
-const MENTION_WEIGHT = 10; // an industry item that names the account counts like a direct signal
+// An industry item that names the account counts like a +1 direct signal, capped so a
+// public company that's in the trade press every week can't outrank real account news.
+const MENTION_WEIGHT = 5;
+const MENTION_CAP = 10;
 export const SURFACE_THRESHOLD = 3;
 
 // Bigger accounts and accounts close to renewal deserve attention sooner.
@@ -79,10 +83,7 @@ export function industryMatchesFor(company: Company, industry: IndustrySignal[])
 
 export function whitespaceMatchesFor(company: Company, industry: IndustrySignal[]): IndustrySignal[] {
   return industry.filter(
-    (i) =>
-      !i.mentionedAccounts.includes(company.name) &&
-      i.relevance >= 2 &&
-      i.products.some((p) => !company.products?.includes(p)),
+    (i) => !i.mentionedAccounts.includes(company.name) && industryTouchesWhitespace(company.products, i),
   );
 }
 
@@ -111,7 +112,7 @@ export function getAccountPriorities(): AccountPriority[] {
         if (i.mentionedAccounts.includes(company.name)) mentionWeight += MENTION_WEIGHT * decay(i.publishedAt);
         else productWeight += PRODUCT_BOOST * i.relevance * decay(i.publishedAt);
       }
-      const industryWeight = mentionWeight + Math.min(productWeight, PRODUCT_BOOST_CAP);
+      const industryWeight = Math.min(mentionWeight, MENTION_CAP) + Math.min(productWeight, PRODUCT_BOOST_CAP);
       const value = valueWeight(company);
 
       const signalWeight = recentSignals.reduce((sum, r) => sum + r.weight, 0);
