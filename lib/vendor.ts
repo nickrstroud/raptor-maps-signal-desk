@@ -164,4 +164,10 @@ export const INDUSTRY_SOURCES = {
     "Climate tech news that is about solar or would heavily influence it: portfolio M&A, extreme-weather damage, drone and robotics rules, module reliability, NERC compliance and OT security, tax credits, tariffs, and grid access.",
 };
 
-export const FOOTER = `Independent demo built by Nick Stroud for the ${VENDOR.name} ${VENDOR.role} conversation. Not affiliated with or endorsed by ${VENDOR.name}. Updates daily via a scheduled Claude agent.`;
+// The disclaimer, split in two so the header can show it as a compact two-line note.
+export const DISCLAIMER = [
+  `Independent demo built by Nick Stroud for the ${VENDOR.name} ${VENDOR.role} conversation.`,
+  `Not affiliated with or endorsed by ${VENDOR.name}. Updates daily via a scheduled Claude agent.`,
+] as const;
+
+export const FOOTER = DISCLAIMER.join(" ");

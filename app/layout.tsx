@@ -7,7 +7,7 @@ import AccountSwitcher from "./AccountSwitcher";
 import FilterBar from "./FilterBar";
 import { FilterProvider } from "./FilterContext";
 import { FeedbackProvider } from "./FeedbackContext";
-import { FOOTER, VENDOR } from "@/lib/vendor";
+import { DISCLAIMER, FOOTER, VENDOR } from "@/lib/vendor";
 
 export const metadata: Metadata = {
   title: `${VENDOR.appName} · ${VENDOR.teamLabel}`,
@@ -26,20 +26,22 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
             <div className="h-1 bg-brand-500" />
             <div className="max-w-7xl mx-auto px-4 sm:px-6 py-3 flex flex-wrap items-center justify-between gap-3">
               <div className="flex flex-wrap items-center gap-x-4 gap-y-1">
-                <Link href="/" className="flex items-center gap-2 font-semibold tracking-tight text-slate-900">
-                  <span className="inline-flex items-center justify-center w-6 h-6 rounded-md bg-brand-900 text-brand-300 text-xs" aria-hidden>
-                    ◆
-                  </span>
-                  {VENDOR.appName}
-                  <span className="text-[10px] font-medium text-brand-700 bg-brand-50 border border-brand-200 rounded px-1.5 py-0.5">
-                    {VENDOR.teamLabel}
-                  </span>
+                <Link href="/" className="flex items-center gap-2.5 font-semibold tracking-tight text-slate-900">
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                  <img src="/raptor-maps-logo.png" alt={VENDOR.name} width={117} height={32} className="h-8 w-auto" />
+                  <span className="h-5 w-px bg-slate-300" aria-hidden />
+                  <span>{VENDOR.appName}</span>
                 </Link>
                 <nav className="flex items-center gap-3 text-xs text-slate-500">
                   <Link href="/" className="hover:text-brand-700">Accounts</Link>
-                  <Link href="/industry" className="hover:text-brand-700">Industry</Link>
+                  <Link href="/industry" className="hover:text-brand-700">Industry Signals</Link>
                   <Link href="/about" className="hover:text-brand-700">How it works</Link>
                 </nav>
+                <p className="text-[10px] leading-snug text-slate-400 border-l border-slate-200 pl-3">
+                  {DISCLAIMER[0]}
+                  <br />
+                  {DISCLAIMER[1]}
+                </p>
               </div>
               <div className="flex flex-wrap items-center gap-2">
                 <FilterBar />
