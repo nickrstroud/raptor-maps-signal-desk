@@ -3,6 +3,7 @@ import { getCompanies, getIndustrySignals, getPipelineState } from "@/lib/data";
 import { getAccountPriorities } from "@/lib/priority";
 import { rankIndustry, withAffectedAccounts } from "@/lib/industry-view";
 import { relativeDays } from "@/lib/score";
+import { VENDOR } from "@/lib/vendor";
 import OpportunityQueue from "./OpportunityQueue";
 import IndustryFeed from "./IndustryFeed";
 import QuietAccounts from "./QuietAccounts";
@@ -47,13 +48,24 @@ export default function Home() {
 
   return (
     <div className="space-y-10">
+      <div className="-mt-2 rounded-xl border border-brand-200 bg-brand-50/60 px-4 py-3">
+        <p className="text-sm text-slate-800">
+          <span className="font-semibold">What you&apos;re looking at: </span>
+          an AI agent reads the news on {VENDOR.name}&apos;s key customers and the solar market every day, then ranks
+          who needs a conversation and why.
+        </p>
+        <p className="text-xs text-slate-500 mt-1">
+          Click any account for the full story · rate a signal 👍 / 👎 and watch the ranking learn · built only on
+          public case studies and news
+        </p>
+      </div>
+
       <section>
         <div className="flex flex-wrap items-end justify-between gap-2 mb-4">
           <div>
             <h1 className="text-xl font-semibold text-slate-900">Key accounts</h1>
             <p className="text-sm text-slate-500">
-              The agent reads the news on every account and the clean-energy market daily, then ranks your key
-              accounts by who needs a conversation first.
+              Ranked by who needs a conversation first, refreshed every morning.
             </p>
           </div>
           <p className="text-[11px] text-slate-400">Last agent run {relativeDays(lastRun ?? null)}</p>
