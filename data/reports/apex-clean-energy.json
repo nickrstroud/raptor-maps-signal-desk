@@ -107,5 +107,24 @@
         "publishedAt": "2026-09-18T07:00:00.000Z"
       }
     ]
+  },
+  {
+    "company": "Apex Clean Energy",
+    "runAt": "2026-10-01T18:19:51.986Z",
+    "source": "daily",
+    "headline": "Apex Clean Energy secures financing for 150-MW solar project in Illinois; expansion opportunity for Raptor Solar and Sentry deployment",
+    "signals": [
+      {
+        "category": "150-MW Illinois solar project financing closed",
+        "updateType": "expansion",
+        "play": "raptor_solar",
+        "score": 1,
+        "summary": "Apex secured financing for a new 150-MW utility-scale solar project in Illinois. This represents incremental MW under management on the Raptor Solar platform as the project progresses toward COD.",
+        "suggestedAction": "Reach out to Neil James (VP Operations & Maintenance) this week to confirm the Illinois project's construction timeline and COD target. Offer to plan Raptor Solar onboarding (digital twin, performance baselines) for commissioning phase, and discuss Sentry deployment strategy for weather-response risk management on this new site.",
+        "sourceName": "Renewables Now",
+        "sourceLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNzVOdXpGY2xaN3dOUDJsNTh6RXZnX1NsdmRHN0dWWmdhQ1N1VGtwSXAzcDdTMVB3VWNBYVhVSGZUTXE5bzFGVVVrQVN3SEpYVnRWc1Y2QW5QZ3J0YnUxTlh2eENSR19tbXV4WFJxY3NIcVQya01jb1VlSWhyVkNPaTUwR0wzMVBiRjV3dWxkeGNGVlJWVTFWSk5pOVRQeEZ0?oc=5",
+        "publishedAt": "2026-10-01T13:33:54.000Z"
+      }
+    ]
   }
 ]

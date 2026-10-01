@@ -68,6 +68,21 @@
     "mentionedAccounts": []
   },
   {
+    "id": "ptVlRGRGRXbEdOMTg_b2M9NQ",
+    "title": "Elgin acquires ~200 MW Blackhall solar farm",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPM0FXQlZDbEFseWJTaXB3ME5wNDE2ZGFkUjJvVFEwS1N3UGgwVk54cDJ1QlZEUnlGOXZraUpUbGFPRGZUaEpfRHZCXzdTUUFBZFUyem5IdUxoSUZnbFRUclVGcm1IRUlQcmhkTDc0RTg4a2RyeWFwR3M0OE5ERlQxdUdseWZ1ZFJmVTFDdWlGN18?oc=5",
+    "sourceName": "Energy Global",
+    "publishedAt": "2026-10-01T12:04:03.000Z",
+    "analyzedAt": "2026-10-01T18:20:06.475Z",
+    "updateType": "ma",
+    "relevance": 1,
+    "summary": "Elgin acquires the ~200-MW Blackhall solar farm.",
+    "angle": "M&A activity consolidating solar assets; potential new operator or change in O&M strategy. Worth tracking for new platform opportunity or incumbent-at-risk motion.",
+    "play": "none",
+    "products": [],
+    "mentionedAccounts": []
+  },
+  {
     "id": "bGFyLXB1cmNoYXNlLXRleGFz",
     "title": "Despite big Texas solar purchase agreement, Meta still uses lots of gas",
     "link": "https://www.canarymedia.com/articles/corporate-procurement/meta-large-solar-purchase-texas",
@@ -85,6 +100,40 @@
     "mentionedAccounts": [
       "Apex Clean Energy"
     ]
+  },
+  {
+    "id": "3YUhob2FEZDRaVWRSP29jPTU",
+    "title": "Three Texas solar farms kept 1,200 megawatts of panels nearly intact through the same hailstorm that wiped out thousands of panels at a neighboring site just miles away",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HVmJBeGdpQm12VmEwYTBSZnlvVXVwMXpieENrMkQtSVRaSEJXUnhTVXNnX21ITmNWTzZCdXNobklwemtKcl9tVERBRzZpdTd3SnJmV1p4MHM4T3pCLUU3WUJuUXRnbG9ZTVFvY1owaHhoaDd4ZUdR?oc=5",
+    "sourceName": "EcoPortal.net",
+    "publishedAt": "2026-09-30T23:50:00.000Z",
+    "analyzedAt": "2026-10-01T18:20:06.475Z",
+    "updateType": "weather",
+    "relevance": 2,
+    "summary": "A hailstorm in Texas hit solar farms unevenly; three neighboring 1,200-MW sites remained nearly intact while another site miles away lost thousands of panels, suggesting differences in module quality, installation, or tracking design affected damage outcomes.",
+    "angle": "Solar asset quality and resilience vary significantly. Raptor's inspections and sentry can help customers pinpoint vulnerability differences across sites and deploy preventive maintenance or equipment upgrades before similar events.",
+    "play": "inspections",
+    "products": [
+      "inspections"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "xbFJEUldOMjVLTnpRP29jPTU",
+    "title": "GT Cybersecurity Expert Helping to Chart the Future of AI on the Energy Grid | Newswise",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdmRzUmRGR2VTY1lhUlIyUjFWeDBfTXNqWW1VbjNZemRPNk92VW9uNzMyTmNYNHItc2tlTXFtX0VoS0R5amZwajFYd1BkZnFLLW1haXBLTERUS3N5R3hNMWd6eUxFcF9KT1lTbEk1eXV0eGNIVElxQ0k2RWh2WEtKMENJY0NJSGxXOWdpOE56cm9jZjFfNldBNjNQbmRsVC10OW04NmJNZUQ0VjduSjc00gGvAUFVX3lxTFB2ZHNSZEZHZVNjWWFSUjJSMVZ4MF9Nc2pZbVVuM1l6ZE82T3ZVb243MzJOY1g0ci1za2VNcW1fRWhLRHlqZnBqMVh3UGRmcUstbWFpcEtMRFRLc3lHeE0xZ3p5TEVwX0pPWVNsSTV5dXR4Y0hUSXFDSTZFaHZYS0owQ0ljQ0lIbFc5Z2k4Tnpyb2NmMV82V0E2M1BuZGxULXQ5bTg2Yk1lRDRWN25KNzQ?oc=5",
+    "sourceName": "Newswise",
+    "publishedAt": "2026-09-30T22:25:00.000Z",
+    "analyzedAt": "2026-10-01T18:20:37.542Z",
+    "updateType": "security",
+    "relevance": 1,
+    "summary": "Georgia Tech cybersecurity expert contributing to research on AI integration into energy grid operations and security frameworks.",
+    "angle": "AI and grid-edge cybersecurity are becoming mainstream topics in energy infrastructure; solar plants with remote operations and automation (drones, robotics, digital twins) will need to address AI-related OT security and compliance.",
+    "play": "comply",
+    "products": [
+      "comply"
+    ],
+    "mentionedAccounts": []
   },
   {
     "id": "Zy1iaWxsLXBvd2VyLWxpbmVz",
@@ -105,6 +154,23 @@
     "mentionedAccounts": []
   },
   {
+    "id": "NelNXWmtPRzAyYlVNP29jPTU",
+    "title": "Over 600 Projects Enter Phase 1 of PJM’s New Interconnection Process",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOGN4NkhackI1Sjd1MlNfVHNBMDA4dEp6aFNCQWxxLVZXWFJDQUM5R3MzN1A2djNXVi00SkNVY3M2TFNreXUwTE9Zazg3SC1NMnJmZURBUXhhbUF0aGdwTXhFd1FfWm8tcm1YZzFodk5nMkY0UWo2dVhZLUV4bkxMYmh0aUVZekx4UHpaLXYtSEZJSlMzSWZkOG02bUM?oc=5",
+    "sourceName": "PJM Inside Lines",
+    "publishedAt": "2026-09-30T20:52:39.000Z",
+    "analyzedAt": "2026-10-01T18:20:34.065Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "Over 600 projects have entered Phase 1 of PJM's new interconnection process, signaling a major shift in how projects queue and connect to the grid in one of the largest U.S. RTOs.",
+    "angle": "Interconnection queue dynamics directly affect project economics and timeline certainty for utility-scale solar customers; understanding PJM's process changes is critical for operational planning and performance forecasting.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "cm9kdWNlZC1pbi1zZW5hdGUv",
     "title": "Grid reform bill introduced in Senate",
     "link": "https://www.solarpowerworldonline.com/2026/09/grid-reform-bill-introduced-in-senate/",
@@ -117,6 +183,23 @@
     "angle": "Grid reform legislation at the federal level will shape interconnection timelines, market rules, and ultimately solar project economics. Early awareness supports proactive customer engagement as rules clarify.",
     "play": "none",
     "products": [],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "bDNPWFJxZG14SUxXYz9vYz01",
+    "title": "Exus Renewables Acquires 715 MW of US Solar & Storage Capacity from ibV",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbEVMSFM5U054STkzUVItSk1qMVRadUlvY2FfS1lwMkMwRWpJMi1VR291MWhOYWNwVzl4bmd2ZWpQNFAyczJaeU5Kc3NRUkROWkJZRWRjb3dlcE4tNktlYnQ4NnRISGpoa08xaGEtR3FRbWNpRi1NZzBhUjI1elZqWkhDZHhVM2wybnIzQXBwS0JhR0F0bUtPMURzVFk1a25xbTg0X2g0NnNFS0E1V0JIZHJvdTNpQXdjZUl3OXRqdmxILWc?oc=5",
+    "sourceName": "energytech.com",
+    "publishedAt": "2026-09-30T16:29:50.000Z",
+    "analyzedAt": "2026-10-01T18:20:06.475Z",
+    "updateType": "ma",
+    "relevance": 2,
+    "summary": "Exus Renewables acquires 715 MW of US solar and storage capacity from ibV Energy.",
+    "angle": "Large-scale portfolio acquisition (715 MW) signals significant MW consolidation in the market. Exus entry or expansion may trigger demand for integrated platform services covering new fleet performance and compliance.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
     "mentionedAccounts": []
   },
   {
@@ -272,6 +355,23 @@
     "mentionedAccounts": []
   },
   {
+    "id": "XWkdKb2QwWlBhR2RyP29jPTU",
+    "title": "EXCLUSIVE: Exus acquires large US solar projects from ibV Energy in data center hot spots Louisiana and Wisconsin",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZHo4X2x3c29EUXIwRHdnNTZvWk51ZHVVcGJid3VCbW9pX2Fncks1clpOVDAtczNiNDd0WEJpRjJqcDZyS2h1Qk14aFdLcjlLZEhXX2RkZjJjTTI5RTZIZXhWSVZma3kxWnlrMUVIQlpoMU4zSmI2Q19yLWdFeGUyOU5mVUlfMDZIdzNwbnl5WHduODFTdUp2TGtiMDJKcENQT1ZqcHE5MGhyNDdyRkt2RlNJYS1qY0h2N3NvLTFWZGJod0ZPaGdr?oc=5",
+    "sourceName": "Reuters",
+    "publishedAt": "2026-09-29T16:06:54.000Z",
+    "analyzedAt": "2026-10-01T18:20:06.475Z",
+    "updateType": "ma",
+    "relevance": 2,
+    "summary": "Exus acquires large US solar projects from ibV Energy located in Louisiana and Wisconsin, targeting data center colocation markets.",
+    "angle": "Portfolio consolidation and data-center co-location solar is a high-growth segment. New ownership often triggers platform migrations and expanded O&M coverage needs; a growth moment for retention and expansion.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "RhbGxhdGlvbnMvODMxNTEwLw",
     "title": "Facilities fueling energy storage installations",
     "link": "https://www.utilitydive.com/news/facilities-fueling-energy-storage-installations/831510/",
@@ -282,6 +382,40 @@
     "relevance": 1,
     "summary": "Commercial energy storage installations are forecast to grow 27% over the next five years, driven by changing facility energy economics and grid dynamics.",
     "angle": "Storage growth tied to solar portfolios increases demand for integrated performance visibility and remote dispatch capabilities; positions Raptor Solar and Sentry as essential operational tools for multi-asset storage optimization.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "1GdVVuaHhUbXhSUmc_b2M9NQ",
+    "title": "Skyline makes biggest solar acquisition to date in Ontario",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOXZIc1ZKR0xmX1B3VHZQN1pod2FLSFM3RTRKaGtGRXB0dkN1M2pDYnBQOTFpeGE1SXVwaXZobXJIM3hZQ05Hb3I2VzEtYm5XcU5SRXZZNm5wYk5DQ0h6R0M3RV9RMExub2pVY0JOMjJpS1R0X1pUbmFuUnhxTmxRRg?oc=5",
+    "sourceName": "Sustainable Biz Canada",
+    "publishedAt": "2026-09-29T13:55:40.000Z",
+    "analyzedAt": "2026-10-01T18:20:11.814Z",
+    "updateType": "ma",
+    "relevance": 2,
+    "summary": "Skyline completes its biggest solar acquisition to date in Ontario, expanding Canadian solar portfolio.",
+    "angle": "Growth through acquisition in the Canadian solar market shows continued M&A momentum. Customers expanding into new geographies and asset bases need platform consolidation and real-time visibility across all sites to maximize performance and retain value.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "F5WVZoWlZtbE1PRjg_b2M9NQ",
+    "title": "Global solar additions hit 690 GW in 2025",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPT0o0TFMydVFyXzRUUS1YQWpOQ196MU1pYU9UNnhtNHVzaHVzbVM2T1lyeDRjUmlrREJKWXFRNUZGYzVRTkdXNTVfUG9RcmI5dFZ5X1ZOSzZjWm1wMHJ6MXNsU3pHUUo0V1NmTW9lSERFZnUtVmZBS214X09xSkRjcmpDazc0VVAyYVhZVmlMOF8?oc=5",
+    "sourceName": "pv magazine India",
+    "publishedAt": "2026-09-29T11:22:35.000Z",
+    "analyzedAt": "2026-10-01T18:20:22.716Z",
+    "updateType": "expansion",
+    "relevance": 1,
+    "summary": "Global solar additions hit 690 GW in 2025, demonstrating continued strong market growth worldwide.",
+    "angle": "Record-breaking solar capacity additions underscore growing installed base and need for performance management, remote monitoring, and inspection workflows across utility and C&I portfolios.",
     "play": "raptor_solar",
     "products": [
       "raptor_solar"
@@ -359,6 +493,56 @@
     "mentionedAccounts": []
   },
   {
+    "id": "CZk1WRkhTblJzV2xFP29jPTU",
+    "title": "EGCO closes buy of 49% stake in 339-MW US solar, wind portfolio",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSHA3eHBESkEyMnRsUUxiSlBnel9XU1F5REt3anRRUnQwOEVMNFFEMkY4NjNodVNIUmdfVnB2MzhhWUJVbUZRS2p6UERhMnltYmFrX0UtcXl5STlpaFlDaTZsRnZ0MDd2NV9IdURGcFJNTzdlaXlHVzl0UThpV3JaVVVGVVZoUU9WN3k5LThMeFQwVE53YUhiU1pYbFA1VERQUU1Td3BfMVFHSnRsWlE?oc=5",
+    "sourceName": "Renewables Now",
+    "publishedAt": "2026-09-29T07:32:30.000Z",
+    "analyzedAt": "2026-10-01T18:20:06.475Z",
+    "updateType": "ma",
+    "relevance": 1,
+    "summary": "EGCO closes acquisition of a 49% stake in a 339-MW US solar and wind portfolio.",
+    "angle": "Large portfolio stake transaction shows continued capital inflow to US solar. Relevant for tracking M&A-driven customer consolidation and new operator entry that may need platform onboarding.",
+    "play": "none",
+    "products": [],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "oSlVuZHBVMXBxT0U4P29jPTU",
+    "title": "How Drones and Robots Are Reshaping Renewable-Energy Operations",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOFlYR2Z2bUd0N2I5eHVsNDVqN0hJQ0tLSkFCMUZSTEREUXh5ZW43WFlKM0xhejJpQTZmSEw2U1hlUElQN2ZHUWY3M3RBVmpWTVI1dlhOUG54SUJTZ0ZwZ3pxZU9CdGtUa2djcFdPWlZITVBBMTJ5UFlxSS05UGR6aDdSSVdEV3lWNllmZFAyRy1tYjhJUndpU1pqOE8?oc=5",
+    "sourceName": "TechNode",
+    "publishedAt": "2026-09-29T03:50:54.000Z",
+    "analyzedAt": "2026-10-01T18:20:22.716Z",
+    "updateType": "technology",
+    "relevance": 2,
+    "summary": "Report examines how drones and robots are reshaping renewable-energy operations, highlighting automation, inspection, and O&M efficiency gains across the sector.",
+    "angle": "Industry validation that autonomous drones and robotics drive O&M value; good talking point to drive Sentry and Inspections adoption with customers facing labor constraints and inspection-cost pressures.",
+    "play": "inspections",
+    "products": [
+      "sentry",
+      "inspections"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "RUpHYTFSTGVHMUlVdz9vYz01",
+    "title": "Clearway Energy to Buy Swan Solar Interests for ~$230 Million, Adding 650 MW in Missouri",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTGtWa1NVU2QwTlZHc3FHNFRybm1IZkdFS21BRmd4aW1ieXpTVXpqTlpJVlpDS2J5eXdKeTZFV09PMlo4Vmczc1d6TUpWRHhzTEFiSGVUS3paY2k2TndlY2xicnhockhaVU13Q29QTjBHczZPVm50UHg2RndkZnBqWWREeG02NHpMT1NrNG04R1lDR2hmTTVtcWhqclZEX0h6aHFDWkNMTDNsNEoxc0NnaXRmdmNLcS1jVzRTeVc1MkpvN1ZMbXJITmV1V1RucXdLUnpCYVE5NEJGa1RLeG1IUw?oc=5",
+    "sourceName": "TradingView",
+    "publishedAt": "2026-09-28T21:33:48.000Z",
+    "analyzedAt": "2026-10-01T18:20:11.814Z",
+    "updateType": "ma",
+    "relevance": 2,
+    "summary": "Clearway Energy acquiring Swan Solar's interests for ~$230M, adding 650 MW in Missouri. Portfolio consolidation in the IPP solar market.",
+    "angle": "Major solar M&A signals consolidation and growth in the Midwest solar market. Customers involved in such transactions will need to migrate data, integrate operations, and optimize across newly combined portfolios—key drivers for Raptor Solar platform adoption and cross-site coverage expansion.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "dHJhY3RzLWJpZy1iYXR0ZXJ5",
     "title": "Will New York&#039;s 1GW storage contracts finally break the state&#039;s big battery impasse?",
     "link": "https://www.canarymedia.com/articles/batteries/new-york-torage-contracts-big-battery",
@@ -377,6 +561,42 @@
     "mentionedAccounts": []
   },
   {
+    "id": "SlFNbEJVYVVKNlUzYz9vYz01",
+    "title": "First Solar Faces Pricing Pressure Amid High Inventory, Slow Project Starts, KeyBanc Says",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcl9tUXROSUlQbXZaT2JUOUJIMFN5NUhGTmNYVG5XWFFOdVBZZlRjVEJObUk3YlFlZ1h2ODFzUjZBTThOUHl2d3RYZ21Bc1lEUjNOd3RrSlR5VnZpTHQ0NDhsdGtCd3FiU3l3OVNPdWVHTUh6NzlZVTF4eFhEUkFPcGQ0bk1KVEZiUXdXWnJQMlBUaUJ6U3c?oc=5",
+    "sourceName": "Yahoo Finance",
+    "publishedAt": "2026-09-28T17:45:32.000Z",
+    "analyzedAt": "2026-10-01T18:20:28.024Z",
+    "updateType": "competitive",
+    "relevance": 2,
+    "summary": "First Solar facing pricing pressure amid high inventory and slow project starts, per KeyBanc analyst. Market slowdown impacting the module manufacturer's near-term performance.",
+    "angle": "Signals potential supply-side disruption and project delays across the industry. Relevant for customers evaluating module sourcing and project timelines; also an opening to discuss how Raptor Solar's analytics help maximize return on deployed capital.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": [
+      "First Solar"
+    ]
+  },
+  {
+    "id": "0MWNGOVVaekJ2Y1c4P29jPTU",
+    "title": "U.S. utility-scale solar generation rose 34% in 2025, reaching a record share of the national electricity mix",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjU2s0Z1pyblBkdWRRLVVlNlAwaklTaG51ZGhndk1adWlya0JXUm9EQURSNlB4Yk1aeE54MHIwNktmSE5BaHFvYlRmUzg1cW83QUN1RTMxWU0tN3gtbkt1cF9UZzBvcW8?oc=5",
+    "sourceName": "Energies Media",
+    "publishedAt": "2026-09-28T17:33:43.000Z",
+    "analyzedAt": "2026-10-01T18:20:34.065Z",
+    "updateType": "expansion",
+    "relevance": 2,
+    "summary": "U.S. utility-scale solar generation rose 34% in 2025, reaching record share of the national electricity mix, demonstrating continued rapid sector growth.",
+    "angle": "Sustained high growth in utility-scale solar expands the addressable market and customer footprint; strong backdrop for discussing portfolio expansion and O&M platform scaling with existing and prospective customers.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "saWN5LWltcGxpY2F0aW9ucy8",
     "title": "The global shift from central to string inverters: Market dynamics, regional strategies, and policy implications",
     "link": "https://www.pv-tech.org/the-global-shift-from-central-to-string-inverters-market-dynamics-regional-strategies-and-policy-implications/",
@@ -387,6 +607,93 @@
     "relevance": 1,
     "summary": "The solar inverter market is shifting from central to string inverters across different regions, with regional strategies and policy implications varying by market.",
     "angle": "Inverter architecture changes affect SCADA integration, monitoring granularity, and O&M workflows. Raptor Solar's performance analytics and digital twin adapt to evolving inverter topologies and data richness.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "UlVVRktSMEptTkZkcj9vYz01",
+    "title": "The Great Solar Repowering",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QdVpHTkpsa2xERVJyVEUzVDJFaUFCZ08xb1RBTDZSZXVRUDZMNERFUkg1ZXFEaDZUX1lpTlpLZklIZjVXZmZwcHQwWWxxYVBCcVdGbXhRUUFKR0JmNFdr?oc=5",
+    "sourceName": "Heatmap News",
+    "publishedAt": "2026-09-28T13:05:08.000Z",
+    "analyzedAt": "2026-10-01T18:20:34.065Z",
+    "updateType": "expansion",
+    "relevance": 2,
+    "summary": "The market is entering a major phase of solar repowering—replacing or upgrading aging solar installations with new technology and capacity.",
+    "angle": "Repowering creates a wave of new sites and upgrades entering operations; Raptor Solar and inspections analytics can help customers assess existing fleet health, plan upgrades, and validate performance on retrofitted equipment.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar",
+      "inspections"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "qYzVWSE5KWVhCaU53P29jPTU",
+    "title": "As US weighs tighter curbs on foreign drones, could Chinese makers lose ground?",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNczJKN3B1bDV2TkpGMFdoanJvNzZCYmp0cXBheDVvc3VlSUx2YXNPUG1waExzbUl6V096cHh1OTJieVZ3RUZxYTVIZHpIS2JDcnFnMVllTVhWY2pyWTVMazFtX3Y4SnNVeFBua1d6R3FNQkVzQS1wS0VGYXp0VDdGVk5SbmpqVHJQTElYSE1IbVNkM2EzclJ2UjJ1VGhkWUtSRkE0MjlFeXYxX2lZd2U3eGgyWTNZVWUzdGpkVUxFbDU3Y09WcUFqT1ZfbzUxMnpjSVVWd9IB1AFBVV95cUxQc2dTTWpKZFo5MEs0VVdabEV0eEVWanNOeldMNnFEN2pPYmwtazNob0pjekUtcmVjN0F3NE91SWtwZ2ZnSDI0RjdncERhbXpINGpKZzdYb3gwSUM2RDlPYk93SnZfRHhGdkE4T1UwSmZTVVM1WlFJclZBWm52X1hLS19tWVZhRTB0cGNwTWRYVC1QOTZwNTRPWmlUemIyUVdZVXBtcUJTQ09Td20tNDdlX0lPOG1yeGFScTNCSktYRExIRFRUY1Y3UUxKVjc5VHNJYXBiNw?oc=5",
+    "sourceName": "South China Morning Post",
+    "publishedAt": "2026-09-28T13:00:24.000Z",
+    "analyzedAt": "2026-10-01T18:20:15.989Z",
+    "updateType": "trade",
+    "relevance": 2,
+    "summary": "US is weighing tighter restrictions on foreign-made drones (particularly Chinese manufacturers like DJI) to address supply-chain and security risks. Market consolidation toward domestic drone suppliers expected.",
+    "angle": "Solar O&M operators using DJI or other foreign drones for inspections and monitoring may face procurement headwinds; this creates opportunity to discuss platform-native, equipment-agnostic inspection and Sentry autonomous dock strategies that reduce foreign hardware dependency.",
+    "play": "sentry",
+    "products": [
+      "sentry",
+      "inspections"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "tSVmxGZWpKQldqQm4_b2M9NQ",
+    "title": "India Solar H1 2026: 50.6GW Module Capacity Added, 27GW Installed - News and Statistics",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdm1TQ3JIU2xGbEZuRi1BcW1YOGl6RlY1dnRzZ3dvZjN6TlFkNFltNzNvOG5ULXFQRlNBZWFjX2xoQ1NpelYyQklIQlpicmtZWEdPb3RVeHZjQ2toVEg5VVlNbk41WjdqdnhrOUdvR1dFb1VwRDVUZEtwMGEzRmRvenFqZlF4UUZIVlBMc1VzeEdNY09fV0pDOEFtV09RZVlfMWRtVFBOOWFkRVlFejJBWjBn?oc=5",
+    "sourceName": "IndexBox",
+    "publishedAt": "2026-09-28T12:30:59.000Z",
+    "analyzedAt": "2026-10-01T18:20:22.716Z",
+    "updateType": "expansion",
+    "relevance": 1,
+    "summary": "India added 50.6 GW of solar module capacity and installed 27 GW in H1 2026, demonstrating rapid solar expansion in a key growth market.",
+    "angle": "Large-scale solar deployment in India represents growth opportunity for platform expansion; relevant for customers with international portfolios or plans to scale O&M operations in high-growth regions.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "ZMFQxaElXV2hZVFVFP29jPTU",
+    "title": "EU Parliament Draft Report Proposes Individual Assessment of High-Risk Solar Inverter Suppliers Under CSA2",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWTRYS0NXNGVQM3dCRWxDaXA3dmsxd3RqRDZCSzltR2laaFJGOUlIWTVJWlF2THN0VjVXelRoMTNhLTlZSHlYSXk2U2JBZ1JxTXU0QWdRUlNGMFRyRExVTUtVc1hNNWYxYUpDbkhUdmdKODFVN2N0QU9HVHlvbDFNUFFTSXJpZXVJb1dQT3BzZzBKRTdSYU56LVYxcDdYcXVVZ3labEo0djNiSE42dndwckY3bHRhS3o3RHp6clUxNjFwSXdwUW5fcGY0T1hIWWhYTUE?oc=5",
+    "sourceName": "IndexBox",
+    "publishedAt": "2026-09-28T12:20:58.000Z",
+    "analyzedAt": "2026-10-01T18:20:37.542Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "EU Parliament proposes individual assessment of high-risk solar inverter suppliers under the Cybersecurity Act (CSA2), adding regulatory scrutiny to inverter procurement and supply chain.",
+    "angle": "Utility-scale and C&I solar customers across the EU will face tighter inverter sourcing requirements and compliance checks; OT security and supply-chain risk are now explicit regulatory concerns for plant operators and O&M providers.",
+    "play": "comply",
+    "products": [
+      "comply"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "ZGtWWE5qZVRaQldEZz9vYz01",
+    "title": "Proposed legislation aims to fast-track interconnection process for new generation",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdUpTdzItY3RSbGZGQkVKRlBZdkkyU0tadnZVcVRqZmFTSEJFNGdOZWhLdGIzaVQwQnlpNzlVUnpNS1JwSDJycFVwTDJ0QXhUSUxrd2NicFJ3ZzNhRG9BMlIwSVdhQzRocHhYRnZ2VTUyT0ktQ1cwMlJ4ajhWNm1nNEx0Zm5TTXNVMnRraUVuai13MU14azhkRUtGby1xTnRTVnQ3TnprQkxDamhoUWNJMFhWSnYtek54ZldkVXNjeTZBWDg?oc=5",
+    "sourceName": "dailyenergyinsider.com",
+    "publishedAt": "2026-09-28T11:47:57.000Z",
+    "analyzedAt": "2026-10-01T18:20:34.065Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "Proposed legislation aims to expedite the interconnection process for new generation projects across U.S. grids.",
+    "angle": "Faster interconnection pathways reduce project timelines and improve IRR; CSMs should discuss how Raptor's analytics can help customers capitalize on accelerated deployment schedules and manage grid integration risks.",
     "play": "raptor_solar",
     "products": [
       "raptor_solar"
@@ -422,6 +729,110 @@
     "play": "raptor_solar",
     "products": [
       "raptor_solar",
+      "sentry"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "5WlhoaWIwWkJOVkZuP29jPTU",
+    "title": "Electricity Generating : EGCO Group Closes 49% Stake in U.S. 339 MW Wind and Solar Farm Portfolio, “Pinnacle IV”, Boosting Overseas Green Energy and Earnings",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWjBXLVRFZzlVQjdnSC1IZGFSMUJVOVRTSkh6RlRuRS1pRHA0MzR1NnYzZFNBQVRTZy1qMjIwZGdoTkpBdmhpWldDcUxhM0E1VU8xREZpS0xMb2Y1UkdmTG9WVFBDM2dLVlZ3U3BLZnNGMDhJcmVOUWdIRm01MFhPU3lfb2VVeU5qZ0k4Z1psalQzLWpULS02dGR4WVVoak9BR3MyVkZscEZmajdacDNWRkVZeDh3MGZEV3pkR21kb2ZZblVVS3VlSFVQVWtEbldMS3VVLUpXSkVyZXhib0ZBNVFn?oc=5",
+    "sourceName": "marketscreener.com",
+    "publishedAt": "2026-09-28T01:36:06.000Z",
+    "analyzedAt": "2026-10-01T18:20:11.814Z",
+    "updateType": "ma",
+    "relevance": 1,
+    "summary": "EGCO Group closes 49% stake in U.S. 339 MW wind and solar farm portfolio (Pinnacle IV), bolstering overseas green energy and earnings.",
+    "angle": "Mixed wind-solar portfolio acquisition shows continued capital deployment in hybrid assets. Raptor Solar can support the solar components of newly acquired mixed portfolios, enabling centralized performance management and cross-asset optimization.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "MjFuUlRoVGFYcHFadz9vYz01",
+    "title": "Crews are driving steel piling across 2,500 acres of western New York farmland, and the nearly 1 million panels going up there will form the largest solar farm the state has built",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiNzg3ZnZXNWVZYjFHSENiV09ZWTZWal9BUm9IQVZvMGNNQzBYMjB6Y2p4eEM0RHREZUxtRTdKNGQzRXEzVmFRT2g0ZHRoWE1NMnVwMjhablVvRmRlZ1NfQ0VtNjhtRmdzNTlvWi0teERzOU1xa21nRThTaXpqZw?oc=5",
+    "sourceName": "EcoPortal.net",
+    "publishedAt": "2026-09-27T01:50:00.000Z",
+    "analyzedAt": "2026-10-01T18:20:06.475Z",
+    "updateType": "expansion",
+    "relevance": 2,
+    "summary": "New York is building its largest state solar farm: ~1 million panels across 2,500 acres of western farmland.",
+    "angle": "Major greenfield build in a tier-1 market signals strong pipeline for O&M software and inspection services as construction moves to operations. New projects of this scale need digital twins and visual analytics from day one.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar",
+      "inspections"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "a2xFTFRGemNHSlZhdz9vYz01",
+    "title": "Anza expects at least a 40% spike in U.S. solar module prices after Section 232",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWWlXQWFDQkxwTEZsdFFJNjZ1a0pLdGFpQzZqTVAzZnd3UFcyRzlEbzJhc0oyNWhZbWN1UWZmV0JzS3B1X1RxOTl0TkVUZnpLc1JBSl9JQVloODltWkVvTG5DcjdtUDBTeWlic0dmcjlKcU0xMi1Hd0xFRWVvcTVEVlk5VWNjNFdhbkpKMll2WkQ1bVBId1JwQmxZdlRtaHBydlB4S1RfTlQ2SklELTFzcGJVaw?oc=5",
+    "sourceName": "pv magazine Global",
+    "publishedAt": "2026-09-26T08:03:55.000Z",
+    "analyzedAt": "2026-10-01T18:20:28.024Z",
+    "updateType": "trade",
+    "relevance": 3,
+    "summary": "Section 232 tariff on polysilicon expected to cause at least a 40% spike in U.S. solar module prices, with a December 4 deadline. U.S. Commerce blocking pre-tariff stockpiling to enforce the measure.",
+    "angle": "Major procurement cost shock hitting all solar operators and O&M providers. This reshapes project economics and capex timelines for utility-scale and C&I customers; opportunity to discuss cost optimization and operational efficiency gains from Raptor Solar.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "Q0ZGxGTE5EZEZla0U_b2M9NQ",
+    "title": "FCC Proposes Ban on Drones With LiDAR Sensors",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CNjR3TlNydXg4Yzl4dk5wUXFmMmZJc2JSZ2JEZ3BqRWJyVEQwRmIwRFVWMTFPVGhfbU1XMEZycHJ3bHZBdWtSbTBKMHdVTXNBLV90ZklpSnlQOHllOEozSGhhNnJFUURwbm9fem44dlFLNDdFekE?oc=5",
+    "sourceName": "The SOFX Report",
+    "publishedAt": "2026-09-26T00:45:14.000Z",
+    "analyzedAt": "2026-10-01T18:20:15.989Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "FCC proposes ban on drones equipped with LiDAR sensors, citing spectrum interference concerns. This directly affects thermal and sensor-based drone inspection workflows used in solar O&M.",
+    "angle": "Raptor Maps Sentry and Inspections customers relying on LiDAR or advanced sensor payloads for autonomous diagnostics need to understand regulatory impact on their drone fleets and sensor roadmaps.",
+    "play": "sentry",
+    "products": [
+      "sentry",
+      "inspections"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "J0TmFtNU9ZVzlQYnc_b2M9NQ",
+    "title": "First Solar (FSLR) Keeps Hitting New Lows While Wall Street Says Buy. Who’s Right?",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObEVERU9MSERUOEFoVV9Tc2hHUG5oNF9ZVXhtRnVjNDNZWnF1ZFduT191VVdGLWs3ZkVpVU5wZEZpYlVWVGJ3ZmhzdmhGeTVKbTYyX1FYaUlKRFJNbVBGb1U3Z1h1U0hGQ1Z5RHBNdjhCYVY3Tmh2amdJZDhJT29GajBNc1ZqM29lSkZKYXA2Q2JjQ2tNam5OYW9Pbw?oc=5",
+    "sourceName": "Yahoo Finance",
+    "publishedAt": "2026-09-26T00:15:00.000Z",
+    "analyzedAt": "2026-10-01T18:20:28.024Z",
+    "updateType": "competitive",
+    "relevance": 2,
+    "summary": "First Solar stock hitting new lows despite Wall Street buy ratings, signaling market skepticism about the company's near-term outlook despite analyst support.",
+    "angle": "First Solar's market weakness may create procurement and supply chain uncertainty for customers; relevant for conversations with major operators sourcing modules or working with First Solar-dependent supply chains.",
+    "play": "none",
+    "products": [],
+    "mentionedAccounts": [
+      "First Solar"
+    ]
+  },
+  {
+    "id": "yVTNUVGhNUVdaTFFRP29jPTU",
+    "title": "DHS Lab Grounds 3 of 5 Blue UAS in NYC, Withholds Chinese Drone Scores",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOT2FKSVNpVTRGd1hDblR4cDhJTEI4S1MwQWQ5cW9kR3NJNWZ2WG04VFA5ck9NVGxHM3dPenNmX05HeDVyd0RPejlxV19IRTVsZ3kzR3VZY2tRYzVpbHZhakdHeUtQOUtYYlJ4alRSeVhQRVdIOXR4QlZEM2U3TThMQWZLQQ?oc=5",
+    "sourceName": "dronexl.co",
+    "publishedAt": "2026-09-25T18:21:00.000Z",
+    "analyzedAt": "2026-10-01T18:20:22.716Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "DHS Lab grounds 3 of 5 Blue UAS (drones) in NYC and withholds scores for Chinese drones, signaling tightening U.S. regulatory scrutiny on drone equipment and operations.",
+    "angle": "U.S. drone restrictions and grounding orders directly impact autonomous inspection and Sentry drone-dock operations; customers need to understand evolving FAA/DHS policy on drone equipment certifications and regional flight restrictions.",
+    "play": "sentry",
+    "products": [
       "sentry"
     ],
     "mentionedAccounts": []
@@ -472,6 +883,23 @@
     "summary": "Solargis analysis shows summer 2026 irradiance departed significantly from long-term seasonal averages due to a powerful El Niño season, disrupting global solar resource assumptions.",
     "angle": "Unexpected resource variability highlights the value of continuous performance monitoring and accurate baseline modeling to explain yield shortfalls and protect revenue forecasts.",
     "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "xUWVEWlRVMVl4WjBFP29jPTU",
+    "title": "Ares expands relationship with EDPR through acquisition of solar and storage portfolio",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNlRFV3IxSGk2T0V2a0xFaXhNRkw3Nk1yajUyT2QyakliSTROdHJfa2Zhc3F2b1lyZzNySk91a2pwZ2FyV09tRGhXN2NZd2psWTd5RXpIRUxZb3VKeHgweDV6elRxRXEzYXg1ZjNwOGhPNnBtRm1xODJNRG94YlAxOVQ5YnNlTmFiakJVZlloR1lkcUNSdG1ROFZkQWJmQXVqM3ZnSC1QeDZTU1YxZ0E?oc=5",
+    "sourceName": "Institutional Real Estate, Inc.",
+    "publishedAt": "2026-09-25T10:53:52.000Z",
+    "analyzedAt": "2026-10-01T18:20:06.475Z",
+    "updateType": "ma",
+    "relevance": 2,
+    "summary": "Ares expands its relationship with EDPR (EDP Renewables) by acquiring a solar and storage portfolio from EDPR.",
+    "angle": "EDPR is a major global IPP; loss of assets to Ares signals potential O&M or platform shifts. Monitor for churn risk if Ares brings its own tools, or expansion opportunity if Ares adopts platform services.",
+    "play": "retention",
     "products": [
       "raptor_solar"
     ],
