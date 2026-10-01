@@ -46,6 +46,27 @@ export default function AboutPage() {
         </p>
       </div>
 
+      <section className="border border-brand-200 rounded-xl bg-brand-50/40 p-5">
+        <h2 className="text-sm font-semibold text-slate-900 mb-2">About the data</h2>
+        <ul className="text-sm text-slate-600 list-disc pl-5 space-y-1">
+          <li>
+            The key accounts are companies {VENDOR.name} names publicly as customers or partners in its published case
+            studies and announcements. Products owned, relationship notes, and sponsors are inferred from those
+            sources, not from {VENDOR.name}&apos;s systems.
+          </li>
+          <li>
+            Every signal comes from public news coverage, linked to its source. Statuses such as &quot;At risk&quot; or
+            &quot;Expansion&quot; are the agent&apos;s automated read of that coverage for a customer success
+            conversation, not an assessment of any company&apos;s health and not {VENDOR.name} data.
+          </li>
+          <li>No contract values, renewal dates, or other non-public information are shown.</li>
+          <li>
+            This is an independent demo, not affiliated with or endorsed by {VENDOR.name}, and it isn&apos;t indexed
+            by search engines.
+          </li>
+        </ul>
+      </section>
+
       <ol className="space-y-4">
         {STEPS.map((s) => (
           <li key={s.n} className="flex gap-4">

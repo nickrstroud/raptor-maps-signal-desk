@@ -12,6 +12,8 @@ import { DISCLAIMER, FOOTER, VENDOR } from "@/lib/vendor";
 export const metadata: Metadata = {
   title: `${VENDOR.appName} · ${VENDOR.teamLabel}`,
   description: `An always-on agent that watches ${VENDOR.name}'s key accounts and the clean-energy market, and ranks who needs a conversation first.`,
+  // A demo built on real, named companies: shareable by link, kept out of search engines.
+  robots: { index: false, follow: false },
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
