@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Sunrun",
+    "website": "https://www.sunrun.com/",
+    "pinned": true,
+    "newsQuery": "\"Sunrun\"",
+    "products": ["modules", "inverters", "monitoring"]
+  },
+  {
+    "name": "Nexamp",
+    "website": "https://www.nexamp.com/",
+    "pinned": true,
+    "newsQuery": "\"Nexamp\"",
+    "products": ["modules", "om_services"]
+  },
+  {
+    "name": "Freedom Forever",
+    "website": "https://freedomforever.com/",
+    "pinned": true,
+    "newsQuery": "\"Freedom Forever\" solar",
+    "products": ["modules", "inverters", "storage"]
+  }
+]

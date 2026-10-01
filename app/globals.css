@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+:root {
+  --background: #f7f9fc;
+  --foreground: #0a1c32;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  /* Raptor Maps orange #FBA556 (500) and navy #0A1C32 (900), from raptormaps.com.
+     700 is a text-safe orange. */
+  --color-brand-50: #fff7ed;
+  --color-brand-100: #ffecd6;
+  --color-brand-200: #fdd5a8;
+  --color-brand-300: #fcbd7c;
+  --color-brand-500: #fba556;
+  --color-brand-600: #e3842c;
+  --color-brand-700: #a8551a;
+  --color-brand-900: #0a1c32;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}

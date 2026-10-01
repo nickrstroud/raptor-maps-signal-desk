@@ -1,0 +1,27 @@
+name: Daily signal run
+
+on:
+  schedule:
+    - cron: "0 13 * * *" # 9am ET daily
+  workflow_dispatch: {} # allows manual trigger from the Actions tab for demos
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v2
+      - run: bun install
+      - run: bun run run
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      - name: Commit updated reports
+        run: |
+          git config user.name "signal-desk-bot"
+          git config user.email "actions@github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "chore: daily signal run"
+          git push

@@ -1,0 +1,40 @@
+[
+  {
+    "company": "BayWa r.e.",
+    "runAt": "2026-08-02T17:23:26.285Z",
+    "source": "backfill",
+    "headline": "BayWa r.e. in extended restructuring through 2030; parent company financial stress poses renewal risk; no material operational changes to North American O&M business",
+    "signals": [
+      {
+        "category": "Parent company restructuring extended to 2030",
+        "updateType": "distress",
+        "play": "retention",
+        "score": -1,
+        "summary": "BayWa AG's restructuring timeline extended to 2030 with interest waivers, shareholder disempowerment, and delayed audited results. Parent company financial stress and creditor oversight create uncertainty around subsidiary strategy and budget allocation.",
+        "suggestedAction": "Schedule a check-in with Sean Bucher to understand any changes to the North American O&M business budget, staffing, or strategy coming out of the parent restructuring. Frame as partnership continuity: confirm that Raptor Solar and inspections remain core to their ROCC roadmap, and position any near-term cost-per-MW ROI proof points as useful in conversations with new stakeholders.",
+        "sourceName": "AD HOC NEWS",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWXBxMm52R0pYaEFkcWtoYkJBRXdKbFppeGhqaDM2ZmNOTWJlQ3RNalhfejFaUFhPMzdxUzN3VFI3dVhnRjVWR0ZtWFR4TDZLbDNJQVB0RDNkVkpqMkNUWnVoN2lyVEIxM2RXSWxDX1F6emxJYi1kdlU3LVU5R0lpRXJIVy15S1dxdmN3b1Z2QWtOZXVCZUxySHMyeUZYazBVdDNmemhPcm9xamE2b3A3cm42dUMzQjc0bmMwckhUc1BoYlBWYmlGLXl0aGFVTGtrdFBhTEJTQVVGR2xs?oc=5",
+        "publishedAt": "2026-07-29T07:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "company": "BayWa r.e.",
+    "runAt": "2026-10-01T17:23:26.285Z",
+    "source": "backfill",
+    "headline": "BayWa AG creditor restructuring tightens; BayWa r.e. turnaround extends to 2030 with vendor review and budget risk",
+    "signals": [
+      {
+        "category": "Parent company restructuring / creditor agreement",
+        "updateType": "distress",
+        "play": "retention",
+        "score": -1,
+        "summary": "BayWa AG has locked in a near-unanimous creditor restructuring deal (99.98% of liabilities backing the Creditor Truce) with hybrid bondholders facing deep write-offs. The restructuring extends BayWa r.e.'s turnaround to 2030. While the r.e. division itself was not divested in 2026 as planned, financial pressure and extended restructuring heighten risk of budget freezes, vendor consolidation, or change-of-control scrutiny at the subsidiary level.",
+        "suggestedAction": "Proactively schedule a business review with Sean Bucher to validate BayWa r.e. Operations' 2027 budget for Raptor Solar and RS Inspections maintenance and expansion, and position Raptor Maps as a cost-control tool during restructuring (cost per MW, truck-roll reduction via Sentry). Prepare ROI case studies (production recovered, field-hour efficiency gains) in case new ownership or a turnaround officer reviews vendor spend.",
+        "sourceName": "AD HOC NEWS",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbzA3RmhYZWhkbVhMZm1QYjN4QVZHb08xd0V2b21sOGNiMjNqWUM4UTVpVGgwYnowcW1DbS1RSXFWTHd0VTRKTGxzaDdTdWNYXzhFZzIwdzBBYUFGZ1A4TUVaUUc1XzNXQ0RtaTB4dEEyM0pSQy1qQXBxbjJEUUMtb1hhXzFuR0wyYUZIR0dyaHppY0duR1RuTVBYWUdDQllOTTViWFlvZ3lydzF5SndTdnJOVjJSYVc0aTZEZGhzNUVweEJGakVidWpHRkJsOGptZ3BvQUNB?oc=5",
+        "publishedAt": "2026-09-27T17:40:55.000Z"
+      }
+    ]
+  }
+]

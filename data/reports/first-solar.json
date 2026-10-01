@@ -1,0 +1,62 @@
+[
+  {
+    "company": "First Solar",
+    "runAt": "2026-08-02T17:26:36.084Z",
+    "source": "backfill",
+    "headline": "First Solar Q2 2026: contract cancellations and revenue miss signal demand headwinds; monitor warranty/quality impact on Raptor Maps installed base",
+    "signals": [
+      {
+        "category": "Q2 2026 contract cancellations and revenue decline",
+        "updateType": "distress",
+        "play": "retention",
+        "score": -1,
+        "summary": "First Solar reported Q2 2026 revenue of $1.06B, down YoY, driven by contract cancellations. Despite profit growth, weakening demand signals potential pressure on First Solar's OEM partnerships and on the utility-scale solar operators who deploy First Solar modules—Raptor Maps' core customer base. Demand softness may delay new project commissioning and could lead operators to defer capex on field quality, warranty analytics, and inspections.",
+        "suggestedAction": "Schedule a check-in with First Solar's VP of Quality or Warranty Engineering to (1) understand the contract cancellation drivers and (2) assess whether any of those cancellations involve First Solar modules already deployed on Raptor Maps customers' sites. If module-quality issues or warranty claims are rising, position RS Inspections data (thin-film cracks, thermal anomalies, water ingress) as evidence for First Solar's warranty defense and for their customers' O&M planning. Monitor for any signal that First Solar is tightening module quality specs or warranty terms.",
+        "sourceName": "WSJ",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVzRzMHVDSUtVcG5paHU2bWJFRzFkSkRqMENUMkd1X1FEeGp2aGVKTEdFaWt0cVN1ZlVfMU9jMjJvbnlFMUE4cEQ2M1Y4N2MyZ1Q3akhNNDZqN2FkbmhLaTdGZGlpSzRQV2owaDRCOUgxRTRvaFRYd3lNOG12Nk5LelR2WnI4ZmFFVkxrbW1Ua2dNMHBDejR3OGY5VQ?oc=5",
+        "publishedAt": "2026-07-30T07:00:00.000Z"
+      },
+      {
+        "category": "Market pressure and analyst skepticism",
+        "updateType": "competitive",
+        "play": "none",
+        "score": 0,
+        "summary": "Stock analyst commentary (Jim Cramer, Trefis comparative analysis, class-action suit filing) reflects investor concern about First Solar's near-term outlook. While not directly a Raptor Maps risk, market stress on First Solar may reduce their appetite for new vendor partnerships, co-marketing initiatives, or joint R&D funding.",
+        "suggestedAction": "Do not initiate new co-marketing or expansion conversations until First Solar's earnings narrative stabilizes (likely post-Q3). Maintain the OEM partnership on existing terms (RS Inspections thin-film ML models). Re-engage on Raptor Solar cross-sell or joint standards work once management guidance is reset.",
+        "sourceName": "cnbc.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaDFsaTBycVZyUUhBcS1NY2RRcDJISHNBcWJ4a1BVbEtkMFRKLTJXN0c0NFhNTGlURHFRa05RX0VZR0s0ckRuVGlwdmhUbFVhNzZONFVVT0xNWW9XWHpHQjRyZERkTVllb0x6N3lhelVuU1l1aTJuaFctcmI3RnNEaGlFa2N5SHZ5VV9aSVpaZnFyLWNXbU8yb1A2Q0lJczRXaldLYUFPbWJUWUg3TUNFRE1YbzBDOTMtZ053LUhETS00dkFyOUNR?oc=5",
+        "publishedAt": "2026-07-20T07:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "company": "First Solar",
+    "runAt": "2026-09-01T17:26:36.084Z",
+    "source": "backfill",
+    "headline": "First Solar navigating tariff policy shifts and Louisiana factory ramp challenges; limited near-term Raptor Maps expansion signals",
+    "signals": [
+      {
+        "category": "Louisiana factory production ramp constraint",
+        "updateType": "expansion",
+        "play": "none",
+        "score": -1,
+        "summary": "First Solar's 2.4M sq ft Louisiana plant (begun 2025) is underperforming capacity targets one year in, signaling potential slower-than-expected domestic module supply growth and reduced pressure on First Solar owners to scale fleets quickly.",
+        "suggestedAction": "Monitor First Solar's 3Q earnings call for Louisiana plant resolution timeline and any guidance cuts on domestic capacity. If production ramps recover, utility-scale customers may accelerate deployments requiring RS Inspections baselines on new sites.",
+        "sourceName": "The Economic Times",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPWHlOLWd4V29kTWRGblQyeWcwTVpnYmJtZWZJRGNLYWVHTjVqdlRodEdNQThBbUNJM01ZOUMyMEExUHdLUTEwTjhVdzFxMk5leEJlaS1yWmhwalNacENZSEVVbFl5SjhMWVNKQ2ZxZG1fcXZaNWdJSjJVVnpVRTl1YWN4bXkxby1iSFNKVlV4NGVEWHNYV0xqSFl2ZHZkZXp3d0ZaTUt3R2hUdW8zSkpvZG9mOXNudmoyc2xIVlFZYlloenhjRUxqbXZzQlJ6QWJQblZUQVJHVVZ1aUt1cXE2OXdJbjdpOWZIby1xaEVuWHI3bE5Oa3FzRWtHTEhrVzlLTW9fVm52T2c5ZGUxMDEyVlZaSlNzUHI5X1BzUnNrMU1BbzI2NEZNd2VGOFJaMTd5Yk1RbW9xYnBXRWtDbGl4OUtpeGVwdlBJOFZLdTFRR2lEajY3YkZyatIB3gJBVV95cUxOMFRMczhEVGFobGdlRHFRU1dqVUstYUdEVnMtckpleldjNVFhaGprQkFCUndMZVA1UTUyRjY1SF9Ma01EcFE1R2tRc1lfR1lwRHlZSDJyY3dNSGJjX3Y5aFRlY2JOUWhUSlA2LXdyNTFRZmVtTkZlTm5xQnB1VUhTVm1HNllZVkdkSU5WWlR5aGdyVEZBZmVnc1llbG50NmI0czhuQVR2ZHBKTzNBVnREN21qbDdNLUR2S1RaZnB6WnFmQmE4a0ExVjVPakQ2bndIRDBBOVBLTU1PT1JiZ1ZjT185VlZFRHJOWGhORDNSZHQ0ZTAyS2FXV1h2R3hwQkRQZXlJZVh3VUxjQUpUTzRuUFdmb2c3TTlTZlRoelFLTHNIc1dRalRTTjd0cU9wZnl2eTdmV1dfVk1BTVB1RU9FRUdpZ1ZDT0hkaVlGcXhqN0ZnN2pkLVRiRG5uZ21Gdw?oc=5",
+        "publishedAt": "2026-08-26T07:00:00.000Z"
+      },
+      {
+        "category": "Tariff policy tailwinds for US-made thin-film",
+        "updateType": "policy",
+        "play": "advocacy",
+        "score": 1,
+        "summary": "Trump tariffs on polysilicon products favor First Solar's US-made CdTe modules; CEO endorsed them as 'well thought out.' This improves First Solar's competitive position vs. Asian rivals and may drive higher module demand from US utility-scale developers.",
+        "suggestedAction": "Prepare a co-marketing narrative for First Solar's sales team: tariff tailwinds → more US solar deals → more First Solar modules in fleets → more Raptor-inspected plants. Request a call with First Solar's VP Business Development to explore joint case studies or reference customers signing new long-term supply deals.",
+        "sourceName": "cnbc.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPX21nSGI2YjRuMG5BdEp6SnYyMmNvR3lWSzV1WTlLMHVFLWRBNTdhUHhud0I0TG9vblBzN29fRG12WTJkaE5pQ0FTVkhETVVPbTF4azRvS1ZBVDEyQjBDcjJZbXRDSVNCeE53N3Qtc1JOaDdkcDRfNXhsdlFLRG40RkcxMTQ5M1B5TktIcTlYdGZ5TFBBRndIR0lTcGV5YWdMVTBTWWVDTjdjN2lLcGxHRlZvTEx0MENaZjIzM1VuOXNkazRjUHBhc3VPbjA2MzQxMzYxX3RLdUdwZw?oc=5",
+        "publishedAt": "2026-08-07T07:00:00.000Z"
+      }
+    ]
+  }
+]

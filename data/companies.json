@@ -1,0 +1,158 @@
+[
+  {
+    "name": "Madison Energy Infrastructure",
+    "website": "https://www.madisonei.com/",
+    "pinned": true,
+    "type": "C&I solar owner-operator (private)",
+    "newsQuery": "\"Madison Energy Infrastructure\" OR \"Madison Energy Investments\"",
+    "products": [
+      "raptor_solar",
+      "inspections"
+    ],
+    "notes": "One of the largest US C&I solar owner-operators: ~1 GW across ~800 sites in 30 states. After acquiring a ~300 MW portfolio of ~7-year-old assets, ran 'Project Slingshot': Raptor Maps drone inspections across the new sites found hundreds of offline strings that SCADA/inverter monitoring couldn't see; a prioritized punch list was ready ~10 days after scans, and 24 technicians in six states restored ~3 MW in three weeks. Fleet-wide program recovers ~2.5% production annually. 100% of sites and inspection history (incl. backfilled pre-acquisition data) are in Raptor Solar as the shared system of record; MEI dispatches drones on underperformance signals. Whitespace: RS Sentry fits only larger sites in a distributed C&I fleet; Raptor Comply is a weak fit since C&I sites are mostly below NERC registration thresholds. Every new acquisition is an onboarding + baseline inspection opportunity. Integration depth (stickiness): an earlier case study, from when MEI (then Madison Energy Investments) managed ~200 sites, shows Director of Asset Management Chioma Enechukwu wiring the Raptor Maps API into MEI's stack alongside AlsoEnergy (time-series production data), 3Megawatt (billing), and Power Automate/Power Apps/Power BI, automating investor and client reporting that would otherwise have needed 2-3x the team; they use anomaly counts and estimated power impact from inspection reports for preventative maintenance. Growth from ~200 to ~800 sites on the platform is the relationship's expansion story. API/integration changes, reporting needs from new investors, or a switch of monitoring vendor (e.g. away from AlsoEnergy) are worth a conversation. Confirm Chioma Enechukwu is still in role (older case study); a multi-threaded set of sponsors protects the renewal.",
+    "sponsors": [
+      {
+        "name": "Matthew Messer",
+        "title": "VP Asset Management"
+      },
+      {
+        "name": "Esteban Schrick",
+        "title": "Senior Manager of Analytics"
+      },
+      {
+        "name": "Mitchel Gehlig",
+        "title": "Regional Asset Manager"
+      },
+      {
+        "name": "Chioma Enechukwu",
+        "title": "Director of Asset Management (earlier case study; confirm still in role)"
+      }
+    ]
+  },
+  {
+    "name": "Apex Clean Energy",
+    "website": "https://www.apexcleanenergy.com/",
+    "pinned": true,
+    "type": "Utility-scale developer & owner-operator (private)",
+    "newsQuery": "\"Apex Clean Energy\"",
+    "products": [
+      "raptor_solar",
+      "sentry",
+      "inspections"
+    ],
+    "notes": "2+ GW of clean energy assets under management (solar, wind, storage). RS Sentry deployed across the solar fleet for reliability, risk management, and critical event response. When a tornado hit a 200+ MW Midwest site, Raptor Maps' Remote Operations Center was livestreaming Sentry footage to Apex leadership within an hour; the first flight cleared the substation and main power transformer, so Apex avoided a precautionary shutdown and the site never went fully dark. Follow-up Sentry inspection cascades mapped cracked modules, displaced trackers, and erosion; remediation started 25% faster and technicians stayed out of harm's way. Every flight builds a timestamped, claims-grade system of record now used for insurance and OEM warranty processes. Expansion: Sentry on new sites as they reach COD, weather-response SOPs fleet-wide, warranty-claim evidence packages. Whitespace: Raptor Comply is a strong fit, since 200+ MW utility-scale sites are above NERC registration thresholds. Wind and storage news is relevant only where it affects their solar fleet or budget.",
+    "sponsors": [
+      {
+        "name": "Neil James",
+        "title": "VP Operations and Maintenance"
+      }
+    ]
+  },
+  {
+    "name": "Luminace",
+    "website": "https://www.luminace.com/",
+    "pinned": true,
+    "type": "Distributed generation owner-operator (Brookfield/Temasek)",
+    "newsQuery": "\"Luminace\"",
+    "products": [
+      "raptor_solar",
+      "inspections"
+    ],
+    "notes": "Distributed energy owner-operator, now 1,700+ sites and 500+ customers in 32 markets (was ~1,400 MW / 1,400 sites at the 2024 Raptor Maps announcement) (rooftop, carport, ground-mount) in 28 states, DC, Puerto Rico, and Canada; sells decarbonization-as-a-service to utilities, co-ops, C&I, and public sector customers. Selected Raptor Maps' Instant Inspections AI in March 2024 after validating it across rooftop, carport, and ground-mount sites: technicians fly, get results, and remediate high-priority thermal anomalies the same day (99% faster than conventional aerial inspections), eliminating redundant truck rolls and mitigating fire risk. Data feeds Raptor Solar as the system of record for Luminace engineers. Relationship is ~2.5 years old, so likely in a renewal cycle. Expansion: Instant Inspections coverage across more of the 1,400 sites and new acquisitions/developments. Whitespace: RS Sentry only for larger ground-mount sites; Raptor Comply is a weak fit (distributed sites are below NERC thresholds). Ownership changed in late 2025: Temasek bought 50% from Brookfield (EU-cleared Oct 2025), and Luminace was split into an operating company (operating assets, now jointly controlled by Brookfield Super-Core Infrastructure Partners and Temasek) and a separate development company. The Raptor Maps relationship most likely sits with the operating company; confirm the contracting entity and whether new owners are reviewing vendors or pushing for O&M cost cuts. The ~300 sites added since 2024 are a coverage-expansion opportunity. Further ownership or sector-consolidation moves are relationship-level risk or opportunity. Not to be confused with Lumina Solar (a different residential installer).",
+    "sponsors": [
+      {
+        "name": "Elizabeth Brennan",
+        "title": "COO"
+      }
+    ]
+  },
+  {
+    "name": "DNV",
+    "website": "https://www.dnv.com/energy/services/solar/",
+    "pinned": true,
+    "type": "Technical advisor & program implementer (channel partner)",
+    "newsQuery": "\"DNV\" (solar OR photovoltaic OR \"distributed energy\" OR rebate OR drone OR utility)",
+    "products": [
+      "raptor_solar",
+      "inspections"
+    ],
+    "notes": "Global independent energy expert and technical advisor (independent foundation-owned, not a solar owner). On behalf of a utility customer, DNV runs a large C&I solar rebate program that pays businesses per installed panel. Instead of manual rooftop counts, Raptor Maps' enablement team trained DNV's in-house drone pilots in 3 days; DNV uploads flights to Raptor Solar, which automates module counts and builds a GIS digital twin with thermal anomalies from the thermography. DNV plans to use the same drone team for other customer missions. This is a partner/channel relationship: growth comes from more utility programs, more DNV client engagements running on the platform (inspections, independent engineering, due diligence), and referrals. Expansion signals: new utility incentive or rebate programs, DNV winning independent engineer/owner's engineer or inspection mandates, DNV research on solar reliability. Whitespace: RS Sentry is a weak fit (DNV doesn't own sites); Raptor Comply is a possible co-sell or referral alongside DNV's cybersecurity/NERC advisory work. Ignore DNV maritime, oil & gas, and certification news unless it affects the energy-systems business. Risk: DNV building or buying a competing drone-analytics capability.",
+    "sponsors": [
+      {
+        "name": "Scott DuBois",
+        "title": "Senior Consultant"
+      }
+    ]
+  },
+  {
+    "name": "BayWa r.e.",
+    "website": "https://www.baywa-re.com/en",
+    "pinned": true,
+    "type": "O&M provider / ROCC (subsidiary of BayWa AG, BYW.DE)",
+    "newsQuery": "\"BayWa r.e.\" OR (\"BayWa\" (renewable OR solar OR restructuring))",
+    "products": [
+      "raptor_solar",
+      "inspections"
+    ],
+    "notes": "BayWa r.e. Operations Services runs a ROCC (Remote Operational Control Center) and O&M for 1+ GW of managed solar in North America, largely for third-party owners. Partnered with Raptor Maps to build an in-house drone pilot program (Raptor Maps trained and implemented) and to give the ROCC and field teams actionable insights: Raptor Solar turns their drone data into site-health insights and GIS digital twins; field techs navigate to remediation tasks in the mobile app; older third-party inspection reports were digitized into one system of record; performance engineers run degradation analysis and fleet KPIs on the platform. Expansion: more managed MW as they win O&M contracts; RS Sentry is a strong fit for a remote control center (autonomous on-site eyes, fewer truck rolls); Raptor Comply can be offered to the utility-scale owners they operate for. Major risk context: parent BayWa AG has been in a financial restructuring since 2024; in 2026 the planned sale of BayWa r.e. was cut from ~EUR 1.7B to ~EUR 900M after US subsidy cuts, the largest shareholders put their 67.1% stake in a trust, and BayWa r.e. is moving to a turnaround/'transformation' shareholder, with restructuring extended to 2030. Watch for divestment of the North American O&M business, budget freezes, layoffs, or a new owner reviewing vendors; also an opening to prove ROI (cost per MW, production recovered) to new owners.",
+    "sponsors": [
+      {
+        "name": "Sean Bucher",
+        "title": "Director of ROCC and Engineering, Operations Services"
+      }
+    ]
+  },
+  {
+    "name": "First Solar",
+    "website": "https://www.firstsolar.com/",
+    "pinned": true,
+    "type": "Module manufacturer / OEM partner (NASDAQ: FSLR)",
+    "newsQuery": "\"First Solar\"",
+    "products": [
+      "inspections"
+    ],
+    "notes": "Leading US domestic solar manufacturer (CdTe thin-film modules), so an OEM/technology partner rather than a plant operator. Starting spring 2023, Raptor Maps and First Solar ran joint field research (altitude, gimbal pitch, tracker angle, conditions) to set thin-film-specific aerial inspection standards, and Raptor Maps built ML detection for millimeter-wide top-sheet glass cracks that cause water ingress, ground faults, and lost production. Thin-film-specific RGB and thermal anomaly guidelines are now part of RS Inspections, which matters because First Solar modules are on a large share of US utility-scale plants (so every First Solar owner is a Raptor Maps prospect). Relationship risk: no named sponsor in the case study, so the relationship may be single-threaded; identify champions in field quality, warranty, or reliability engineering. Expansion: Raptor Solar for fleet-wide field-quality and warranty analytics across the installed base, co-marketing to First Solar owners, joint inspection standards for new module series. Watch: manufacturing defects or warranty provisions (e.g. the 2024 Series 7 issue), new factories and capacity, Section 232/AD-CVD tariffs and 45X credits (which favor US-made thin film), and big supply deals with utility-scale owners. RS Sentry and Raptor Comply don't apply to a manufacturer. Ignore routine stock-price and analyst-rating articles.",
+    "sponsors": []
+  },
+  {
+    "name": "Enel Green Power",
+    "website": "https://www.enelgreenpower.com/",
+    "pinned": true,
+    "type": "Global utility-scale owner-operator (Enel Group, ENEL.MI)",
+    "newsQuery": "\"Enel North America\" OR (\"Enel\" (solar OR renewables) (US OR \"United States\" OR Texas OR \"North America\"))",
+    "products": [
+      "sentry",
+      "inspections",
+      "raptor_solar"
+    ],
+    "notes": "Renewables arm of the Enel Group: 59+ GW worldwide (wind, solar, geothermal, hydro, storage); Raptor Maps works with Enel North America. Enel ran the first-ever North American utility-scale solar inspection with a DJI Dock (drone-in-a-box) at a 181 MWdc Texas site, with DJI (Dock + M30T drone), UVT (deployment services), and Raptor Maps (mission planning software directing the autonomous flights) - the origin of the RS Sentry motion. Sponsor William Badnaruk sees drone-in-a-box as the future of solar inspections: faster issue discovery, lower opex, faster production recovery. Key risk/opportunity: US restrictions on DJI (FCC covered-list and import actions) threaten DJI Dock hardware; Raptor Maps is robotics-agnostic, so proactively plan migration to compliant dock hardware before Enel asks, and use it to expand Sentry across the fleet. Expansion: Sentry and inspections across more Enel North America solar sites; Raptor Comply is a strong fit for a large NERC-registered utility-scale fleet. Watch: Enel selling or reducing US renewables assets (portfolio sales are a direct MW-loss risk), capex plan changes, new Texas/US solar and storage projects, leadership changes at Enel North America. Focus on North American solar; non-US and non-solar Enel news matters only if it changes the US solar fleet or budget.",
+    "sponsors": [
+      {
+        "name": "William Badnaruk",
+        "title": "Head of Industrial Risk & Cross Technology Improvement, North America"
+      }
+    ]
+  },
+  {
+    "name": "ACT Power Services",
+    "website": "https://www.actpowerservices.com/",
+    "pinned": true,
+    "type": "O&M provider (private; BridgePeak-led owners since 2026)",
+    "newsQuery": "\"ACT Power Services\" OR (\"ACT Power\" solar)",
+    "products": [
+      "raptor_solar",
+      "inspections"
+    ],
+    "notes": "Tech-forward solar O&M provider. In February 2023 signed an exclusive partnership making Raptor Maps the solar analytics provider across its portfolio (then 2+ GW under management, 3 GW under contract): client-specific analytics and flexible reporting from the Raptor Solar digital twin, faster identification and remediation of underperformance, and more frequent inspection refreshes to track anomalies over time. Major 2026 change: ACT went through Chapter 11; a strategic investor group led by BridgePeak Energy Capital acquired it out of a court-approved auction (closed January 31, 2026, announced April 2026). Kyle Cooper was named CEO of the new company (ex-Cypress Creek Renewables and Duke Energy), Rebecca Cooper returned as CLO/GC, and Max Isaacs joined as Chief Operations & Safety Officer. ACT is now contracted for 9+ GWdc of solar and 2+ GWh of storage across hundreds of projects in 28 states, roughly 3x the 3 GW in the 2023 deal. CS questions: was the Raptor Maps contract assumed through the bankruptcy and on what terms, are any pre-petition receivables outstanding, does exclusivity still hold, and does platform coverage extend to the ~6 GW added since 2023 (a large expansion opportunity, and a risk if it isn't covered). New owners mean a vendor review is likely; a CEO-level sponsor who chose Raptor Maps before is a strong position to build from. The ~3.5-year-old deal is likely near renewal. Because ACT serves many owners, growth comes from ACT winning new O&M contracts (more MW on the platform) and from Raptor Maps showing up in ACT's client reporting. Storage (2+ GWh) is a growing part of their book. Expansion: RS Sentry as part of ACT's remote-operations offering; Raptor Comply offered through ACT to utility-scale owners it operates for. Risk: ACT being acquired by a larger O&M or IPP, losing major O&M contracts, or launching its own analytics; also an advocacy opportunity (joint webinars, references) given the CEO-level sponsor.",
+    "sponsors": [
+      {
+        "name": "Kyle Cooper",
+        "title": "CEO (cofounder; reappointed CEO under new owners, 2026)"
+      },
+      {
+        "name": "Max Isaacs",
+        "title": "Chief Operations & Safety Officer (joined 2026)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "company": "Enel Green Power",
+    "runAt": "2026-10-01T17:32:50.084Z",
+    "source": "backfill",
+    "headline": "Enel acquires 625 MW US solar portfolio in September 2026; material expansion play for Raptor Solar, Sentry, and Inspections across North America",
+    "signals": [
+      {
+        "category": "625 MW US solar portfolio acquisition",
+        "updateType": "expansion",
+        "play": "raptor_solar",
+        "score": 2,
+        "summary": "Enel acquired a 625 MW US solar portfolio (Faraday and Skyhawk solar plants, plus additional assets) for $760M in September 2026. This is a material expansion of Enel North America's MW under management and directly adds utility-scale sites requiring performance monitoring, digital twin setup, and baseline inspections.",
+        "suggestedAction": "Contact William Badnaruk or his team in Enel North America Asset Management this week to confirm the portfolio acquisition close date, site locations (particularly if Texas-based), and planned onboarding timeline to Raptor Solar. Offer to conduct a rapid digital-twin setup and baseline inspection plan for the new sites, flagging any performance baselines already available from the prior operator. Then propose a phased RS Sentry rollout for the new sites (flagging the DJI restrictions and Raptor Maps' hardware-agnostic path) and a baseline RS Inspections pass within 60-90 days of close to document as-acquired condition.",
+        "sourceName": "Business Wire",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVm1IVjY5bVRkVklPcExwbnZpWDJQblJtNTg4V2lzRV8ySWQ2OTBzRkxIdi1iUm1rdXliZnFDUjBseHpmMlNUZUZlU3NzOWVIMno5SnMxOXVoenZ4OVcwRS15R2JRWEF2ZFkzS0pnN25FNTJZZzFmX1NpZ2lUVU9UV0dBZmVTWFhDWFNlN1VuQ25fdmRadFJFckxySm1kM1ZNWVlyak5DQXlDbDAzV2V2THppVVVWb0VvWkY4c3B2ZnJRSjAxRFNfY041WVdrWVJOZG45S3d3RQ?oc=5",
+        "publishedAt": "2026-09-10T07:00:00.000Z"
+      }
+    ]
+  }
+]

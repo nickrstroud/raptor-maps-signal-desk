@@ -1,0 +1,62 @@
+[
+  {
+    "company": "Apex Clean Energy",
+    "runAt": "2026-08-02T17:08:34.924Z",
+    "source": "backfill",
+    "headline": "Apex Clean Energy planning 350 MW solar plant near Buckeye; material expansion opportunity for Raptor Solar and Sentry onboarding",
+    "signals": [
+      {
+        "category": "New 350 MW utility-scale solar project",
+        "updateType": "expansion",
+        "play": "raptor_solar",
+        "score": 2,
+        "summary": "Apex Clean Energy announced plans for a 350 MW solar plant near Buckeye, Virginia. This is a material expansion of their solar portfolio and a significant opportunity to onboard the new site to Raptor Solar at construction/commissioning phases and deploy RS Sentry for reliability and risk management as it reaches COD, consistent with their fleet-wide strategy.",
+        "suggestedAction": "Contact Neil James, VP Operations and Maintenance, to confirm project timeline (construction start, expected COD) and discuss onboarding the 350 MW site to Raptor Solar for performance intelligence during ramp-up and commissioning. Offer a phased inspection plan: RS Inspections for construction QA and pre-COD commissioning work, then Sentry deployment for ongoing reliability and storm response once operational. Position this as an extension of the proven storm-response SOPs that protected their 200+ MW Midwest site.",
+        "sourceName": "The Business Journals",
+        "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUGlMZ21BY3pHdlRjdE4wcEp2ZU13ZW9UcGNqWlFpWjlqS0xnZ2trX0ZMR2dSdV94TGV1aFpVR1VUVUZuTUg4djdWaGJLV2JNQ3dhUk56OE41bU5RTjhoWWxpN3lhekdKVEpZVklaeTNBWEY1blN2UXNVbWE2QnVtZTFEMnpxR0wyZnN5djByaHRzcHFIb1pJZ3JHN1hsNW8?oc=5",
+        "publishedAt": "2026-07-28T07:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "company": "Apex Clean Energy",
+    "runAt": "2026-10-01T17:08:34.924Z",
+    "source": "backfill",
+    "headline": "Strong expansion signals: 144 MW new Meta PPA + portfolio transaction complexity; project cancellation is a minor headwind",
+    "signals": [
+      {
+        "category": "New 144 MW Texas PPA with Meta (7th deal)",
+        "updateType": "expansion",
+        "play": "raptor_solar",
+        "score": 2,
+        "summary": "Apex and Meta closed their seventh PPA deal covering a 144 MW Texas solar project (Starling Solar). This is material expansion—Apex now has ~1.2 GW under Meta PPAs alone. New project will reach construction and COD, requiring commissioning QA, performance monitoring, and weather-response capabilities.",
+        "suggestedAction": "Confirm timeline for Starling Solar construction start and COD. Offer a commissioning-phase RS Inspections plan (aerial thermography, DC health, visual QA) to be ready at construction completion, then baseline Raptor Solar + Sentry deployment when the site goes live. Reference the tornado-response playbook Apex refined at the 200+ MW Midwest site.",
+        "sourceName": "Utility Dive",
+        "sourceLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMXZmS21Vd3B5UUc3NENmMHJyMlJySTFSb2hURlpCQi1sSzZvT3VSY09LVng1QkRDbDNmM0FvV3VSYXpCUGIwSkstaU9sWGpvNWoyLUZMZTlyeW9adXI2MXkwdlNRamJYWUM5M2hfSTZaa2doUk5lSVp3OGw5dkJiMk5VU3ZCT00tME9SYmdZcw?oc=5",
+        "publishedAt": "2026-09-17T07:00:00.000Z"
+      },
+      {
+        "category": "Portfolio transaction: 339 MW minority stake sale to EGCO Group",
+        "updateType": "ma",
+        "play": "retention",
+        "score": -1,
+        "summary": "Apex sold a 49% stake in a 339 MW US solar and wind portfolio to EGCO Group (Thai power utility). While Apex retains 51%, this introduces a new owner/operator into Apex's portfolio and raises questions about which party will manage Raptor Maps licensing, operations, and renewals post-close. Wind assets are immaterial to Raptor's solar focus, but the portfolio includes solar and the deal may trigger renegotiation of O&M or monitoring arrangements.",
+        "suggestedAction": "Reach out to Neil James to clarify: (1) which entity (Apex or EGCO) will be the primary Raptor contact for the 339 MW portfolio post-close; (2) whether the minority stake sale affects Apex's budget or roadmap for Sentry expansion or new-site rollouts; (3) whether EGCO has any existing APM or drone-inspection vendor relationships that might complicate renewal. Confirm the deal doesn't delay onboarding of the 144 MW Starling project.",
+        "sourceName": "PV Tech",
+        "sourceLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdWVaZEFMQ202NHpNRUtzWnRyZU5GUENGZHQxbGxjR09xU2dFQU1SQVpxd3FhdnU5WFVselZLV083NDViRlFvVjN6cjdhOWUtMXFZd0J0T1VhRXFTTVZpazJHUGNpRXJINFlnU3FTTUVBVUdpZjlLZDltczNET2dQM19wd2hFQTZPVzlxd0txTmNjRTlTVjZWS19DTnA?oc=5",
+        "publishedAt": "2026-09-29T10:57:34.000Z"
+      },
+      {
+        "category": "Dusty Fox project cancellation",
+        "updateType": "expansion",
+        "play": "none",
+        "score": 0,
+        "summary": "Apex pulled out of the Dusty Fox project in Iowa. Without project size details, materiality is unclear; however, this appears to be a minor portfolio adjustment rather than a restructuring signal. No immediate renewal risk, but worth mapping against Apex's current Raptor Solar footprint to confirm this site was not an active deployment.",
+        "suggestedAction": "Passive awareness: check Raptor's customer database to confirm Dusty Fox was never onboarded to RS or Sentry. If it was in scope, note the loss but treat as routine portfolio churn. No CSM action required unless the project size was > 50 MW, in which case flag for Revenue Operations.",
+        "sourceName": "Ottumwa Courier",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM0w1ck1ENlRqSFlGMDFxZ3hvcERHaWRtanlVLWEwQmUzdk5rbXZzMHZDbE9DT3JVWGtLSndHUklsOXh5X2J4UWo3ZndxVDU1c0s1aDE1TnoyaFpBU0RqRkpIVnZDMERzMkdlWXNsWmJXWHhuX2xIQnJmR0N5WGc5ejJKQWNmNjRnTjROLVJtZ3Vxb0dlYWFnaDh1MV9PeEFjb0JsMUY2ckxhdGJkVkEyVmZFbG4yc2wxdEhyNnZNN2g3TjcxTm0yTHFLeThyS21LQTVUVA?oc=5",
+        "publishedAt": "2026-09-18T07:00:00.000Z"
+      }
+    ]
+  }
+]

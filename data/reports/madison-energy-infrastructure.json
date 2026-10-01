@@ -1,0 +1,21 @@
+[
+  {
+    "company": "Madison Energy Infrastructure",
+    "runAt": "2026-10-01T17:04:50.033Z",
+    "source": "backfill",
+    "headline": "Madison Energy launches 1 GW Community Infrastructure Initiative for AI data center power; major fleet expansion opportunity for Raptor Solar + baseline inspections across new sites",
+    "signals": [
+      {
+        "category": "1 GW Community Infrastructure Initiative for AI data centers",
+        "updateType": "expansion",
+        "play": "raptor_solar",
+        "score": 2,
+        "summary": "Madison Energy Infrastructure announced a 1 GW Community Infrastructure Initiative to power AI data centers. This represents a material expansion of their distributed C&I solar portfolio and likely involves dozens to hundreds of new sites across their footprint.",
+        "suggestedAction": "Contact Matthew Messer (VP Asset Management) or Esteban Schrick (Senior Manager of Analytics) this week to understand: (1) site count and geographic distribution of the 1 GW initiative; (2) timeline for construction/COD; (3) whether new sites will be onboarded to Raptor Solar as the shared system of record (consistent with their current architecture); (4) baseline inspection plan scope and schedule. Emphasize how Project Slingshot's success (3 MW recovered in 3 weeks) can be replicated across new assets, and propose a phased baseline inspection + production-recovery roadmap.",
+        "sourceName": "IndexBox",
+        "sourceLink": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWFQtLVBuSU9OR1ZrUy1aSnJNOFhJWG5WZHZTZlNwczE2Q1I3eVpSTWxWQm8ydG84RnpOZ1g5RWFmVXBlYVo3Wmc2d3pycXlGTFJWeUNNUkRGMlZuZjlOX3NaUFJOc3RHZTU1NGp1Rl8tUk5iMjg0ak5hYl95UVhBM1RSVzdPQVZSbWlCWU9FeFVzUXRCdDVrX2NuUzVQeGlVMHFNN19FWVVQVkFFdWszZnNoRFJ3SHZqZVdnWlF3cW5vMGRCVDRnQ2ZWcUNEdw?oc=5",
+        "publishedAt": "2026-09-21T13:41:17.000Z"
+      }
+    ]
+  }
+]

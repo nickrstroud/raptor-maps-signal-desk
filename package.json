@@ -1,0 +1,31 @@
+{
+  "name": "raptor-maps-signal-desk",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "run": "bun scripts/run.ts",
+    "industry": "bun scripts/industry.ts",
+    "enrich": "bun scripts/enrich.ts",
+    "backfill": "bun scripts/backfill.ts",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.68.0",
+    "@vercel/analytics": "^2.0.1",
+    "fast-xml-parser": "^5.0.9",
+    "next": "16.2.9",
+    "react": "19.2.4",
+    "react-dom": "19.2.4"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.2",
+    "@types/node": "^22.10.2",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@tailwindcss/postcss": "^4",
+    "tailwindcss": "^4"
+  }
+}
