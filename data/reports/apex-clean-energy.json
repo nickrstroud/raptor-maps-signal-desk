@@ -126,5 +126,24 @@
         "publishedAt": "2026-10-01T13:33:54.000Z"
       }
     ]
+  },
+  {
+    "company": "Apex Clean Energy",
+    "runAt": "2026-10-02T18:16:45.879Z",
+    "source": "daily",
+    "headline": "Apex Clean Energy secures $589M to build 150 MW Illinois solar project; new COD site triggers expansion plays across Sentry, Inspections, and Comply.",
+    "signals": [
+      {
+        "category": "150 MW Illinois solar project financing & COD",
+        "updateType": "financing",
+        "play": "raptor_solar",
+        "score": 2,
+        "summary": "Apex secured $589M debt financing for a new 150 MW utility-scale solar project in Illinois, a material addition to their 2+ GW fleet. This is a greenfield development reaching the build/construction phase, which will progress toward COD within 12–18 months.",
+        "suggestedAction": "Confirm with Neil James (VP O&M) the expected COD date for the 150 MW Illinois project and lock in onboarding timeline for Raptor Solar (digital twin, SCADA, performance baselining). Given Apex's proven ROI on Sentry storm-response, offer simultaneous deployment plan for Sentry and Inspections at COD, including commissioning-phase visual health baseline.",
+        "sourceName": "Dealroom",
+        "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY3h2enVUTGxrTHVJUVUyRnh4WV9pOE9FcGVWdmNKSHNJRmxpcXVtaHQzel9oUThpTlk5MVlnUXppWEw1WEpMUmtNX194SkE0ZUwtMVRUaFdCZDZRYTNmOG04amN6ZnpKdl92OUVvb1hKLWVEN1FJRzVDelpDSmg3SVotek44dE9ORXpwMzIteHYzU2s?oc=5",
+        "publishedAt": "2026-10-02T17:19:09.000Z"
+      }
+    ]
   }
 ]

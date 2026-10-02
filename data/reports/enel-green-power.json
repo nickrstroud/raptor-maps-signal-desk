@@ -104,5 +104,24 @@
         "publishedAt": "2026-09-10T07:00:00.000Z"
       }
     ]
+  },
+  {
+    "company": "Enel Green Power",
+    "runAt": "2026-10-02T18:16:46.706Z",
+    "source": "daily",
+    "headline": "Enel Green Power acquires 270 MW operating US solar portfolio—material expansion of North American fleet under Raptor Maps management",
+    "signals": [
+      {
+        "category": "270 MW US solar portfolio acquisition",
+        "updateType": "expansion",
+        "play": "raptor_solar",
+        "score": 2,
+        "summary": "Enel closed acquisition of an operating 270 MW US solar portfolio for ~$140 million in early October 2026. This is a material addition to Enel North America's fleet already under Raptor Maps management. The portfolio is operating (not greenfield), which means immediate onboarding to Raptor Solar baseline coverage and RS Inspections baseline.",
+        "suggestedAction": "Contact William Badnaruk and Enel's North America asset management team this week to confirm: (1) which states and specific sites comprise the 270 MW portfolio; (2) current O&M provider and baseline inspection cadence; (3) timeline for onboarding these plants to Raptor Solar and establishing baseline RS Inspections coverage. Position Raptor Solar as the unified performance-intelligence platform for the expanded fleet, and propose a phased inspection plan (initial baseline visual + thermal across all sites, then risk-based cadence). Confirm MW and site counts for platform scaling.",
+        "sourceName": "Renewables Now",
+        "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX09fTHhjdlB1eG54X0QzR3hCcVdta04xZzh5SDhmZXVVRTZBVVh0bkJnV0thU0Z2NzU0UnB2b25pYTVZekszUGdNaFhRTHJQYXJIZ01Pa2ptemY3TndackQwQnFXbUlOckp4MmZ6Uklxb2VBT3AwWERDcFh4NzRvUDJiRnp5ZVFla3lBeWdMSDFwblJHZ0E?oc=5",
+        "publishedAt": "2026-10-02T11:28:50.000Z"
+      }
+    ]
   }
 ]

@@ -1,5 +1,209 @@
 [
   {
+    "id": "tcmVzaGFwZS10aGUtZ3JpZC8",
+    "title": "How California’s latest climate and energy bills reshape the grid",
+    "link": "https://pv-magazine-usa.com/2026/10/02/how-californias-latest-climate-and-energy-bills-reshape-the-grid/",
+    "sourceName": "pv magazine USA",
+    "publishedAt": "2026-10-02T16:35:08.000Z",
+    "analyzedAt": "2026-10-02T18:17:00.315Z",
+    "updateType": "policy",
+    "relevance": 1,
+    "summary": "California 2026 legislative session ended with laws expanding VPPs and grid utilization, while blocking the latest community solar program attempt.",
+    "angle": "California's push for VPP expansion and grid utilization creates new operational and control requirements for solar plant operators. Compliance and coordination tools become more critical.",
+    "play": "comply",
+    "products": [
+      "comply"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "ekZJTlZGRlgyMUVadz9vYz01",
+    "title": "Unmanned Aerial Vehicles Uav Commercial Drone Market To 2035: BVLOS and Logistics Drive Growth - News and Statistics",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVmdUZlRWZ3REcENFelh0NUxzYkpQSGZDcUE4Z0NyUElCaTdPeERXYWxQeDVFd3FPMDd6bVZoYjFzS1Bpel9IYzBSTEFEUm5oNm5EV3c2NFhkR1ptN21DTnAwNlpsSE5RYk41elRYQnUtU2FveXpYUXlBRkpFbkhaNURNZnFUaEZmdUxVZ2x0WXd6UDhIcXpCQndQa0pIREdzZmdPVzQ3T2x0UlRubndRamZuUlFsakJNZzI1RWYzMHkxTUNZbUYxV29aMjA5ejNqZHFoNGpPRzZCbkE3MnFWcjFCS2YwcEp2czFINVFFX21EZw?oc=5",
+    "sourceName": "IndexBox",
+    "publishedAt": "2026-10-02T14:26:04.000Z",
+    "analyzedAt": "2026-10-02T18:17:20.924Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "Commercial drone market is being driven by BVLOS (Beyond Visual Line of Sight) operations and logistics expansion through 2035. Growth in BVLOS rules and capabilities directly enables autonomous solar inspection workflows.",
+    "angle": "BVLOS expansion opens the door for broader adoption of autonomous drone docks and scheduled/alert-triggered inspection flights across larger portfolios; this is a Sentry and Inspections conversation.",
+    "play": "sentry",
+    "products": [
+      "sentry",
+      "inspections"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "aWxpb25pLWRpLWRvbGxhcmkv",
+    "title": "Enel buys seven solar plants in the U.S. for $140 million",
+    "link": "https://pv-magazine-usa.com/2026/10/02/enel-compra-sette-impianti-solari-negli-usa-sul-piatto-140-milioni-di-dollari/",
+    "sourceName": "pv magazine USA",
+    "publishedAt": "2026-10-02T14:18:49.000Z",
+    "analyzedAt": "2026-10-02T18:17:00.315Z",
+    "updateType": "ma",
+    "relevance": 2,
+    "summary": "Enel Green Power acquired seven solar plants in the U.S. for $140 million, consistent with the group's strategy to accelerate renewable generation capacity in Tier 1 countries.",
+    "angle": "Named account Enel Green Power is actively consolidating portfolio. This M&A signals expansion of their operational footprint and potential need for expanded platform coverage across new acquired assets to optimize performance and O&M efficiency.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "dSa1MwaENWMHQ1Wnc_b2M9NQ",
+    "title": "Massachusetts queue delays put 2027 solar tax credits at risk",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWEtFQmJmRmtXczNoeWktY2ZpbnhjcVJGdlp5N0RRVDdxYWZ1VU8tZmFtYlNTei1WZ0VpVnN2d3VlYmRPLU9ra2gxQUg3X2VrWHRGYUJDSkRBMmU5QXp4eUwyZFc2enlJcnZILWMxN2hHU0lqSlp6ekZGSV9vWXVpYXMtZjVuNERMNVVvSl8zcHV3d0tLTmhtT05yMmxxclNsaW9XM2R5SVZNN0NILWRkS0hCV0t5Zw?oc=5",
+    "sourceName": "MarketScale",
+    "publishedAt": "2026-10-02T14:16:50.000Z",
+    "analyzedAt": "2026-10-02T18:17:20.924Z",
+    "updateType": "policy",
+    "relevance": 2,
+    "summary": "Massachusetts interconnection queue delays are putting 2027 solar tax credit eligibility at risk for projects unable to meet construction timelines. Queue congestion threatens project economics and may delay or cancel new solar deployments.",
+    "angle": "Massachusetts solar developers and O&M providers should proactively discuss queue risk and commission timing with their platform providers; early performance visibility and real-time monitoring (Raptor Solar) help de-risk project timelines.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "vZHVsZS1wcm9jdXJlbWVudC8",
+    "title": "Navigating the quality challenges of US module procurement",
+    "link": "https://www.pv-tech.org/navigating-the-quality-challenges-us-module-procurement/",
+    "sourceName": "PV Tech",
+    "publishedAt": "2026-10-02T13:48:49.000Z",
+    "analyzedAt": "2026-10-02T18:17:00.315Z",
+    "updateType": "reliability",
+    "relevance": 1,
+    "summary": "US solar industry faces variable module quality challenges as new suppliers compete to serve the lucrative US market.",
+    "angle": "Module quality variability underscores the importance of continuous visual and thermal inspection to identify defects early, protect warranties, and maintain performance expectations across portfolios.",
+    "play": "inspections",
+    "products": [
+      "inspections"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "bXBsZXgtaW4tY29sb3JhZG8v",
+    "title": "ContourGlobal completes construction at 324MW solar PV complex in Colorado",
+    "link": "https://www.pv-tech.org/contourglobal-completes-construction-at-324mw-solar-pv-complex-in-colorado/",
+    "sourceName": "PV Tech",
+    "publishedAt": "2026-10-02T13:08:53.000Z",
+    "analyzedAt": "2026-10-02T18:17:00.315Z",
+    "updateType": "expansion",
+    "relevance": 2,
+    "summary": "ContourGlobal and Platte River Power Authority completed construction of a 324 MW solar PV complex in Colorado.",
+    "angle": "Major utility-scale project completion signals operational handoff phase. Newly energized assets at this scale need robust performance monitoring, asset health tracking, and work order management to maximize asset life and returns.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "TU5YTm9UemhhZDBsQj9vYz01",
+    "title": "State's largest proposed solar project awarded conditional credit",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObmZkcUVoSjlmcnhWcU92T3pJOGs1aTVmdmVPRTZOS3FnNnVScWhsR21pYzd3dUpjOWxyUGNab2dZNUZfNTFad2RwQ2Z0N0NsbGlEREV0b0ZmYVhQZWNhdnI1WVRQM0ktckEycGZwWk9EVktUZy1TUVF6bGxPZmJTRU1oNnFRMXlQOXFhSTNTeFlZNnhRZmxrdHF6Um5MNXNoTzhad0lB?oc=5",
+    "sourceName": "cnhinews.com",
+    "publishedAt": "2026-10-02T12:45:00.000Z",
+    "analyzedAt": "2026-10-02T18:17:26.086Z",
+    "updateType": "expansion",
+    "relevance": 2,
+    "summary": "A state's largest proposed solar project has been awarded conditional credit. This signals active greenfield development and potential new megawatts coming online.",
+    "angle": "New utility-scale solar projects require platform coverage from development through commissioning and O&M. This is an expansion opportunity to land new sites or cross-sell inspections and Sentry for performance and storm monitoring.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar",
+      "inspections"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "bnNleS1yZXBvcnQtZmluZHMv",
+    "title": "U.S. solar and storage face cost headwinds under fragmented trade, McKinsey report finds",
+    "link": "https://pv-magazine-usa.com/2026/10/02/u-s-solar-and-storage-face-cost-headwinds-under-fragmented-trade-mckinsey-report-finds/",
+    "sourceName": "pv magazine USA",
+    "publishedAt": "2026-10-02T11:04:00.000Z",
+    "analyzedAt": "2026-10-02T18:17:00.315Z",
+    "updateType": "trade",
+    "relevance": 2,
+    "summary": "McKinsey report highlights tariff-driven supply chain friction and land constraints raising clean technology costs, with data center demand accelerating grid integration challenges.",
+    "angle": "Tariff and trade pressures are raising project economics headwinds for solar operators. Customers need enhanced analytics and performance intelligence to justify ROI in a higher-cost environment.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "b3JuaW5nLXN1YnNpZGlhcnkv",
+    "title": "First Solar files TOPCon patent infringement lawsuit against JA and Corning subsidiary",
+    "link": "https://www.pv-tech.org/first-solar-files-topcon-patent-infringement-lawsuit-against-ja-and-corning-subsidiary/",
+    "sourceName": "PV Tech",
+    "publishedAt": "2026-10-02T10:30:38.000Z",
+    "analyzedAt": "2026-10-02T18:17:11.875Z",
+    "updateType": "competitive",
+    "relevance": 1,
+    "summary": "First Solar filed a patent infringement lawsuit against JA Solar and Corning subsidiary American Panel Solutions over TOPCon technology.",
+    "angle": "Patent disputes in solar manufacturing could affect module supply chains and pricing. Relevant context for discussions with customers evaluating module procurement and long-term project economics.",
+    "play": "none",
+    "products": [],
+    "mentionedAccounts": [
+      "First Solar"
+    ]
+  },
+  {
+    "id": "tUkpVR0pQVWtWNFp3P29jPTU",
+    "title": "Enel Finalizes Acquisition Of US Portfolio Of 270 MW Of Solar Plants",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaTlpaTEwNjZ1ci1HWGFtckVFeVBMSWNUeVhQeEJieVJVQXNOX3VvLVBiQld0ek9EN1BwR21laHdRdnpIa2MxMDRqVHVUTVE2ZTh5RVB1RURVeTVzVEFNZ0dzQ1VwbG5mUW0xblNTTUhXaGNkaVpSQ1JTTUZQdUZ5cjdUVnR4TElJTU44TkxtcG1ybXJLdjJ6U3REaW1yRnZPdEVaOXQ5b1k3cGpKT2JzSUdGOEwtbXplOE1jTUE3UUU4djJCSkZPdE9ydmRJUGJPUkV4Zw?oc=5",
+    "sourceName": "tradingview.com",
+    "publishedAt": "2026-10-02T10:03:42.000Z",
+    "analyzedAt": "2026-10-02T18:17:11.875Z",
+    "updateType": "expansion",
+    "relevance": 2,
+    "summary": "Enel finalized acquisition of 270 MW solar portfolio in the US.",
+    "angle": "Additional Enel portfolio growth in the US creates opportunity for expanded platform coverage. Engagement point for discussing new site onboarding and integrated O&M workflows.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "dEZVWFIxZG5KalpFRT9vYz01",
+    "title": "Enel closes acquisition of 810 MW solar portfolio in US",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTHl4aDZwZWtDZXRfUVItRHoyMlY1UVJ4VXNobHpmMkpzR3d0VFpMbk1KVTBPZ1JBRnM2bFc3YjUyRm5YZW9qcFBGN2t1SG5zellZc3JVZEs5LVdjeHpzMi1yQ0dmWWZZcGxuTXlzdm1CX1JMWjBtMzRPaHFRQkFGdV82SjVQenBiX0lxN2tFUXR1dnJjZEE?oc=5",
+    "sourceName": "Evertiq",
+    "publishedAt": "2026-10-02T05:04:57.000Z",
+    "analyzedAt": "2026-10-02T18:17:11.875Z",
+    "updateType": "expansion",
+    "relevance": 2,
+    "summary": "Enel closed acquisition of 810 MW solar portfolio in the US.",
+    "angle": "Major portfolio addition for a key customer signals potential expansion of monitoring and O&M needs. Proactive outreach to discuss coverage across the newly acquired sites and optimization opportunities.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "cC1ncmFudHMtZm9yLXNvbGFy",
+    "title": "The USDA just made it way harder for farmers to get grants for solar",
+    "link": "https://www.canarymedia.com/articles/food-and-farms/usda-reap-grants-for-solar",
+    "sourceName": "Canary Media",
+    "publishedAt": "2026-10-01T22:00:00.000Z",
+    "analyzedAt": "2026-10-02T18:17:11.875Z",
+    "updateType": "policy",
+    "relevance": 2,
+    "summary": "USDA rule changes effectively end federal grants for farmers to build solar systems under the Rural Energy for America Program (REAP).",
+    "angle": "Ag-solar and farmer-owned projects face a significant funding cliff. Customers with rural or farm-based solar portfolios will be re-evaluating project economics and timelines.",
+    "play": "retention",
+    "products": [],
+    "mentionedAccounts": []
+  },
+  {
     "id": "plY3QtY29tZXMtb25saW5lLw",
     "title": "Northern Colorado’s largest solar project comes online",
     "link": "https://www.solarpowerworldonline.com/2026/10/northern-colorados-largest-solar-project-comes-online/",
@@ -100,6 +304,38 @@
     "mentionedAccounts": [
       "Apex Clean Energy"
     ]
+  },
+  {
+    "id": "uY2VydGFpbnR5LzgzMTE0NC8",
+    "title": "Solar for All grantees seek damages from EPA over ‘devastating’ cuts",
+    "link": "https://www.utilitydive.com/news/solar-for-all-funding-ep-court-uncertainty/831144/",
+    "sourceName": "Utility Dive",
+    "publishedAt": "2026-10-01T06:00:00.000Z",
+    "analyzedAt": "2026-10-02T18:17:11.875Z",
+    "updateType": "policy",
+    "relevance": 2,
+    "summary": "Federal judges ruled EPA illegally terminated the $7 billion Solar for All grant program. Grantees are seeking damages over the sudden program cuts.",
+    "angle": "Loss of federal solar grants affects developer capacity and project pipelines. Customers in communities depending on Solar for All funding may face delays or cancellations; a proactive check-in on affected sites is warranted.",
+    "play": "retention",
+    "products": [],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "dsVGNWZ3lVMUJ5Wnc_b2M9NQ",
+    "title": "Domestic Content Bonus Credit: Critical Issues Regarding the Origin of Aluminum and Steel Frames Used in Photovoltaic Modules",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa0hyN1MydnZWQzdMY2xQYl9OakdnclRDckFFWWk4QTBQcHlnQU9tZnFoRHVmVE1JbnJpZ3JFSkNnTjJfT1k2S3FHXzRvYjFSWGw3YjlzVFlsLU1aR2ZzeDh2NDNQeDRQc2E5SEtHdkRGM2lkUjVlaENPSU15OVVud25MNy13V1hMd2g3WGUwNTNfZ196MkFUSng1aXFYeEM2aFhKN0dlM2lpYU1YaVB5SDZEQVd5YWlTcVgyU1ByZw?oc=5",
+    "sourceName": "ArentFox Schiff",
+    "publishedAt": "2026-10-01T05:00:00.000Z",
+    "analyzedAt": "2026-10-02T18:17:20.924Z",
+    "updateType": "trade",
+    "relevance": 2,
+    "summary": "Domestic Content Bonus Credit guidance clarifies origin rules for aluminum and steel frames in PV modules. Module frame sourcing affects 45Y tax credit eligibility and project cost basis.",
+    "angle": "Solar IPPs and EPCs evaluating module procurement strategy need to factor in frame sourcing rules to maximize 45Y credits; this impacts project ROI and should be discussed with any platform managing performance and warranty data.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
   },
   {
     "id": "3YUhob2FEZDRaVWRSP29jPTU",
@@ -303,6 +539,24 @@
     "mentionedAccounts": []
   },
   {
+    "id": "VMlZWRnRjamxHU1ZnP29jPTU",
+    "title": "FCC Oct 13 Drone Parts Rule: Which Drones Can You Still Buy?",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBZSmdwTHh0Znc2d3FfT0JLVVoyNFVTVDhoVU5KUHc0djRzRm90aHdGQXA1c1hpREhzb28xRk1oY3lYMWU2VVFtcjlGSVg?oc=5",
+    "sourceName": "UAV Coach",
+    "publishedAt": "2026-09-30T07:00:00.000Z",
+    "analyzedAt": "2026-10-02T18:17:20.924Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "FCC drone parts rule effective October 13, 2026 sets new restrictions on which commercial drones can be purchased or operated. This impacts sourcing and compliance for any automated inspection or monitoring platform.",
+    "angle": "Solar operators running drone-based inspection and monitoring fleets need to understand which drone hardware meets the new FCC rule; customers should audit their Sentry dock equipment and Inspections drone fleet compliance before the rule goes live.",
+    "play": "sentry",
+    "products": [
+      "sentry",
+      "inspections"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "zaXN0ZW50LWNoYWxsZW5nZS8",
     "title": "The illusion of simplicity: Why PV DC connector failures remain a persistent challenge",
     "link": "https://www.pv-tech.org/the-illusion-of-simplicity-why-pv-dc-connector-failures-remain-a-persistent-challenge/",
@@ -440,6 +694,21 @@
     "mentionedAccounts": []
   },
   {
+    "id": "U5WFZXVTNUWFZmYnc_b2M9NQ",
+    "title": "China and U.S. module prices hold ahead of Golden Week and Section 232 price floors",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeFU4VnVKSkdSRWhDVGw0YkJpOXB3czJvM2N1TDBvNWZ2M2xzeFBlTjl6MEVyVUtRT0lfbHdYT0hpV1RzZ2xueEJ4TFZHR2kxTGdteFlCZzZfQ1I4TEFyMjhERDlyanBBYUUtOEtMOXRSTTJ5RmRDTnp1cmJSRGxPcGZ4bDhJbWpaZWZnMXhveXlLMmxvM2VlVkdfTlFjOUJxdFo4SUFHM05Fd2VxbDgxQUlvVTc2UU9XVWU3TXVfbw?oc=5",
+    "sourceName": "pv magazine USA",
+    "publishedAt": "2026-09-29T11:14:18.000Z",
+    "analyzedAt": "2026-10-02T18:17:20.924Z",
+    "updateType": "trade",
+    "relevance": 1,
+    "summary": "U.S. and Chinese module prices hold steady before Golden Week holiday and ahead of Section 232 price-floor announcements. Tariff and domestic pricing pressure remains active.",
+    "angle": "Background context on module cost dynamics and tariff policy uncertainty affecting capital spend and project ROI calculations for customers planning 2027 deployments.",
+    "play": "none",
+    "products": [],
+    "mentionedAccounts": []
+  },
+  {
     "id": "vLWZyb20tcHJvc3BlY3QxNC8",
     "title": "Renewable Properties acquires 71.8 MW Pennsylvania solar portfolio from Prospect14",
     "link": "https://pv-magazine-usa.com/2026/09/29/renewable-properties-acquires-71-8-mw-pennsylvania-solar-portfolio-from-prospect14/",
@@ -489,6 +758,23 @@
     "play": "inspections",
     "products": [
       "inspections"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "ZKT1UxVk1jMUI0UVE_b2M9NQ",
+    "title": "US Imposes Solar Import Caps to Prevent Pre-Tariff Stockpiling",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRUR6MVRiNG9WOVMydkpSZmFLcUNJTThLNVVtakpVZnFnOHQ1OW95S1Z5MUwycWtHclM4c1RCR1lwRXpJQWY5amlhTkp5VHI0N1g1UnYxTWpYRDJiZjFuWG9lSGNzblJ0aWVrTWpscDFBS1JHQ3hTNTVlVC1XZlBHd0tSMDAwc3RESVJOU1VMc1B4QQ?oc=5",
+    "sourceName": "mvapulse.com",
+    "publishedAt": "2026-09-29T07:34:16.000Z",
+    "analyzedAt": "2026-10-02T18:17:26.086Z",
+    "updateType": "trade",
+    "relevance": 3,
+    "summary": "US has imposed solar import caps to prevent pre-tariff stockpiling. This represents an imminent tariff or trade policy decision affecting solar module procurement.",
+    "angle": "Your solar fleet customers will face immediate module cost and supply chain impacts. Understanding project IRR changes, storage pairings, and repowering timelines will be critical for customer conversations around platform value and site expansion plans.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
     ],
     "mentionedAccounts": []
   },
@@ -747,6 +1033,25 @@
     "play": "raptor_solar",
     "products": [
       "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "TllXaEpkVlZHV0d4Qj9vYz01",
+    "title": "Meta Locks In 144MW Gonzales County Solar Deal as Texas Grid Strain Grows",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSXp4QXhreGdnb3dRZnUySmowMlJGOHhIVVJLWFdtZ3VrVXo1RktCRnVOMjlpUk5PVHFFTUF5X3lCVTc0OFliNkN1bWRvdm1qa182dDVJR2QzQXdhMEFOYXRnc0M0bXIxSjExeGxFS0d2YmlRcV9acGd6R1FVUVplc0toXzExeURGRXJDOEdsVzZTQ3h3ZDk2MUZob0VNYWhJdVVGWGxB?oc=5",
+    "sourceName": "Hoodline",
+    "publishedAt": "2026-09-27T12:18:35.000Z",
+    "analyzedAt": "2026-10-02T18:17:26.086Z",
+    "updateType": "expansion",
+    "relevance": 2,
+    "summary": "Meta has locked in a 144 MW solar deal in Gonzales County, Texas amid Texas grid strain. This represents a major C&I/corporate renewable procurement.",
+    "angle": "Large corporate-backed solar projects are attractive platforms for Raptor Solar coverage and present an opportunity to showcase performance monitoring and autonomous inspection capabilities (Sentry, Inspections) given the geographic concentration and grid stress context.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar",
+      "sentry",
+      "inspections"
     ],
     "mentionedAccounts": []
   },

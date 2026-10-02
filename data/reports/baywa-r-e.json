@@ -298,5 +298,35 @@
         "publishedAt": "2026-09-27T17:40:55.000Z"
       }
     ]
+  },
+  {
+    "company": "BayWa r.e.",
+    "runAt": "2026-10-02T18:16:44.859Z",
+    "source": "daily",
+    "headline": "BayWa AG in multi-year restructuring with asset sales; Australia wind project clears, but North American O&M and inspection revenue at risk from group divestment and budget pressure",
+    "signals": [
+      {
+        "category": "Parent company asset sales and creditor restructuring",
+        "updateType": "distress",
+        "play": "retention",
+        "score": -1,
+        "summary": "BayWa AG (parent) has sold a 22 MW solar park as part of a €1.5B creditor write-off and extended restructuring through 2030. The company is in active divestment mode and creditor negotiations. While this doesn't immediately signal BayWa r.e. North American O&M unit sale, it reinforces heightened financial risk and likelihood of vendor review, budget freezes, or portfolio rationalization at the subsidiary level.",
+        "suggestedAction": "Reach out to Sean Bucher to understand whether BayWa r.e. Operations Services budgets or staffing are being affected by the parent company restructuring, and confirm the current status of their ROCC expansion plans and any new O&M contract wins. Proactively offer a cost-per-MW ROI summary for the Raptor Solar + Inspections deployment to date — this is a strong retention and expansion lever if new ownership or finance reviews the vendor stack.",
+        "sourceName": "AD HOC NEWS",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYkFDUnB5a3lfbFpVdWw0S19vZFFJUEY2U3g3VlNiaDhxaTk5R3duX1l4RG1mNm01R1ZnQmdEYmNiS1QzMlhPa1lsMTdJSFhMa25faHljZDRfTGlCOUFJR0lvQUI2bzM2ZFIwOEMtZGpRNjA2cDFTZEhfSVRkS3hvelF4d0Ftak9IeFpyUGdhd1JSbU5HWmIyT1U5X3JjVzdjR29DOGI4NGhURmFrYnQwMi1LaldsRjVDXzNYVnV4ZnZfTzhDMFVsdWpfc1F4c0xVZmJuU3pUQkZYQQ?oc=5",
+        "publishedAt": "2026-10-02T12:31:27.000Z"
+      },
+      {
+        "category": "Geographic expansion outside North America (Australia wind project)",
+        "updateType": "expansion",
+        "play": "none",
+        "score": 0,
+        "summary": "BayWa r.e. cleared to build an 804-MW wind farm in Australia with battery storage. This is material growth for the group, but outside the North American solar O&M footprint where Raptor Maps is currently deployed and contracted.",
+        "suggestedAction": "Monitor for any signal that this Australian wind project (or other ex-NA renewable assets) will need remote O&M or performance monitoring. If BayWa r.e. considers expanding operations services to wind or other geographies, revisit Raptor Solar's applicability and the cross-sell case for Sentry in a remote operations context.",
+        "sourceName": "Renewables Now",
+        "sourceLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNS16eWgxZ25YOFFRYmRjaGp3YjdZZjdEaGNKOXRmdjJGdWxWc2JudUN0QXRvdDlKUEttYWVYbW5XekZjX2JyTnlhQ1pIWWhOemxqNXlnN3d2bFVOaEphN1Y5elhtQUVlNE96Z0h4d3dKVElUSHhVU3dINFRTRi1KOHdjVlNGUUhqZGpvVVNKMHZTU3pzWjdoaExDUlZJanNsd2NTT3JUWWd5NnBad0E?oc=5",
+        "publishedAt": "2026-10-02T07:01:17.000Z"
+      }
+    ]
   }
 ]
