@@ -1,5 +1,56 @@
 [
   {
+    "id": "M1UWpoSWVuVlRlRzQ_b2M9NQ",
+    "title": "Waaree Energies Shares Crash 15% as US Slaps 126% Duty on Indian Solar Imports; Green Energy Stocks Slide",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdzd0MXNYM3l1TlpNWEE3OXJRWjJvMUdFUHFJRUx1M2NSUkEtd1NQMDFYcHJtS1Bnbm55ajlOZm4zMFl2TEYtMDVNQXZ1cDJQNzhsbmhOUFRlRDBuTi01VEpJUDktMHh5WG9tb0RqWVBzWjhOVDgwa1FyX051UlNQbHh4NzdvbTdBaERWUHRKWWJNMDQ1LWR6blJ2X1lvaGttczJfREpYZ3AzT1ZKbVkxb0o5WW1fVkUxZU5iOFdJX2ZVSkNtYjBXRkUwN0lWc2c5QjhIenVTeG4?oc=5",
+    "sourceName": "Goodreturns",
+    "publishedAt": "2026-10-03T18:01:01.000Z",
+    "analyzedAt": "2026-10-04T17:21:47.676Z",
+    "updateType": "trade",
+    "relevance": 2,
+    "summary": "US imposes 126% duty on Indian solar imports, causing sharp stock declines in Indian solar manufacturers. Tariff impacts module sourcing and supply chain costs for US solar projects.",
+    "angle": "Customers sourcing Indian modules face significantly higher costs and supply uncertainty; projects may face budget pressure and timeline impacts. Raptor's performance optimization becomes more critical to protect ROI on higher-cost equipment.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "5aU0VSd2FuVm9lbWM_b2M9NQ",
+    "title": "Biggest US Grid Operator to Begin Processing New Power Plant Projects",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYkVFUFl0azJkTE52bXpZZGFxVV9IcXRTTTVQcGY0QTBEdmNneDRtY2t1N0FGNVhRN0Q4UkJEelo2aUJKeGlra2FfbGtPSkk2MEFmNDhXMmlFZWJYOV9hMU5LSWpZR0ZESElIWHNIc0J4U3dUMnh2RW1zc3V3OGZrODlyd3JQZ3lwR1R4Y2NvWFJaSi1iX1M5SUNZSERwanVoemc?oc=5",
+    "sourceName": "EnergyNow.com",
+    "publishedAt": "2026-10-03T15:31:45.000Z",
+    "analyzedAt": "2026-10-04T17:21:47.676Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "US's largest grid operator announces it will begin processing new power plant projects, potentially accelerating interconnection timelines.",
+    "angle": "Faster interconnection processing could unlock capital deployment for existing and new solar projects in the operator's footprint. Raptor Solar becomes more valuable for quick ramp-up to production at newly connected plants.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "ZORGMzU25GclpIUm4_b2M9NQ",
+    "title": "Skyline makes biggest solar acquisition to date in Ontario",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcm9BUTVKZGZkQW9udlRIT0s3OTBCT3I5NHdfcmlKczZHUnZrZzkzcktJa2h2X1l2ZFdQS0E2eXYxYzlkMTFFOG1uT0Iza1Nvc1l6akloZ1hpdE41OVRJUFh5OUFrOGFkMWtlQVJEOTNmd2s0SW1XY2luVEFldjBaOFJXUExfNDc3SnFrZHRn?oc=5",
+    "sourceName": "sustainablebiz.ca",
+    "publishedAt": "2026-10-03T13:51:00.000Z",
+    "analyzedAt": "2026-10-04T17:21:43.231Z",
+    "updateType": "ma",
+    "relevance": 1,
+    "summary": "Skyline completed its largest solar acquisition to date in Ontario, signaling continued M&A activity in the Canadian market.",
+    "angle": "Portfolio growth through acquisition; potential new platform adoption for consolidated asset base.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "tcmVzaGFwZS10aGUtZ3JpZC8",
     "title": "How California’s latest climate and energy bills reshape the grid",
     "link": "https://pv-magazine-usa.com/2026/10/02/how-californias-latest-climate-and-energy-bills-reshape-the-grid/",
@@ -407,6 +458,23 @@
     "mentionedAccounts": []
   },
   {
+    "id": "NZVmcwTUY5Wk1XVlo_b2M9NQ",
+    "title": "Securing Solar for the Grid (S2G)",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqbTJmQ3h4SC1TZ2UtZDgzNUIzWXVORDhkUkx2cVBWTGlWYzk2YlFtNGhfalUzdFZZckI1SjFaRnIzMVpyRjJhamFqWlpGajNJOUV6QWdvZHVvdExEWUpmUWFSYVg0MF9ZMWVZ?oc=5",
+    "sourceName": "energy.gov",
+    "publishedAt": "2026-09-30T19:31:24.000Z",
+    "analyzedAt": "2026-10-04T17:21:47.676Z",
+    "updateType": "security",
+    "relevance": 1,
+    "summary": "Energy.gov launches Securing Solar for the Grid (S2G) initiative addressing grid security and cybersecurity concerns in solar deployments.",
+    "angle": "Growing focus on solar OT security and grid resilience; signals increased regulatory scrutiny of cyber and operational risk at utility-scale solar plants.",
+    "play": "comply",
+    "products": [
+      "comply"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "cm9kdWNlZC1pbi1zZW5hdGUv",
     "title": "Grid reform bill introduced in Senate",
     "link": "https://www.solarpowerworldonline.com/2026/09/grid-reform-bill-introduced-in-senate/",
@@ -602,6 +670,23 @@
     "relevance": 2,
     "summary": "Renewable Energy Group acquires 715-MW solar power portfolio, marking significant portfolio growth and consolidation.",
     "angle": "Large acquisitions and portfolio expansion signal demand for centralized platform oversight, multi-site analytics, and integrated O&M workflows across newly consolidated assets.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "hVVXczV1ZOamNtODQ_b2M9NQ",
+    "title": "Renewable Energy Group Acquires 715-MW Solar Power Portfolio",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQamliRUV0NVhMbURVOE1qV210WWE2V2RhVENGQk9YVXpuYVRieW5kM3h0VXVvQ05GVWlBZ0FGZ1pzRTZKMGxnSWFtTzdBbEl2RE9pUlZUUUQxVm1WY3MtTF9LbG1IcGdldGdRTDM2UnFVdXlzQ0RjX3BMRHlZRnJHZ0JkWTJWMmJpbDg3NXRxUUw3WVNjcm84?oc=5",
+    "sourceName": "Yahoo Finance",
+    "publishedAt": "2026-09-29T16:49:22.000Z",
+    "analyzedAt": "2026-10-04T17:21:43.231Z",
+    "updateType": "ma",
+    "relevance": 2,
+    "summary": "Renewable Energy Group acquired a 715-MW solar portfolio. Large-scale portfolio consolidation signals active M&A in the solar market.",
+    "angle": "Major portfolio acquisition indicates active consolidation; new operator or expanded operator may need platform coverage for integrated asset management.",
     "play": "raptor_solar",
     "products": [
       "raptor_solar"
@@ -1016,6 +1101,23 @@
     "products": [
       "raptor_solar",
       "sentry"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "TlNielZtTmtsck5qUT9vYz01",
+    "title": "Renewable Properties Acquires 71.8 MW PJM Solar Portfolio in Pennsylvania",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXluU2RLWlZCcFJBSlUyVVdnbVNuaWVVVlVUZWhqckxBQmw5X201ZkpnWGxxREM1TjJJU21OcURrRGk5cURBcWxoZU1uQmRiVVhSS3hsaE5wMzRfS3IyVlBoanlNLUxad2xXMEhiTU5hYnhaNjk4YUYyNVJUdW0xM3RSRWduQWJQbmxhY1M5eVh5dE9mYjNSbzVmNklrNjQ?oc=5",
+    "sourceName": "energynews.pro",
+    "publishedAt": "2026-09-28T02:06:05.000Z",
+    "analyzedAt": "2026-10-04T17:21:43.231Z",
+    "updateType": "ma",
+    "relevance": 1,
+    "summary": "Renewable Properties acquired a 71.8 MW solar portfolio in Pennsylvania's PJM market. This represents portfolio consolidation and potential platform expansion for operators.",
+    "angle": "Portfolio M&A continues in North America; potential target for customer platform adoption and multi-site coverage expansion.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
     ],
     "mentionedAccounts": []
   },

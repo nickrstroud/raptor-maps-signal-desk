@@ -328,5 +328,24 @@
         "publishedAt": "2026-10-02T07:01:17.000Z"
       }
     ]
+  },
+  {
+    "company": "BayWa r.e.",
+    "runAt": "2026-10-04T17:21:34.112Z",
+    "source": "daily",
+    "headline": "BayWa AG restructuring accelerates; r.e. solar divestment and creditor deal advance, but timing and new ownership remain uncertain through 2030",
+    "signals": [
+      {
+        "category": "Parent company restructuring & solar divestment in progress",
+        "updateType": "distress",
+        "play": "retention",
+        "score": -1,
+        "summary": "BayWa AG secured near-unanimous creditor backing for its restructuring plan through 2030, with solar divestment (including r.e.) proceeding. The sale valuation fell from ~EUR 1.7B to ~EUR 900M; largest shareholders placed 67.1% stake in a trust; a turnaround/transformation investor is being brought in. Digital and platform upgrades are proceeding, but a reporting blackout and creditor control are in place until audited targets are reviewed in December 2026.",
+        "suggestedAction": "Schedule an urgent conversation with Sean Bucher (and his leadership chain) to understand the timeline and likely new ownership structure for BayWa r.e. Operations Services post-sale. Confirm whether the North American O&M business and ROCC will remain with the entity, whether the new owner will retain Raptor Maps, and whether there are budget or contract freezes in place. Position Raptor Maps as a cost-reducer and ROI proof point (production recovery %, truck-roll reduction, MW uptime) to support due diligence by potential acquirers.",
+        "sourceName": "AD HOC NEWS",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQanVuUTZFcjV5SlVVLUJhdlNQNURRY1lRM2Jmb01UTHBoVDdfanhoVTJqb3hwUFYzRHozVkxodW1hSVhiNWVKQ3hWYjM5X00tVlZyMTJBa3JZYXo1VTZwbXAwSUVSUlpvXy13U0RZSkhhUDVYdEg2UjYwUHVVd1kyVkpqVEhRemxVNlY1QTJqZzF2aGRrNmlHMnFvZEFlSXVoSlJGUUFRMHNmUUlNaHFtN01lRlcyQ0RmLXNjeVp3anB1a0hYRWwwRVVvNUdaUXJtX0ZVOFJjdXNNT1VVNDZBTnFMRWtCQTg5dlFhM0x3bEpabVU?oc=5",
+        "publishedAt": "2026-10-03T13:04:15.000Z"
+      }
+    ]
   }
 ]
