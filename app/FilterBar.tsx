@@ -19,6 +19,8 @@ export default function FilterBar() {
     setUpdateType,
     product,
     setProduct,
+    workflow,
+    setWorkflow,
   } = useFilters();
   const filtering = selectedScores.size > 0;
 
@@ -56,6 +58,16 @@ export default function FilterBar() {
             {p.label}
           </option>
         ))}
+      </select>
+      <select
+        aria-label="Workflows"
+        value={workflow}
+        onChange={(e) => setWorkflow(e.target.value as "all" | "active" | "done")}
+        className={`${selectClass} ${workflow !== "all" ? "border-brand-500 text-brand-700 font-medium" : ""}`}
+      >
+        <option value="all">All signals</option>
+        <option value="active">⚡ Workflows in progress</option>
+        <option value="done">✓ Completed workflows</option>
       </select>
       <select aria-label="Update type" value={updateType} onChange={(e) => setUpdateType(e.target.value)} className={selectClass}>
         <option value="all">All update types</option>

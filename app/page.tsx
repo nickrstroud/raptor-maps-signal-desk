@@ -9,6 +9,7 @@ import IndustryFeed from "./IndustryFeed";
 import QuietAccounts from "./QuietAccounts";
 import AgentPrecision from "./AgentPrecision";
 import AgentLearning from "./AgentLearning";
+import MyWorkflows from "./MyWorkflows";
 
 const DAY = 86_400_000;
 
@@ -98,6 +99,7 @@ export default function Home() {
         </section>
 
         <section className="min-w-0 space-y-6">
+          <MyWorkflows />
           <AgentLearning />
           <div>
             <div className="flex items-baseline justify-between mb-3">

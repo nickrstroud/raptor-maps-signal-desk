@@ -6,18 +6,25 @@ import { formatDate } from "@/lib/score";
 import { signalMatches } from "@/lib/match";
 import { useFilters } from "@/app/FilterContext";
 import SignalCard from "@/app/SignalCard";
+import { accountSignalId } from "@/app/FeedbackContext";
+import { useWorkflows } from "@/app/WorkflowContext";
 
 export default function AccountTimeline({ history }: { history: CompanyAnalysis[] }) {
   const filters = useFilters();
+  const { statusOf, progress } = useWorkflows();
 
   const filteredRuns = useMemo(() => {
     return history
       .map((run) => ({
         ...run,
-        visibleSignals: run.signals.filter((s) => signalMatches(s, s.publishedAt ?? run.runAt, filters)),
+        visibleSignals: run.signals.filter(
+          (s) =>
+            signalMatches(s, s.publishedAt ?? run.runAt, filters) &&
+            (filters.workflow === "all" || statusOf(accountSignalId(s.sourceLink, s.category)) === filters.workflow),
+        ),
       }))
       .filter((run) => run.visibleSignals.length > 0);
-  }, [history, filters]);
+  }, [history, filters, statusOf, progress]);
 
   if (filteredRuns.length === 0) {
     return <p className="text-sm text-slate-500">No signals match the current filters.</p>;

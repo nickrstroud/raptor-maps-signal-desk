@@ -7,7 +7,8 @@ import { PRODUCTS } from "@/lib/vendor";
 import { RENEWAL_WARNING_DAYS, STATUS_META, daysUntil, formatCurrency } from "@/lib/score";
 import { signalMatches, industryMatches } from "@/lib/match";
 import { useFilters } from "./FilterContext";
-import { learnedWeights, useFeedback } from "./FeedbackContext";
+import { accountSignalId, learnedWeights, useFeedback } from "./FeedbackContext";
+import { useWorkflows } from "./WorkflowContext";
 import CompanyLogo from "./CompanyLogo";
 import ProductChips from "./ProductChips";
 import SignalCard from "./SignalCard";
@@ -27,6 +28,8 @@ export default function OpportunityQueue({ accounts, pinned = false }: { account
   const filters = useFilters();
   const { votes } = useFeedback();
   const learned = useMemo(() => learnedWeights(votes), [votes]);
+  const { statusOf, progress } = useWorkflows();
+  const workflowFilter = filters.workflow;
   const signalFilterActive = filters.selectedScores.size > 0 || filters.updateType !== "all" || filters.period !== "all";
 
   const visible = useMemo(() => {
@@ -44,8 +47,15 @@ export default function OpportunityQueue({ accounts, pinned = false }: { account
             ? a.topSignal
             : reweighted[0] ?? null;
         const pointsTo = reweighted.map((r) => r.signal.play).filter((p): p is string => !!p && PRODUCT_VALUES.has(p));
-        return { ...a, adjusted, lead, pointsTo };
+        // Workflow view: lead with the signal whose workflow is in the chosen state.
+        const workflowLead =
+          workflowFilter === "all"
+            ? null
+            : a.historySignals.find((r) => statusOf(accountSignalId(r.signal.sourceLink, r.signal.category)) === workflowFilter) ??
+              null;
+        return { ...a, adjusted, lead: workflowFilter === "all" ? lead : workflowLead, pointsTo, workflowLead };
       })
+      .filter((a) => workflowFilter === "all" || a.workflowLead != null)
       .filter((a) => filters.product === "all" || a.company.products?.includes(filters.product) || a.pointsTo.includes(filters.product))
       .filter(
         (a) =>
@@ -55,12 +65,16 @@ export default function OpportunityQueue({ accounts, pinned = false }: { account
           (filters.selectedScores.size === 0 && a.industryMatches.some((i) => industryMatches(i, filters))),
       )
       .sort((x, y) => y.adjusted - x.adjusted || x.company.name.localeCompare(y.company.name));
-  }, [accounts, filters, signalFilterActive, learned, pinned]);
+  }, [accounts, filters, signalFilterActive, learned, pinned, workflowFilter, statusOf, progress]);
 
   if (visible.length === 0) {
     return (
       <p className="text-sm text-slate-500 border border-dashed border-slate-300 rounded-lg p-6 text-center">
-        Nothing surfaced for the current filters.
+        {workflowFilter === "active"
+          ? "No workflows in progress. Click ⚡ Trigger workflow on any signal to start one."
+          : workflowFilter === "done"
+            ? "No completed workflows yet."
+            : "Nothing surfaced for the current filters."}
       </p>
     );
   }

@@ -72,12 +72,7 @@ export function useFeedback(): FeedbackContextValue {
   return ctx;
 }
 
-// Stable id for an account signal (they have no id of their own).
-export function accountSignalId(sourceLink: string, category: string): string {
-  let h = 2166136261;
-  for (const ch of `${sourceLink}|${category}`) h = Math.imul(h ^ ch.charCodeAt(0), 16777619);
-  return `a_${(h >>> 0).toString(36)}`;
-}
+export { accountSignalId } from "@/lib/signal-id";
 
 // How votes turn into ranking weights. Each signal type starts at 1.0 and moves
 // 0.25 per net vote, clamped to [0.25, 1.5]. "Wrong company" is a news-query

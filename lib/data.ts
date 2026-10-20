@@ -1,7 +1,7 @@
 import { readFileSync } from "node:fs";
 import path from "node:path";
 import { slugify } from "./slug";
-import type { Company, CompanyAnalysis, IndustrySignal, PipelineState } from "./types";
+import type { Company, CompanyAnalysis, IndustrySignal, PipelineState, Workflow } from "./types";
 
 export { slugify };
 export type { Company, AccountSignal, CompanyAnalysis, IndustrySignal } from "./types";
@@ -36,4 +36,8 @@ export function getIndustrySignals(): IndustrySignal[] {
 
 export function getPipelineState(): PipelineState {
   return readJson<PipelineState>("state.json", { accounts: {}, industrySeenLinks: [] });
+}
+
+export function getWorkflows(): Record<string, Workflow> {
+  return readJson<Record<string, Workflow>>("workflows.json", {});
 }

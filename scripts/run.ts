@@ -1,6 +1,8 @@
+import Anthropic from "@anthropic-ai/sdk";
 import { fetchNews } from "./fetch-news.ts";
 import { analyzeCompany } from "./analyze.ts";
 import { runIndustry } from "./industry.ts";
+import { runWorkflows } from "./workflows.ts";
 import { slugify } from "../lib/slug.ts";
 import {
   appendHistory,
@@ -20,7 +22,25 @@ import {
 
 const CONCURRENCY = 4;
 
+// --days=N widens the news window for a catch-up run (e.g. after an outage).
+const daysArg = process.argv.find((a) => a.startsWith("--days="));
+const DAYS = daysArg ? Number(daysArg.split("=")[1]) : 7;
+
+// Fail fast (and fail the GitHub Action) if the API key is missing or rejected.
+// Without this, every account failure is caught and logged, and the run still
+// "succeeds" while the dashboard silently stops updating.
+async function checkApiKey() {
+  try {
+    await new Anthropic().models.list({ limit: 1 });
+  } catch (err) {
+    console.error("ANTHROPIC_API_KEY is missing or was rejected; aborting the run.");
+    console.error(err instanceof Error ? err.message : err);
+    process.exit(1);
+  }
+}
+
 async function main() {
+  await checkApiKey();
   const companies = await loadCompanies();
   const state = await loadState();
   let analyzed = 0;
@@ -30,7 +50,7 @@ async function main() {
   await mapPool(companies, CONCURRENCY, async (company) => {
     try {
       const seen = new Set(state.accounts[slugify(company.name)]?.seenLinks ?? []);
-      const news = dedupe(await fetchNews(`${defaultNewsQuery(company)} when:7d`, 10)).filter(
+      const news = dedupe(await fetchNews(`${defaultNewsQuery(company)} when:${DAYS}d`, 10)).filter(
         (n) => !seen.has(n.link) && !seen.has(seenKey(n.title)),
       );
 
@@ -54,7 +74,9 @@ async function main() {
   await saveState(state);
   console.log(`\nAccounts: ${companies.length} checked, ${quiet} quiet, ${analyzed} sent to Claude, ${signals} signal(s)`);
 
-  await runIndustry({ feedPages: 2, topicWindow: "7d", fedRegDaysBack: 14 });
+  await runWorkflows();
+
+  await runIndustry({ feedPages: 2, topicWindow: `${DAYS}d`, fedRegDaysBack: Math.max(14, DAYS) });
 }
 
 main();

@@ -63,7 +63,8 @@ export interface AccountPriority {
   status: "expansion" | "risk" | "watch" | "quiet";
   topSignal: RankedSignal | null;
   recentSignals: RankedSignal[];
-  lastEvent: RankedSignal | null; // most recent notable (non-neutral) signal from the past year, scored or not
+  lastEvent: RankedSignal | null;
+  historySignals: RankedSignal[]; // past year, newest first, unscored (for workflow views) // most recent notable (non-neutral) signal from the past year, scored or not
   industryMatches: IndustrySignal[]; // named, or touches a product they own
   whitespaceMatches: IndustrySignal[]; // touches only products they don't own yet
   industryWeight: number; // so the browser can recompute priority with feedback weights
@@ -154,6 +155,10 @@ export function getAccountPriorities(): AccountPriority[] {
         topSignal,
         recentSignals,
         lastEvent: lastEventRaw ? { ...lastEventRaw, weight: 0 } : null,
+        historySignals: dated
+          .filter((r) => ageDays(r.at) <= HISTORY_DAYS)
+          .sort((a, b) => new Date(b.at).getTime() - new Date(a.at).getTime())
+          .map((r) => ({ ...r, weight: 0 })),
         industryMatches,
         whitespaceMatches: whitespaceMatchesFor(company, industry),
         industryWeight,
