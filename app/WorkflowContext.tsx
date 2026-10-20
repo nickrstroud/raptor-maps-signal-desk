@@ -13,6 +13,7 @@ export interface WorkflowProgress {
   startedAt: string;
   done: WorkflowStageKey[];
   completedAt?: string;
+  open?: boolean; // details expanded; remembered so a collapsed workflow stays collapsed
 }
 
 export type WorkflowStatus = "none" | "active" | "done";
@@ -30,6 +31,7 @@ interface WorkflowContextValue {
   trigger: (signalId: string) => void;
   toggleStage: (signalId: string, stage: WorkflowStageKey) => void;
   reset: (signalId: string) => void;
+  setOpen: (signalId: string, open: boolean) => void;
 }
 
 const STORAGE_KEY = "signal-desk-solar-workflows-v1";
@@ -77,7 +79,10 @@ export function WorkflowProvider({
   };
 
   const trigger = (id: string) =>
-    update((prev) => (prev[id] ? prev : { ...prev, [id]: { startedAt: new Date().toISOString(), done: [] } }));
+    update((prev) => (prev[id] ? prev : { ...prev, [id]: { startedAt: new Date().toISOString(), done: [], open: true } }));
+
+  const setOpen = (id: string, open: boolean) =>
+    update((prev) => (prev[id] ? { ...prev, [id]: { ...prev[id], open } } : prev));
 
   const toggleStage = (id: string, stage: WorkflowStageKey) =>
     update((prev) => {
@@ -95,7 +100,7 @@ export function WorkflowProvider({
     });
 
   return (
-    <WorkflowContext.Provider value={{ workflows, sponsors, progress, statusOf, trigger, toggleStage, reset }}>
+    <WorkflowContext.Provider value={{ workflows, sponsors, progress, statusOf, trigger, toggleStage, reset, setOpen }}>
       {children}
     </WorkflowContext.Provider>
   );

@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { workflowPlayLabel } from "@/lib/workflow-plays";
+import { STAGE_SHORT, workflowPlayLabel } from "@/lib/workflow-plays";
 import { useWorkflows } from "./WorkflowContext";
 
 function CopyBlock({ label, text, mono = false }: { label: string; text: string; mono?: boolean }) {
@@ -35,8 +35,7 @@ function CopyBlock({ label, text, mono = false }: { label: string; text: string;
 // The "Trigger workflow" button on a signal, and once triggered, the play:
 // five stages to check off plus a customer email, Slack note, and CRM task.
 export default function WorkflowPanel({ signalId, account }: { signalId: string; account: string }) {
-  const { workflows, sponsors, progress, statusOf, trigger, toggleStage, reset } = useWorkflows();
-  const [open, setOpen] = useState(true);
+  const { workflows, sponsors, progress, statusOf, trigger, toggleStage, reset, setOpen } = useWorkflows();
   const wf = workflows[signalId];
   if (!wf) return null;
 
@@ -48,10 +47,7 @@ export default function WorkflowPanel({ signalId, account }: { signalId: string;
     return (
       <button
         type="button"
-        onClick={() => {
-          trigger(signalId);
-          setOpen(true);
-        }}
+        onClick={() => trigger(signalId)}
         className="text-[11px] font-medium px-2.5 py-1 rounded-md bg-brand-900 text-white hover:bg-brand-700 cursor-pointer"
       >
         ⚡ Trigger workflow
@@ -60,35 +56,55 @@ export default function WorkflowPanel({ signalId, account }: { signalId: string;
   }
 
   const accountSponsors = sponsors[account] ?? [];
+  const open = p?.open ?? false;
 
   return (
     <div className="border border-brand-200 rounded-lg bg-brand-50/40 overflow-hidden">
-      <button
-        type="button"
-        onClick={() => setOpen((o) => !o)}
-        className="w-full flex items-center justify-between gap-3 px-3 py-2 text-left cursor-pointer hover:bg-brand-50"
-      >
-        <span className="flex items-center gap-2 flex-wrap">
-          <span className="text-[10px] font-semibold uppercase tracking-wide text-brand-700">
-            {status === "done" ? "✓ Workflow complete" : "Workflow in progress"}
+      <div className="px-3 py-2 space-y-1.5">
+        <div className="flex items-center justify-between gap-3">
+          <span className="flex items-center gap-2 flex-wrap min-w-0">
+            <span className="text-[10px] font-semibold uppercase tracking-wide text-brand-700">
+              {status === "done" ? "✓ Workflow complete" : "⚡ Workflow"}
+            </span>
+            <span className="text-xs font-medium text-slate-800">{workflowPlayLabel(wf.play)}</span>
+            <span className="text-[11px] text-slate-500 tabular-nums">
+              {doneCount}/{wf.stages.length}
+            </span>
           </span>
-          <span className="text-xs font-medium text-slate-800">{workflowPlayLabel(wf.play)}</span>
-        </span>
-        <span className="flex items-center gap-2 shrink-0">
-          <span className="w-20 h-1.5 rounded-full bg-white border border-slate-200 overflow-hidden">
-            <span
-              className={`block h-full ${status === "done" ? "bg-emerald-500" : "bg-brand-500"}`}
-              style={{ width: `${(doneCount / wf.stages.length) * 100}%` }}
-            />
-          </span>
-          <span className="text-[11px] text-slate-500 tabular-nums">
-            {doneCount}/{wf.stages.length}
-          </span>
-          <span className="text-[11px] text-slate-400" aria-hidden>
-            {open ? "▾" : "▸"}
-          </span>
-        </span>
-      </button>
+          <button
+            type="button"
+            onClick={() => setOpen(signalId, !open)}
+            aria-expanded={open}
+            className="shrink-0 text-[11px] text-brand-700 hover:underline cursor-pointer"
+          >
+            {open ? "Hide details ▴" : "Show details ▾"}
+          </button>
+        </div>
+        {/* Always-visible stage strip: progress at a glance, checkable without expanding. */}
+        <div className="flex flex-wrap gap-1.5">
+          {wf.stages.map((st) => {
+            const checked = p?.done.includes(st.key) ?? false;
+            return (
+              <label
+                key={st.key}
+                className={`inline-flex items-center gap-1 text-[11px] px-2 py-0.5 rounded-full border cursor-pointer select-none ${
+                  checked
+                    ? "bg-emerald-50 border-emerald-300 text-emerald-800"
+                    : "bg-white border-slate-200 text-slate-600 hover:border-brand-300"
+                }`}
+              >
+                <input
+                  type="checkbox"
+                  checked={checked}
+                  onChange={() => toggleStage(signalId, st.key)}
+                  className="h-3 w-3 accent-emerald-600"
+                />
+                {STAGE_SHORT[st.key] ?? st.title}
+              </label>
+            );
+          })}
+        </div>
+      </div>
 
       {open && (
         <div className="px-3 pb-3 space-y-3">
@@ -107,7 +123,7 @@ export default function WorkflowPanel({ signalId, account }: { signalId: string;
             {wf.stages.map((s, i) => {
               const checked = p?.done.includes(s.key) ?? false;
               return (
-                <li key={s.key} className="bg-white border border-slate-200 rounded-md px-2.5 py-2">
+                <li key={s.key} className={`bg-white border border-slate-200 rounded-md px-2.5 ${checked ? "py-1" : "py-2"}`}>
                   <label className="flex items-start gap-2 cursor-pointer">
                     <input
                       type="checkbox"
@@ -120,11 +136,13 @@ export default function WorkflowPanel({ signalId, account }: { signalId: string;
                         {i + 1}. {s.title}
                       </span>
                       <span className="text-[10px] text-slate-400"> · {s.timing}</span>
-                      <ul className={`mt-0.5 text-[11px] list-disc pl-4 ${checked ? "text-slate-400" : "text-slate-600"}`}>
-                        {s.tasks.map((t, j) => (
-                          <li key={j}>{t}</li>
-                        ))}
-                      </ul>
+                      {!checked && (
+                        <ul className="mt-0.5 text-[11px] list-disc pl-4 text-slate-600">
+                          {s.tasks.map((t, j) => (
+                            <li key={j}>{t}</li>
+                          ))}
+                        </ul>
+                      )}
                     </span>
                   </label>
                 </li>

@@ -13,3 +13,12 @@ export function workflowPlayLabel(value: string): string {
 }
 
 export const STAGE_ORDER = ["validate", "align", "engage", "act", "track"] as const;
+
+// Short stage names for the compact checklist strip.
+export const STAGE_SHORT: Record<string, string> = {
+  validate: "Validate",
+  align: "Align",
+  engage: "Engage Customer",
+  act: "Act",
+  track: "Close Loop",
+};
