@@ -10,6 +10,8 @@ import QuietAccounts from "./QuietAccounts";
 import AgentPrecision from "./AgentPrecision";
 import AgentLearning from "./AgentLearning";
 import MyWorkflows from "./MyWorkflows";
+import AskAgent from "./AskAgent";
+import { slugify } from "@/lib/slug";
 
 const DAY = 86_400_000;
 
@@ -60,6 +62,8 @@ export default function Home() {
           public case studies and news
         </p>
       </div>
+
+      <AskAgent accounts={companies.map((c) => ({ name: c.name, slug: slugify(c.name) }))} />
 
       <section>
         <div className="flex flex-wrap items-end justify-between gap-2 mb-4">
