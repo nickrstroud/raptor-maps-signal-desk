@@ -97,7 +97,8 @@ export async function POST(req: Request) {
     const client = new Anthropic();
     const message = await client.messages.create({
       model: MODEL,
-      max_tokens: 2000,
+      // Headroom for the model's hidden reasoning plus a ~200-word answer.
+      max_tokens: 8000,
       system: [
         { type: "text", text: SYSTEM },
         // The briefing is identical across questions, so it's cached: repeat
@@ -111,7 +112,11 @@ export async function POST(req: Request) {
       .map((b) => b.text)
       .join("\n")
       .trim();
-    return Response.json({ answer: answer || "I couldn't produce an answer to that.", remaining: DAILY_LIMIT - used });
+    const trimmed = message.stop_reason === "max_tokens" ? "\n\n(Answer trimmed for length. Try a narrower question.)" : "";
+    return Response.json({
+      answer: answer ? answer + trimmed : "I couldn't produce an answer to that.",
+      remaining: DAILY_LIMIT - used,
+    });
   } catch (err) {
     if (err instanceof Anthropic.RateLimitError) {
       return Response.json({ error: "The agent is busy right now. Try again in a minute." }, { status: 429 });
