@@ -347,5 +347,35 @@
         "publishedAt": "2026-10-03T13:04:15.000Z"
       }
     ]
+  },
+  {
+    "company": "BayWa r.e.",
+    "runAt": "2026-10-20T19:20:03.130Z",
+    "source": "daily",
+    "headline": "BayWa r.e. divesting utility-scale solar assets globally—risk to managed-MW platform baseline and retention focus needed",
+    "signals": [
+      {
+        "category": "Portfolio divestment – Australia",
+        "updateType": "ma",
+        "play": "retention",
+        "score": -2,
+        "summary": "Atmos Renewables acquired ~1 GWp of operating solar and wind assets from BayWa r.e. in Australia (announced mid-October 2026). These assets are no longer under BayWa r.e. ownership and will transition to Atmos's O&M and operational control. Material loss of managed MW from BayWa r.e.'s portfolio under Raptor Solar platform.",
+        "suggestedAction": "Contact Sean Bucher immediately to confirm: (1) which Australian sites were on the Raptor Solar platform and how much MW is being off-boarded; (2) whether Atmos is retaining Raptor Maps post-acquisition or switching vendors; (3) if assets transfer mid-contract, what is the customer's retention exposure and timeline. Prepare a transition plan to protect data continuity and relationship.",
+        "sourceName": "PV Tech",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVHptYnhnN2JfcnliVEE2dHFqbU96SG5TWUR1ZmRneUZXNlU3UXdGRnc3SXk0ODRBdU9sSGE4anZuZnhySW9uTVlfYkQxU1F3Y0JjMEVqTHVfQlBhX0lpbWRILUktUmNFYnFFMWd2MmZfS01oa0JtYmZJSi04VG41NTJCS0VDVGcxM0RMOFJOd0FOQ21vU1h3dU5GaUlSYlFtRVhhYndEcFI?oc=5",
+        "publishedAt": "2026-10-19T01:50:42.000Z"
+      },
+      {
+        "category": "Portfolio divestment – Ireland",
+        "updateType": "ma",
+        "play": "retention",
+        "score": -2,
+        "summary": "Elgin acquired the 40 MWp Kilderry solar farm from BayWa r.e. in Ireland (mid-October 2026). This asset is transitioning to new ownership and will likely move off BayWa r.e.'s managed portfolio and Raptor Solar platform.",
+        "suggestedAction": "Confirm with Sean Bucher: (1) was Kilderry on Raptor Solar; (2) how many MW in total are being divested from the North American O&M business vs. other geographies; (3) is the focus now solely on the North American ROCC, and what is the realistic size of the addressable managed-MW base going forward?",
+        "sourceName": "Solar Power Portal",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX3o4MjNob3YxYkJ6a3VVZ2JoNjJwTTRjc0JDUWpscDBEVzlQRGxrVGwwOWNHeHMyc21SMTRYbEFHLXFQUWVkUDRfTkJUc2hxWml6QkpCZ2Y2NUxLUEpiaXFkQmg0VFFGT3RnVVYydjM2VXdPQ0ZoRjJ6Y0ZwYmhrYlk5dmNfNk9QWnFGQV9XeVZOZ2tkX0tXNDdvOUR1MkNXLXc?oc=5",
+        "publishedAt": "2026-10-12T11:54:56.000Z"
+      }
+    ]
   }
 ]

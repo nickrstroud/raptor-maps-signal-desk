@@ -123,5 +123,24 @@
         "publishedAt": "2026-10-02T11:28:50.000Z"
       }
     ]
+  },
+  {
+    "company": "Enel Green Power",
+    "runAt": "2026-10-20T19:20:08.861Z",
+    "source": "daily",
+    "headline": "Enel Green Power acquires 270–510 MW of US solar portfolio; major Raptor Solar onboarding and Sentry expansion opportunity",
+    "signals": [
+      {
+        "category": "Major solar portfolio acquisition",
+        "updateType": "expansion",
+        "play": "raptor_solar",
+        "score": 2,
+        "summary": "Enel Green Power has finalized acquisition of 270–510 MW of utility-scale solar assets in the Southern US (conflicting reports cite 240 MW and 270 MW across multiple sites; combined with [0], likely represents a consolidated portfolio transaction). This is material expansion of Enel North America's operating fleet and represents baseline onboarding of new MW to Raptor Solar's performance intelligence and digital-twin platform.",
+        "suggestedAction": "Contact William Badnaruk and Enel North America asset operations leadership within 5 business days to confirm (1) total MW and site count of the newly acquired portfolio, (2) current operational status and expected COD dates for any sites still ramping, (3) onboarding timeline for Raptor Solar (performance monitoring, SCADA integration, mobile ops workflows), and (4) whether these sites already run any competing APM/monitoring vendor. Prepare a baseline RS Inspections commissioning plan for newly energized sites.",
+        "sourceName": "PV Tech",
+        "sourceLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVndZSmY2Vkl2eVBIMWFLYlRKdXJTcTB6VDB3MXZTWGo4cm9kOHIzcEZQV0IyYWtyazlvcVNPQ2Rad1JDT09Wd3dua0N2Z1VkeTBUQ3lXQ1pWMTY3UG9vX0oxRkxDQVBFVUE4YWkyOHlKS0xJMjRPYUlvNHNYYVIxUlJlcUJZdw?oc=5",
+        "publishedAt": "2026-10-05T13:45:12.000Z"
+      }
+    ]
   }
 ]

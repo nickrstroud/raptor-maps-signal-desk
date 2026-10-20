@@ -145,5 +145,24 @@
         "publishedAt": "2026-10-02T17:19:09.000Z"
       }
     ]
+  },
+  {
+    "company": "Apex Clean Energy",
+    "runAt": "2026-10-20T19:19:59.526Z",
+    "source": "daily",
+    "headline": "Apex Clean Energy brings new investors into 339 MW portfolio; solar expansion opportunity in Michigan",
+    "signals": [
+      {
+        "category": "Portfolio financing with new investors",
+        "updateType": "financing",
+        "play": "raptor_solar",
+        "score": 1,
+        "summary": "Apex is bringing new investors into a 339 MW clean-energy portfolio (North Carolina wind and Michigan solar) while retaining operational control. The Michigan solar component represents potential MW expansion under management.",
+        "suggestedAction": "Reach out to Neil James to confirm whether the Michigan solar assets in this 339 MW portfolio are already on Raptor Solar and Sentry, or if this is an opportunity to onboard new MW. Offer a baseline RS Inspections plan for any newly acquired sites reaching COD.",
+        "sourceName": "Energies Media",
+        "sourceLink": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5zVXhxWVJmUmFlM0hCbmxiR1phbjBuOHZ0ZldZdlc2VFJBWDdpREtNY0R3Qi1hQXNoUVhYMXJvb1ZyLWhPbFhXSHFOMTM5YXFHd1NKTy1lVGplMFRLWFAycWk5OTNFQ2ltVjJJM292UDhuc2NCZEZvTGhMVkJPQQ?oc=5",
+        "publishedAt": "2026-10-05T11:36:02.000Z"
+      }
+    ]
   }
 ]

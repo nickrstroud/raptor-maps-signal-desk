@@ -219,5 +219,24 @@
         "publishedAt": "2026-08-07T07:00:00.000Z"
       }
     ]
+  },
+  {
+    "company": "First Solar",
+    "runAt": "2026-10-20T19:20:02.588Z",
+    "source": "daily",
+    "headline": "Module defect litigation surfaces; Raptor Maps opportunity to provide warranty and field-quality evidence across First Solar's installed base.",
+    "signals": [
+      {
+        "category": "Module defects and warranty claims",
+        "updateType": "reliability",
+        "play": "raptor_solar",
+        "score": 1,
+        "summary": "Swift Current is suing First Solar alleging widespread module defects (reported in articles [0] and [6]). This surfaces field-quality and warranty issues at First Solar customer plants—exactly where Raptor Maps' RS Inspections (already owned by First Solar) and Raptor Solar (not yet owned) provide defensible evidence. First Solar's own field-quality teams and warranty-engineering groups need data from installed-base inspections to quantify defect rates, validate claims, and protect market share.",
+        "suggestedAction": "Schedule a call with First Solar's VP Field Quality or VP Warranty Engineering (identify if not already named). Position RS Inspections as providing quantifiable, timestamped visual and thermal evidence of module condition across the installed base—crucial for any warranty defense. Float Raptor Solar as the natural next step to correlate field defect patterns with performance drop-off, so First Solar can proactively identify, document, and remediate issues before customer escalation.",
+        "sourceName": "pv magazine USA",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZTFQRVFkNkFnR1FZZlZ6TnBsUzlJdEJDdmRvRmFtUTNPeVZ3eTZkVHVrMG9kcFhkNmxzN3ZoXzNHUzlXQ2xRZlRZOTl4dGh4YmxxU0hkaGYtMTRPTWlwVlFOcW5nU1htNlZ5R1FCYTVvMXpzN0lnSDNEM1ZPTlRjZGdSNzlIeUsySEliVnhPc2NQa0dKN0t5aTd2S3BpWVZSMmtVakJCUEhJQS00UWtJMHJNckN4WjFYNmc?oc=5",
+        "publishedAt": "2026-10-16T17:48:20.000Z"
+      }
+    ]
   }
 ]
