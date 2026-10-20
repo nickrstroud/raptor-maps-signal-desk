@@ -77,6 +77,15 @@ const TOOL: Anthropic.Tool = {
   },
 };
 
+// The model occasionally returns a play outside the enum; map it to the nearest one.
+const PLAY_VALUES = new Set(WORKFLOW_PLAYS.map((p) => p.value));
+function normalizePlay(play: string): string {
+  if (PLAY_VALUES.has(play)) return play;
+  if (/expan|onboard|grow|upsell/i.test(play)) return "onboard_expand";
+  if (/renew|retain|save|risk/i.test(play)) return "protect_renewal";
+  return "advise";
+}
+
 const STAGE_TITLES: Record<string, string> = {
   validate: "Validate",
   align: "Align internally",
@@ -123,7 +132,7 @@ async function generate(company: Company, signal: AccountSignal, signalId: strin
     signalId,
     account: company.name,
     signalTitle: signal.category,
-    play: w.play,
+    play: normalizePlay(w.play),
     goal: w.goal,
     owner: w.owner,
     contactRole: w.contactRole,
