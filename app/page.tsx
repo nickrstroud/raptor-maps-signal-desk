@@ -51,6 +51,8 @@ export default function Home() {
 
   return (
     <div className="space-y-10">
+      {/* Banner, key accounts, and Ask sit closer together than the rest of the page. */}
+      <div className="space-y-5">
       <div className="-mt-2 rounded-xl border border-brand-200 bg-brand-50/60 px-4 py-3">
         <p className="text-sm text-slate-800">
           <span className="font-semibold">What you&apos;re looking at: </span>
@@ -62,8 +64,6 @@ export default function Home() {
           public case studies and news
         </p>
       </div>
-
-      <AskAgent accounts={companies.map((c) => ({ name: c.name, slug: slugify(c.name) }))} />
 
       <section>
         <div className="flex flex-wrap items-end justify-between gap-2 mb-4">
@@ -83,6 +83,9 @@ export default function Home() {
           <AgentPrecision />
         </div>
       </section>
+
+      <AskAgent accounts={companies.map((c) => ({ name: c.name, slug: slugify(c.name) }))} />
+      </div>
 
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
         <section className="lg:col-span-2 min-w-0 space-y-10">
