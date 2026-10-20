@@ -28,8 +28,18 @@ const STEPS = [
   },
   {
     n: "6",
+    title: "Turn signals into plays",
+    body: "Each meaningful signal comes with a ready-to-run workflow, generated once by the daily run: a play (onboard and expand, protect the renewal, and so on), five stages (Validate, Align, Engage Customer, Act, Close Loop) with timing and tasks, a measurable \"done when\", and copy-ready drafts of the customer email, internal Slack note, and CRM task. Click ⚡ Trigger workflow to start one, tick stages off as you go, and track everything in progress from My workflows or the Workflow status filter. Customer emails are addressed by role, not by name.",
+  },
+  {
+    n: "7",
+    title: "Ask the book of business",
+    body: "Ask the agent answers plain-English questions (which accounts are at risk, what changed at an account, who is exposed to a policy change) using only this dashboard's data: account background, every signal, and recent industry news. Answers name the accounts and dates they rely on, and say so when the data doesn't cover something. Powered by Claude Haiku 5.5, with a daily question cap for the demo.",
+  },
+  {
+    n: "8",
     title: "Persist and publish",
-    body: "A scheduled GitHub Action commits results back to the repo (the git history is the audit trail), and Vercel redeploys this static dashboard automatically.",
+    body: "A scheduled GitHub Action commits results back to the repo (the git history is the audit trail), and Vercel redeploys this dashboard automatically. If the API key is ever rejected, the run fails loudly instead of quietly skipping accounts.",
   },
 ];
 
@@ -101,7 +111,8 @@ surfaces at:    priority ≥ 3`}
         <h2 className="text-sm font-semibold text-slate-900 mb-2">What it costs</h2>
         <p className="text-sm text-slate-600">
           News fetches are free. Claude Haiku costs roughly a cent per account with new coverage, and the industry
-          pass is a handful of batched calls. Covering a full book of accounts costs a few dollars a day.
+          pass is a handful of batched calls. Each workflow is generated once per signal for a cent or two, and each
+          Ask the agent question costs about a cent. Covering a full book of accounts costs a few dollars a day.
         </p>
       </section>
 
@@ -113,6 +124,11 @@ surfaces at:    priority ≥ 3`}
             back as tasks on the owning CSM&apos;s queue
           </li>
           <li>First-party signals: MW onboarded, inspection and credit consumption, Sentry flight volume, logins, support tickets, NPS</li>
+          <li>
+            Workflows as real team work: progress stored centrally (today it lives in your browser), stages synced to
+            CRM tasks with owners and due dates, and outcomes fed back so the agent learns which plays work
+          </li>
+          <li>Ask the agent with sign-in, per-user history, and access to CRM and usage data alongside the news</li>
           <li>
             A shared feedback loop. Today votes live in your browser. In production they&apos;d be stored centrally, the
             daily run would apply the learned type weights, and recent labeled examples would go into Claude&apos;s
