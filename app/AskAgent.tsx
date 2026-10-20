@@ -79,6 +79,13 @@ export default function AskAgent({ accounts }: { accounts: { name: string; slug:
   const [remaining, setRemaining] = useState<number | null>(null);
   const [loading, setLoading] = useState(false);
 
+  const clear = () => {
+    setQuestion("");
+    setAsked("");
+    setAnswer(null);
+    setError(null);
+  };
+
   const ask = async (q: string) => {
     const text = q.trim();
     if (!text || loading) return;
@@ -153,7 +160,18 @@ export default function AskAgent({ accounts }: { accounts: { name: string; slug:
 
       {(loading || answer || error) && (
         <div className="mt-3 pt-3 border-t border-slate-100">
-          {asked && <p className="text-[11px] text-slate-400 mb-1.5">Q: {asked}</p>}
+          <div className="flex items-start justify-between gap-3 mb-1.5">
+            <p className="text-[11px] text-slate-400 min-w-0">{asked && <>Q: {asked}</>}</p>
+            {!loading && (
+              <button
+                type="button"
+                onClick={clear}
+                className="shrink-0 text-[11px] px-2 py-0.5 rounded border border-slate-200 text-slate-500 hover:border-brand-300 hover:text-brand-700 cursor-pointer"
+              >
+                Clear ✕
+              </button>
+            )}
+          </div>
           {loading && <p className="text-sm text-slate-500">Reading the accounts and signals…</p>}
           {error && <p className="text-sm text-red-700">{error}</p>}
           {answer && <Answer text={answer} accounts={accounts} />}
