@@ -377,5 +377,24 @@
         "publishedAt": "2026-10-12T11:54:56.000Z"
       }
     ]
+  },
+  {
+    "company": "BayWa r.e.",
+    "runAt": "2026-10-21T17:56:49.722Z",
+    "source": "daily",
+    "headline": "BayWa r.e. divesting 2 GW Australian portfolio to Atmos Renewables; North American O&M operations status unclear amid parent restructuring.",
+    "signals": [
+      {
+        "category": "Portfolio Divestment – Australia 2 GW",
+        "updateType": "ma",
+        "play": "retention",
+        "score": -1,
+        "summary": "BayWa r.e. has sold a 2 GW renewable energy portfolio in Australia to Atmos Renewables as part of its parent company's balance-sheet repair and restructuring. While the article focuses on the Australian solar and wind assets, this divestment signals continued portfolio rationalization under financial pressure. The North American O&M business managed by BayWa r.e. Operations Services is not explicitly mentioned as part of this sale, but the transaction underscores the heightened M&A and restructuring activity at the parent level.",
+        "suggestedAction": "Contact Sean Bucher immediately to confirm that the North American 1+ GW O&M business (BayWa r.e. Operations Services) remains in scope and unaffected by this Australian divestment. Clarify retention strategy: does the portfolio sale reduce pressure on the parent to divest NA O&M, or accelerate it? Offer to quantify Raptor Solar + RS Inspections ROI (cost per MW managed, production recovered, truck-roll savings) to support the case for keeping NA O&M in-house or to brief a potential new owner.",
+        "sourceName": "Legal Desire",
+        "sourceLink": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTnNRVGdBZ0NqZ1pVMzdzWHhkelZyMFMtaHl0eWNvUVJheDBNdEdNRWVkTzVNMm1hNWI0RklocU5RSi1RLXl4bDZ0U25ZLVMyTXFCdTBFM1RXMGRIWWZUTmNlbzFsODR6SlI0SHE2N1RqeDVaRURXN3VTb1Fpc0VGMVFZYTRmd1F0RHh1aEs1X2k1c2E2SlJKaGkxUVFNU3VmXzliek5iSVkzUlJabzZrRkVmX0xXZnRmWnVTeXBJSWYyMEVU?oc=5",
+        "publishedAt": "2026-10-19T11:03:44.000Z"
+      }
+    ]
   }
 ]

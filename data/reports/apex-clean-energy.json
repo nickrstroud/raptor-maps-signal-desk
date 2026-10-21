@@ -164,5 +164,24 @@
         "publishedAt": "2026-10-05T11:36:02.000Z"
       }
     ]
+  },
+  {
+    "company": "Apex Clean Energy",
+    "runAt": "2026-10-21T17:56:48.944Z",
+    "source": "daily",
+    "headline": "Apex Clean Energy closes 150 MW Spring Creek Solar financing; expansion opportunity for Raptor Solar and Sentry onboarding",
+    "signals": [
+      {
+        "category": "150 MW Spring Creek Solar financing closed",
+        "updateType": "financing",
+        "play": "raptor_solar",
+        "score": 2,
+        "summary": "Apex closed financing for 150 MW Spring Creek Solar project. This material new asset will require onboarding to Raptor Solar for performance intelligence and digital twin coverage, plus baseline RS Inspections at commissioning. Given Apex's proven reliance on Sentry for reliability and risk management (demonstrated during tornado response), this new site is a strong candidate for Sentry deployment as it reaches COD.",
+        "suggestedAction": "Reach out to Neil James (VP Operations and Maintenance) this week to confirm Spring Creek's construction and COD timeline. Propose a sequenced onboarding: (1) Raptor Solar + baseline RS Inspections at commissioning to support warranty evidence and system-of-record building; (2) Sentry deployment at COD as part of their fleet-wide weather-response SOPs. Offer to align Sentry activation with their critical-event protocols given their track record.",
+        "sourceName": "Renewable Energy Magazine",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcEV4YzFzTTR6alpNX043bUxOLWt6NW9aZWNhZ2hhdk1IRE5Qbkx2WXQzdkN3VlZYMldveUpHMHV3SVpldUFOeVNnR3RfeDdVdHh5UVBZVXdidm1aZ1NQQ1ZSVE5zVTBXTWpUWEh6NWN1WWlrZGgySHFEOVhTdm1TdkFxSHo5Z3ZsV0V2czBrcnhpVFhKZzVycw?oc=5",
+        "publishedAt": "2026-10-21T12:21:52.000Z"
+      }
+    ]
   }
 ]
