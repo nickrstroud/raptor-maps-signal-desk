@@ -1,5 +1,183 @@
 [
   {
+    "id": "dGl2ZW4tYWNxdWlzaXRpb24v",
+    "title": "VPPs to remain focus for sonnen after TIVEN acquisition",
+    "link": "https://www.solarpowerworldonline.com/2026/10/vpps-to-remain-focus-for-sonnen-after-tiven-acquisition/",
+    "sourceName": "Solar Power World",
+    "publishedAt": "2026-10-22T16:00:21.000Z",
+    "analyzedAt": "2026-10-22T17:54:01.685Z",
+    "updateType": "ma",
+    "relevance": 1,
+    "summary": "sonnen USA was acquired by TIVEN, a family office investment group based in Malta and Germany, from Shell. The company intends to maintain its focus on VPP (virtual power plant) partnerships.",
+    "angle": "Ownership changes in energy storage companies may signal M&A activity and consolidation in the solar+storage stack; understand how storage players are reorganizing and whether your customers are affected by ownership or strategy shifts.",
+    "play": "none",
+    "products": [],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "RWRWwxYVdKQ01HVlI_b2M9NQ",
+    "title": "Renew Risk expands solar farm catastrophe modelling to all 48 contiguous US states",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbEtLWS13THRTTUIyalZNYmZZdlVOS0UxQkU5X2N1THpuaFFWajc5U1FSaGNEUTRLZFpvX1FTZWhjdEpmVUJSa0xQc0JoOEFQeG5YQnkwcnlvZlRpMUZuSnBUaWljOWFudjVrWWVfeHJzOF9RQWEtUlNhR0c4RzZjS1FXb3BqcUp3RDUxdXJvbUJ5MWRieEhzb0p0bEV5dEp3YjhtUWhEV3R4VEl1aWJCMGVR?oc=5",
+    "sourceName": "Reinsurance News",
+    "publishedAt": "2026-10-22T15:31:49.000Z",
+    "analyzedAt": "2026-10-22T17:54:07.690Z",
+    "updateType": "weather",
+    "relevance": 2,
+    "summary": "Renew Risk has expanded solar farm catastrophe modeling to cover all 48 contiguous US states, reflecting growing industry focus on natural disaster risk and insurance for solar assets.",
+    "angle": "Insurers and owners are increasingly quantifying storm and weather risk to solar portfolios; visual inspection and damage-assessment data from Raptor inspections and Sentry help substantiate claims, guide O&M prioritization, and inform risk models.",
+    "play": "inspections",
+    "products": [
+      "inspections",
+      "sentry"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "kdmRsQTVTME5XUWtFP29jPTU",
+    "title": "Tariffs raise solar prices in LevelTen’s Q3 N American PPA Price Index",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWWhMYlBaWmlhSjB0LTBJWmN0YmVhWVkzOU1JdU1pdGEzX0h1LWV5bFFwbjZxQ0FBSjlndWRrUVJIVDM2Y3AwVi01ZVZKTW9PQ3dZWXlQckRxcEV4aXdpZTdwTm1mTHl3Snc2MWkwb0VpaEo4N0g5enM5c2VNQlY2UDN3VEw5elpYRU92TDBiOTRxbXRLdFV2S3RORVBTQzhOVHRFc2dvdlA5S0NWQkE?oc=5",
+    "sourceName": "Renewables Now",
+    "publishedAt": "2026-10-22T15:02:06.000Z",
+    "analyzedAt": "2026-10-22T17:54:17.425Z",
+    "updateType": "trade",
+    "relevance": 2,
+    "summary": "LevelTen's Q3 North American PPA Price Index shows tariffs raising solar project costs and power purchase agreement pricing.",
+    "angle": "Tariffs driving up project economics and LCOE means operators need better performance monitoring and O&M efficiency to maintain project IRR. This is a core Raptor Solar conversation point for existing customers.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "1wb3dlci1wam0vODMzNzE3Lw",
+    "title": "Google supersizes PJM virtual power plant to more than 1 GW",
+    "link": "https://www.utilitydive.com/news/google-voltus-vpp-virtual-power-pjm/833717/",
+    "sourceName": "Utility Dive",
+    "publishedAt": "2026-10-22T14:42:49.000Z",
+    "analyzedAt": "2026-10-22T17:54:07.690Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "Google has expanded its virtual power plant in PJM to over 1GW, signaling a major shift in how distributed resources participate in energy markets. Demand response revenue in PJM jumped 240% from 2024 to 2025.",
+    "angle": "Solar plants increasingly must optimize for grid services and demand response; real-time performance analytics and remote control capabilities are becoming table stakes for utility and C&I asset value and revenue.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "d2luZy1jZWxsLWltcG9ydHMv",
+    "title": "T1 Energy announces Department of Commerce waiver allowing cell imports",
+    "link": "https://pv-magazine-usa.com/2026/10/22/t1-energy-announces-department-of-commerce-waiver-allowing-cell-imports/",
+    "sourceName": "pv magazine USA",
+    "publishedAt": "2026-10-22T14:20:00.000Z",
+    "analyzedAt": "2026-10-22T17:54:01.685Z",
+    "updateType": "trade",
+    "relevance": 2,
+    "summary": "T1 Energy secures Department of Commerce waiver to import 1.725 GW of solar cells for Texas assembly plant ahead of Section 232 polysilicon tariffs and minimum import prices effective Dec. 4, 2026.",
+    "angle": "Tariff and trade uncertainty is reshaping solar supply chains and module costs. Customers should understand how domestic content rules and tariffs affect their project economics and procurement strategies.",
+    "play": "none",
+    "products": [],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "lZC1zb2xhci10cmFja2Vycy8",
+    "title": "PVH expands Houston footprint to scale pre-assembled solar trackers",
+    "link": "https://pv-magazine-usa.com/2026/10/22/pvh-expands-houston-footprint-to-scale-pre-assembled-solar-trackers/",
+    "sourceName": "pv magazine USA",
+    "publishedAt": "2026-10-22T13:18:37.000Z",
+    "analyzedAt": "2026-10-22T17:54:01.685Z",
+    "updateType": "expansion",
+    "relevance": 1,
+    "summary": "PV Hardware USA expands its Houston manufacturing facility by 34,200 sq ft to scale pre-assembled tracker production and address labor and supply chain constraints on utility-scale solar sites.",
+    "angle": "Pre-assembly and factory-level supply-chain innovation reduce on-site labor burden and may improve project timelines; a conversation point for O&M and EPC customers managing construction QA and labor costs.",
+    "play": "none",
+    "products": [],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "nLXNvbGFyLXdvcmtmb3JjZS8",
+    "title": "Gritt Robotics brings AI-assisted robotics to bolster shrinking solar workforce",
+    "link": "https://pv-magazine-usa.com/2026/10/22/gritt-robotics-brings-ai-assisted-robotics-to-bolster-shrinking-solar-workforce/",
+    "sourceName": "pv magazine USA",
+    "publishedAt": "2026-10-22T12:56:49.000Z",
+    "analyzedAt": "2026-10-22T17:54:01.685Z",
+    "updateType": "expansion",
+    "relevance": 1,
+    "summary": "Gritt Robotics is deploying AI-assisted robotics with top EPCs to install six million solar panels over the next two years, addressing the shrinking solar workforce.",
+    "angle": "Robotics adoption in construction and O&M is accelerating; this signals growing demand for automated site processes and data-driven workforce planning that Raptor Solar and inspections workflows support.",
+    "play": "none",
+    "products": [],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "bGFuLW9mZmVycy0zLTUtZ3cv",
+    "title": "Virginia wants 16 GW of storage, Dominion’s latest published plan offers 3.5 GW",
+    "link": "https://pv-magazine-usa.com/2026/10/22/virginia-wants-16-gw-of-storage-dominions-latest-published-plan-offers-3-5-gw/",
+    "sourceName": "pv magazine USA",
+    "publishedAt": "2026-10-22T12:49:31.000Z",
+    "analyzedAt": "2026-10-22T17:54:01.685Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "Virginia has set a 16 GW energy storage target, but Dominion's latest published plan only commits to 3.5 GW, raising questions about which developers will fill the gap and when.",
+    "angle": "State-level storage mandates create new project opportunities and accelerate the need for remote operations and performance monitoring tools. Solar+storage projects will require integrated monitoring and compliance capabilities.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "UlFXbkF0T1d0dGNWaz9vYz01",
+    "title": "Enviromena acquires 27.5 MWp Essex solar project as the first step in 233 MW partnership with Innova",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeEtqWVVvRllUd2dyNG54YldwS19uZ1YyUFBpZTZfSEdua3h5MmhzUG9BNHNHaTNvR0RNWkJXUThjbFFKaUpwYW90b0tDOEZFLVQ1SEZWNVBNaHl1ZUhZMXhPWU55T2paYUI3Q2lqRW80M2JxT2dmbkhla3pTV3VaWWx3blJmMkNhYW81SlByYi1LWm53RmRQWnAtOWttcVk?oc=5",
+    "sourceName": "Renewable Energy Magazine",
+    "publishedAt": "2026-10-22T10:47:51.000Z",
+    "analyzedAt": "2026-10-22T17:54:12.349Z",
+    "updateType": "ma",
+    "relevance": 2,
+    "summary": "Enviromena acquires 27.5 MWp Essex solar project as first step in 233 MW partnership with Innova. Portfolio consolidation and growth deal in UK market.",
+    "angle": "M&A activity in solar O&M and asset management space — potential new platform expansion opportunity or account growth conversation with operators managing these portfolios.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "ZWRzQzTUZGeFoyeEI_b2M9NQ",
+    "title": "T1 Receives Commerce Department Polysilicon 232 Waiver",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMThHNVB6Rkc0c0lKNmwtOWpVYzNOX05Bb3hYNGNKaE1WWmQ2SnRwU0sxZjNKSGViOW9ELUZQdUhuLWNLSk5EQUZRdE0wRlVUY3E5eTlYcWtSeXBiby15Wm1aaHlCTXFnS1FZbWdLeWJPeTBzSFRoMENmYnhyb0pHTkFYbTVLUVhhSnZFZWV6VG43MFFxZ2xB?oc=5",
+    "sourceName": "Yahoo Finance Singapore",
+    "publishedAt": "2026-10-22T10:20:00.000Z",
+    "analyzedAt": "2026-10-22T17:54:17.425Z",
+    "updateType": "trade",
+    "relevance": 1,
+    "summary": "T1 receives Commerce Department polysilicon 232 waiver, reducing tariff exposure for solar panel supply.",
+    "angle": "Tariff waivers and supply-chain relief affect module pricing and project feasibility, particularly relevant to Raptor customers tracking cost pressures.",
+    "play": "none",
+    "products": [],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "UtdXAtNDMtdG8tODAtOWd3Lw",
+    "title": "Solar and battery storage push Australia’s NEM connection pipeline up 43% to 80.9GW",
+    "link": "https://www.pv-tech.org/solar-and-battery-storage-push-australias-nem-connection-pipeline-up-43-to-80-9gw/",
+    "sourceName": "PV Tech",
+    "publishedAt": "2026-10-22T03:13:39.000Z",
+    "analyzedAt": "2026-10-22T17:54:07.690Z",
+    "updateType": "expansion",
+    "relevance": 2,
+    "summary": "Australia's NEM connection pipeline has grown 43% year-over-year to 80.9GW, now exceeding the grid's existing 77GW capacity. Solar and battery storage projects are driving this unprecedented pipeline growth.",
+    "angle": "A major market is experiencing explosive solar build-out that will drive O&M complexity and demand for performance monitoring and remote inspection capabilities across a large, distributed portfolio.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "MtbGV2ZWx0ZW4vODMzNTk4Lw",
     "title": "Solar PPA prices jump 5% in Q3, mainly on new trade tariffs: LevelTen",
     "link": "https://www.utilitydive.com/news/tariffs-solar-wind-ppa-prices-levelten/833598/",
@@ -258,6 +436,24 @@
     "mentionedAccounts": []
   },
   {
+    "id": "NNeVgwMW1NbEpYZHc_b2M9NQ",
+    "title": "Storm Austen to bring 70mph winds and heavy rain to parts of UK",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU1F6Q01vcl9vUkZkUHpaRGlWdHJqaVhEOHUzc1owa3gwZ1JETDNVVTVxTzZmYnY0VkxyMmtaNUN5V2hwZ2VobUlVM3RVQ0pDUDVnU2ZCZWY4RVdxQjgydHNzTjEtQlh6MGk5azJZSk1wMFF4WHNtem5uRVhPOGRLbG5EWmN4OHpKa0V0cnlEemlfYmIwSXpNeEo4VW9lTXVHeEpQWnZXMjBKSFR1d3MyX01mMlJXdw?oc=5",
+    "sourceName": "Farmers Guide",
+    "publishedAt": "2026-10-20T11:43:02.000Z",
+    "analyzedAt": "2026-10-22T17:54:12.349Z",
+    "updateType": "weather",
+    "relevance": 2,
+    "summary": "Storm Austen bringing 70+ mph winds and heavy rain to UK. Severe weather event with potential damage to solar installations.",
+    "angle": "Storm events create immediate need for rapid damage assessment and warranty documentation; Sentry and Inspections can enable quick post-storm evaluation and asset protection.",
+    "play": "inspections",
+    "products": [
+      "inspections",
+      "sentry"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "Rzl6TldOTGNXNTZiUT9vYz01",
     "title": "Transrail to acquire 49% stake in 990 MW solar portfolio for ₹20 crore",
     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaG9vODh2OGxBenFlLUNqcFp3RjVDdlJydThiVVFRT0ZQN2xEbFNVNTJ1UnB3WVdpVGhnVVZZM0hVVHNOMFY0MDFrYUJUbWhUYzZ2LXZ2bkhhclhWSkZCUUlJUHJoRDBjREdieklEYTRlZUV5RmFia2ZnbFRDQlF5N1M1V1B6amZBX2FyN3A4U3M1UFdDSjd4MzRrSjJXT1RCc0U3MzBxSEk2Vnk1V0ZkN0Q5cHlSS29WNVhuVnllSlRLYXp4WGpXVmJwZjlWbmRBMXo00gHYAUFVX3lxTE9pUkFOM2tMOEFvcnZzd09qakNaU0hLc04xcmY0NHpueV80bkN6NHF4c2c5Z1BaYXpRZTNQY2NvVjAwYjQyYXVxM2c5cklRYWhZSmFrX3prQVltM2FNUlFpSDhPOGRpQVVCU1hhaG5mZVYzN01rMG9YdFZuN3N5QVhCRDVtMDNsWG80X2ZxUHY5dlJqTkVvU01kQ3hycnBrbnhmQnlXcHRjV2x5UVVEc3cxZThHcDdTdjJGSUNGQ2dZbDZrLTYwQjVlajFzSnpGOG9zNWNLcW56bQ?oc=5",
@@ -488,6 +684,25 @@
     "mentionedAccounts": []
   },
   {
+    "id": "Sk5ja040V2pGWU5tYz9vYz01",
+    "title": "Swift Current alleges widespread module defects in lawsuit against First Solar",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZTFQRVFkNkFnR1FZZlZ6TnBsUzlJdEJDdmRvRmFtUTNPeVZ3eTZkVHVrMG9kcFhkNmxzN3ZoXzNHUzlXQ2xRZlRZOTl4dGh4YmxxU0hkaGYtMTRPTWlwVlFOcW5nU1htNlZ5R1FCYTVvMXpzN0lnSDNEM1ZPTlRjZGdSNzlIeUsySEliVnhPc2NQa0dKN0t5aTd2S3BpWVZSMmtVakJCUEhJQS00UWtJMHJNckN4WjFYNmc?oc=5",
+    "sourceName": "pv magazine USA",
+    "publishedAt": "2026-10-16T17:48:20.000Z",
+    "analyzedAt": "2026-10-22T17:54:17.425Z",
+    "updateType": "reliability",
+    "relevance": 2,
+    "summary": "Swift Current alleges widespread module defects in a lawsuit against First Solar, raising questions about long-term panel performance and warranty claims.",
+    "angle": "Module defects and warranty disputes are a key conversation for First Solar customers and any IPP running First Solar equipment. Raptor Inspections helps document defects early (thermal, cracks, degradation) and builds evidence for warranty claims.",
+    "play": "inspections",
+    "products": [
+      "inspections"
+    ],
+    "mentionedAccounts": [
+      "First Solar"
+    ]
+  },
+  {
     "id": "FpbnN0LWZpcnN0LXNvbGFyLw",
     "title": "Swift Current alleges widespread module defects in lawsuit against First Solar",
     "link": "https://pv-magazine-usa.com/2026/10/16/swift-current-alleges-widespread-module-defects-in-lawsuit-against-first-solar/",
@@ -505,6 +720,23 @@
     "mentionedAccounts": [
       "First Solar"
     ]
+  },
+  {
+    "id": "Z1VmtaTmQwOUJNRWc_b2M9NQ",
+    "title": "Queued Up… But in Need of Transmission",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ORnI3UmYtVTYtTjBneFVManZzZW9CMEVtNzBOODJOckdlTS1yNVhnZUZfZFVrYUhlY21NSEFubmR1SmxxU3h3RXk1enVxcF95S0FzWU9OelItaWVuVkZNd09BMEg?oc=5",
+    "sourceName": "Department of Energy (.gov)",
+    "publishedAt": "2026-10-16T17:30:00.000Z",
+    "analyzedAt": "2026-10-22T17:54:19.840Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "DOE report highlights transmission infrastructure as a bottleneck limiting utility-scale solar deployment and interconnection queue resolution.",
+    "angle": "Transmission constraints are slowing solar project economics and timeline certainty for IPPs and O&M providers; understanding grid bottlenecks helps Raptor Solar customers prioritize asset performance and uptime to maximize returns on constrained export windows.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
   },
   {
     "id": "bWFkZS1pbi10ZW5uZXNzZWUv",
@@ -549,6 +781,23 @@
     "angle": "Technology export restrictions may constrain the supply and cost of next-gen solar modules. Operators should monitor how this shapes long-term module sourcing and technology roadmaps.",
     "play": "none",
     "products": [],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "pTVVZVUkdwdFJYTjM_b2M9NQ",
+    "title": "energyRe Secures $815 Million for Solar Projects in South Carolina",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUTI2SHkxb3RuZDlZckpKamZaMzhUS2ZjWjhSTHF2QTJ1TVMwaUoxamtXSnYyVldKMncycDZobmI3czBHX253SXJkYl84ZlRrU2RDcWZQbHBfYUF6VkdUYzNBaHh5cWxldzV5d2t6YVpsa1Fvdl9JSVBKNUdURTB3WDRUZGkzSUVURGptRXN3?oc=5",
+    "sourceName": "Mercom Capital Group",
+    "publishedAt": "2026-10-16T12:53:02.000Z",
+    "analyzedAt": "2026-10-22T17:54:12.349Z",
+    "updateType": "financing",
+    "relevance": 2,
+    "summary": "energyRe secures $815 million in financing for solar projects in South Carolina. Major capital deployment and project expansion.",
+    "angle": "Large solar capital deployment drives need for performance monitoring and O&M optimization tools as projects scale; conversation point for growth-stage solar owners.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
     "mentionedAccounts": []
   },
   {
