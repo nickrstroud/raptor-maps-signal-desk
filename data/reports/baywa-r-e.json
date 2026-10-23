@@ -396,5 +396,24 @@
         "publishedAt": "2026-10-19T11:03:44.000Z"
       }
     ]
+  },
+  {
+    "company": "BayWa r.e.",
+    "runAt": "2026-10-23T17:47:33.017Z",
+    "source": "daily",
+    "headline": "BayWa AG restructuring accelerates with asset sales and geographic portfolio rationalization; North American O&M business status unclear",
+    "signals": [
+      {
+        "category": "Parent restructuring and asset sales",
+        "updateType": "distress",
+        "play": "retention",
+        "score": -1,
+        "summary": "BayWa AG, parent of BayWa r.e., is executing an accelerated overhaul spanning site relocations, subsidiary handovers, and bondholder negotiations (Oct 2026). Concurrent reports indicate a two-track rebuilding strategy that includes an Australian exit. This signals potential portfolio rationalization and heightened M&A risk for non-core or underperforming divisions, including the North American O&M business.",
+        "suggestedAction": "Schedule an urgent call with Sean Bucher to understand BayWa r.e. North America's strategic positioning in the parent's portfolio and any timeline changes to cost or capex. Prepare a one-page ROI summary (cost per managed MW, production uptime impact, field-labor productivity gains from Raptor Solar/inspections) for internal stakeholder review; this becomes critical if the business changes hands or faces budget scrutiny. Confirm whether any vendor decisions or platform migrations are under review.",
+        "sourceName": "AD HOC NEWS",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQemkxbVNFWThXcHV4SnlWX3hERDNUYXpaQmFPWVc5VmhHOEI4MFU1dENuSG9GcmVkY2Q0T2ZvOVdaQjQ4NE9FUEJwZGdTZl9FZzlVTGY5R0d2Y3BYYnRKbDV1NlFvQUkxWlJBVDFKTjg5R2lsMTU1M2tPNE8zYTVFcmE1UTd5eFIzOExsRGlDeWFLN0htV1hoZWkzcmhjWmc2U2NMQl96UVdEWjJKQ2RzUTM1bGtqeElTVS1PWHI5Q2xzTzQ2czg5S2ZtdFNoYjNVRTU0dkVEcnhWeUQ1Mi1LUno0ekVVR1VobG5sa1VxVWNQVEVBb1pz?oc=5",
+        "publishedAt": "2026-10-18T01:31:02.000Z"
+      }
+    ]
   }
 ]

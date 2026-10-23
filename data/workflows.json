@@ -4258,5 +4258,74 @@
     },
     "doneWhen": "Confirmed NA O&M business status (retained, divested, new owner named, or timeline clarified) and delivered ROI summary to [Director of ROCC and Engineering] for internal stakeholder or new-owner briefing.",
     "generatedAt": "2026-10-21T17:57:10.727Z"
+  },
+  "a_srqtu0": {
+    "signalId": "a_srqtu0",
+    "account": "BayWa r.e.",
+    "signalTitle": "Parent restructuring and asset sales",
+    "play": "protect_renewal",
+    "goal": "Secure BayWa r.e. North America's commitment to Raptor Maps during parent restructuring by demonstrating quantified operational ROI and positioning for ownership transition.",
+    "owner": "Account Executive + CS Director",
+    "contactRole": "Director of ROCC and Engineering, Operations Services",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0–1",
+        "tasks": [
+          "Review BayWa r.e. North America contract terms, renewal date, and annual spend; confirm no vendor audit or platform migration RFP underway.",
+          "Pull internal metrics: managed MW, production uptime impact, field-tech hours saved, degradation issues resolved via Raptor Solar and inspections in past 12 months.",
+          "Check Slack and CRM for recent escalations, budget conversations, or technology steering-committee meetings."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1",
+        "tasks": [
+          "Brief Account Executive and Solutions Engineer on financial restructuring risk, potential new-owner scenario, and need for iron-clad ROI narrative.",
+          "Agree: AE leads renewal/contract conversation; CS owns technical value proof and ongoing relationship; Product flags any integration or feature priorities for divestiture scenario."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 2–3",
+        "tasks": [
+          "Call [Director of ROCC and Engineering] to listen: how is North American O&M positioned in BayWa r.e.'s 2026–2030 plan? Any budget or vendor-decision timelines we should know about?",
+          "Share (do not pitch): one-page ROI snapshot—cost per managed MW, production recovery, labor efficiency—as context for their internal stakeholder conversations."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 3–7",
+        "tasks": [
+          "If divestiture or new-owner risk is confirmed: propose a joint technical deep-dive with [Director of ROCC and Engineering] and ops leadership to document Raptor Maps' business-critical role (data continuity, ROCC workflows, field-team adoption).",
+          "Prepare 'vendor transition playbook': zero-downtime platform continuity, data export/migration SLAs, training for new ops team—reduce friction if ownership or budget oversight changes."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Day 7 onward",
+        "tasks": [
+          "Log call notes and strategic positioning in CRM; set 30-day check-in to confirm BayWa r.e. North America remains in portfolio and budget is locked for 2027.",
+          "Flag to leadership: if divestiture occurs, fast-track follow-up with new owner (typically within 60 days post-close) to defend contract and explore new-owner expansion priorities (Sentry, Comply, additional MW)."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "BayWa r.e. ROCC: Raptor value in a shifting landscape",
+      "body": "Hi [Director of ROCC and Engineering],\n\nWe've been following the transformation underway at BayWa AG and BayWa r.e.—a lot of change, but also opportunity to prove what's working.\n\nOver the past year, Raptor Solar and Inspections have been core to your ROCC: fleet health visibility, field-tech labor productivity, and production recovery. As your portfolio evolves, we want to make sure that value is clear to whoever is steering the ship.\n\nWould you have 30 minutes this week for a brief call? We'd love to understand how North America fits into the plan ahead, and to share a quick ROI summary—cost per MW, uptime impact, labor saved—that might be useful in your internal conversations.\n\nThanks,\n[Your Name]"
+    },
+    "slack": "**BayWa r.e. (North America O&M)** — parent restructuring & portfolio rationalization signal (-1, distress). Risk: divestiture, budget freeze, or vendor churn if new owner takes over. Play: **protect_renewal** — call [Director of ROCC and Engineering] to listen, share ROI proof (cost/MW, production recovery, labor gains), and prepare vendor-transition playbook if needed. **AE leads renewal; CS owns technical value & continuity story.** Done when: strategic positioning confirmed + 2027 budget locked.",
+    "crmTask": {
+      "title": "BayWa r.e. North America: Protect Renewal & Strategic Positioning (Parent Restructuring)",
+      "due": "In 3 days",
+      "notes": "Parent BayWa AG in accelerated restructuring (Oct 2026): site relocations, subsidiary handovers, bondholder negotiations, Australian exit, shareholder trust. BayWa r.e. North American O&M at risk of divestiture, budget freeze, or new-owner vendor review. Signal: urgency to confirm strategic fit and quantify ROI (cost/MW managed, production uptime, labor productivity). Recommend: urgent listen call with [Director of ROCC and Engineering] on portfolio positioning; prepare one-page ROI summary and vendor-transition playbook for internal stakeholder alignment and new-owner scenario. No vendor audit or platform migration RFP confirmed yet—validate in initial call."
+    },
+    "doneWhen": "Strategic positioning of BayWa r.e. North America confirmed + 2027 budget and vendor commitment locked with [Director of ROCC and Engineering]; vendor-transition playbook drafted for contingency.",
+    "generatedAt": "2026-10-23T17:47:50.328Z"
   }
 }

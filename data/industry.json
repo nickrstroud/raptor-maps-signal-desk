@@ -1,5 +1,108 @@
 [
   {
+    "id": "aa2VWVkNka1pxT1RRP29jPTU",
+    "title": "Zurich denied ‘mulligan’ in $12.2M solar farm damage case",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObFlUMVNRU2VJWVM4d2VMZ1FSWl9ScmVfNmVlRUxoelNYRnZNbnVNZi1tZXRJdlcyRDJXWW1abXYzY2NwdndFUU53ZkVTN01BZzR0TlZvMi05RTRiZ2tfcHJHYjFCVlhDODlnbDJjUTlJZWVya3dydVMwT0tpWndBSWhrby1STExmWTZkeVVCdkZqOTQ?oc=5",
+    "sourceName": "Business Insurance",
+    "publishedAt": "2026-10-23T16:33:09.000Z",
+    "analyzedAt": "2026-10-23T17:48:05.616Z",
+    "updateType": "incident",
+    "relevance": 2,
+    "summary": "Zurich insurance denied a 'mulligan' (do-over) in a $12.2M Georgia solar farm damage claim; appeals court upheld the denial, establishing precedent on damage liability and claims handling.",
+    "angle": "Solar asset owners need robust damage documentation and rapid response protocols. This ruling underscores the importance of detailed pre- and post-event inspection records—exactly what Raptor Inspections and Sentry provide—to substantiate insurance claims and protect against denials.",
+    "play": "inspections",
+    "products": [
+      "inspections"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "bGxpb24tdGhpcy1zdW1tZXIv",
+    "title": "Solar and storage saved California $2.5 billion and Texas $3.5 billion this summer",
+    "link": "https://pv-magazine-usa.com/2026/10/23/solar-and-storage-saved-california-2-5-billion-and-texas-3-5-billion-this-summer/",
+    "sourceName": "pv magazine USA",
+    "publishedAt": "2026-10-23T13:12:40.000Z",
+    "analyzedAt": "2026-10-23T17:48:01.178Z",
+    "updateType": "expansion",
+    "relevance": 2,
+    "summary": "Solar and storage delivered record cost savings to grid operators in California ($2.5B) and Texas ($3.5B) this summer, demonstrating strong economic value and justifying continued capacity growth.",
+    "angle": "Validates solar plant economics and O&M urgency for customers operating in these high-value markets; strong proof point for grid operators considering expanded portfolios.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "xZa2REYVZwRldrWnI_b2M9NQ",
+    "title": "US tax credit deadlines reshape wind and solar project development",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZUZoNkdScVh2RkJUYlN6dFBBUVhPZkhrQWItVUl5bnBFSUw1WW5DRlZZdUdDTk0tMmFvRlh0M0V2c09FUW5GeHREeUEyLW9QS3ltOFNMZDFFZk8yX0lnSlROTy0zZ05ZdVNZM1lxbml5UFBscXZiRGdPaUNJZ3RTd01kbDBtV3huRmhOSm1rcE5VZzdTd1Z0d2ZibU5YdUFGTzFncFBCQV9ZU2tSa1ZscnBlYkdDaVpFWkZr?oc=5",
+    "sourceName": "Windtech International",
+    "publishedAt": "2026-10-23T13:06:59.000Z",
+    "analyzedAt": "2026-10-23T17:48:12.066Z",
+    "updateType": "policy",
+    "relevance": 2,
+    "summary": "US tax credit deadlines are reshaping wind and solar project development timelines. Tax incentive timing is a critical driver of project viability and construction schedules.",
+    "angle": "Tax-credit deadline-driven project pipelines affect site construction and commissioning timing; Raptor Solar's platform helps track compliance and accelerate readiness during crunch periods.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "N0cnVjdHVyZS1jYXBpdGFsLw",
+    "title": "Pivot Energy announces $500 million in new credit from Nuveen Energy Infrastructure Capital",
+    "link": "https://pv-magazine-usa.com/2026/10/23/pivot-energy-announces-500-million-in-new-credit-from-nuveen-energy-infrastructure-capital/",
+    "sourceName": "pv magazine USA",
+    "publishedAt": "2026-10-23T12:26:11.000Z",
+    "analyzedAt": "2026-10-23T17:48:01.178Z",
+    "updateType": "expansion",
+    "relevance": 2,
+    "summary": "Pivot Energy secured $500M credit facility from Nuveen and plans to scale assets in operation from 200 MW to 1+ GW over three years.",
+    "angle": "Major IPP expansion play—rapid portfolio growth will drive demand for platform coverage, inspections, and O&M workflows; opportunity to expand Raptor Solar and Inspections usage.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar",
+      "inspections"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "2LXByb2plY3QtdG8tZGF0ZS8",
+    "title": "Deriva secures US$540 million for largest solar PV project to date",
+    "link": "https://www.pv-tech.org/deriva-secures-us540-million-largest-solar-pv-project-to-date/",
+    "sourceName": "PV Tech",
+    "publishedAt": "2026-10-23T09:04:18.000Z",
+    "analyzedAt": "2026-10-23T17:48:01.178Z",
+    "updateType": "financing",
+    "relevance": 1,
+    "summary": "Deriva Energy closed $540M financing for 350 MW Sullivan County Power Project, one of its largest solar projects to date.",
+    "angle": "Major project financing signals continued capital availability for utility-scale solar; represents new operational asset that may need digital twin, monitoring, and inspection coverage.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "xwR09ISkRkMWd0UVE_b2M9NQ",
+    "title": "GBP K.K. outlines when solar modules need replacement or further assessment",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcm5kQVRTTkRnVnBFNDJ2dWdkSm5ya3NjakJycF85NkI2UDd3TU56MGFpOUpBVDc5aHhBVHRUQVZSdVJYZGhOdUg1U2pBbG5LcUpfVmRGdWRkZWJQYlF2RWJ5TjhEOVZTM2xwangtdzB6eUh1SGJWTTJCY0hfWFlNX1laa1VvS21US3dfM21hdTZTaEp4a1o3OTdOUGFxTGVBVEU0UTM1SndKaFNPQ0JjT2REV0czWlpGOHJDd1gtQQ?oc=5",
+    "sourceName": "Medianet News Hub",
+    "publishedAt": "2026-10-22T21:30:13.000Z",
+    "analyzedAt": "2026-10-23T17:48:05.616Z",
+    "updateType": "reliability",
+    "relevance": 2,
+    "summary": "GBP K.K. published guidance on when solar modules require replacement or further assessment, highlighting module lifecycle and degradation management.",
+    "angle": "Module reliability and assessment criteria are becoming more formalized. Solar operators need systematic inspection and condition-tracking capabilities to identify degradation early and make data-driven replacement decisions—a core Raptor Inspections use case.",
+    "play": "inspections",
+    "products": [
+      "inspections"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "dGl2ZW4tYWNxdWlzaXRpb24v",
     "title": "VPPs to remain focus for sonnen after TIVEN acquisition",
     "link": "https://www.solarpowerworldonline.com/2026/10/vpps-to-remain-focus-for-sonnen-after-tiven-acquisition/",
@@ -264,6 +367,23 @@
     "mentionedAccounts": []
   },
   {
+    "id": "NNRVJxZGtSNVlWWXo_b2M9NQ",
+    "title": "Clifford Chance advises Aligned Climate Capital on ~US$387 million financing for 126 MW solar portfolio",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObmhJSlJ4b3ppZy1MaXFzS0lhdENHaWNxYld6dVZfU0U0NG5ZSC11SmRZQlNoT0lTdnVTV1pZRFVNdVJZV1RxZGpqeW4tWGN4SU1XWk5DNEJFbVpCcWpqeUhMSktZYzVYS3I1NE9BSW85UlVURDd2TWhWOU0xZjgzMHgtQ2ltZjVCSlJVVXhmc0hrUTBuYXNCeThxUXUxVlJmWUVUdXBJWkNXSzQxaWwtU3c1Q1ZmdzhFRndSMERqdkR5YVYz?oc=5",
+    "sourceName": "Legal Desire",
+    "publishedAt": "2026-10-21T13:12:12.000Z",
+    "analyzedAt": "2026-10-23T17:48:12.066Z",
+    "updateType": "financing",
+    "relevance": 1,
+    "summary": "Aligned Climate Capital secured ~US$387 million financing for a 126 MW solar portfolio. Capital continues to flow into utility-scale solar, supporting growth in the sector.",
+    "angle": "Market signal of strong project financing appetite; demonstrates continued capital availability for solar portfolios that could include prospective customers or expansion targets.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "YU56aGFhVTV6ZUdSbj9vYz01",
     "title": "Rick Scott Backs DJI Ban. Florida Idled an Estimated $200M Fleet",
     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSDhmTXBOaTBMc0tlMzRjQkNaYXkxLWlhRV9RUjFCNDNHVlBKdjRXaTdSRWZ0M1pBWGpwWEZ3QVc0OGl6YnRFS0tfeldtdENOMVJIRE9pN0lCdnQ3TDVwZUdwU0JNQ2tVQjFpMk9idF9Ed2NueEE4SGdaNzhaaU5zeGRn?oc=5",
@@ -346,6 +466,23 @@
     "play": "raptor_solar",
     "products": [
       "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "RmFuTktjRFpaZFdRej9vYz01",
+    "title": "Industrial Defender Unifies Endpoint Intelligence and Network Monitoring for CIP-015, Adds Risk Signal",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUnJFUzc5bENVVGpmbDQyNklCYVk2QjYtRXVfUkVYNW44MXQ1R1hVeWRibzBnY2pSVXMxd0pmVDhkMjJwWWxfNmU0QjlINkVxQzhHcEFjaWxSMlpYMGNlemFGZFlrQk9GRjJsTjh6dDUwc3dzdzRyVmhOT1d5TEZTd2s2Tk9hcVNwcVNfYWNDZEpmS3VRYS1ILXhocE9tTC14dnd5YjJ4Tl9xV2xvT0VBakp2YVFOS21pTFhOejRPaTZmSEw3MjR2QjNpa0VlR202RVdFanNKcDZZdWQz?oc=5",
+    "sourceName": "NextBigFuture.com",
+    "publishedAt": "2026-10-21T01:55:34.000Z",
+    "analyzedAt": "2026-10-23T17:48:14.775Z",
+    "updateType": "security",
+    "relevance": 2,
+    "summary": "Industrial Defender announces unified endpoint and network monitoring for NERC CIP-015 compliance with added risk signal capabilities. Addresses growing cybersecurity and operational technology (OT) security requirements for critical energy infrastructure.",
+    "angle": "Solar plant operators and IPPs managing NERC-regulated facilities need robust OT security and compliance tooling. This signals tightening regulatory focus on grid-connected solar asset security, a key conversation point for Raptor Comply positioning.",
+    "play": "comply",
+    "products": [
+      "comply"
     ],
     "mentionedAccounts": []
   },
@@ -609,6 +746,26 @@
     "mentionedAccounts": []
   },
   {
+    "id": "BjVWwzVFhCb1pHUlI_b2M9NQ",
+    "title": "Swift Current Energy Sues First Solar Over Defective Modules and Testing Practices",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZWxlVmprOUE3SjU0ZU1vcnlySm9TV2NvVUNGNFFyV1N6T2NuRW1iS2plVld2T2RkVXhBdHFJYjFWS1ZBWTBRSkx6ZlRrblRVT3hXRXhscWVDT19jdDZMUC1aeWVSQVNremhoa1NYNGNpM1oyeHcxRGlrWTY1RTQ1VXBEZ3pzc0RxRm5PODdZX2c0d19QUWk3S29US1lDQXBNc1J2ZVY5VmxpcUl3TXBoZGRR?oc=5",
+    "sourceName": "IndexBox",
+    "publishedAt": "2026-10-19T11:41:17.000Z",
+    "analyzedAt": "2026-10-23T17:48:12.066Z",
+    "updateType": "reliability",
+    "relevance": 2,
+    "summary": "Swift Current Energy has sued First Solar over defective modules and inadequate testing practices. The lawsuit highlights quality and testing risks in utility-scale solar.",
+    "angle": "Module defects and warranty disputes are a key pain point; Raptor Inspections and Raptor Solar's analytics help customers document asset health and catch reliability issues early.",
+    "play": "inspections",
+    "products": [
+      "inspections",
+      "raptor_solar"
+    ],
+    "mentionedAccounts": [
+      "First Solar"
+    ]
+  },
+  {
     "id": "NUR2R1WkdkaFdtbFY_b2M9NQ",
     "title": "Puerto Rico solar systems face higher risks from harsh climate",
     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaF80bWV2ZTlERWNORUVyYno1WXVSbFk1Vk9leWVvYjZCcTVQTk1lRTd6ODF5ZXloN2toV1VzU2FWOEozLW5hMlNDOW9yZWJsTEFid0RvYnNycEN6cnVIUlZXSDN2d1lKanpBWGdlVjZkNmFPWml2T2plRVE2cjRqcXBhRHZGNEkxMmlSbjRsTGduZGdhWmlV?oc=5",
@@ -681,6 +838,21 @@
       "sentry",
       "inspections"
     ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "pRVVF5ZDJWTVNqWko_b2M9NQ",
+    "title": "U.S. trade commission finds solar imports from India, Indonesia and Laos are harming domestic industry",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdFBfb0JYd3JwNlRMSU1QTDBTcW55OFhpdkQ2bVQ5aGJXc3BqdkNUVlJBcWpaNk5XZHpTdVE4UGtUMzkxU3ZjdjRWeVM4dW1LQnlsQm5yYnd1SFZqMGtjX2dsUWk2TEV5X0l4Wmc2dHBDT0IxMUpPZHc4REkxczB5V1gxRTlWa3JFYUY5NDI1cHRRbkFsbnN3SmtiaDhqR0Q4SUIzaHlyUWR2MjF2bUU3OHBMUXowZ2Mwb1VMRzZoV21HR2I3MGRhdmY5dVRnd1FES1NfUkxzQUQyd2VMSjZJ?oc=5",
+    "sourceName": "pv magazine India",
+    "publishedAt": "2026-10-16T18:04:16.000Z",
+    "analyzedAt": "2026-10-23T17:48:12.066Z",
+    "updateType": "trade",
+    "relevance": 1,
+    "summary": "U.S. trade commission finds that solar imports from India, Indonesia, and Laos are harming the domestic industry. This supports potential tariff or trade-defense measures.",
+    "angle": "Tariff risk and domestic-content rules could affect module sourcing and project economics; customers should assess exposure to supply-chain tariffs and import timing.",
+    "play": "none",
+    "products": [],
     "mentionedAccounts": []
   },
   {
