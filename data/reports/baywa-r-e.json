@@ -415,5 +415,24 @@
         "publishedAt": "2026-10-18T01:31:02.000Z"
       }
     ]
+  },
+  {
+    "company": "BayWa r.e.",
+    "runAt": "2026-10-24T16:28:31.132Z",
+    "source": "daily",
+    "headline": "BayWa AG financial restructuring continues; Australian asset sale closed but creditor issues persist—monitor North American O&M subsidiary for budget freezes, layoffs, or divestment",
+    "signals": [
+      {
+        "category": "Parent company financial restructuring & asset sales",
+        "updateType": "distress",
+        "play": "retention",
+        "score": -1,
+        "summary": "BayWa AG (parent of BayWa r.e.) remains in financial restructuring through 2030 after failed EUR 1.7B sale plan and shareholder trust restructuring in 2026. Australian renewable assets now sold; creditor issues unresolved. North American O&M subsidiary (1+ GW managed) is at risk for budget freezes, headcount reductions, or divestment as parent seeks liquidity.",
+        "suggestedAction": "Contact Sean Bucher to understand FY2027 budget outlook for Operations Services and any staffing or vendor review processes. Position Raptor Solar + Inspections ROI (cost per MW managed, production recovered, truck-roll reduction) as cost-justifiable in a turnaround environment. Prepare a case study on ROCC efficiency gains from the drone program and digital twin to support renewal and expand to other O&M provider prospects.",
+        "sourceName": "ad-hoc-news.de",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPaGJQZnpvSElBN0FlVWR3ajJyMUNsTnNqVFpJVEMtb01nMGNQdEFQZ0ZFRUU3aUEtZURoMFdDdDFTLUVHV0dQNUR0bHhGMGpCbFY1SGtCUWVBUlJDNXA3bUx6bmJSWkZOaDdUcHd5OVpseWFsMGZ1WnEwTmxEMlI5RWJ4NUw5WTBySXpDRi0yRUdZMGFFLUxKNnBhVGZYQ3prVU9UTjVEYmZLRGlfWEZ1NjRHUmhjX2cwRWNhZlBEbUZJSVNuYmVsN0p3dzlsbHpNS3hhcXVHMVYteUpfVE1iX05mSFZZNW82Yjl4ZTZ0bEI3aGtEVXNFYUpDdnM?oc=5",
+        "publishedAt": "2026-10-24T03:41:11.000Z"
+      }
+    ]
   }
 ]

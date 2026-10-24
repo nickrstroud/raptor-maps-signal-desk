@@ -4327,5 +4327,75 @@
     },
     "doneWhen": "Strategic positioning of BayWa r.e. North America confirmed + 2027 budget and vendor commitment locked with [Director of ROCC and Engineering]; vendor-transition playbook drafted for contingency.",
     "generatedAt": "2026-10-23T17:47:50.328Z"
+  },
+  "a_1ro23et": {
+    "signalId": "a_1ro23et",
+    "account": "BayWa r.e.",
+    "signalTitle": "Parent company financial restructuring & asset sales",
+    "play": "protect_renewal",
+    "goal": "Quantify Raptor Solar + Inspections ROI to secure renewal and forestall divestment risk through a turnaround-focused cost-per-MW business case.",
+    "owner": "CS Director + Account Executive",
+    "contactRole": "Director of ROCC and Engineering, Operations Services",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0-1",
+        "tasks": [
+          "Pull BayWa r.e. North America O&M renewal date, current contract value, and any known budget constraints or vendor review triggers.",
+          "Audit 12-month Raptor Solar + Inspections usage (sites, MW covered, drone flights, work orders closed, alert resolution time).",
+          "Flag any account support tickets, SLA misses, or integration issues that could surface in a vendor audit."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Sync with Account Executive and Finance/Revenue team on renewal risk profile and playbook for parent-company distress scenarios.",
+          "Brief Ops/Support: prepare usage metrics, production-impact estimates, and truck-roll savings from drone program vs. traditional O&M.",
+          "Identify one peer O&M operator (ideally confidential reference) who can speak to ROCC efficiency and cost control with Raptor."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3-5",
+        "tasks": [
+          "Call [Director of ROCC and Engineering] to check in on FY2027 planning, ask about budget environment and vendor review process without presuming crisis.",
+          "Frame convo around new ROI metrics for turnaround: cost per MW managed, production upside, and headcount replacement value of digital twin + drone stack."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 7-21",
+        "tasks": [
+          "Deliver a 1-pager: Raptor Solar + Inspections ROI case study showing cost-per-MW managed, production recovered (kWh, $), truck-roll reduction, and ROCC headcount avoidance vs. traditional vendor stack.",
+          "Propose a 30-min exec review with [VP Operations] or [CFO contact] to contextualize Raptor spend against operational leverage and parent-company cost targets."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Day 21+",
+        "tasks": [
+          "Log renewal intent, budget status, and any vendor review process into CRM with expected renewal date.",
+          "Schedule quarterly business reviews (QBRs) to keep ROI top-of-mind and flag any staffing or divestment signals early."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "FY2027 Planning: How Raptor Solar is Scaling ROCC Efficiency",
+      "body": "Hi [Director of ROCC and Engineering],\n\nAs you plan FY2027 and navigate the evolving O&M landscape, we want to ensure Raptor Solar and Inspections remain a cost-justified pillar of your ROCC operations. We've been tracking your drone program's impact—production flagged, truck rolls avoided, sites added—and we'd love to quantify that value as you build your renewal case and budget. Would you have 20 minutes in the next week to walk through our latest ROI metrics and discuss what's on your horizon?\n\nBest,\n[CSM]"
+    },
+    "slack": "🚨 BayWa r.e. Operations Services at distress risk: parent BayWa AG in financial restructuring through 2030, Australian assets sold, North American O&M (1+ GW managed) now at risk for budget freeze or divestment. Our RS + Inspections footprint and ROCC efficiency case are critical to renewal. CS lead should call [Director of ROCC and Engineering] to understand FY2027 budget & vendor review process; prepare a turnaround-focused ROI 1-pager (cost/MW, production recovered, headcount replacement value) for exec review. AE owns renewal protection plan.",
+    "crmTask": {
+      "title": "BayWa r.e. Operations Services – FY2027 Renewal & Turnaround ROI",
+      "due": "In 7 days",
+      "notes": "Parent company (BayWa AG) in financial restructuring; planned EUR 1.7B sale fell through; Australian assets sold; North American O&M at elevated divestment and budget-freeze risk. Renewal protection play: quantify RS + Inspections ROI (cost/MW managed, production recovered, drone-program truck-roll reduction, ROCC headcount replacement value) for FY2027 budget and vendor-review defense. Key contact: Director of ROCC and Engineering. Watch for staffing changes, vendor RFPs, or budget cuts as distress signals."
+    },
+    "doneWhen": "Director of ROCC and Engineering confirms FY2027 budget outlook and vendor review process; ROI case study delivered and scheduled for exec review.",
+    "generatedAt": "2026-10-24T16:28:45.970Z"
   }
 }

@@ -1,5 +1,22 @@
 [
   {
+    "id": "0xelNFeGhZMDVzUVE_b2M9NQ",
+    "title": "Masdar expands portfolio in Greece with major solar project acquisition",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU0FfWURHcFFtdDU4WE01X2R3djQwQTZUQlhwY0hRbGFtZTVnVm5ka0Y3V2FpcUZnWjllZFlQYXpNMUczeU1PXzdsM2ZpajBwTmJkNkJGY05qd1pXdmdjWWktV1hYejN2Z2oyRmthSGh4dGhKYWtKSXc3ek1keUp2bFEwWFFlQmRqZEdBOGNNNDhjUGhHNUxPeDBFX1NHcVA5UDc1SVg3MXZHSFIxRm1zSExhY05sQQ?oc=5",
+    "sourceName": "مكتب أبوظبي الإعلامي",
+    "publishedAt": "2026-10-24T14:35:02.000Z",
+    "analyzedAt": "2026-10-24T16:28:58.919Z",
+    "updateType": "expansion",
+    "relevance": 1,
+    "summary": "Masdar has acquired a major solar project in Greece, expanding its Mediterranean renewable portfolio.",
+    "angle": "European solar portfolio expansion by major IPP; geographic growth may drive coverage expansion and operations demand across existing or new sites.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "aa2VWVkNka1pxT1RRP29jPTU",
     "title": "Zurich denied ‘mulligan’ in $12.2M solar farm damage case",
     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObFlUMVNRU2VJWVM4d2VMZ1FSWl9ScmVfNmVlRUxoelNYRnZNbnVNZi1tZXRJdlcyRDJXWW1abXYzY2NwdndFUU53ZkVTN01BZzR0TlZvMi05RTRiZ2tfcHJHYjFCVlhDODlnbDJjUTlJZWVya3dydVMwT0tpWndBSWhrby1STExmWTZkeVVCdkZqOTQ?oc=5",
@@ -264,6 +281,21 @@
     "mentionedAccounts": []
   },
   {
+    "id": "NXlRMWhJWW1sRFkwaz9vYz01",
+    "title": "Australia's clean energy connection queue swells to 80.9 GW, surpassing current grid capacity",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWkhlclE0N3RVbHlmc21pNEZQYVlCckFMLWdtOTNobVFQSHJxZzJmSlRzb3l0NVJLb3FlanRqWUlSeEVaN0NETFJwdXE4ZnFmWW1MLTF0SDZoOVBMY3plODAwNndCNXljVEtBQXNtdmx4cXBNUHVLQk1IOXRzbTBSQ1lZckJkZDhqeUptMEdiSWVDVWZDcFpxQU5md1N2dHJWMzdPV2xfRWZCcjdBbjFXN2NTamxCaXI3OU5yQ1hIYmlDY0k?oc=5",
+    "sourceName": "https://streamlinefeed.co.ke/",
+    "publishedAt": "2026-10-22T07:51:37.000Z",
+    "analyzedAt": "2026-10-24T16:29:01.138Z",
+    "updateType": "regulatory",
+    "relevance": 1,
+    "summary": "Australia's clean energy connection queue has grown to 80.9 GW, exceeding current grid capacity. This signals interconnection bottlenecks affecting solar project deployment timelines.",
+    "angle": "Grid interconnection congestion in Australia may delay or constrain solar project economics; relevant context for customers operating or expanding in APAC regions with similar grid constraints.",
+    "play": "none",
+    "products": [],
+    "mentionedAccounts": []
+  },
+  {
     "id": "UtdXAtNDMtdG8tODAtOWd3Lw",
     "title": "Solar and battery storage push Australia’s NEM connection pipeline up 43% to 80.9GW",
     "link": "https://www.pv-tech.org/solar-and-battery-storage-push-australias-nem-connection-pipeline-up-43-to-80-9gw/",
@@ -277,6 +309,24 @@
     "play": "raptor_solar",
     "products": [
       "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "tbG5hbEZqVUVSQ1p3P29jPTU",
+    "title": "Isagen Sells Mature Hydro and Solar Plants to Help Fund Nearly $1 Billion USD in Solar Parks",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMVY0UWI5RXQ3YkFqSEY1SUtyeU1uT0Ffb3BESGs2cVpUaEdjM2g1OHdhRHUzQmNuMUdQcWdLdVR2QWdjek1peDdSc2RHRHcxUWdYRmUxRjl4cHBidDNxMlNxbkNDdy1XajRzUF80S1ZrcEJ4dkZnUmZnWEFvclk1NGUzLTE3ZWdPamlrZzhWZld4X0hvSHJpRlQyXy10ZlFhSzhYbTZiNkxiNTZRZTMtMEJaTDZiZnJISmlnalFjUERCZw?oc=5",
+    "sourceName": "Finance Colombia",
+    "publishedAt": "2026-10-21T18:35:44.000Z",
+    "analyzedAt": "2026-10-24T16:28:58.919Z",
+    "updateType": "ma",
+    "relevance": 1,
+    "summary": "Isagen is selling mature hydro and solar plants to fund approximately $1 billion USD in new solar park development, signaling portfolio rebalancing and new MW deployment.",
+    "angle": "Large-scale asset rotation and new solar build-out; customer expanding MW footprint will need platform coverage and commissioning/QA inspections on the new parks.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar",
+      "inspections"
     ],
     "mentionedAccounts": []
   },
@@ -608,6 +658,23 @@
     "mentionedAccounts": []
   },
   {
+    "id": "1hMmR0TW5kWmRtOWw_b2M9NQ",
+    "title": "energyRe closes $815 million financing for US solar projects",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTlREWGJLRnpJZEZxME5pYTVZMmp3OGYzR3BZOTVEVGF3bFJiYldfMDZuaUg4SWVwUnpzV3IyLVRWajh0ZkcydEp6dGpJOU1udl90UHBYZTE2ZEgwNUplR0JhdDdxa1FBTnBscmN0TW9FWEJyUHlNT0NsRHJ3ekhNLUhwOXl1cWZmYnBNbG83dGZqeTFXcGFma2dtMndZdm9l?oc=5",
+    "sourceName": "megaproject.com",
+    "publishedAt": "2026-10-20T07:00:00.000Z",
+    "analyzedAt": "2026-10-24T16:28:58.919Z",
+    "updateType": "financing",
+    "relevance": 1,
+    "summary": "energyRe has closed $815 million in financing for US solar projects, indicating continued capital availability for solar development and acquisition.",
+    "angle": "Large capital raise for US solar signals robust market conditions and likely MW growth; existing or prospective customers funding portfolios may need platform scaling.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "oTE5YSTRhRVZtWVVFP29jPTU",
     "title": "JinkoSolar unveils 510 W rooftop solar module with 25.5% efficiency, 40-year warranty",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcEV4VGp5V1IyVVdqRXdEOERhNGlwQW1OTWdHRXc5U0h5MGFWcjRock5ObUJMdlZCLWVWbzJlVXNRRkkySXI1Wm43OWJoUVMyenRQQ3Z3cy1pcDhDQXZZbUYzSWJWYVltLVM4MmJHNlE4TWptbmZ6N1I5c0pua2VyUHNNOEh5eTB1RWlmTlhYV3NHamNZdTl6VzNzVWVEdWNra3lyVW5OOU5DU0tlQ1JOamNRWjl0VEhLNXI4aEVmYUE?oc=5",
@@ -696,6 +763,23 @@
     ]
   },
   {
+    "id": "9OVUY1YTJ4eVMxbGg_b2M9NQ",
+    "title": "Transrail Lighting Limited Enters Renewable Power Generation Through Proposed Investment in 990 MW Solar Portfolio in Maharashtra",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPN2tid2R4eHY4V2ZOODFJUzhNOEw1SFo1dGNSYUthWjdCbVA4Z2x4RVN2YWhSdXFiV1ZCcURqeWw2NXFsQ0N2VnBZVktoSkFBdDk0OFVqYnJjUWRXQTR4bjM0Z2lZUmdyWjlqcFNPNnFLTF9hNG5sMEhtdmJjZ0xEUF95M2h4dkxWRUl2S01nM1JxTkQ1elhkY2pnLUVMaDZyNk9XZTU5aV9iQ05jVXFsNHpLTzZOQnVOZzJ0R2VhaFVReW1vMTBiNWpaOXE2Y2hXYUg3cjZ4WTBwVEJOUDloNUF5a2xyS1lh?oc=5",
+    "sourceName": "www.marketscreener.com",
+    "publishedAt": "2026-10-19T14:11:00.000Z",
+    "analyzedAt": "2026-10-24T16:28:58.919Z",
+    "updateType": "expansion",
+    "relevance": 1,
+    "summary": "Transrail Lighting Limited is entering renewable power generation with a proposed 990 MW solar portfolio investment in Maharashtra, India, representing a major new entrant to utility-scale solar.",
+    "angle": "New 990 MW portfolio entry into solar represents potential platform adoption opportunity for a large new operator expanding into India.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "ctb2YtY2xlYW4tZW5lcmd5Lw",
     "title": "Watchdog group predicts utilities will oppose transmission reform that could yield 200 GW of clean energy",
     "link": "https://pv-magazine-usa.com/2026/10/19/watchdog-group-predicts-utilities-will-oppose-transmission-reform-that-could-yield-200-gw-of-clean-energy/",
@@ -782,6 +866,25 @@
       "sentry"
     ],
     "mentionedAccounts": []
+  },
+  {
+    "id": "OXlTRU5JT0dremEyYz9vYz01",
+    "title": "Swift Current alleges widespread module defects in lawsuit against First Solar",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNODRoNFl3N29fZmNEWGtaNHpBaUFsV1c5cHhPSDJjZFBXdWhvQWhZUTZxQUVfT25kb2JRQ0djS2FIY3VwWEIxaW1QX3Rrd1lBem1LQWF1ZENHUnQ4a2lSQVNQQXA2TFROenR0NlJkdDFhV0loZGNnZHg5QmV5X2Jlc2g0b01kUGR1UTFSLXZhNXc1d3JVbWFhNXdkMFBSYUxYUUlscWJvYUdidkVHSDROWk9ySENIOGkza2c?oc=5",
+    "sourceName": "pv magazine Global",
+    "publishedAt": "2026-10-19T05:31:12.000Z",
+    "analyzedAt": "2026-10-24T16:28:58.919Z",
+    "updateType": "reliability",
+    "relevance": 2,
+    "summary": "Swift Current has filed a lawsuit against First Solar alleging widespread module defects, raising questions about long-term performance and warranty claims across First Solar's installed base.",
+    "angle": "Module defects at scale drive need for warranty documentation and visual inspection evidence; a key customer (First Solar) facing defect litigation may need expanded Inspections capability to substantiate warranty claims and maintain project economics.",
+    "play": "inspections",
+    "products": [
+      "inspections"
+    ],
+    "mentionedAccounts": [
+      "First Solar"
+    ]
   },
   {
     "id": "cHYtZnJvbS1iYXl3YS1yLWUv",
