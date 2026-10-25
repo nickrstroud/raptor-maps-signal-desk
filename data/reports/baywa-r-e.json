@@ -434,5 +434,24 @@
         "publishedAt": "2026-10-24T03:41:11.000Z"
       }
     ]
+  },
+  {
+    "company": "BayWa r.e.",
+    "runAt": "2026-10-25T16:59:44.059Z",
+    "source": "daily",
+    "headline": "BayWa restructuring remains unsettled; North American O&M operations and champion relationships at ongoing risk",
+    "signals": [
+      {
+        "category": "Parent company restructuring headwinds",
+        "updateType": "distress",
+        "play": "retention",
+        "score": -1,
+        "summary": "BayWa AG's multi-part restructuring continues with no clear endpoint. The planned EUR 1.7B sale of BayWa r.e. was halved to EUR 900M in 2025, largest shareholders placed their 67.1% stake in trust, and the turnaround is now extended to 2030. This creates ongoing uncertainty around the North American O&M subsidiary's future, budget cycles, and potential divestment or ownership change.",
+        "suggestedAction": "Schedule a check-in with Sean Bucher (Director of ROCC and Engineering) to understand whether the extended restructuring timeline affects their 2026–2027 capex or O&M platform spending plans. Frame it as proactive partnership support: clarify Raptor Solar's ROI metrics (cost per MW, uptime %) to help him defend the platform's value to new owners or cost-reduction reviews.",
+        "sourceName": "ad-hoc-news.de",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQek5oNkd5cXNyVUJmUExEd1lvTTBUY3lHVGExM1JNeHhNcVNoUFJ2VkhhYUJsTm16UGtsYWtWUHEzdnktX0RBYjk1WE50eURXYVhnVFdPY3hLRS1oYUZwR0FISkRzR0NUdV9PWXJZS0RZR2g2WWFGM0xYSWQzRGF5RmVSODBHb2ExZHFVNG9LZHNRWm93SHVWLTROQmY2RkY4ai1rUGQtdlgwX2FENU53dkVNbHNUdTM3QUdQblB4VUVRams1RlEzdERhZEt4ZF9lR0tjaw?oc=5",
+        "publishedAt": "2026-10-25T13:51:08.000Z"
+      }
+    ]
   }
 ]

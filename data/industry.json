@@ -1,5 +1,57 @@
 [
   {
+    "id": "c5amMydEZNekJLYXc_b2M9NQ",
+    "title": "Caught Out By First Solar's Fall? What Bears Saw",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaFN1SExjaS1yRUZJMkFDSXE4dWxqb01PRWUwSDBaTlRNdk9ma19vYzVTWEo1N0h0N2U0YjVHbVFKczluWGNidzZEQ0RUd08xYXMybldjdWNGRE94UmJLVFdnRHREUWltblZNQ0wxLXRvdEJmRGRxOGxfQURqeTZ4djJiaGdqU184S1Zoa1RUdWcySW9jc2tFMzBKaw?oc=5",
+    "sourceName": "Yahoo Finance",
+    "publishedAt": "2026-10-25T11:07:34.000Z",
+    "analyzedAt": "2026-10-25T17:00:13.429Z",
+    "updateType": "competitive",
+    "relevance": 1,
+    "summary": "First Solar's stock has fallen sharply, with analysts noting bearish sentiment around the company's outlook. This reflects broader market concerns about the solar manufacturer.",
+    "angle": "First Solar is a key account and major solar manufacturer. Monitoring its financial health and market position is important context for customer conversations and platform adoption among its downstream EPC and O&M partners.",
+    "play": "none",
+    "products": [],
+    "mentionedAccounts": [
+      "First Solar"
+    ]
+  },
+  {
+    "id": "Qm1VM0pQTVhScmRuTT9vYz01",
+    "title": "America’s Solar Buildout Has a Security Blind Spot",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa3BZUTg3ejZQMUZPa1RsZ09Wd3RDTWllN3ZFX000SHc0S2UxZy01WkhubjIzZVd1c01SQWNFdWRwNVFZeWUyV1BZOHd4d3g0VkpTMVk4VnpheFhlbkFwRFVNZmpWMzlDTFVaNkppdVdiQnJEY3hUMGhOemNzSV9TbUlWdGFCS2c0RUNOdUNIZ3JBQ192cFBmU3JPMXRrdnM?oc=5",
+    "sourceName": "Energy News Beat",
+    "publishedAt": "2026-10-24T22:34:49.000Z",
+    "analyzedAt": "2026-10-25T17:00:15.859Z",
+    "updateType": "security",
+    "relevance": 2,
+    "summary": "Report highlights security gaps in America's solar buildout, indicating systemic vulnerabilities in solar plant operations and grid integration.",
+    "angle": "Solar operators face growing scrutiny on OT security and operational resilience. A timely conversation point about compliance, monitoring, and rapid-response capabilities—especially as regulatory and investor expectations tighten around solar plant cybersecurity.",
+    "play": "comply",
+    "products": [
+      "comply"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "yTXlNMFJ2VURWUVRRP29jPTU",
+    "title": "In 2020, five rainstorms damaged a Georgia solar project; insurer later tried to apply a $2.5 million ded",
+    "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNbFZrcTF2cEl3TUU0ZGstVkh6YTEwNWdjeW95VWtqc0o0bFFCV095TFRIUHFJeEI0M3J5ODV6QkwxVHRHRG16NU13N0E1S2hIRmJ5bTh0d3laaE96eXFHODVDVGlGYWh4U1YyWkk1V0FaRjdqYnJzTnlJR29QMkc5X2JzZjd5ZUpXOElQN2NwakJBTlphVzk4Rl8tbEYteGVPQTd0LWJnUGp6RFpVRjlRZkh1VzlTTkVuRnZZbGdxSlU5dHFqbGxZaHpOMGZrelBxZng2d0QyMHJWaG9RaTBlRnRYSDRZRVRrWGV5V2dLMFpkQlRnNV93WXhfUzJQbXVZeVVudV9nczlhMnUzVG1pQUpyU2swdFU0d2w3UEhEZERuSzd3alBv0gGsAkFVX3lxTE14X0M0UUh1X2dpaGNFM3BWbTNNY01leFpRbG9BeE9tSHAya2tVYTJ0Uy0xR3htOWhpNXNQRTNRSVJoalp1VnhYdDUxbGt5d3BfMS16ZVNZR0VSZ0JlOThFZWFnUzQ2SHZ3UnhVTFhjNnM3MEtnbHVjbXd5YzFFeUJtQUlvSGc4dWxpT3d3TEJmVVhXMzRVTzRON0dpSFhXNFdVQTIzV29kMlFnTkQwLUE2c0tDYmlJblZTamdneHdpVDgtXzJKZXI2ZVhWc3VMX3o3d1RVWVhvSm1EQlNnZnR1NUk3SVp6MFYxTWpkTHZWWWFYT0dFRFJ5SGVpSWtJZzRyd2lva2tEVC1nQXhTWXREbndYSEcxdE92N2w4Sk9PVUZhR2MyM0RvUDVQTQ?oc=5",
+    "sourceName": "The Times of India",
+    "publishedAt": "2026-10-24T21:30:00.000Z",
+    "analyzedAt": "2026-10-25T17:00:13.429Z",
+    "updateType": "weather",
+    "relevance": 2,
+    "summary": "A Georgia solar project suffered damage from five rainstorms in 2020, leading to an insurance dispute over a $2.5M deductible. The case illustrates how weather events and insurance claims create risk and operational challenges for solar portfolios.",
+    "angle": "Storm damage, insurance disputes, and warranty documentation are key pain points for solar operators. This case highlights the need for rapid damage assessment and evidence—perfect talking points for inspections and sentry capabilities.",
+    "play": "inspections",
+    "products": [
+      "inspections",
+      "sentry"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "0xelNFeGhZMDVzUVE_b2M9NQ",
     "title": "Masdar expands portfolio in Greece with major solar project acquisition",
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU0FfWURHcFFtdDU4WE01X2R3djQwQTZUQlhwY0hRbGFtZTVnVm5ka0Y3V2FpcUZnWjllZFlQYXpNMUczeU1PXzdsM2ZpajBwTmJkNkJGY05qd1pXdmdjWWktV1hYejN2Z2oyRmthSGh4dGhKYWtKSXc3ek1keUp2bFEwWFFlQmRqZEdBOGNNNDhjUGhHNUxPeDBFX1NHcVA5UDc1SVg3MXZHSFIxRm1zSExhY05sQQ?oc=5",
@@ -29,6 +81,24 @@
     "angle": "Solar asset owners need robust damage documentation and rapid response protocols. This ruling underscores the importance of detailed pre- and post-event inspection records—exactly what Raptor Inspections and Sentry provide—to substantiate insurance claims and protect against denials.",
     "play": "inspections",
     "products": [
+      "inspections"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "WWTFkRTR0V1VZeFNRP29jPTU",
+    "title": "Kansas Opens $2 Million Grant for BVLOS Drone Operations",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sUWxvXzFOYm9tZWFGa3VLejV0Q3VxYU5MWmtLS01fbWRjSWJlN3RqaHNELVZoZHJrbnBGVWJEVHcxTjVlakQ1SE1Uc3o1RDBwQXdFTnJqem41SURkdzlEZkltcUFSVWd0NHFmZXU4QjVBVVY1dE4tWUYxSQ?oc=5",
+    "sourceName": "AVweb",
+    "publishedAt": "2026-10-23T15:56:07.000Z",
+    "analyzedAt": "2026-10-25T17:00:13.429Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "Kansas has opened a $2 million grant program to support BVLOS (beyond visual line of sight) drone operations. This represents state-level investment in autonomous drone technology.",
+    "angle": "BVLOS grant programs lower barriers to entry for autonomous drone operations. This is directly relevant to sentry and inspections customers evaluating or expanding drone-based monitoring and inspection programs.",
+    "play": "sentry",
+    "products": [
+      "sentry",
       "inspections"
     ],
     "mentionedAccounts": []
@@ -761,6 +831,24 @@
     "mentionedAccounts": [
       "First Solar"
     ]
+  },
+  {
+    "id": "uTmxabVZtYVdkVlVRP29jPTU",
+    "title": "IDOM Awarded Detailed Design Contract for 500 MW Al Kamil I Solar Project in Oman",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM3cyRS1Va25OUnVnVGRtZ0JMVjEzQ080T3MzOXBpMnkwNDlVa3RLclJub1YtNDI0S3hkcTUtOWNvSW44SzZVS3NQNmpSUFcxUGFHcHJ5TjJPbUNidmZPOWp0NjNXTi1rY2pReGZabWEyNDFHTHgtWF9PV2xfd2t1NnNNSExDcnY0RFRLVnp0RHo2SE1Rbk9jb0ctUHh2aUEwSXNuNlpoeWhOZzVzZ3pxd1A3dzItVno2UnNlZmVmaWdVUQ?oc=5",
+    "sourceName": "SaudiGulf Projects",
+    "publishedAt": "2026-10-19T15:04:27.000Z",
+    "analyzedAt": "2026-10-25T17:00:13.429Z",
+    "updateType": "expansion",
+    "relevance": 1,
+    "summary": "IDOM has been awarded the detailed design contract for the 500 MW Al Kamil I solar project in Oman. This is a major new utility-scale solar build in the Middle East region.",
+    "angle": "Large greenfield solar build-outs like Al Kamil I create opportunities to engage EPCs and developers early on platform adoption for construction QA, commissioning, and long-term O&M—expanding Raptor's regional footprint.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar",
+      "inspections"
+    ],
+    "mentionedAccounts": []
   },
   {
     "id": "9OVUY1YTJ4eVMxbGg_b2M9NQ",
