@@ -1,5 +1,209 @@
 [
   {
+    "id": "5LXNvbGFyLXBvcnRmb2xpby8",
+    "title": "Neighborhood Sun acquires Meadow Energy and its NY community solar portfolio",
+    "link": "https://www.solarpowerworldonline.com/2026/10/neighborhood-sun-acquires-meadow-energy-and-community-solar-portfolio/",
+    "sourceName": "Solar Power World",
+    "publishedAt": "2026-10-26T18:39:11.000Z",
+    "analyzedAt": "2026-10-26T19:05:38.030Z",
+    "updateType": "ma",
+    "relevance": 1,
+    "summary": "Neighborhood Sun has acquired Meadow Energy, doubling its community solar portfolio to 600+ MWDC and quadrupling presence in New York.",
+    "angle": "Community solar consolidation is expanding the addressable O&M market; acquired assets may need remote monitoring and performance analytics as integration occurs.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "dHNvdXJjZS1icC1ncmVlY2Uv",
+    "title": "Masdar to acquire 550MW solar PV project from Lightsource bp in Greece",
+    "link": "https://www.pv-tech.org/masdar-acquire-550mw-solar-pv-project-lightsource-bp-greece/",
+    "sourceName": "PV Tech",
+    "publishedAt": "2026-10-26T16:50:56.000Z",
+    "analyzedAt": "2026-10-26T19:05:38.030Z",
+    "updateType": "ma",
+    "relevance": 1,
+    "summary": "Masdar is acquiring a 550MW solar PV project from Lightsource bp in Greece, expanding its renewable portfolio in Europe.",
+    "angle": "Large utility-scale solar M&A reshuffles operating asset portfolios and O&M provider relationships; new owners typically seek platform consolidation and digital twins.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "wSVRqRlZRMnhCZDBFP29jPTU",
+    "title": "Renew Risk extends severe convective storm modelling to solar farms across US States",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVFcxMzR5UXh2ZzdyUlBwQ1ZaZXNtRG8yajB1RWt0MThRdkVNeTQya3NwV1ZZbk5wS1gxajlFcmZ2eHlXMWhacy1CS3V6ME1VTF8wQmlnNWtHZEFPbF8zX204c2JnVmpETWJjVGhpSXkwUTVQOWxZLW01S2lZOGtrVWFmQnlJYnhVLURXYXUxbHRTRFE2djVyeUlDdjFzY1k0WF9pMzRVUE95d1Qta1hoRWdaazJvMDlCTWNfYm1yUFZvMkgzWU0xX2pITjFVQ2xBd0E?oc=5",
+    "sourceName": "Energy Global",
+    "publishedAt": "2026-10-26T14:51:47.000Z",
+    "analyzedAt": "2026-10-26T19:05:46.184Z",
+    "updateType": "weather",
+    "relevance": 2,
+    "summary": "Renew Risk extends severe convective storm modeling capabilities to solar farms across U.S. states, improving risk prediction for storm-driven damage.",
+    "angle": "Storm modeling tools highlight the value of rapid damage assessment and storm-response workflows; positions Raptor Inspections and Sentry as critical post-event intelligence for affected customers.",
+    "play": "sentry",
+    "products": [
+      "sentry",
+      "inspections"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "nb29nbGUtb21zLzg0OTg4Ny8",
+    "title": "Clean energy groups, states oppose MISO’s large load-generation study plan",
+    "link": "https://www.utilitydive.com/news/miso-large-load-lars-ferc-google-oms/849887/",
+    "sourceName": "Utility Dive",
+    "publishedAt": "2026-10-26T13:58:16.000Z",
+    "analyzedAt": "2026-10-26T19:05:46.184Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "Clean energy groups and states oppose MISO's fast-track load-generation colocated study plan, citing lack of ratepayer protections and bias toward vertically integrated utilities over independent power producers.",
+    "angle": "Interconnection and grid market rules changes can materially affect IPP and independent solar owner economics; this regulatory uncertainty should be part of customer strategy conversations.",
+    "play": "none",
+    "products": [],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "w5R2VFNUJWbFZzZHc_b2M9NQ",
+    "title": "11 GW of Clean Energy Got Stuck Last Year. It Is Getting Worse.",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSnkzVDRfMkV5WHg4MHg1UVdLS1Z4Z3BUX01QZTFwb0g0ZDlWMzhlOEpxWmJ1TXgzNXZKRTFBeFZqTzg0RVV0WC1lREoxV20xOWFzNkp6ZXFUQ3B3eU9jVk9OaXJ6Nnl2SExENUtkVEpnbF8tNUptYzNKX21hVnowUXZidVZfdzM5M2NGSlNieERDaTE4Z1phT0Z5UHdpSmZzMmJBbHhKNkswOEd5al9GeE5BVlVsdw?oc=5",
+    "sourceName": "Environment+Energy Leader",
+    "publishedAt": "2026-10-26T13:42:07.000Z",
+    "analyzedAt": "2026-10-26T19:05:52.600Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "11 GW of clean energy projects remain stuck in interconnection queues, a worsening bottleneck. Grid interconnection delays are slowing project deployment.",
+    "angle": "Interconnection delays create uncertainty around deployment timelines and revenue realization; Raptor Solar's platform helps customers optimize existing fleet performance while waiting for new capacity to come online.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "LWJpbGxpb24tZTItZmluZHMv",
+    "title": "Clean energy project cancellations outpace new U.S. investments by $8.2 billion, E2 finds",
+    "link": "https://pv-magazine-usa.com/2026/10/26/clean-energy-project-cancellations-outpace-new-u-s-investments-by-8-2-billion-e2-finds/",
+    "sourceName": "pv magazine USA",
+    "publishedAt": "2026-10-26T12:40:41.000Z",
+    "analyzedAt": "2026-10-26T19:05:38.030Z",
+    "updateType": "distress",
+    "relevance": 2,
+    "summary": "E2 reports $86.6 billion in canceled or reduced clean energy investments since 2025, indicating material project delays and financing headwinds across the U.S. solar sector.",
+    "angle": "Portfolio and project financing constraints are likely to pressure customer capex, site commissioning timelines, and renewal patterns; important context for retention and expansion conversations.",
+    "play": "retention",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "bGl0eS1zY29yZXMtc2xpZGUv",
+    "title": "Inverter market Q3 2026: Capacity surges, FCC ban reshapes trade and Chinese bankability scores slide",
+    "link": "https://www.pv-tech.org/inverter-market-q3-2026-capacity-surges-fcc-ban-reshapes-trade-chinese-bankability-scores-slide/",
+    "sourceName": "PV Tech",
+    "publishedAt": "2026-10-26T11:01:05.000Z",
+    "analyzedAt": "2026-10-26T19:05:38.030Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "Q3 2026 inverter market saw capacity surges in the U.S. and a landmark regulatory shift, including an FCC ban that is reshaping trade dynamics.",
+    "angle": "FCC inverter restrictions (likely DJI drone/autonomous equipment related) may affect Sentry dock deployments and remote inspection workflows; clarify scope and timeline with customers.",
+    "play": "sentry",
+    "products": [
+      "sentry"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "azVMV2RHTjNWNGNVRT9vYz01",
+    "title": "Centrii flags audit risks as NERC CIP-003-9 tightens vendor remote access controls for low-impact BES systems",
+    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPZTNMYTFRLWF2OUswaWFCX1VJR2J5MERnckdURzRTUWd4VUFGT3YwT0pjM2IzQmRrLTdxN0xMQ2tDZmhiQVh0R2lyRm1mYUJFcGxocTM5ZWJCNy14YXJMeFJVdzk0T2I0andYVjVxM2V4Zm9za2RJbDYtSlR0Z3daYnVYU3AycFhkUnZvTjVzeVdFQXVpZjJ4eFdiNmkyOWxEUjdOVG9lQklzRWtaRkg2RDF4djQ0alVQLThiVjF6amlEOGt3bGlwajY1cVZaZVNGbkhRZ3QzRTFldnUtSzI4eTdnZ1ZTUWJkVzhnR3YzZkFpdDhaX1lMWUk5LWdGN3V4cUE?oc=5",
+    "sourceName": "Industrial Cyber",
+    "publishedAt": "2026-10-26T10:25:03.000Z",
+    "analyzedAt": "2026-10-26T19:05:54.983Z",
+    "updateType": "security",
+    "relevance": 2,
+    "summary": "NERC CIP-003-9 tightens vendor remote access controls for low-impact BES systems. Centrii flags audit risks as organizations must implement stricter compliance measures.",
+    "angle": "Solar plants and storage facilities subject to NERC CIP must tighten vendor access controls—a direct compliance risk for utility-scale customers. This regulatory tightening is a conversation starter for Raptor Comply expansion and OT security posture reviews.",
+    "play": "comply",
+    "products": [
+      "comply"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "4tc29sYXItcHYtcGxhbnRzLw",
+    "title": "ARRAY and Aeeris bring automated hail stow to Australian solar PV plants",
+    "link": "https://www.pv-tech.org/array-and-aeeris-bring-automated-hail-stow-to-australian-solar-pv-plants/",
+    "sourceName": "PV Tech",
+    "publishedAt": "2026-10-26T10:08:41.000Z",
+    "analyzedAt": "2026-10-26T19:05:38.030Z",
+    "updateType": "technology",
+    "relevance": 2,
+    "summary": "ARRAY Technologies and Aeeris have partnered to bring automated hail protection and early-warning systems to solar PV plants in Australia.",
+    "angle": "Automated storm response and hail stow systems are complementary to Sentry's drone-based damage detection; differentiator for post-event asset recovery and warranty evidence.",
+    "play": "sentry",
+    "products": [
+      "sentry",
+      "inspections"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "tYmlnLWJhdHRlcnktZ29hbHM",
+    "title": "Massachusetts sets big battery goals — and the policies to back them up",
+    "link": "https://www.canarymedia.com/articles/batteries/massachusetts-sets-big-battery-goals",
+    "sourceName": "Canary Media",
+    "publishedAt": "2026-10-26T07:30:00.000Z",
+    "analyzedAt": "2026-10-26T19:05:46.184Z",
+    "updateType": "expansion",
+    "relevance": 2,
+    "summary": "Massachusetts is pursuing ambitious battery storage goals with major projects in development, including a 700-MW facility and a 250-MW battery that just closed on $850M in financing.",
+    "angle": "Large paired solar-and-storage buildouts in major markets create Raptor Solar platform expansion opportunities and potential cross-sell into storage O&M workflows.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "1jbG9zZS1pbi1oMS0yMDI2Lw",
+    "title": "Solar drives 2.6GW of Australian clean energy to financial close in H1 2026",
+    "link": "https://www.pv-tech.org/solar-drives-2-6gw-of-australian-clean-energy-to-financial-close-in-h1-2026/",
+    "sourceName": "PV Tech",
+    "publishedAt": "2026-10-26T03:39:48.000Z",
+    "analyzedAt": "2026-10-26T19:05:46.184Z",
+    "updateType": "expansion",
+    "relevance": 2,
+    "summary": "2.6 GW of large-scale generation projects reached financial close in Australia in H1 2026, with solar accounting for 92% (2.39 GW) of capacity.",
+    "angle": "Strong solar expansion activity in Australia signals growing O&M and platform coverage opportunities for Raptor Solar customers and integrators operating in that region.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "3TVVWWVNXUmtNVXhMP29jPTU",
+    "title": "Closure of US tax credit transition window to reshape wind and solar outlook, says GlobalData",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaHZuZU50cV9hOU1GdGtNYUpoUjZlYXpMLWh3UGJraS1IV1p0eTFLbEZ3VEkxRmkteFNWVTY0NnNaWnBOSGJiOGFVR01uQ1lCenJCUW1sM3huNTRLTWQyQ0hIa0RXSFhfS2NWUDM3Z3BKaV9SeklJeXpzVzJGWE43TTBRZkVGdmJSRVdvNDVObXkzMTNncTRmc1p6TXBKVXI1T2ZqbmI2N3o5WlZsNDJZRmVXUE81SFRXbGlveVlHS1ZuSDJHRVQwMUVYSWRkMUxL?oc=5",
+    "sourceName": "Cyprus Shipping News",
+    "publishedAt": "2026-10-26T03:33:22.000Z",
+    "analyzedAt": "2026-10-26T19:05:52.600Z",
+    "updateType": "policy",
+    "relevance": 2,
+    "summary": "US tax credit transition window is closing, reshaping the outlook for wind and solar projects. The closure will impact project economics and financing timelines for developers.",
+    "angle": "Customers need to understand how the tax credit deadline affects their pipeline economics and project IRRs; Raptor Solar's performance analytics help maximize returns in a tighter margin environment.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "c5amMydEZNekJLYXc_b2M9NQ",
     "title": "Caught Out By First Solar's Fall? What Bears Saw",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaFN1SExjaS1yRUZJMkFDSXE4dWxqb01PRWUwSDBaTlRNdk9ma19vYzVTWEo1N0h0N2U0YjVHbVFKczluWGNidzZEQ0RUd08xYXMybldjdWNGRE94UmJLVFdnRHREUWltblZNQ0wxLXRvdEJmRGRxOGxfQURqeTZ4djJiaGdqU184S1Zoa1RUdWcySW9jc2tFMzBKaw?oc=5",
@@ -48,6 +252,23 @@
     "products": [
       "inspections",
       "sentry"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "IWXpJelJHOVFOVkJOP29jPTU",
+    "title": "In 2020, five rainstorms damaged a Georgia solar project; insurer later tried to apply a $2.5 million ded",
+    "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNeF9DNFFIdV9naWhjRTNwVm0zTWNNZXhaUWxvQXhPbUhwMmtrVWEydFMtMUd4bTloaTVzUEUzUUlSaGpadVZ4WHQ1MWxreXdwXzEtemVTWUdFUmdCZTk4RWVhZ1M0Nkh2d1J4VUxYYzZzNzBLZ2x1Y213eWMxRXlCbUFJb0hnOHVsaU93d0xCZlVYVzM0VU80TjdHaUhYVzRXVUEyM1dvZDJRZ05EMC1BNnNLQ2JpSW5WU2pnZ3h3aVQ4LV8ySmVyNmVYVnN1TF96N3dUVVlYb0ptREJTZ2Z0dTVJN0laejBWMU1qZEx2VllhWE9HRURSeUhlaUlrSWc0cndpb2trRFQtZ0F4U1l0RG53WEhHMXRPdjdsOEpPT1VGYUdjMjNEb1A1UE3SAawCQVVfeXFMTXhfQzRRSHVfZ2loY0UzcFZtM01jTWV4WlFsb0F4T21IcDJra1VhMnRTLTFHeG05aGk1c1BFM1FJUmhqWnVWeFh0NTFsa3l3cF8xLXplU1lHRVJnQmU5OEVlYWdTNDZIdndSeFVMWGM2czcwS2dsdWNtd3ljMUV5Qm1BSW9IZzh1bGlPd3dMQmZVWFczNFVPNE43R2lIWFc0V1VBMjNXb2QyUWdORDAtQTZzS0NiaUluVlNqZ2d4d2lUOC1fMkplcjZlWFZzdUxfejd3VFVZWG9KbURCU2dmdHU1STdJWnowVjFNamRMdlZZYVhPR0VEUnlIZWlJa0lnNHJ3aW9ra0RULWdBeFNZdERud1hIRzF0T3Y3bDhKT09VRmFHYzIzRG9QNVBN?oc=5",
+    "sourceName": "The Times of India",
+    "publishedAt": "2026-10-24T21:30:00.000Z",
+    "analyzedAt": "2026-10-26T19:05:46.184Z",
+    "updateType": "weather",
+    "relevance": 2,
+    "summary": "A Georgia solar project suffered damage from five rainstorms in 2020, with the insurer later attempting to apply a $2.5M deductible—illustrating warranty and damage documentation challenges.",
+    "angle": "Weather-caused damage disputes underscore the importance of contemporaneous visual evidence and comprehensive damage documentation; Raptor Inspections provides warranty-grade evidence for damage claims.",
+    "play": "inspections",
+    "products": [
+      "inspections"
     ],
     "mentionedAccounts": []
   },
@@ -153,6 +374,21 @@
       "raptor_solar",
       "inspections"
     ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "2VlUwMlEzSndaVE5uP29jPTU",
+    "title": "T1 Energy Wins Section 232 Waiver for 1.725 GW Solar Cell Imports - News and Statistics",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUHpzRVNfXzNGcG1ydVlGejhhd0d5ODlsazR4TmY5bWtBNnhoM2Jfc21rNHQ1S1ltclc4c29BZ0JKX0dHU0gxT2FJb3YzLXo1X3Z0a25DZjJYcWlzOVB0MXBXa0NLWFFGX0thMWVYN0JGbmgxYzN0RTBGbldZeUJvaFR0anRpQjRpSmlzdFFaTUVIVmo4NEc1RmpMZllobDRNX1hsdG5FMDVPa0c1Z2pSdkI4TmtvVU02Q3JwZTNn?oc=5",
+    "sourceName": "IndexBox",
+    "publishedAt": "2026-10-23T11:40:26.000Z",
+    "analyzedAt": "2026-10-26T19:05:52.600Z",
+    "updateType": "trade",
+    "relevance": 1,
+    "summary": "T1 Energy secured a Section 232 waiver allowing 1.725 GW of solar cell imports, providing some relief from tariff pressure on solar equipment sourcing.",
+    "angle": "Tariff dynamics are shifting; monitoring import waivers helps customers understand supply chain costs and long-term module sourcing strategy.",
+    "play": "none",
+    "products": [],
     "mentionedAccounts": []
   },
   {
@@ -397,6 +633,24 @@
     "products": [
       "raptor_solar",
       "inspections"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "bUl6WWpneFVHRjZkdz9vYz01",
+    "title": "Solar PPA prices jump 5% in Q3, mainly on new trade tariffs: LevelTen",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWEQyd2RTeGJCVlpqYkhnLVZQNUxUR2ZUcE5HZ1RSYTZTN1JodXdZTVNDcy1HczZSREtiSWZuOXNWSzA1QW9xZmxTeDB3aVJ3QTNCQlZiZDE0TnkxRjkxSkxnRVdmT2hpVUVRb1pZX2xIU2dqOXJUQmJYbkNSdmIzYjgxUGF6dw?oc=5",
+    "sourceName": "Utility Dive",
+    "publishedAt": "2026-10-21T15:58:38.000Z",
+    "analyzedAt": "2026-10-26T19:05:52.600Z",
+    "updateType": "trade",
+    "relevance": 2,
+    "summary": "Solar PPA prices jumped 5% in Q3 2026 primarily due to new trade tariffs on solar equipment. Cost pressures are rising for project developers.",
+    "angle": "Tariff-driven cost increases make O&M efficiency and asset performance optimization critical; Raptor Solar and Sentry help reduce O&M spend and maximize uptime to protect project margins.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar",
+      "sentry"
     ],
     "mentionedAccounts": []
   },

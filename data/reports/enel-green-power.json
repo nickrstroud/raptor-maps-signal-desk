@@ -142,5 +142,24 @@
         "publishedAt": "2026-10-05T13:45:12.000Z"
       }
     ]
+  },
+  {
+    "company": "Enel Green Power",
+    "runAt": "2026-10-26T19:05:09.302Z",
+    "source": "daily",
+    "headline": "Enel acquires 270 MW solar portfolio; material expansion opportunity for Raptor Solar, Sentry, and Inspections across new sites",
+    "signals": [
+      {
+        "category": "270 MW solar acquisition",
+        "updateType": "expansion",
+        "play": "raptor_solar",
+        "score": 2,
+        "summary": "Enel Green Power finalized acquisition of 270 MW solar portfolio. This is material new MW under management that will need baseline onboarding to Raptor Solar (digital twin, SCADA/performance analytics) and cross-sell opportunities into RS Sentry and RS Inspections.",
+        "suggestedAction": "Confirm with William Badnaruk or Enel North America asset management whether the 270 MW acquired will be onboarded to Raptor Solar this quarter. Offer: (1) baseline RS Inspections plan for construction QA / commissioning / warranty evidence at the new sites; (2) RS Sentry deployment roadmap to extend autonomous drone-dock coverage across the new portfolio (mitigating DJI hardware risk by planning dock migration upfront).",
+        "sourceName": "ad-hoc-news.de",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUnhnZjNuVkVra01EM2ZMQWQwUUs4bjZuVWU2YmNWeGRWV3l6bGtqUTFsdVN0Y1pCOXVTbm5vc1FhRjJHbUFrOXowVDdhcklaZ1pndmpyekMtdHQ2UGhYeGtiZ2hPeXVpRGVzWlJUS21lQlhsMWE1UHU4RVA5VmgxSlctSzVGQzE1c3h0dmhEWkZlX2tGbV94S080aU40WVJITkhsN3BGZTJqdE5wOXh3MjFSNHl4aUp0UXJ4dGcwY2NZR0hNQmxoOTJhOUNxM0l6b3QyMjcyeEpLbTVZQVJaNTBfMjd0dw?oc=5",
+        "publishedAt": "2026-10-25T16:50:15.000Z"
+      }
+    ]
   }
 ]

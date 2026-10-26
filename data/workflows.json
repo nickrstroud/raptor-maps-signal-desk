@@ -4469,5 +4469,149 @@
     },
     "doneWhen": "Check-in call completed and 2026–2027 platform spending plans confirmed; ROI summary delivered; renewal confidence level and any new stakeholders logged in CRM.",
     "generatedAt": "2026-10-25T17:00:00.218Z"
+  },
+  "a_rwx08h": {
+    "signalId": "a_rwx08h",
+    "account": "BayWa r.e.",
+    "signalTitle": "Parent company restructuring acceleration",
+    "play": "protect_renewal",
+    "goal": "Protect platform usage and budget continuity at BayWa r.e. Operations Services amid parent company restructuring by quantifying ROI and demonstrating operational value to new stakeholders.",
+    "owner": "CS Director + Account Executive",
+    "contactRole": "Director of ROCC and Engineering, Operations Services",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0",
+        "tasks": [
+          "Review BayWa r.e. contract terms, renewal date, and current MW coverage / platform usage metrics (RS, Inspections, drone program scale).",
+          "Flag: parent restructuring timeline, divestment risk signals, and known budget-cut discussions in Ops or leadership.",
+          "Pull ROI baseline: cost per MW managed, inspection efficiency gains, truck-roll reductions, production recovered from Sentry/Inspections data."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1",
+        "tasks": [
+          "Brief Account Executive and CS team on restructuring risk and protection strategy; confirm [Director of ROCC and Engineering] is the right lead contact.",
+          "Align on ROI narrative and doc: cost savings, uptime, and field-team productivity gains from Raptor platform and drone program.",
+          "Prepare for divestment scenario: if North American O&M is spun off or sold, brief new owner on Raptor's role in ROCC efficiency."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 2–3",
+        "tasks": [
+          "Call [Director of ROCC and Engineering]: open with support for BayWa's transition, ask about ROCC operations budget and headcount plans for 2027 (no hard sell).",
+          "Listen for cost-reduction initiatives or organizational changes; gauge platform usage and training investment priorities."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 5–10",
+        "tasks": [
+          "If budget pressure surfaces, send ROI summary: cost per MW managed, inspection productivity gains, truck-roll reductions from drone program, production recovered from Sentry use cases.",
+          "Offer lightweight business review: dashboard of platform value (MW managed, uptime, field-team efficiency) to share with [Director of ROCC and Engineering]'s leadership and any new owners.",
+          "Propose RS Sentry pilot for one site: lower truck rolls, faster storm response—strong fit for ROCC and immediate cost-justification win."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log call notes, budget/headcount signals, and divestment risk in CRM; flag Account Executive for escalation if material risk emerges.",
+          "Track engagement: repeat check-in every 60 days through 2027; monitor BayWa AG public filings and press for M&A or divestment news.",
+          "Close loop: measure platform adoption and usage post-call; confirm ROCC operations budget protected in 2027 renewal."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Checking in on ROCC ops—and helping through the transition",
+      "body": "Hi [Director of ROCC and Engineering],\n\nWe've been following BayWa's restructuring news and wanted to reach out simply to check in. We know this season brings a lot of moving pieces on your end.\n\nGiven the focus on operational efficiency and cost, we'd love to understand how the ROCC budget and your team's priorities are shaping up for 2027. We've also pulled together a quick summary of the value our platform is delivering for you—drone program efficiency, inspection time saved, production recovered—in case it's useful with leadership or any new stakeholders reviewing your operations.\n\nAre you free for a short call this week?\n\nBest,\n[Your Name]"
+    },
+    "slack": "BayWa r.e. parent (BayWa AG) restructuring deepens—divestment risk for North American O&M business rising. Calling [Director of ROCC and Engineering] this week to check ROCC ops budget/headcount plans for 2027 and gauge cost-pressure signals. Play: protect platform usage and renewal by quantifying ROI (cost per MW, inspection gains, truck-roll reduction) and offer Sentry pilot. If budget cuts loom, we have evidence-based defense ready. Lead: [CS Director], support from [Account Executive].",
+    "crmTask": {
+      "title": "Protect renewal: BayWa r.e. restructuring risk—budget and headcount check-in",
+      "due": "In 3 days",
+      "notes": "Parent BayWa AG restructuring extends to 2030; planned EUR 1.7B sale cut to EUR 900M. North American O&M business may face divestment, budget freeze, or new owner review. Call [Director of ROCC and Engineering] to validate 2027 ops budget stability, headcount plans, and platform usage priorities. Have ROI story ready (cost per MW managed, inspection efficiency, truck-roll reduction from drone program and potential Sentry deployment). If divestment occurs, be prepared to brief new owner on Raptor's role in ROCC efficiency and uptime. Track for 60-day cadence through 2027."
+    },
+    "doneWhen": "[Director of ROCC and Engineering] confirms 2027 ROCC ops budget and headcount plans; platform usage trajectory for RS and Inspections secured or growth path identified.",
+    "generatedAt": "2026-10-26T19:05:23.441Z"
+  },
+  "a_17x4e1": {
+    "signalId": "a_17x4e1",
+    "account": "Enel Green Power",
+    "signalTitle": "270 MW solar acquisition",
+    "play": "onboard_expand",
+    "goal": "Onboard 270 MW solar acquisition to Raptor Solar and cross-sell Sentry autonomous inspections and Inspections suite to secure coverage and prevent hardware risk disruption.",
+    "owner": "Account Executive + CS Director",
+    "contactRole": "Head of Industrial Risk & Cross Technology Improvement, North America; VP Asset Management",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0-1",
+        "tasks": [
+          "Confirm 270 MW portfolio acquisition close date, go-live onboarding timeline, and project site list with Enel finance/operations contacts",
+          "Map new sites against current Raptor Solar coverage and calculate baseline MW/site expansion lift",
+          "Flag DJI Dock dependencies across the combined fleet and assess which sites are dock-eligible for Sentry migration planning"
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Brief Sales and Ops on the 270 MW expansion and confirm Account Executive leads commercial expansion; Ops owns onboarding sequencing",
+          "Sync with Product on dock hardware migration use case for [Head of Industrial Risk] as proof point for robotics-agnostic platform roadmap",
+          "Assign CS lead to design baseline RS Inspections plan (construction QA, commissioning, warranty evidence) and Sentry phased rollout schedule"
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3-5",
+        "tasks": [
+          "Email [Head of Industrial Risk & Cross Technology Improvement] congratulating the acquisition and offering two concrete next steps: baseline inspections QA plan for new sites and Sentry roadmap addressing dock hardware continuity risk",
+          "Request 30-min call to review Raptor Solar onboarding checklist, inspect construction/commissioning workflow, and introduce dock migration strategy to future-proof autonomous operations"
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 5-14",
+        "tasks": [
+          "Deliver baseline RS Inspections plan with site list, flight zones, thermography + visual coverage scope, and construction/warranty evidence alignment",
+          "Present Sentry phased deployment roadmap: priority sites by MW, dock migration timeline (non-DJI alternatives), and opex savings model for production recovery speed",
+          "Kick-off Raptor Solar onboarding: data feeds setup, digital twin baseline, SCADA/performance analytics dashboards for new portfolio"
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log expansion MWs, new site count, and Sentry dock deployment timeline in CRM renewal/expansion tracking",
+          "Bi-weekly check-in with [Head of Industrial Risk] on inspection and Sentry rollout milestones; escalate any hardware or capex constraints",
+          "Measure success: all 270 MW onboarded to Raptor Solar, ≥50% of new portfolio covered by Sentry roadmap, dock migration plan agreed"
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Congratulations on the 270 MW solar acquisition – let's accelerate site onboarding",
+      "body": "Hi [Head of Industrial Risk & Cross Technology Improvement],\n\nCongratulations on closing the 270 MW solar portfolio. We're excited to help you operationalize the new sites quickly.\n\nWe'd like to propose two focused initiatives: (1) a baseline RS Inspections plan to cover construction QA, commissioning, and warranty evidence across the new sites, and (2) a Sentry phased deployment roadmap to extend autonomous drone-dock coverage—which also lets us plan dock hardware migration upfront and avoid disruption from any supply constraints.\n\nLet's schedule 30 minutes to review the Raptor Solar onboarding checklist, walk through the inspection workflow, and talk through the dock strategy. This keeps your production recovery on track.\n\nBest,\n[CSM name]"
+    },
+    "slack": "Enel Green Power closed a 270 MW solar acquisition and needs immediate onboarding to Raptor Solar + cross-sell into Sentry and Inspections. This is a material MW expansion and a chance to lock in dock hardware migration planning before [Head of Industrial Risk] asks. AE leads expansion commercial; CS designs inspections QA plan and Sentry rollout roadmap. Kick off validate call this week.",
+    "crmTask": {
+      "title": "Enel Green Power: 270 MW acquisition onboarding + Sentry expansion + dock migration strategy",
+      "due": "In 5 days",
+      "notes": "270 MW solar portfolio acquisition close; baseline onboarding to Raptor Solar required. Cross-sell opportunity: RS Inspections (construction/commissioning/warranty QA) and RS Sentry phased rollout (drone-dock autonomous coverage + DJI hardware migration mitigation). Key sponsor: [Head of Industrial Risk & Cross Technology Improvement, North America]. Success measures: all MW onboarded to RS, ≥50% Sentry roadmap coverage agreed, dock migration plan locked. Risk watch: capex approval, site-level commissioning timelines, DJI restrictions escalation."
+    },
+    "doneWhen": "All 270 MW onboarded to Raptor Solar, Sentry phased deployment roadmap approved for ≥50% of new portfolio, and dock hardware migration strategy agreed with [Head of Industrial Risk].",
+    "generatedAt": "2026-10-26T19:05:25.179Z"
   }
 }

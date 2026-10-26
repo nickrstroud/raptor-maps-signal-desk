@@ -453,5 +453,24 @@
         "publishedAt": "2026-10-25T13:51:08.000Z"
       }
     ]
+  },
+  {
+    "company": "BayWa r.e.",
+    "runAt": "2026-10-26T19:05:08.280Z",
+    "source": "daily",
+    "headline": "BayWa AG restructuring deepens; divestment plans stall and creditor haircut rejected—watch for North American O&M budget pressure and potential ownership change",
+    "signals": [
+      {
+        "category": "Parent company restructuring acceleration",
+        "updateType": "distress",
+        "play": "retention",
+        "score": -1,
+        "summary": "BayWa AG's restructuring intensifies with no buyer found, creditor haircut rejected, and restructuring extended through 2030. The planned EUR 1.7B sale of BayWa r.e. was already cut to EUR 900M in 2026. Ongoing financial distress at the parent increases risk of North American O&M business divestment, budget freezes, or operational layoffs.",
+        "suggestedAction": "Contact Sean Bucher this week to check in on ROCC operations budget and headcount stability for 2027. Understand whether any organizational changes or cost-reduction initiatives are underway that might affect Raptor platform usage or training investment. If budget cuts loom, have ROI story ready (cost per MW managed, inspection efficiency gains, truck-roll reductions from Sentry) to justify continued platform spend.",
+        "sourceName": "ad-hoc-news.de",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMzJHejNka25PeXR6c1pnd0JGa3ZjODNMQ0lCUDgzVkgtaWdINHZ5V2hHa2R2UkR2Z0dMTFVmamJEMy1CQkdtdFNfNVVJVmFrYk5iS05uZFd4VWxtSVFzT25BZjZ1M1NidXktTk0tWnQ5cWUySEpFS000SmlsS0lWQldwNUd2d0o1NFdWWnNzZWNxZnBoQlE4STRQdmhMREt4T1Z5TVdpUGdWZjBENVdyc1BjaGNNVEJzcHlHN05pUXhZQk81bFpoMFMyc1l1Z1Fpdk1tMmVrejhraXA2dFVnQ0JZREZ3dEJReUIwRGZPdDFuQmFZQVpRMA?oc=5",
+        "publishedAt": "2026-10-26T05:41:15.000Z"
+      }
+    ]
   }
 ]
