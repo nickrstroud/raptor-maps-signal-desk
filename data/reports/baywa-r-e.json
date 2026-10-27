@@ -472,5 +472,35 @@
         "publishedAt": "2026-10-26T05:41:15.000Z"
       }
     ]
+  },
+  {
+    "company": "BayWa r.e.",
+    "runAt": "2026-10-27T18:36:22.334Z",
+    "source": "daily",
+    "headline": "BayWa AG divesting major renewable assets amid ongoing financial restructuring; North American O&M business not mentioned in recent sales, but liquidity pressures intensifying",
+    "signals": [
+      {
+        "category": "Asset divestment - Australian portfolio",
+        "updateType": "ma",
+        "play": "retention",
+        "score": -1,
+        "summary": "BayWa AG sold its 2 GW Australian renewables portfolio to Atmos Energy as part of its broader financial restructuring. While this divestment does not directly affect BayWa r.e.'s North American O&M business or the 1+ GW they manage, it signals continued asset sales under distress and heightens risk of further portfolio divestitures, including potential sale or downsizing of North American operations.",
+        "suggestedAction": "Proactively reach out to Sean Bucher to clarify BayWa r.e. Operations Services' status under the ongoing parent-company restructuring. Ask directly: (1) whether the North American O&M portfolio or customer base is under review for sale or restructuring; (2) whether there are any anticipated changes to budget, headcount, or Raptor Maps investment through 2027. Frame as a partnership check-in to ensure continuity and support any transition planning.",
+        "sourceName": "Dealroom",
+        "sourceLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQWxacUxwRUxCS1g2RUEtM2JtOU01N0d5LVNJejhJckNfS2drTzBScFEydEdtcDBwdEdaWWVzSTBLd0o0cHhGMy1LelJXSTA5SU5PQkNLVmR0TkotcElwMmxfNGk3Z1FFY0VYUl8wenIwVUlTTkNGMG02OWlmdUw0M0Q2UE52LTdBMWNwUmFHWEw2TGdpajRxRkItRll6Z0kxX004QWNfaXJ1THM0YUZRaS12cDQ?oc=5",
+        "publishedAt": "2026-10-24T15:52:33.000Z"
+      },
+      {
+        "category": "Parent company financial distress",
+        "updateType": "distress",
+        "play": "retention",
+        "score": -1,
+        "summary": "BayWa AG's creditors rejected a 98% haircut on hybrid bonds, and the company is renegotiating its debt restructuring. This ongoing liquidity crisis increases the risk of budget freezes, capex deferrals, or operational unit divestment at the subsidiary level, including potential impact on BayWa r.e.'s North American operations.",
+        "suggestedAction": "Prepare a concise ROI summary (cost per MW managed, production recovery value, inspection data value) for Sean Bucher that demonstrates Raptor Solar and RS Inspections' tangible business impact. This will be critical if new ownership or creditors conduct vendor reviews, or if budget discussions arise. Position Raptor Maps as a cost-efficiency lever for the ROCC, not a discretionary expense.",
+        "sourceName": "ad-hoc-news.de",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQm5Va2dONUhsV1czVjNiS2FOYWMwNk5SbXl2SUhFNHpwb2ptSkZ0N0FDRHlwVUxXdm92dEl0bUFqNnR1YUlmazRWRXYwSkFEZUdWdXhzbmYwZGc4QTV4TVZwem5peG14U0hXLXNEclpkd3M2U0xXSWQ5RlppUENxUkhPRm5FS3VYQzFKbEdzU2ROeVg1Z2toNmlSdU1xSi1aV1BiNHNzOHNDd005amRWWjFzUFZ4dmRmYmE1YUQ2WVAxRHJxcTdqQTZhbzluNjlsSURqUlJXaXhiU05jLUlDRTNBc19XWjRSNlE?oc=5",
+        "publishedAt": "2026-10-24T12:21:47.000Z"
+      }
+    ]
   }
 ]

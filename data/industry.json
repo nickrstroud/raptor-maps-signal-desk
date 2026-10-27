@@ -1,5 +1,264 @@
 [
   {
+    "id": "RzLW9uLTQtY3MvODMzMjk5Lw",
+    "title": "Capacity, clarity, cash and compliance: the 4 C’s of electric co-op funding success",
+    "link": "https://www.utilitydive.com/news/for-electric-cooperatives-winning-federal-state-funding-depends-on-4-cs/833299/",
+    "sourceName": "Utility Dive",
+    "publishedAt": "2026-10-27T16:00:00.000Z",
+    "analyzedAt": "2026-10-27T18:37:03.457Z",
+    "updateType": "policy",
+    "relevance": 1,
+    "summary": "Federal funding programs for cooperative utilities are introducing tougher compliance requirements. Compliance is a struggle area for co-ops managing renewable assets.",
+    "angle": "Increased federal compliance burden on electric co-ops managing renewable portfolios; NERC CIP and OT security requirements will intensify.",
+    "play": "comply",
+    "products": [
+      "comply"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "5kLWVuZXJneS1zdG9yYWdlLw",
+    "title": "Maryland launches $200 million competitive grant program for solar and energy storage",
+    "link": "https://pv-magazine-usa.com/2026/10/27/maryland-launches-200-million-competitive-grant-program-for-solar-and-energy-storage/",
+    "sourceName": "pv magazine USA",
+    "publishedAt": "2026-10-27T15:34:46.000Z",
+    "analyzedAt": "2026-10-27T18:36:55.007Z",
+    "updateType": "policy",
+    "relevance": 2,
+    "summary": "Maryland launches a $200 million competitive grant program for utility-scale solar and energy storage over two years to address rising electricity demand and transmission costs.",
+    "angle": "New state capital programs drive solar deployment in mid-Atlantic; customers with projects eligible for Maryland grants should model Raptor Solar to optimize performance and track ROI across these grant-funded sites.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "VTVEZWpoT05UUkNkdz9vYz01",
+    "title": "Standard Solar Acquires 43.3 MW Community Solar Portfolio in Illinois from Trajectory Energy Partners",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWE1XTGhwU0twUUtlcUJUNGZwbEdsQmloTjRTX1FUaDU0TjAycVRueWpFQ2tMRjZwRVpXTk4wN0c0TjkzU3pwbDlwMFNWWDExYWlmQWZwZ1ZacUQ4OU55dWhIQl9ZQ2RFdjYzS1RiR2haeGh5OHBnV0Jya1hjU3FIY05Qd1owTk9wTVJPS3VxRjNxcGUyY25VQUllZXF1TG1GMVlJVDhkcXRoUDI1ODc2U0hTNTNrTnpjUE1pQ3FKdWpQQmdiMHlLNmJGLVY5LU5DejhONTRCdw?oc=5",
+    "sourceName": "citybiz",
+    "publishedAt": "2026-10-27T15:33:32.000Z",
+    "analyzedAt": "2026-10-27T18:37:03.457Z",
+    "updateType": "ma",
+    "relevance": 1,
+    "summary": "Standard Solar acquires 43.3 MW community solar portfolio in Illinois from Trajectory Energy Partners.",
+    "angle": "Continued community solar portfolio consolidation in US market; signals ongoing M&A activity among distributed solar operators.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "hRMU5Vd3phR0ZrVUE_b2M9NQ",
+    "title": "Masdar to Acquire 550 MW Solar Project in Greece",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSFY3TE5DZzhNVG1OV2NuRFFRelFxWi0tYlRJU3FpVTc3OUlLTzJrTkg3R2xyTTFBczVZOFdQYmQ1OUQ5dTcxVERieTAxcC03dWhfNEFGSGZNaHhSR0doMmx3S1REZkR1WEZrYV9UQmNpdEdvRGttWXQ1NUwzaGFkUA?oc=5",
+    "sourceName": "Mercom Capital Group",
+    "publishedAt": "2026-10-27T15:14:01.000Z",
+    "analyzedAt": "2026-10-27T18:37:11.390Z",
+    "updateType": "ma",
+    "relevance": 1,
+    "summary": "Masdar acquires 550 MW solar project in Greece, signaling continued portfolio expansion by major IPP in European markets.",
+    "angle": "Masdar's growth in utility-scale solar portfolio may create opportunities to expand Raptor Solar coverage across new geographies and large-scale sites; worth monitoring for platform adoption across their European fleet.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "SEpaZGsxS00xZFdRUT9vYz01",
+    "title": "Percepto Opens Its Inspection AI to Rival Drones Under a New CEO",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcVRFRk9QOXN0RU1DUDA3ZUxPZWFreGtnNTZtZ0tnZEotTjZsWFlqMncxLTE4cWtxcm9lN1hyUnQwSG1nSTZNZVVfWVRfUWk1UXhmRFdkVzVId3BSNGRSVkVjN21NckZEV3NqQTZ2bWNoVGpFUVJpeDFBRGdZN0xZUmJqTHlGSHJZdk1KM1dWQQ?oc=5",
+    "sourceName": "DroneXL",
+    "publishedAt": "2026-10-27T14:37:55.000Z",
+    "analyzedAt": "2026-10-27T18:37:11.390Z",
+    "updateType": "technology",
+    "relevance": 2,
+    "summary": "Percepto, an inspection AI provider, opens its platform to rival drone hardware under new leadership, signaling interoperability trend in automated inspection.",
+    "angle": "Drone ecosystem opening to third-party hardware and software may reshape how inspection workflows integrate with drones and robotics; relevant to Raptor Inspections roadmap and customer deployment strategies.",
+    "play": "inspections",
+    "products": [
+      "inspections"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "Y2FzdC1ieS0zMC84NzI4NzAv",
+    "title": "BNEF ups US energy storage deployment forecast by 30%",
+    "link": "https://www.utilitydive.com/news/bnef-ups-us-energy-storage-deployment-forecast-by-30/872870/",
+    "sourceName": "Utility Dive",
+    "publishedAt": "2026-10-27T14:19:38.000Z",
+    "analyzedAt": "2026-10-27T18:37:03.457Z",
+    "updateType": "expansion",
+    "relevance": 1,
+    "summary": "Bloomberg NEF raises US energy storage deployment forecast by 30%, driven by hyperscalers' firm orders for on-site and nearby storage paired with solar.",
+    "angle": "Storage-solar pairing accelerating with corporate buyers; expansion opportunity for customers adding storage to existing solar portfolios.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "pbGl0eS1zY2FsZS1zb2xhci8",
+    "title": "CPP Wind Engineering announces formal wind certification program for utility-scale solar",
+    "link": "https://pv-magazine-usa.com/2026/10/27/cpp-wind-engineering-announces-formal-wind-certification-program-for-utility-scale-solar/",
+    "sourceName": "pv magazine USA",
+    "publishedAt": "2026-10-27T14:18:15.000Z",
+    "analyzedAt": "2026-10-27T18:36:55.007Z",
+    "updateType": "technology",
+    "relevance": 1,
+    "summary": "CPP Wind Engineering announces new certification services for tracker and fixed-tilt products, providing engineering reviews and documented wind diligence for utility-scale solar.",
+    "angle": "Wind engineering validation and design certification is becoming a standard operational practice; customers deploying trackers at scale benefit from systematic tracking in Raptor Solar and inspection workflows to document compliance.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "lLXNpdGUtY2hhbGxlbmdlcy8",
+    "title": "Distributed Energy Infrastructure completes New York solar project despite site challenges",
+    "link": "https://www.solarpowerworldonline.com/2026/10/distributed-energy-infrastructure-completes-new-york-solar-project-despite-site-challenges/",
+    "sourceName": "Solar Power World",
+    "publishedAt": "2026-10-27T13:33:20.000Z",
+    "analyzedAt": "2026-10-27T18:36:55.007Z",
+    "updateType": "expansion",
+    "relevance": 1,
+    "summary": "Distributed Energy Infrastructure completed a 3.37-MWdc solar-plus-battery project in New York despite site challenges including shallow bedrock and high water table.",
+    "angle": "Complex site conditions and mid-construction design changes are common in utility-scale solar deployment; Raptor Solar's digital twin and Inspections' visual analytics help EPCs document design changes and warranty evidence.",
+    "play": "inspections",
+    "products": [
+      "raptor_solar",
+      "inspections"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "UZVRKUWMxaGxZV1E0P29jPTU",
+    "title": "Standard Solar Acquires 43.3 MW Illinois Community Solar Portfolio from Trajectory Energy Partners",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOUR1YUNNTENGU3loRlVqQ3FkU211S0h1QXFpRFNVMURPN0JiVU9UanJfdUwzSjhreHQzXzUtUkp3M2FTYUFZTER0U3pjeko0bmFxVkk0U0dFbldlUXdLZHFVNG1mVWpVNnd1eFFzeFlFRzhYRnZvcDZkeWZoV05lcXdGemx6TVdfTlpvYkgxSmMxMTAyYTVkaGRQUy04S0JqSVJTVmRIZlRPcHhMSTJ2NGVvODF1UmNPWDdPQWhQQk4tbjNwV1ViZWdmZHM4bUZoNlVZOTctNXBxZHJDQUU0dHNTeTJQc1hlYWQ4?oc=5",
+    "sourceName": "Business Wire",
+    "publishedAt": "2026-10-27T12:53:00.000Z",
+    "analyzedAt": "2026-10-27T18:37:11.390Z",
+    "updateType": "ma",
+    "relevance": 1,
+    "summary": "Standard Solar acquires 43.3 MW Illinois community solar portfolio from Trajectory Energy Partners, reflecting consolidation in distributed solar.",
+    "angle": "Portfolio M&A in the distributed solar sector indicates operators seeking scale; opportunity to discuss multi-site management and performance monitoring capabilities.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "FkLWFuZC1nZW5lcmF0aW9uLw",
+    "title": "Virginia utility’s grid utilization of 33% to 41% shows room for flexible load and generation",
+    "link": "https://pv-magazine-usa.com/2026/10/27/virginia-utilitys-grid-utilization-of-33-to-41-shows-room-for-flexible-load-and-generation/",
+    "sourceName": "pv magazine USA",
+    "publishedAt": "2026-10-27T12:12:00.000Z",
+    "analyzedAt": "2026-10-27T18:36:55.007Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "Virginia's grid utilization at 33–41% indicates headroom for flexible load and generation; trade groups highlight opportunities for distributed solar and storage to provide flexible generation.",
+    "angle": "Regional grid constraints and flexibility needs will drive demand for solar+storage hybrid assets; Raptor Solar's performance intelligence and Sentry's rapid response capabilities enable customers to compete in flexible resource markets.",
+    "play": "sentry",
+    "products": [
+      "raptor_solar",
+      "sentry"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "lcmdlci1hcy1wcm9wb3NlZC8",
+    "title": "Solar industry coalition opposes $67 billion Dominion-NextEra merger as proposed",
+    "link": "https://pv-magazine-usa.com/2026/10/27/solar-industry-coalition-opposes-67-billion-dominion-nextera-merger-as-proposed/",
+    "sourceName": "pv magazine USA",
+    "publishedAt": "2026-10-27T11:44:00.000Z",
+    "analyzedAt": "2026-10-27T18:36:55.007Z",
+    "updateType": "ma",
+    "relevance": 2,
+    "summary": "Solar and storage industry groups oppose the proposed $67 billion Dominion-NextEra merger, calling for interconnection reforms as a condition of approval.",
+    "angle": "Interconnection barriers remain a key risk for solar portfolio growth; customers dependent on Dominion or NextEra interconnections should prioritize Raptor Solar workflows and Comply OT security to strengthen positions in regulatory discussions.",
+    "play": "comply",
+    "products": [
+      "raptor_solar",
+      "comply"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "RE9FSlJVa3BhYkdKbj9vYz01",
+    "title": "Neighborhood Sun doubles solar portfolio with acquisition of New York's Meadow Energy",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNODdJRTJ4WTBnZmtBcjJ6cE5WYWpldDZzNDdFUi1XRVBweE9zcnF1bHVjZk1ZN05zSFpSZzJzS1dDM1FTVFZTc0gtSkMzQU5xT0IwRGF5eGo0VzJkV29LaVNNNHpGQU1ZbFlEV0JTRk16VTdiY3JHMm51ZGxLdjhiQVhLbXI5SWxtWWRDOEJRUkpabGJn?oc=5",
+    "sourceName": "The Business Journals",
+    "publishedAt": "2026-10-27T11:41:00.000Z",
+    "analyzedAt": "2026-10-27T18:37:11.390Z",
+    "updateType": "ma",
+    "relevance": 1,
+    "summary": "Neighborhood Sun acquires Meadow Energy to double its solar portfolio in New York, consolidating regional distributed solar assets.",
+    "angle": "Growth through acquisition increases operator's site count and MW footprint; multi-site platform capabilities become more valuable for managing larger, dispersed portfolios.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "2U2paaE9Hb3dRekJCP29jPTU",
+    "title": "Dynamic Line Rating Market Accelerates With FERC Order 881",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRm1JdWYzc24zNlFwVnpZU3Zoclk2cFVPREZ1emRnY0tTT2hjRVhPOWVnenZIa0JoUFRwMTdkNEdXWVA4VmN3RUdWX29KN0pRdFE0c2NRNFRpSThMMm9FLU9Ub2JaVnJmS3pWdElxZlJPR1FZX1AzaGlnQ3BDdmUtNkJuWWZnOWpuMnhNcW9qQmZvSjZhOGowQzBB?oc=5",
+    "sourceName": "openPR.com",
+    "publishedAt": "2026-10-27T09:55:04.000Z",
+    "analyzedAt": "2026-10-27T18:37:17.551Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "FERC Order 881 on Dynamic Line Rating is accelerating market adoption, improving grid capacity utilization and solar interconnection economics.",
+    "angle": "Grid modernization rules that improve solar interconnection and curtailment economics make existing projects more valuable; a talking point for showing why real-time performance analytics and compliance matter.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "ZS1wcm9qZWN0LXJvbWFuaWEv",
+    "title": "ENNA Solar to acquire Medgidia solar-plus-storage project in Romania",
+    "link": "https://www.pv-tech.org/enna-solar-acquire-medgidia-solar-plus-storage-project-romania/",
+    "sourceName": "PV Tech",
+    "publishedAt": "2026-10-27T09:47:53.000Z",
+    "analyzedAt": "2026-10-27T18:37:03.457Z",
+    "updateType": "ma",
+    "relevance": 1,
+    "summary": "ENNA Solar acquiring a 166MW solar-plus-storage project in Romania. Portfolio consolidation example showing continued M&A activity in utility-scale solar.",
+    "angle": "Solar+storage M&A remains active in European markets; relevant for tracking IPP portfolio trends and potential customer expansion into paired storage.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "SYzBVMU5EQTJZVVpqP29jPTU",
+    "title": "Report Spotlights Renewable Projects That Rode Out Hail, Wildfire and Winter Storms",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQU2NGdFphaHFWTUEwbjduTkgwc1NnbXFGWElrWnNReDVJd2dEY1BUNFAwN1NnTjBxY013Mm54SVdMMi1nWGNZbkZoUnFELVlqeTFoR2U0REJRY1RjdHdiS2VKd2laUnhyckxCM1VsWUdPUmNPSTFYZGZYTUY5RnI2RHpTaUtzVmtvZ3hpZmxHVFFkUklHVWw1OVlXM2xzZWROdEcwUDFlQkZnc1ptSi0wcUFtY2taVzQxbHZnTFBRc0U1NDA2YUZj?oc=5",
+    "sourceName": "The Well News",
+    "publishedAt": "2026-10-26T19:14:36.000Z",
+    "analyzedAt": "2026-10-27T18:37:03.457Z",
+    "updateType": "weather",
+    "relevance": 2,
+    "summary": "Report highlights renewable energy projects that successfully weathered hail, wildfire, and winter storms, demonstrating resilience and damage mitigation.",
+    "angle": "Real-world evidence that proactive inspection and storm-response capabilities protect asset value; strong talking point for inspections and sentry adoption.",
+    "play": "inspections",
+    "products": [
+      "inspections",
+      "sentry"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "5LXNvbGFyLXBvcnRmb2xpby8",
     "title": "Neighborhood Sun acquires Meadow Energy and its NY community solar portfolio",
     "link": "https://www.solarpowerworldonline.com/2026/10/neighborhood-sun-acquires-meadow-energy-and-community-solar-portfolio/",
@@ -48,6 +307,23 @@
     "products": [
       "sentry",
       "inspections"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "cnRuZXJzaGlwcy84NzI3NjIv",
+    "title": "CISA promises proactive critical infrastructure defense in new strategic plan",
+    "link": "https://www.utilitydive.com/news/cisa-strategic-plan-2030-infrastructure-partnerships/872762/",
+    "sourceName": "Utility Dive",
+    "publishedAt": "2026-10-26T14:33:43.000Z",
+    "analyzedAt": "2026-10-27T18:37:03.457Z",
+    "updateType": "security",
+    "relevance": 1,
+    "summary": "CISA releases new strategic plan emphasizing supply-chain security and third-party risk management for critical infrastructure.",
+    "angle": "OT security and third-party dependency risk rising on FERC/NERC agenda; relevant to solar plants subject to reliability standards.",
+    "play": "comply",
+    "products": [
+      "comply"
     ],
     "mentionedAccounts": []
   },
@@ -426,6 +702,23 @@
     "mentionedAccounts": []
   },
   {
+    "id": "IcE5NRjltUjJacGR3P29jPTU",
+    "title": "FCC Catches Huawei Surveillance Chips in Its First Parts Ban Case",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOME45UHJkY1RoTktNT01BaHdzWElzOEhESWVQZG9nNVpEZ00tMDNJX0UyZ0lPZTlMVWRCMWJOLTV1TWlJSjFhZEV5RXRRREl3ajNKUWMxRFNNQlNCX2lfOHk1b1FWSV9DbWZuQkwxSGRUMm1seFo2QXU3M2VRMmt3aGp5R0U0aHJxWHVWZ1BVc0dqTHB6OHpNMF9mR2Zpdw?oc=5",
+    "sourceName": "DroneXL",
+    "publishedAt": "2026-10-22T17:55:00.000Z",
+    "analyzedAt": "2026-10-27T18:37:11.390Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "FCC bans Huawei-linked surveillance chips in devices, tightening supply-chain security rules that affect hardware procurement for critical infrastructure.",
+    "angle": "OT/supply-chain security restrictions may force solar operators and O&M providers to audit and replace devices in their fleets; timely topic for Raptor Comply conversations around device and network security governance.",
+    "play": "comply",
+    "products": [
+      "comply"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "dGl2ZW4tYWNxdWlzaXRpb24v",
     "title": "VPPs to remain focus for sonnen after TIVEN acquisition",
     "link": "https://www.solarpowerworldonline.com/2026/10/vpps-to-remain-focus-for-sonnen-after-tiven-acquisition/",
@@ -493,6 +786,21 @@
     "mentionedAccounts": []
   },
   {
+    "id": "6TlNUMkZWUnpoc1JBP29jPTU",
+    "title": "T1 Energy announces Department of Commerce waiver allowing cell imports",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS1BjVzY2VWU0aHZZalFDUWxYbkdGX3ZLN19qYks0M3FTclRCMkpveTNaMDFuakZ3QThyUVFHSjRxZUQ2Ym9fRHhLaHdCbDZfdXlaVHVXZHYxbGJBZXZTeDY2b29zUVdjWDVqTmFYTGNkWWxhR0FXWGFHcm1IQWRnaC02dmFoQ2R1UEZvcUxGU1B1aDFvU1dwWDFqN3hMWVhIMXRnTV83ZzNST2FVRzhsRA?oc=5",
+    "sourceName": "pv magazine USA",
+    "publishedAt": "2026-10-22T14:24:15.000Z",
+    "analyzedAt": "2026-10-27T18:37:17.551Z",
+    "updateType": "trade",
+    "relevance": 2,
+    "summary": "T1 Energy received a Department of Commerce waiver to import solar cells, easing domestic-content restrictions on cell supply.",
+    "angle": "Tariff and domestic-content waivers directly affect module procurement costs and project economics for utility-scale solar customers; worth discussing how this impacts their project IRR and supply chain flexibility.",
+    "play": "raptor_solar",
+    "products": [],
+    "mentionedAccounts": []
+  },
+  {
     "id": "d2luZy1jZWxsLWltcG9ydHMv",
     "title": "T1 Energy announces Department of Commerce waiver allowing cell imports",
     "link": "https://pv-magazine-usa.com/2026/10/22/t1-energy-announces-department-of-commerce-waiver-allowing-cell-imports/",
@@ -505,6 +813,40 @@
     "angle": "Tariff and trade uncertainty is reshaping solar supply chains and module costs. Customers should understand how domestic content rules and tariffs affect their project economics and procurement strategies.",
     "play": "none",
     "products": [],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "dMVVZHV2tWNVgwZEY_b2M9NQ",
+    "title": "Gritt Robotics brings AI-assisted robotics to bolster shrinking solar workforce",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdzQtOEMyMVlwZEJKclNlRTN5OHhSUjd3d3lKZHNCUnJydmViMDhKV1U4WXZBaHEwem41b3ZKUE8zMG1ZTnRsTG1WUUpqbWdTRzVMcHREWEJXVDJNOGk2SHYtdHE5ZWw2eDBKS3ZvN2hUck9MSW84WlljcUR4U2xuTHZqajR3TE9jaGlYdlVabjI4T1FBMk5PTWtMdmFDUm5UTGRuZUkwYkJ4cGQ0M0gyOWxWLUVGWkV5X0dF?oc=5",
+    "sourceName": "pv magazine USA",
+    "publishedAt": "2026-10-22T13:20:15.000Z",
+    "analyzedAt": "2026-10-27T18:37:17.551Z",
+    "updateType": "competitive",
+    "relevance": 1,
+    "summary": "Gritt Robotics is deploying AI-assisted robotics to address shrinking solar workforce, positioning robotics as a labor augmentation tool.",
+    "angle": "Competitive robotics motion in O&M workflows; relevant for Raptor Maps' inspection and sentry automation to differentiate on safety, consistency, and cost per site.",
+    "play": "inspections",
+    "products": [
+      "inspections"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "5UTWt0dFpuWnFOVEE_b2M9NQ",
+    "title": "PVH expands Houston footprint to scale pre-assembled solar trackers",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGFLM2FoNHdVTmlUTVg4VWVXSjZoZGV1a1NYSkMxaEstUWIwazNaTzRtZEhiaVYxc0JndlI3dWRyS3JwdnN0enpRYVA1OERVVlhwR0t1T0FrR1FDQ0l3Q1JXdGxOdmlvSFV6VmFhakJXa0l2X2M1NU9BNFpsUkJiX3BVanhpbjVFYUtSejQ1WG52czRwZzR0ZFMzV2o3V3JuRDNTMkttZnZqNTA?oc=5",
+    "sourceName": "pv magazine USA",
+    "publishedAt": "2026-10-22T13:19:54.000Z",
+    "analyzedAt": "2026-10-27T18:37:17.551Z",
+    "updateType": "expansion",
+    "relevance": 1,
+    "summary": "PVH is expanding its Houston manufacturing footprint to scale pre-assembled solar trackers, signaling increased tracker production and deployment.",
+    "angle": "Tracker expansion creates more sites and MW under management; opportunity to drive Raptor Solar coverage as tracker deployments increase complexity and performance monitoring needs.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
     "mentionedAccounts": []
   },
   {

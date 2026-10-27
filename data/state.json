@@ -1,7 +1,7 @@
 {
   "accounts": {
     "madison-energy-infrastructure": {
-      "lastCheckedAt": "2026-10-26T19:05:05.231Z",
+      "lastCheckedAt": "2026-10-27T18:36:17.134Z",
       "seenLinks": [
         "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbi1FUHdMSGxSQ3hkUTB0Q1FNeFRNNHVJS0NpUzFEZ3FSTTlGZmxfX3JmaEl0WGNiQkF5eXJRS3ZzZGFoTTd1MDBIYUxUMTVxWldSMk1oLWNXY3Y5Rmc2cUd5Vm5mczc1N2ZiQS15NEFLRmVrc3RicTBuUWJ4NzI4WEE2TU1STlJveFRVWGZGdmlHRUZxejQxdUhWdUF4Z0haZGhENl9KcnJPMFRsUDNUUWJxRDA?oc=5",
         "t:erving industries plans 3 2 megawatt battery energy storage system for paper mill",
@@ -48,12 +48,20 @@
         "https://news.google.com/rss/articles/CBMigAJBVV95cUxOWlNuc2lJeWc0a1BVOWJHNXYzUjZkbTV5TXZZQnVOdVc2bENueWJmekhWV19TVlBxRF9qZFJMZGVSOFRfb19WWUt4d2ZqVVkyTHVBeDNIRmp1SG1UclRkMTlxSktrV21WdEVxYmU3Zmh4UzczX1hRZWJXY216VWlCUXotUzBYLUpLUEtxdDhXQUpsS1NpLWd5LXFyQTBVamNWUy0tbUhoRXJJb3QtZTFkeVVhWmlKTV9zTUVLbFY4dGwtdV9JNzN4WkRtcGFDU3lpb1VPMkt2RUVfX2J6RU84SkZGMVRXVmJMVExFOUxWV1A3MHVwZm9SRlA5OGhnSnB6?oc=5",
         "t:thomas madison energy infrastructure permitting breakthrough within reach the tribune democrat",
         "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPMWlVZ1Fmc0VwaXU1ZFE0d3NXbVc1OUpGRVowUUpISS1sa1B1b242a0ZKdGJnaFhQYnBoRW5UdXJVZHZ4aC1rSE55YVhMRVIzVkJRbUtiZy1iNDhKZWNZR2Q1R1FwVlNHdEtwWi13dHNPUzd2T3o4bmVybGp5R29vSTdsRXFpQnQ4dXVFS19DZmJTOTc2MXVDWGhPajg3WEZJazlEVVJvMGVEYUdhX3BfSWZnWGQxeHNEY1lHc2hmajBvcjR2MHBXZnBFdzNzN3A0N3cxeTFZcjliS2dJUk84WlFVTmljZnBfbHQxRDNzb1RfZTli?oc=5",
-        "t:madison energy infrastructure and core electric cooperative launch community infrastructure partnership"
+        "t:madison energy infrastructure and core electric cooperative launch community infrastructure partnership",
+        "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQM3NmQmZOU3hyX1BtODc4eFVZVmt3RFdjRndaVHgteGlDWEI2T1J4OHNfMGo5VVQwZFVZSGdKOGVnZXVaTzR1QVZOOG5NQ0o2b1U2X29qUDYyQko4WHlId281VEt5MHFnTFpjMXBmbWNXNDBldWhNMHJybEpreFM1Y21rQWViRlFKam1JLUpDM2ItSjhRdm1CbTNJT0M1emdpczAyUUtLUFl6RHdkU1Z4MDRqZDhUdUFTSnE5SUQ0MFV6MXRmclhIR2gteWZaNF9TMVZCR1ZZQmtvaTBVcTVZa2NGSVU?oc=5",
+        "t:madison core launch 50 mw 200 mwh battery storage portfolio in colorado news and statistics",
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxOczNBTllfTWdNYmFWWEQyZ2tHYTN5NEc4a0k3aklsUVh1LWR6eVFhQ09lVGZnNVUxX3o0emxiN3h4aU5kYUdDYkpqNFE0VExySGUxVHY3VUNuMkpvXzBCcTdWWFRQNWxQN2RHSG1rRDEyZHlGb3VlWTAwSklQaEd1YTdoc00zOWxwR19qNFpsRWVMTUVHTUZfaXo1Qzhjbk1kUGFqbFBEWDFnOUs4TXc?oc=5",
+        "t:madison deploys 50 mw of battery storage with core electric cooperative in colorado",
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxQU2NGdFphaHFWTUEwbjduTkgwc1NnbXFGWElrWnNReDVJd2dEY1BUNFAwN1NnTjBxY013Mm54SVdMMi1nWGNZbkZoUnFELVlqeTFoR2U0REJRY1RjdHdiS2VKd2laUnhyckxCM1VsWUdPUmNPSTFYZGZYTUY5RnI2RHpTaUtzVmtvZ3hpZmxHVFFkUklHVWw1OVlXM2xzZWROdEcwUDFlQkZnc1ptSi0wcUFtY2taVzQxbHZnTFBRc0U1NDA2YUZj?oc=5",
+        "t:report spotlights renewable projects that rode out hail wildfire and winter storms",
+        "https://news.google.com/rss/articles/CBMiekFVX3lxTE05Vm40MmFaQjJIU3Y5TzdUbDB6LWloOVNoaGxJUE9iaDNLWjQwOTN2dXZrdVRUS2hxSHFWUlVMUnhvb2dVUE81SE14Yk9QOENwUVRBeUxQT2VTYWFPaVRhZy1odnVScTZFVXRmSkVOZTFNZWNaTy1FSzhB?oc=5",
+        "t:madison locks in 50 mw tesla megapack deal for colorado co op"
       ],
       "backfilledFrom": "2025-10-06T18:13:50.275Z"
     },
     "apex-clean-energy": {
-      "lastCheckedAt": "2026-10-26T19:05:03.994Z",
+      "lastCheckedAt": "2026-10-27T18:36:16.641Z",
       "seenLinks": [
         "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUGlMZ21BY3pHdlRjdE4wcEp2ZU13ZW9UcGNqWlFpWjlqS0xnZ2trX0ZMR2dSdV94TGV1aFpVR1VUVUZuTUg4djdWaGJLV2JNQ3dhUk56OE41bU5RTjhoWWxpN3lhekdKVEpZVklaeTNBWEY1blN2UXNVbWE2QnVtZTFEMnpxR0wyZnN5djByaHRzcHFIb1pJZ3JHN1hsNW8?oc=5",
         "t:virginia clean energy firm plans 350 megawatt solar plant near buckeye",
@@ -259,12 +267,24 @@
         "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZTZOMmhqaHZaRmdRTG5xMi1LejRzTmo2VE5HMGh6MVdYc1RxWTlpVWNhcF9xdjVPUkQ3OXlEelBEU200VExBclpqbGoyOEhiMnpYZVQtTGlUcVB3bHFZQWEtSzQwSFpRS1FmQXZaZ0JzelM2aGQzbE8yUm1pWHF0ek13ZndXWFFjcHNlRGlOUGJIdVFoRFNkTmtKMlh4WmpBOF94WjNCTFA3TkZGcHRHUmJ6Sno1eU40?oc=5",
         "t:audubon county supervisor s act on change of wording for wind turbine project",
         "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4aDdwbnZtUGd1YUMxMTd0S3BzU0pENDRZNUZ3cFVoMTZvemRPTUh3U1V6b2VrQm9FMm4zQV9NMlJ4bVhvaEt0bGh2eE1Fc2pnR3h1QThydU1ibElvdE9KSXlScmIxSjlRQ1E?oc=5",
-        "t:egco signs october 15 deal to raise us plant stake to 50"
+        "t:egco signs october 15 deal to raise us plant stake to 50",
+        "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWVh4VlBJbTdoN2RGOHNNZFlzLXFRUzdWQXZDTnVOdVBWblIzX0IwcnZod1hrVEpaaVVJSnZsejJQeWgzUG1iXzJxUWRMd0xRWUMyLVdqT0pzSG4tQkhXRy1Zd2R1bjBaTmZkYTZrS2dHQUpIbnYzdEk3MXZGU2VHbTlPX2NFRmdQQkdfclBxd1JYRmxIMk9hSFd2dU9uMWdNU05hbGdWNVpmVDBfY2ZFRGp3MVNoZ1lPR01lc1JocDNTaU44bzVvTk5XRnZfbzloVVBfMGVQVUh0TEt5NFBTRldDQUhmRmhEeVZHZzd1TXVCTFpwYVdJ?oc=5",
+        "t:video training center of central texas tours apex clean energy s big elm solar project",
+        "https://news.google.com/rss/articles/CBMie0FVX3lxTE8ydnJhOVRfLUpQNGNHQkE0N2RnRHpuQ3hqaFQ5eVNyT1lUSlhKREg3UVV1T2JPM0lKN3FBQ3pYYVViM0IxNWRGVlBQLWxLRm5Ed0JLZi1hajZtZlIzVVd5QllQM282cEpoUWR0bl9Cc05nczRtb0RLZmc4bw?oc=5",
+        "t:no path forward for station wind power project",
+        "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPT3R6UlBOVjVqTDFhY2Z3djNSTUU5T1lqZmxILVl1ZG8wQ2s5YnBZVW5vSlcyZmZNYmRaZGdINTYyUW9Fb05TYlhCaXBSTUF2Q3NqWFlNQjhQUllRRU5MV2syMTkzTHBIZ0I2aWdMOXc0TV9CZ3NWQ3dpWEctWjl0WUMxVVE1ck9sSFN0QUZwRHlteTV6TTJKX2xmUUdVdGJJY2V0QXFpYkJUSTl0OVFWbzF0QkhGV3N3bU1LaWRVWFZYSkkwVWlnZEg3RzVsUE5fNnJtbVhfWjAxYWp2Q1dsanVlc1ZzaDhYelpDbkc2RmRvTllaVFBfMXJfNURsSHc?oc=5",
+        "t:columbia county supervisor called out on conflict of interest vote",
+        "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTWx2VlNsaTlSODhNOExUT2gzY0pUSUlGdHhGdDZ2d19zOEt5eHNLb21pRkJWQ1N2RnJINHIyS2VHYXdZYW1XOGRJQjJYN0UwQzBGTzZBdzR3d2hMeGVHcU9EenNiZVNHaEkxTVJLSnNzMENtV1RmYWhZbHpnX1daTmtDV0dLR3MxODJ4NXZnazZCTERSLWFhZzRqLUl0OWNyTlJBUnZUQXhGeFUyT3N0YnE1bXRFM2NIY0lDQnMtYXVUQ2FYUHRYbU5OQWRfYVpMRHFXNmZtWEdFbFpuUkJKeUs5RQ?oc=5",
+        "t:training center of central texas students tour big elm solar project",
+        "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcGRxSEVGOENRQVJxWUJjYl9UdkZJb0pyRnpkN1RTMXdWTEdFb21aVndlRGZWaDRtM3VueXk4M3RXMC1tOEw4eGZOM29Na3J5U2FSQmlfczZGYnVOS2wxUTNLa2U0V2d1SHE2UDFVUHRxYjhJS2NCWjF3RDhlU1lGeEI4Um0?oc=5",
+        "t:tcct 3 jpg",
+        "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZmJ1bzRPVTdEUkJycG5qd1Byek8yVWU5dEFWaG5PUVNOUnF6ZWZuUG15ZVdxUmRxWXFmNkQyaFE1dHdRaEJZd0xGcU0zSUtSSnBpNVN3TDgwa1NZQ2JKSzFrelRINVo2RXlUZjlBS0M5c3pYNGVaSXk4elA3OTFudnlKakYxZy1Xek9ZODJXWW80VWlDYVE2MTJrLURWOWdrZDR3c2liYmtmeDNnYld0SnZSeGcxbG9oTTFLbmxIRUtpX1NZRW9zYi0wMTZRRnJwRE9XdGdxZ0ZMVE1waFA5QmxscmlHTUJs?oc=5",
+        "t:killeen council approves 2m for new design of zephyr road with bike lane"
       ],
       "backfilledFrom": "2025-10-06T18:13:50.275Z"
     },
     "luminace": {
-      "lastCheckedAt": "2026-10-26T19:05:03.907Z",
+      "lastCheckedAt": "2026-10-27T18:36:15.373Z",
       "seenLinks": [
         "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbHl0aEQtekwyZEVCMzNOX1lnZ2VxN2wwWE83cDVYYm8tMUNXVlAyTkMzWWpGM0E1ZnlsN04zQnNEQUN3elNPWTR2OUIySzZRVEV5cGY4Wk8ybWQ0VjRhcDVVcVk4RnAwbGZGUFlCTzlqbTlMSlNoaHl6MTNsWHNCbnpqWWVrcE5SVm9JTGYxTEhRUnFaYzEyMTlialpDUkhYUy1NUjJoUlhnamNMQ0N5OGw2dmNGQ1NHNlRN?oc=5",
         "t:singapore s temasek green portfolio rises 7pc sees eneven climate path",
@@ -288,7 +308,7 @@
       "backfilledFrom": "2025-10-06T18:13:50.275Z"
     },
     "dnv": {
-      "lastCheckedAt": "2026-10-26T19:05:05.114Z",
+      "lastCheckedAt": "2026-10-27T18:36:16.672Z",
       "seenLinks": [
         "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeS00OU5vcU1jYnZaeFZEdlEwekN1LVg1V25GN1VaVUxGZjB0NGdoclRzaTl2YWVIQ1lHeUdjR1BNSVozbDF1NkwxT1dZRFIxS2RlRDE4VzJyOGJTQlRGR0stbU9USGpxNHRRX3REU1BrUVFWOHhOUjdYZTRJN0NzTA?oc=5",
         "t:brizo floating solar technology obtains dnv certification",
@@ -554,12 +574,16 @@
         "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRUlJdXliWFdSRk8yRW4wSkMyQ3V3S3VqQWdnTjRZV2tDOVV5Y0dXYzRxYVZubFRfVTFGclEySUtoUkc2TXVDazhUVm55X05ldHAwX3NkZ0lZT3RCYVpaRkpxbXp0YlM1aktjLTBHTjFyUFltX0JUMHU5VUpiOVpYVWp3bUV6Mzh1N1Z5VU04VUZJUEM4bjQySXNFVU5Ha0ZweE9qdjZMWkNPbTJnNlZEQTNB0gGyAUFVX3lxTE1FSUl1eWJYV1JGTzJFbjBKQzJDdXdLdWpBZ2dONFlXa0M5VXljR1djNHFhVm5sVF9VMUZyUTJJS2hSRzZNdUNrOFRWbnlfTmV0cDBfc2RnSVlPdEJhWlpGSnFtenRiUzVqS2MtMEdOMXJQWW1fQlQwdTlVSmI5WlhVandtRXozOHU3VnlVTThVRklQQzhuNDJJc0VVTkdrRnB4T2p2NkxaQ09tMmc2VkRBM0E?oc=5",
         "t:china moves to rein in its booming hydrogen industry",
         "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeEQxQkl6Q2dpTkZ1VFJOcGQwSjhtQU1oRHZSenNEN0p2SWdGYzM4WW5PcHg5ZEp3aHhpUlA4WVdKb1NZaDBremRrWHlDR2o0LTA5VXdDemFfSE84cFZqVUxkeklhRUdCYlQyVjdBM1RLTklDbGFaNFVJQmRiWEI4and5M21Uek5vVEx2SGhkVXBqaEVfQzJic0VmXzRacXVEZzhaYkpWV0VPMzN0?oc=5",
-        "t:opt stratum join forces on renewable powered"
+        "t:opt stratum join forces on renewable powered",
+        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSWZtcFNCQTFta2RhdnlaTXMwc3NsYzhDa0ZZZmpWUlU4MlNaMGVTSVYtNjNPYktsclNEaWFrSzZvREdPeE42cEtncHB2elRMaTN1bXBjWUhqOW4yNy04cE1HUzBXeVFOSEVsZU5vbTRadkVJVkhHT25ENHVFdGczejUtdUdOMmplZmwxWUtJVDhKZmNET3FMYUVuTndsX3ViQUxEUHV2THJ5NzZONXZZTDZtSmgtNnFlZGlGQ1lmT0l6RlZhQjlwajVVbzZaMktKUVR6WA?oc=5",
+        "t:dnv supports financial close for spain s largest standalone battery storage portfolio",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWTFKbElCdk90ejRwcEtNWG4tSWllZW9mMFVoNnBtdUdNbjc2LTNlZUVPaEJRRHhLNmtpTVpsSVp3bDlzTlZ1bE95NTRHZFBNcFhsSWRYU1NsNDE5RV96MGg3YWw3aFZaekt3VkJyVXNGN0VIaEdaWTJENW9Ia1pOYXlXdS1QWE9fa1JlWVFjTlZZTXFMSW9CQzhNaHd2TzdhYkJIRkx3M0FMWG9n?oc=5",
+        "t:vestas warns eu is missing the big point over made in europe"
       ],
       "backfilledFrom": "2025-10-06T18:13:50.275Z"
     },
     "baywa-r-e": {
-      "lastCheckedAt": "2026-10-26T19:05:08.281Z",
+      "lastCheckedAt": "2026-10-27T18:36:22.336Z",
       "seenLinks": [
         "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeVVHWVFXVC1BcUFEODBEaXZWdDlqWG9rRE1FZHpTdS1KbEVLcE9KbXZjdEExMU5nOS1nTkxMcE1LNzJQVnZxVWNRU05nTXliOUZCYnRXbFBpQWFraUllVmNpUzg1SG90VV9vaFlYTENGNnhpS1d3bmhORkhlQ2VReHBxV20ybEhyNmc?oc=5",
         "t:baywa r e sells 16 8 mwp solar project to local consortium in france",
@@ -730,12 +754,16 @@
         "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQek5oNkd5cXNyVUJmUExEd1lvTTBUY3lHVGExM1JNeHhNcVNoUFJ2VkhhYUJsTm16UGtsYWtWUHEzdnktX0RBYjk1WE50eURXYVhnVFdPY3hLRS1oYUZwR0FISkRzR0NUdV9PWXJZS0RZR2g2WWFGM0xYSWQzRGF5RmVSODBHb2ExZHFVNG9LZHNRWm93SHVWLTROQmY2RkY4ai1rUGQtdlgwX2FENU53dkVNbHNUdTM3QUdQblB4VUVRams1RlEzdERhZEt4ZF9lR0tjaw?oc=5",
         "t:baywa s restructuring has three moving parts and none of them is a done deal ad hoc news de",
         "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMzJHejNka25PeXR6c1pnd0JGa3ZjODNMQ0lCUDgzVkgtaWdINHZ5V2hHa2R2UkR2Z0dMTFVmamJEMy1CQkdtdFNfNVVJVmFrYk5iS05uZFd4VWxtSVFzT25BZjZ1M1NidXktTk0tWnQ5cWUySEpFS000SmlsS0lWQldwNUd2d0o1NFdWWnNzZWNxZnBoQlE4STRQdmhMREt4T1Z5TVdpUGdWZjBENVdyc1BjaGNNVEJzcHlHN05pUXhZQk81bFpoMFMyc1l1Z1Fpdk1tMmVrejhraXA2dFVnQ0JZREZ3dEJReUIwRGZPdDFuQmFZQVpRMA?oc=5",
-        "t:baywa s restructuring to do list a missing buyer a rejected haircut and a filing that isn t a lif ad hoc news de"
+        "t:baywa s restructuring to do list a missing buyer a rejected haircut and a filing that isn t a lif ad hoc news de",
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQWxacUxwRUxCS1g2RUEtM2JtOU01N0d5LVNJejhJckNfS2drTzBScFEydEdtcDBwdEdaWWVzSTBLd0o0cHhGMy1LelJXSTA5SU5PQkNLVmR0TkotcElwMmxfNGk3Z1FFY0VYUl8wenIwVUlTTkNGMG02OWlmdUw0M0Q2UE52LTdBMWNwUmFHWEw2TGdpajRxRkItRll6Z0kxX004QWNfaXJ1THM0YUZRaS12cDQ?oc=5",
+        "t:atmos buys baywa s 2gw australian renewables portfolio but creditor row persists",
+        "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQm5Va2dONUhsV1czVjNiS2FOYWMwNk5SbXl2SUhFNHpwb2ptSkZ0N0FDRHlwVUxXdm92dEl0bUFqNnR1YUlmazRWRXYwSkFEZUdWdXhzbmYwZGc4QTV4TVZwem5peG14U0hXLXNEclpkd3M2U0xXSWQ5RlppUENxUkhPRm5FS3VYQzFKbEdzU2ROeVg1Z2toNmlSdU1xSi1aV1BiNHNzOHNDd005amRWWjFzUFZ4dmRmYmE1YUQ2WVAxRHJxcTdqQTZhbzluNjlsSURqUlJXaXhiU05jLUlDRTNBc19XWjRSNlE?oc=5",
+        "t:baywa keeps pushing hybrid bond overhaul after creditors reject 98 haircut ad hoc news de"
       ],
       "backfilledFrom": "2025-10-06T18:13:50.275Z"
     },
     "first-solar": {
-      "lastCheckedAt": "2026-10-26T19:05:05.412Z",
+      "lastCheckedAt": "2026-10-27T18:36:18.174Z",
       "seenLinks": [
         "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVzRzMHVDSUtVcG5paHU2bWJFRzFkSkRqMENUMkd1X1FEeGp2aGVKTEdFaWt0cVN1ZlVfMU9jMjJvbnlFMUE4cEQ2M1Y4N2MyZ1Q3akhNNDZqN2FkbmhLaTdGZGlpSzRQV2owaDRCOUgxRTRvaFRYd3lNOG12Nk5LelR2WnI4ZmFFVkxrbW1Ua2dNMHBDejR3OGY5VQ?oc=5",
         "t:first solar sales fall on contract cancellations",
@@ -1056,12 +1084,20 @@
         "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSTFCX2hmQl8xbUkyWFEtWGJTenMyLUxpZjlNTlZDYWdVLXhIVVp3QlJOTGRrUEFESkFuLWdlalo2MUl5SENqekdSVFZTZklQQnVYekl4QUNBSlVqN1BVbDJnUlhNdUtyV2Z5MGs0dW43NUcyUG4wVzRnaXN3cW85TnQ5UDZYXzRsdlFFQktEUVF0NmJWNUs4b01jaDROd1U4T29mWWdn?oc=5",
         "t:battery electric solar powered reefer units reach their first customers",
         "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaU5sM2ZNelZTT1ZSZFp2S1pGeURSMTFLYTNtVVZyd2lfNkdVV2RZV21xam9BYy1HU0pkZTlTVzRNbVE5dWotSnNKbmtPMVc3cUNUc3ItQjhBc3FPWm9KZUhOb3hFQjBuUl82MFNyY1ZMVFI3Z09oaEMzNnhmNWtZcXRwQmhqeDY3dTlhMFZB?oc=5",
-        "t:fueled by the sun driven to succeed news center the university of texas at arlington"
+        "t:fueled by the sun driven to succeed news center the university of texas at arlington",
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaFN1SExjaS1yRUZJMkFDSXE4dWxqb01PRWUwSDBaTlRNdk9ma19vYzVTWEo1N0h0N2U0YjVHbVFKczluWGNidzZEQ0RUd08xYXMybldjdWNGRE94UmJLVFdnRHREUWltblZNQ0wxLXRvdEJmRGRxOGxfQURqeTZ4djJiaGdqU184S1Zoa1RUdWcySW9jc2tFMzBKaw?oc=5",
+        "t:caught out by first solar s fall what bears saw",
+        "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPXzlxcWFUMnNpN1JrZXFHS0tVSVBPTUFzTWxrQ0cxSnZXQ3NfSG41MHpaWTJrYWljNF9zRjQ1NXBOaG1FcENpakdRNk02VVctQ2FWS25abVlYTS1fdVRsdnR2VUZ0ZTVfdUlRMDlac180VnVLRUt0WmdWQ1hPQTJNM3ZCTDRzVnMxT2VzbEZzSWhvaDdOQ2I1MTk5dk55X3Z1MDgtWUo1bzhaSjh5ZnBCTU55TU9RSWFuOHloWVpLalZpdmRodXZuZ1IzeTkyNm00RmlZTkowZUJCc2hiT0NxUUNrcw?oc=5",
+        "t:first solar inc stock outperforms competitors despite losses on the day",
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxPclI3MTk4dkQtSEtuT05pQUZzejRhSm9fTzlZRVdVdFFMZ2JUMFVldEUxdF9LNHJTbmJIdmJOMzZyUUhjWFNOd2oxYkNrWFpjaE8ydWZQcmo0RzEwbGNOSUdrM2JodXRNaWhZanN5LXdKOVRWUXp4a1Nubi1QeTN2TlE2a3NGY2NidVYtcVA5M2RUb1M4MW1QSXg3UG5uR3NHblhCSWNoVU5aaEFpQmlEZHln?oc=5",
+        "t:first solar to release q3 earnings here s what to expect",
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTmlhZV9McHZzVkZDbWx1QWJhWWVNbDR2WHl3cFItZk9waEpodm1KZ0o1UkNNMjE4YVd6eksyMmN6X1d1SjBPcHBaMlVGQTItb0UzODhLemU0d1o4QkYzNEJ6NXpEcVgzUHVUZ3JrUEtCQ2xYZC1CdGxCU2hWaE9IS3NuZkRsb0w3OXRDWjYxZkdJd3A5TXdvZU5Ib1R0cmd6VVk5NHUxQ0VpcnRST1RtRmxR?oc=5",
+        "t:first solar shares may move 7 7 on earnings release"
       ],
       "backfilledFrom": "2025-10-06T18:13:50.275Z"
     },
     "enel-green-power": {
-      "lastCheckedAt": "2026-10-26T19:05:09.302Z",
+      "lastCheckedAt": "2026-10-27T18:36:16.937Z",
       "seenLinks": [
         "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaHl3NXQwV0tIVVBGdGVxX2dzS0tPSVRvbUQwLWFhWGc4NEJHS1BZeTZmdlg5elN3RGFFTHlVQTNpaUMzR1E0SnJHcGNoN2hEYjNqV3ZDdU9MeHFtcnVJdFRiT0h4WWZNa3ZLeXVYM19qZnFOM2R0eklITUpLczBmU3VSZHplMVk2cFdNdHVkQ2pyVkd6allDM05rRFJOX1E?oc=5",
         "t:solar sheep industry booms in texas as ranchers and farmers try to co exist with big energy projects",
@@ -1227,7 +1263,7 @@
       "backfilledFrom": "2025-10-06T18:13:50.275Z"
     },
     "act-power-services": {
-      "lastCheckedAt": "2026-10-26T19:05:06.400Z",
+      "lastCheckedAt": "2026-10-27T18:36:17.112Z",
       "seenLinks": [
         "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQZ0dCOUxhcUdhQUxleW1XV1pRYVp4Nkt0eUtLUy1QNE9xaGpLY003M002VlpObEtQNDdBcWQ3Q2NvUnhPc1RIbURZdHlUck5lVmZfdkl3RUZEemdTX19GYlNpRHRHa3otYnFsX3EybzdMTTUwVGJrdDFhczYybmxSdFFVSHlrTXZBaUZRUWVST1VDeVhNcTdIaVd5QUZMZjUzNTdGb2t6RW9JMVNQRFEtU3dYcXl5UWZ1TEs4dTZsRkZudkVKek5NeTg4M1ExejlTb2pjVlNnMlJqV3RXV1E1cC1yakVUc1JPd0NPMmdSaXRhRmpKWVpSaUdNQnh3b2M?oc=5",
         "t:pine gate renewables announces comprehensive agreements to facilitate strategic and value maximizing sales process",
@@ -2799,7 +2835,66 @@
     "https://news.google.com/rss/articles/CBMiggJBVV95cUxPZTNMYTFRLWF2OUswaWFCX1VJR2J5MERnckdURzRTUWd4VUFGT3YwT0pjM2IzQmRrLTdxN0xMQ2tDZmhiQVh0R2lyRm1mYUJFcGxocTM5ZWJCNy14YXJMeFJVdzk0T2I0andYVjVxM2V4Zm9za2RJbDYtSlR0Z3daYnVYU3AycFhkUnZvTjVzeVdFQXVpZjJ4eFdiNmkyOWxEUjdOVG9lQklzRWtaRkg2RDF4djQ0alVQLThiVjF6amlEOGt3bGlwajY1cVZaZVNGbkhRZ3QzRTFldnUtSzI4eTdnZ1ZTUWJkVzhnR3YzZkFpdDhaX1lMWUk5LWdGN3V4cUE?oc=5",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSWtEMm4wbWwtNzlyclZGUFktWkV6Rm9kVExELVd3ZUwyaHR5ZGdJN3dtcnR1Vm9KZ2d1aGJfQlBYSHlYWkZlVXo0LUpSVm1LN0ZWQ24teGVBUGRIWFREMk95V2xYUlpySTZsZWxVQkZ1MWNBNG1IQVFiVGNYc1JWc2FpZHdwTEI2ODZXMmRVZ2RDQm1YVFdMTjNFejYxeGU3S2o5TlRGcV82blhQTVdsMllDQjRJWndTNE45TVlTMmw1Q2M?oc=5",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZDV1emVLQ0djUmRCaUNjOVNYQlQ5S3lEaHlaTEl0cFFaR09oamJ4dlhlYWFvYTZrY2VJUWNWOFRYMmpfMlkzUXB3MDJheU5HV2o2VWpaZS1NUjdnVnpqZkpvSzZDQzJ5bFl6LWx6UmRSbE9VSjZvNHlTZWk4ckZJUmFIMzFkdUlQbk1J?oc=5",
-    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fYmlmbXU4M2R4MXpGRHRuNEVXRVRpWDRYTlVEcEMwclVMbUZSTEFCV1V3ZThhTmRyaEwxSTVQYnQtTDFGQnJ1SzNtbm9pT1dNMHF6Zkl0WGhBQ2Q3a3F6aw?oc=5"
+    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fYmlmbXU4M2R4MXpGRHRuNEVXRVRpWDRYTlVEcEMwclVMbUZSTEFCV1V3ZThhTmRyaEwxSTVQYnQtTDFGQnJ1SzNtbm9pT1dNMHF6Zkl0WGhBQ2Q3a3F6aw?oc=5",
+    "https://pv-magazine-usa.com/2026/10/27/maryland-launches-200-million-competitive-grant-program-for-solar-and-energy-storage/",
+    "https://pv-magazine-usa.com/2026/10/27/cpp-wind-engineering-announces-formal-wind-certification-program-for-utility-scale-solar/",
+    "https://pv-magazine-usa.com/2026/10/27/jetson-unveils-heat-pump-water-heater-with-efficiency-factor-of-up-to-4-0/",
+    "https://pv-magazine-usa.com/2026/10/27/virginia-utilitys-grid-utilization-of-33-to-41-shows-room-for-flexible-load-and-generation/",
+    "https://pv-magazine-usa.com/2026/10/27/solar-industry-coalition-opposes-67-billion-dominion-nextera-merger-as-proposed/",
+    "https://pv-magazine-usa.com/2026/10/27/optivolt-plans-manufacturing-expansion-with-recent-32-million-funding-boost/",
+    "https://www.solarpowerworldonline.com/2026/10/distributed-energy-infrastructure-completes-new-york-solar-project-despite-site-challenges/",
+    "https://www.solarpowerworldonline.com/2026/10/california-is-still-without-a-functioning-community-solar-program/",
+    "https://www.solarpowerworldonline.com/2026/10/maryland-state-renewables-program-hopes-to-fill-gap-left-by-obbba/",
+    "https://www.solarpowerworldonline.com/2026/10/case-study-puerto-rican-apartment-complex-relies-on-battery-power/",
+    "https://www.pv-tech.org/thai-government-greenlights-us1-48-million-rooftop-solar-programme-deploy-5gw-capacity/",
+    "https://www.pv-tech.org/scatec-investment-banks-close-us650-million-investment-dandara-solar-plus-storage-project-egypt/",
+    "https://www.pv-tech.org/trinasolar-to-supply-580mw-of-modules-and-mounting-systems-for-energix-projects/",
+    "https://www.pv-tech.org/tongwei-solar-tnc2-0fullxg12r-48-rooftop-pv-module/",
+    "https://www.pv-tech.org/caelux-ina-solar-3gw-topcon-perovskite-hybrid-tandem/",
+    "https://www.pv-tech.org/enna-solar-acquire-medgidia-solar-plus-storage-project-romania/",
+    "https://www.pv-tech.org/data-centres-could-add-au40-billion-to-australian-power-costs-warns-smart-energy-council/",
+    "https://www.utilitydive.com/news/for-electric-cooperatives-winning-federal-state-funding-depends-on-4-cs/833299/",
+    "https://www.utilitydive.com/news/bnef-ups-us-energy-storage-deployment-forecast-by-30/872870/",
+    "https://www.utilitydive.com/news/pjm-ferc-mon-power-winter-storm-fern-complaint/872855/",
+    "https://www.utilitydive.com/news/centerpoint-expands-10-year-capital-plan-4b/872850/",
+    "https://www.utilitydive.com/news/cisa-strategic-plan-2030-infrastructure-partnerships/872762/",
+    "https://www.canarymedia.com/articles/electric-vehicles/ford-fathom-ev-pickup-home-power-backup",
+    "https://www.canarymedia.com/articles/energy-equity/price-hikesfirstenergy-ohio-rate-case",
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxQU2NGdFphaHFWTUEwbjduTkgwc1NnbXFGWElrWnNReDVJd2dEY1BUNFAwN1NnTjBxY013Mm54SVdMMi1nWGNZbkZoUnFELVlqeTFoR2U0REJRY1RjdHdiS2VKd2laUnhyckxCM1VsWUdPUmNPSTFYZGZYTUY5RnI2RHpTaUtzVmtvZ3hpZmxHVFFkUklHVWw1OVlXM2xzZWROdEcwUDFlQkZnc1ptSi0wcUFtY2taVzQxbHZnTFBRc0U1NDA2YUZj?oc=5",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxNZjJRVjNpRTFFay05X1BLR0gzZWgtS0Fvc05GSGE1bC1xc1pRbVRHc2NsdmI1T2ptT1FpXzJiZXR1emVxTEpzRWdnUEdfdHhsdXM4TERjcWlxb1dQUkNHV0xXbVF6cV8zelIxQnM2dmVhV3o5NE1BVXQ4ZHVGQ3NCMi1vUHJ0MDgzR0lmTEdLS1dwaXVoamxFTzBwZTFKdw?oc=5",
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbnhxMF8xbDl2NVZ3UXZ6eW1pX2lxckVoMjJZTUFLMUVveXZoWG1tQ3llaXFQZzNxczdJMTM3eEp0QVFwYjV4a3Z2dzUwQ3pCSnlyNEVUOWU5M29GNGZxdkpPSWN6cjdsd0J0Tzhzd1gtNWdOSjFqb19mczZkMk5MU1U4dw?oc=5",
+    "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOXzVJWVNId1dfeXpJN1A4WmJybDhYV2JUOVVnOVEyVlcteEdFRjl3RzR3X2xiZkhOYlZ3UFQtUmdkM1lwXzZZeXFEc2Vib3NqWWV1YzluNUl2VWIwazBjbF9WU3Z0Z2hCMWdXZDhWYnBPQTg5UzBqVmxvc3JCQlBiVXAzdUc1dnVZMU9pWUFUY2dfcmoxVXZvQjlJbHgtc1p3Ym5UNEg2SF9aWWNaczlmWjFHTUowN0FvQWc3VzU4MXhnOHBsOEhpQ2JrTWxRV01GNUpqV2xNdzJDVWVwXzF0a0t4Ry15cG9PSGJOdi0zeUw4OURGejBIVHlKWGJIaTFDam9GQ2VxLW1PcElRTXdWX0VWZFBWLU5oeDR4bHZPYm1tWWl3aVQwenlaMGtSMjBUYmxnZko3XzliQTJ5ekxjOWoydG5TaWFVd0NsQmZMM0hWMWdPR2VoRXFWcm80eTZ2ZnVRMHdhTWJDS2dyRW9INVNmU2hjbGfSAfwCQVVfeXFMTllpV0tibTF1bzRrTHFOZ3M3ZEdLenlRYkdCd3pXMUNpM2c1V3kySzB1UDQ5WkxqVFpPLVhJd3FEQ244Wk9JMGd2bkJSeTFwZUFydUJFUjczeDBoY0VFb1NWcFV3OUc5UGw1c2FVcHBZOWl0dnFJX0d2Mm0tN2IwQ2dxVlFLV1JIMkt4aTJjMTFxVmlzcHRaVWdRRXdfUl9vQkRwSmJINU9lcWgtUlZ6SFg0RFk1MjUwdVZhUE5SSEJEUTdObGtxRnUyd2FhVXFKMmVMYXZVQWNXSUhSUjVFZjZFRVU3SGdHNHQ1Nl9RR0tHdThzVGs5OTZzdmQtOUpSVEdfbElpM1RoUF9aLUF3OHptcEYtc2hYRWQ4RXRuOEZod29aZURYQk9PRzlrak5oTWpPd0JrbkhyZVFQakhjVURCWXZfSlVhaFh5WU9oaWFydFk0YkpjbDdPT1I2dWZtY3A3Yllkb1I2N3I0NF9vcFJMc0NsMDBsVFB4bFo?oc=5",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdF9CSkJCRFNaMnhNUlNlSy1tT3MwWVpjOUdrQndvZ3dnaVZRdnI5ZmxTWDRDV3dIZVhNM2VVZDg3WG50YWY5Q2ZwU3RxZUZ1TWNabVd6WEx0T1JaTTZTS1hkN3p2OFBJWnBZaDhVQld5eEZ1S3hLZUR5RVpkVXdjYUd0SFJHcHhmOXRZVEh3?oc=5",
+    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWE1XTGhwU0twUUtlcUJUNGZwbEdsQmloTjRTX1FUaDU0TjAycVRueWpFQ2tMRjZwRVpXTk4wN0c0TjkzU3pwbDlwMFNWWDExYWlmQWZwZ1ZacUQ4OU55dWhIQl9ZQ2RFdjYzS1RiR2haeGh5OHBnV0Jya1hjU3FIY05Qd1owTk9wTVJPS3VxRjNxcGUyY25VQUllZXF1TG1GMVlJVDhkcXRoUDI1ODc2U0hTNTNrTnpjUE1pQ3FKdWpQQmdiMHlLNmJGLVY5LU5DejhONTRCdw?oc=5",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSFY3TE5DZzhNVG1OV2NuRFFRelFxWi0tYlRJU3FpVTc3OUlLTzJrTkg3R2xyTTFBczVZOFdQYmQ1OUQ5dTcxVERieTAxcC03dWhfNEFGSGZNaHhSR0doMmx3S1REZkR1WEZrYV9UQmNpdEdvRGttWXQ1NUwzaGFkUA?oc=5",
+    "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOUR1YUNNTENGU3loRlVqQ3FkU211S0h1QXFpRFNVMURPN0JiVU9UanJfdUwzSjhreHQzXzUtUkp3M2FTYUFZTER0U3pjeko0bmFxVkk0U0dFbldlUXdLZHFVNG1mVWpVNnd1eFFzeFlFRzhYRnZvcDZkeWZoV05lcXdGemx6TVdfTlpvYkgxSmMxMTAyYTVkaGRQUy04S0JqSVJTVmRIZlRPcHhMSTJ2NGVvODF1UmNPWDdPQWhQQk4tbjNwV1ViZWdmZHM4bUZoNlVZOTctNXBxZHJDQUU0dHNTeTJQc1hlYWQ4?oc=5",
+    "https://news.google.com/rss/articles/CBMiiAJBVV95cUxORVhEckxmOGRubmxtQWtHRHBNTWQ2dS1mV1A3eVVod19PV1V6N28tNUNUc2hKc2EyOU1rZlJJYjRlRkNoUFE4WDRJcUg1elBvTGQ0akhTX2dzM1FUNmJSb3RzYlQ3WmtkbnBReVN2U3haUDl5SHFxVUR5WG5JakFBNFpCaHV2V19tZ3V1ZjhaN3dpUUx2dFFrZF9xU1B2eWlESzRaNzFlZ1E4dGx3dnZHaFNvZ3hyYi0tZ0hpM01LWENtTXYwdk1NbWJINW91MFFWdWhYM3NrRU1pMzJ4dGJhTnd6Zzl1bkJPSHpIZXltWW54RmRESk1YVjhIa2ZmTUZxNmN2NFJidGM?oc=5",
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxNODdJRTJ4WTBnZmtBcjJ6cE5WYWpldDZzNDdFUi1XRVBweE9zcnF1bHVjZk1ZN05zSFpSZzJzS1dDM1FTVFZTc0gtSkMzQU5xT0IwRGF5eGo0VzJkV29LaVNNNHpGQU1ZbFlEV0JTRk16VTdiY3JHMm51ZGxLdjhiQVhLbXI5SWxtWWRDOEJRUkpabGJn?oc=5",
+    "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNkdIamo5bkRBbmVTdHA4ZTBGVm1BWFFwTDBoX1ZBblEwM3ZYV3BwS1dLanlpWG1XT0xWSm8yUnJzRldEWjZCTmc1dFB3S0lSVmdXZ1AyMGhsMno2M2g2UlhtOTJCeEJWYkszM0JEMWo0bnZST3o0Qm56T0tyN0dmbkNOSGRqU3NydUREejNUMm1HVmg3NnpVZ2NkTGJBU3hrT3VZWlRHVWotZGlLaGZaeFBHNkg5OG9hT0poTEN0Wkx5VEljeFUyUERCUVFRZGZiZFB5QjNncVo1RGEwbzJwb2dsMkzSAeoBQVVfeXFMTlpCbWNmQmtrYWRoRmc1a1Vrc25NVnczS2IwN2V3MXNERG1MODFSdElJZUN0QW52SDlPUC1BNkFFQ0dqbEx6cldkS21WUG43aTdHVFg4V2Nic08tN19jSWYxZjlWcEFEd1FvQm1tVmQ4RVJOOVRhSm9VN2NtSmhoS0s0UFJJU0hFejJWRDZkYXkxMnh3aFlTYVdCNjFnMTVCY2ctdzB0Nkp3Y2NGQzFkR1c2TGoyNElYTlh5eXhYM0YtWTA5NzVhZUFUS3pCR3hZOF9TdklLUHVnM3BEZENJVWNMOWZMLU85cTlB?oc=5",
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUldta1U1NlBUU0EycktxSTRvVEF3OUQ2QUFRMW9FQmdlYmlkZ205Y0NiNVRwOVpBUzVheDg2NEU2RnBQeEQtblYzR2ZWbEQxN3gtWmFINEFmbTZQRjNwNWRuZDBKdk1MZnREcEQwcFVCUHRJbUxlMHZ0SV81c0xXNFBmalQ3b3FLUkE?oc=5",
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcVRFRk9QOXN0RU1DUDA3ZUxPZWFreGtnNTZtZ0tnZEotTjZsWFlqMncxLTE4cWtxcm9lN1hyUnQwSG1nSTZNZVVfWVRfUWk1UXhmRFdkVzVId3BSNGRSVkVjN21NckZEV3NqQTZ2bWNoVGpFUVJpeDFBRGdZN0xZUmJqTHlGSHJZdk1KM1dWQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrMktsWV91bEc3R01nWjl6VHl2dEN1NUFQZ1oyZGUwN0ZMMTcxTGJKYlZtU0NiZ011aWxxbmxXanpyX0dYQ0c5amhGM2xmMmNSSVBObVp3SF9vWm5lWlBGbGR4em9tdzdMV3NHNDdRTWsybTdmMmU3SmlB?oc=5",
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZRnllczJfUC1hVlVueTNQeHU5UV9aWWYteURVZ2NqNTQ5c3psTGFhcFRRd1pEU1RWUG03c3l0VEZ2em9UTnRkSDh2b0VCcEVIX1Rud3FUQ0RFSkE2SERTb2RKbkk3SFZla0VDbVdObVc0dnVrMmNpemlycw?oc=5",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxOME45UHJkY1RoTktNT01BaHdzWElzOEhESWVQZG9nNVpEZ00tMDNJX0UyZ0lPZTlMVWRCMWJOLTV1TWlJSjFhZEV5RXRRREl3ajNKUWMxRFNNQlNCX2lfOHk1b1FWSV9DbWZuQkwxSGRUMm1seFo2QXU3M2VRMmt3aGp5R0U0aHJxWHVWZ1BVc0dqTHB6OHpNMF9mR2Zpdw?oc=5",
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVXAtZW9acTNaOWc4SE1FcUtoTF9HSy1SbTI3ZWYyN3YxSXpuYkstejVXV0JwdHNuNmFqS3VBVmxiUEFyQXluUENIemg0d3pFLWtGNjBXZjhwY1dGZzdpU2FGbUxLa1BTZHU4UmFvMXZFelAwX1NFLUd6QjR0bERNVGFjcGVmMzV2VFFUTQ?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYmdadlhoM1ZnUzEyekVqVnE1OGVQYnVHNi1ELVctNWxMZVVST3J5YWxYV1d6RGZHc0U2d1ZueDZHV0Jsd2Q0MUU5QmhsclBQVmhicmVUeEpXNWs0T29xV2kyVld6SUhTYU9LM0czdy1OUW9Ba1J4VldvbFJvQ3VmYjZWVVM2eE5zRFdjanNwWGxKOU0?oc=5",
+    "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdm91SDlXdHc3UUNQeTd0UXh1X0RkeWhjbkVnT3BrSFdQREt2NjhzX3l5ZkJoaTVfS1gxNjZTaFZSZ3hod2JoX19qM1lIXzBRSTdWX29FLXdqNmVNczhUWEtCVkpWSFo2WGZqSW03RGJlVWF2bjd4X2VGSGN1TWszaFVmN2FDcDgyWG9Jem43VDBVRWFUX2hkcjVSaTFsM1ZQUTBtTTVNemFJWmdyMzdUMXp4YnZiRFAzanJab25wUEY1b3VPMlNGWVUzTDRjbHA3OGwtcFNWWENBNndnUGVJOXJGZVhQWmRJWTRsaWNFUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMihAJBVV95cUxOZ2ZseGl1M0I4ZEpoazg3bUc3T0NLQW5xTXZ5Ymt0ZEdzRDJFNXBONklsaDlvN04yMUptcjV1QkJJRS1INGJJUDFvQ0YyV09ZYmRuWFpVVXNoZTkzRklQOUI3aENLSFVmRjZWaXFvTW9sdS1tR25tMTZXMWtoai1Ha2RKajZqcTNDSHhaTVF4T3hsZThHNFVYcnlMOE10UmVkWjVvVzFyZU5PRlY5Q1FQR05DTFZzQ0RXa3g0dUV5S1RTcDlGc3Z4U0tLOFZva2I5NXh1S0VVd0E0ZjhQNjJrTzBYUTNwVEp0VEVZcFZ4TmJVR0VaX2U5eXBQNVNZTFlfQmI4bQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XWXM3N3dvNzlqMWRsR0hjYzE3Smx0bFpEdHEzOGtYWWZyVm84bUtYWG9LMW5ncHh0Y1JYU01UM0ZxRjd2N2w4TTJJU19Wdnc0NHdkZVpJMmVnbldNSW1FNA?oc=5",
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcmxYM1R1U1NZTkd0Ym9UV3ZVMGJ5YVQwYzc0VndaSThNSldUSVZON2x4NXd1OUF5Uk1GWGNIUkV3WXdaTmlIcUlMX2VRUmN3MlFpc2hlODV6QzR2WDV0RVNTajFqY0lsQlh3c1ZKX0dPcmtwUlByMFo0Wnd5VkZnOTJFajlhbktHUzhmY1pILUpoR2RvOFl4czhQWkFqOExqdVRPei1GQWhVMUtDWHdHUm1BN3pFUmh3UjNz?oc=5",
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSV9wQjRFQjhZM1dQRmxuUDByRGNDcHN4dzFrQ0paMU4wUjlpWHgyTnJTeGJlNXp0WVdsR3NSSDBtbDd3SGhVOXhoamtMcElMd1pIZDZyNVcxUWd3QlhZQnYyZWVBRmR1Ny13N09CWXRQTlFvM0NkUXlEU3B4REw4NVV0dDFpdXRqQWdEcDc2WHA5bUxJd2NCUGVoN01pem5aclJhWDNfWWZacldUYkE?oc=5",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS1BjVzY2VWU0aHZZalFDUWxYbkdGX3ZLN19qYks0M3FTclRCMkpveTNaMDFuakZ3QThyUVFHSjRxZUQ2Ym9fRHhLaHdCbDZfdXlaVHVXZHYxbGJBZXZTeDY2b29zUVdjWDVqTmFYTGNkWWxhR0FXWGFHcm1IQWRnaC02dmFoQ2R1UEZvcUxGU1B1aDFvU1dwWDFqN3hMWVhIMXRnTV83ZzNST2FVRzhsRA?oc=5",
+    "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZVZXMlZxSy1qcXZhdnB2S2xnSzh5dlRzdTNKcEZIZTFyZ1NfblR1V1IzZWloZG1yV2I1M0FDTXFvMzVDTXJIeUxSeXZCUnZVYlR2NFAzN2hDMVVIVW5NRnBZa2FPai1RQnNxMGJQQktYdVo0aEQxbGV1U19aREVUSDFEdGxCY0RBSnlJOUNBZ2ExczAtU2UzaXVQUUdNdTlrNnBpRTJ1azRmb2t5cjljckVJWTZrblV1djJsV2NsOTdfS1B2dHYxcGczS2hDenhDM041aHc2T0VSdGlnbExlWWFIWEJBTkQ2cXV2RHFSajhZeGtLVktn?oc=5",
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdzQtOEMyMVlwZEJKclNlRTN5OHhSUjd3d3lKZHNCUnJydmViMDhKV1U4WXZBaHEwem41b3ZKUE8zMG1ZTnRsTG1WUUpqbWdTRzVMcHREWEJXVDJNOGk2SHYtdHE5ZWw2eDBKS3ZvN2hUck9MSW84WlljcUR4U2xuTHZqajR3TE9jaGlYdlVabjI4T1FBMk5PTWtMdmFDUm5UTGRuZUkwYkJ4cGQ0M0gyOWxWLUVGWkV5X0dF?oc=5",
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZWppUEJDNDZGaTBNeGp0M1phSk9pQktVUzNwU25VSlV1UWl0akxFbXRDT1RHN3lac3RjbkVMTkdlUFkyeEtpa2RRTTM4Vng4RTdvNkhjay1MaWpNMVV1QTlkR2xweEhDUzJtWFM0QVpXNUt4d09sMmpKRE1kVHNSaVRjQTZ1cWd6eUJrSWd2MEVxSUpfa2gzRzJ6VHI?oc=5",
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGFLM2FoNHdVTmlUTVg4VWVXSjZoZGV1a1NYSkMxaEstUWIwazNaTzRtZEhiaVYxc0JndlI3dWRyS3JwdnN0enpRYVA1OERVVlhwR0t1T0FrR1FDQ0l3Q1JXdGxOdmlvSFV6VmFhakJXa0l2X2M1NU9BNFpsUkJiX3BVanhpbjVFYUtSejQ1WG52czRwZzR0ZFMzV2o3V3JuRDNTMkttZnZqNTA?oc=5",
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNWl6VFFkaTQ0VUxzMEZVUl8xZWwxLWQ5VGE5bEJ6MTBzVldhMlMtNXQ4V1FLc2NGV241MkIyeVhQYVM2RlJkZnZiNy11c3hwbW5yYmItRVZYalZQSHEyQ2k2bWhnZkF3cHRUbEd3cFFnckhVYXlKLWQydVV4b1BqSl9kdDh5cGFmOFBWaElKZzI0WEpvMm8ta0ZTMFI2RkJyN0NENTBR?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE5KWDNtb3V0YnpKVEZUQ3ZfRGxpN05ydE9qR203TzZIVVN5Wlg5T0VDYnUzV3F5NlY3ZUQyWW1CRnc0cENCODcwNFNFSE1wVG1iN3NseDlGUF9ZUFVlTl8wb0stUVZSbDZrQ0U0ZDlQUE51V0xrMEcyaA?oc=5",
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdkVzbmpIRjdVZVhWNjR6SFpSTEpickFnNDF6azZjeDNqbjFnM2g5SDZSYVFwa3d6TWhlUkZOSHZIN3pTRU9nZm5UZ3hqWjVtS2ZTVGdaVnAwZjBwRXdyLU9xbS1WQklwRmlKdHByNk1OLUFFbkxwYVo4SDdyUk8yaTloNU5Yd2Q5dEZGa0xVYkFGVjZVQmJfbGZQVzhNaDFzbnBEbmFDcm9JcklnTDY5UjU0azFnTDJaX2ppbFNoZDBGcGRpZzJJRXZ4UWQ2NjA?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNV2xqWVdLMlN4NUpvT1lZWDdLXzZXX2hBMFhwWlRJc3JoeUpXemVaeDFhSHY0VUR1WmdxUFZ1S3RwT2JFQ3hrU3VUcUNQcHpKN3dhRy1JYTVLTFhwMllwZXdVNF91bzR1OWJrc2pPOWlHUlhKX0cwYnlMVjV6dXVYT1BvYUhxRTJLSENJUFU3WlNGcVE?oc=5",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRm1JdWYzc24zNlFwVnpZU3Zoclk2cFVPREZ1emRnY0tTT2hjRVhPOWVnenZIa0JoUFRwMTdkNEdXWVA4VmN3RUdWX29KN0pRdFE0c2NRNFRpSThMMm9FLU9Ub2JaVnJmS3pWdElxZlJPR1FZX1AzaGlnQ3BDdmUtNkJuWWZnOWpuMnhNcW9qQmZvSjZhOGowQzBB?oc=5",
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMnJ2Yzd4cTA1QlE2bkFYQVMwRWtMR2poQjRDdG9pVEZYRkNiZkhIcGNFOWZ3U2s1cUZJUFJPQ3RkZWRMZGhZdlhiY2h6aU5BM0tYbm55RDdlTHJoRnk4QnNlSURfWmg5THVCQUdybHFuY3ZLRFYwTFlyN0lYYTFjYXRNME12NXM?oc=5",
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xZXJCNkozdVo4RVRFVVljMkpHcUgwUUNrTGtPVXh4M20yMGpELUw1TWJBaEVTZHRGd1NsNnpCUWlHV1FSWnlnbzNqQ05tVWJwX21nZllTdE5faXlHWlhFc1Nn?oc=5"
   ],
-  "lastIndustryRunAt": "2026-10-26T19:05:54.986Z"
+  "lastIndustryRunAt": "2026-10-27T18:37:17.555Z"
 }
