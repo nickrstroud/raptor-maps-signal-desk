@@ -238,5 +238,24 @@
         "publishedAt": "2026-10-16T17:48:20.000Z"
       }
     ]
+  },
+  {
+    "company": "First Solar",
+    "runAt": "2026-10-28T18:42:32.267Z",
+    "source": "daily",
+    "headline": "First Solar inaugurates South Carolina finishing facility; capacity expansion creates co-marketing and field-quality intelligence opportunity",
+    "signals": [
+      {
+        "category": "New South Carolina finishing facility",
+        "updateType": "expansion",
+        "play": "raptor_solar",
+        "score": 1,
+        "summary": "First Solar inaugurating first phase of South Carolina production facility in Gaffney. Facility expansion signals increased module output and higher installed base across US utility-scale plants (where First Solar modules already represent a significant share). This expands the addressable base of Raptor Solar prospects—every plant using these newly produced modules is a potential RS customer.",
+        "suggestedAction": "Contact First Solar's VP of Field Quality or Reliability Engineering to discuss: (1) whether the Gaffney facility will supply modules to existing Raptor Solar customers (to cross-sell RS Inspections baselines and field-quality analytics), and (2) co-marketing play—positioning Raptor Solar's thin-film-specific crack detection and performance monitoring to First Solar plant-owner customers as a joint value prop with the new capacity coming online.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQVFFRHFfRzlJZzFYMGFxTm04UjdrLUY4ekxrek5lbU1fdE1mRGZINF9RZTV3akx0YlBmalRDWk1BWTlyanNKd2tveDBpbGhqUDgwNU5zTmZTTnhYYmg2YTlJbjhIRlZ3QS1kRXhUZVFhcGdzcVFZbklEQWd1ZDRqaHhYS1FCcWt1N0lJLWRMcV9JbGtWR3c?oc=5",
+        "publishedAt": "2026-10-27T20:25:00.000Z"
+      }
+    ]
   }
 ]

@@ -4755,5 +4755,149 @@
     },
     "doneWhen": "Call with [Director of ROCC and Engineering] completed, restructuring status and 2027 budget outlook confirmed, and ROI case delivered and logged in CRM.",
     "generatedAt": "2026-10-27T18:36:40.602Z"
+  },
+  "a_ux21ne": {
+    "signalId": "a_ux21ne",
+    "account": "First Solar",
+    "signalTitle": "New South Carolina finishing facility",
+    "play": "advise",
+    "goal": "Position Raptor Solar and thin-film-specific RS Inspections as the standard field-quality partner for First Solar's Gaffney facility output, unlocking co-marketing access to new utility-scale plant operators.",
+    "owner": "Account Executive + Product (Field Quality)",
+    "contactRole": "VP Field Quality or Director, Reliability Engineering",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0-1",
+        "tasks": [
+          "Confirm Gaffney ramp timeline, module mix, and planned customer supply (via earnings, SEC filings, investor calls).",
+          "Audit current Raptor Solar penetration among utility-scale plant operators using First Solar modules; identify top 5 by MW.",
+          "Check whether [VP Field Quality] or similar role has a known relationship with Raptor Maps (prior case study, joint research involvement)."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-3",
+        "tasks": [
+          "Brief Product (Field Quality) on Gaffney timing and co-marketing interest; confirm RS Inspections thin-film crack detection is actively marketed to plant owners.",
+          "Align with Sales on expansion oppty: does AE have warm intro to VP Field Quality or Reliability Engineering at First Solar?",
+          "If no named sponsor, use Q4 analyst calls and supply-chain announcements as outreach hook."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3-7",
+        "tasks": [
+          "Email [VP Field Quality] or [Director, Reliability Engineering] with congratulations on Gaffney + specific reference to thin-film research partnership, request 20-min call to discuss field-quality and co-marketing alignment.",
+          "If no response in 5 days, follow up via LinkedIn with AE tag for warm intro."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 7-21",
+        "tasks": [
+          "On call: present case study of Raptor Solar + RS Inspections value for thin-film fleets (warranty reduction, O&M efficiency); discuss Gaffney module supply chain and early customer wins.",
+          "Propose joint positioning doc for First Solar sales team to reference when pitching Gaffney modules to utilities: 'Modules + monitoring + analytics' bundle.",
+          "If receptive, identify 2-3 existing Raptor Solar customers with heavy First Solar exposure to offer as references."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log call outcome in CRM; if yes to co-marketing, schedule follow-up with Product and Legal on joint positioning and customer data sharing.",
+          "Track Gaffney module shipments to Raptor Solar customers; log any new utility-scale plant operator inquiries mentioning First Solar Gaffney supply.",
+          "Win back: if First Solar declines co-marketing, pivot to direct outreach to Gaffney customer winners (new plant operators) via analyst reports and press releases."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "First Solar Gaffney + thin-film field quality",
+      "body": "Hi [VP Field Quality],\n\nCongratulations on the Gaffney facility coming online. We've been impressed by First Solar's commitment to thin-film performance—and the work we did together on crack detection and thermal standards is now part of RS Inspections.\n\nAs Gaffney scales, we'd love to explore two things: (1) how Raptor Solar could help your plant-operator customers monitor field quality and warranty claims across their fleets, and (2) whether a joint positioning on thin-film-specific durability could help both organizations reach new owners bringing the new capacity online.\n\nWould [Director, Reliability Engineering] have time to chat about what success looks like for Gaffney's first year?\n\nBest,\n[CSM Name]"
+    },
+    "slack": "First Solar is opening their Gaffney, SC finishing facility in Q4 2026—their first domestic thin-film production outside Arizona. This is a $2B+ capacity expansion that will feed US utility-scale plants (where First Solar already has 30%+ share). Play: unlock co-marketing and cross-sell Raptor Solar field-quality analytics to new plant owners acquiring modules from Gaffney. Lead: AE + Product. Need: intro to VP Field Quality or Reliability Engineering to socialize the thin-film standards work we did and explore joint customer reach.",
+    "crmTask": {
+      "title": "First Solar Gaffney facility: co-marketing + Raptor Solar field-quality expansion oppty",
+      "due": "In 7 days",
+      "notes": "Signal: First Solar Gaffney, SC finishing facility opening Q4 2026 (first domestic thin-film production; 2B+ capacity expansion). Opportunity: co-market thin-film-specific RS Inspections + Raptor Solar field-quality analytics to new utility-scale plant operators acquiring Gaffney modules. Relationship risk: no named sponsor; must identify VP Field Quality or Reliability Engineering. Key context: Raptor Maps and First Solar ran joint 2023 research on thin-film crack detection; that IP is now part of RS Inspections product. Action: intro outreach to [VP Field Quality] linking Gaffney ramp to co-marketing oppty. Success measure: discovery call scheduled, or first-pass co-marketing interest confirmed."
+    },
+    "doneWhen": "Discovery call completed with [VP Field Quality] or [Director, Reliability Engineering] and next steps (co-marketing doc, customer reference, or decline) documented in CRM.",
+    "generatedAt": "2026-10-28T18:42:48.916Z"
+  },
+  "a_14kwm4s": {
+    "signalId": "a_14kwm4s",
+    "account": "BayWa r.e.",
+    "signalTitle": "Parent company restructuring & creditor negotiations",
+    "play": "protect_renewal",
+    "goal": "Proactively strengthen ROI visibility and support continuity through BayWa r.e.'s ownership transition and restructuring uncertainty.",
+    "owner": "CS Director + Director of ROCC relationship",
+    "contactRole": "Director of ROCC and Engineering",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0–1",
+        "tasks": [
+          "Review current contract terms, renewal dates, and consumption metrics (drone flights, inspections, MW under management) for BayWa r.e.",
+          "Confirm North American O&M business unit scope, any active divestment or cost-reduction initiatives affecting Raptor platform usage.",
+          "Flag any recent support tickets, product adoption blockers, or NPS trends that signal account health risk."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1–2",
+        "tasks": [
+          "Brief Ops and Finance teams on parent-company distress and potential divestment risk; confirm contract protections and escalation path if ownership changes.",
+          "Align with Product on drone/inspection ROI metrics (cost per MW, production recovery, truck-roll reduction) to arm CS for conversation.",
+          "Assign relationship lead (CS or account executive) to own the outreach and any follow-up."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3–5",
+        "tasks": [
+          "Send warm, confidential note to [Director of ROCC and Engineering] acknowledging restructuring news and offering to review how Raptor Solar and Inspections are delivering cost and uptime wins in North America.",
+          "Request a brief call (30 min) to discuss 2027 budget priorities, any new ownership or operational changes, and how Raptor Maps can support continuity."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 5–14",
+        "tasks": [
+          "Conduct confidential conversation with [Director of ROCC and Engineering] to understand budget outlook, divestment risk, and any new stakeholders involved in vendor/platform decisions.",
+          "If new ownership or operational changes are imminent, prepare a one-page ROI summary (drone cost/MW managed, inspection cost, uptime/production recovery) to share with incoming leadership or new owner.",
+          "If budget pressure is acute, offer interim cost optimization (e.g., flight scheduling, consolidating third-party reports) or phased approach to Sentry/Comply expansion."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log call notes, budget signals, and ownership/divestment status in CRM; flag if ownership changes or contract renegotiation triggers.",
+          "Monitor BayWa AG news (quarterly earnings, restructuring updates) and schedule quarterly check-ins with [Director of ROCC and Engineering] on ROI delivery and 2027 priorities.",
+          "Close loop: if divestment occurs or new owner takes over, ensure warm introduction and ROI documentation are handed off within 48 hours."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Supporting BayWa r.e. through operational transition – Q1 2027 priorities",
+      "body": "Hi [Director of ROCC and Engineering],\n\nWe've been following BayWa AG's recent restructuring news and want to make sure Raptor Solar and Inspections continue to deliver clear value through any changes ahead. Over the past year, your team has built a strong in-house drone program and digitized field operations—we want to ensure that ROI (cost per MW, inspection efficiency, truck-roll reduction) is visible to leadership and any new stakeholders.\n\nWould you have 30 minutes in the next week or two for a confidential conversation about 2027 priorities and how we can best support continuity? Happy to share a quick ROI summary if it's helpful.\n\nLooking forward to staying aligned.\n\nBest,\n[Your name]\nRaptor Maps Customer Success"
+    },
+    "slack": "🚨 **Protect play: BayWa r.e. (O&M provider, 1+ GW, ROCC ops)** – Parent BayWa AG in deep restructuring; creditors rejected haircut, planned buyer failed, timelines extended. High risk of budget freeze, divestment of NA O&M, or change of control. **Play:** Confidential conversation with [Director of ROCC and Engineering] to understand 2027 budget, ownership risk, and ROI visibility. Prep one-page ROI summary (drone cost/MW, inspection savings, uptime gains) for handoff to incoming owner if needed. **Lead:** CS Director + account relationship owner. **Ask:** Quick call this week, monitor BayWa news, ensure warm intro to new owner if divestment happens.",
+    "crmTask": {
+      "title": "Protect: BayWa r.e. Restructuring & Ownership Risk – Proactive ROI Engagement",
+      "due": "In 3 days",
+      "notes": "BayWa AG financial restructuring intensified (creditors rejected 98% haircut, buyer fell through, 2030 timeline). BayWa r.e. North American O&M (1+ GW, ROCC subsidiary) faces budget freeze, divestment, or new owner risk. Current relationship: Director of ROCC and Engineering (main sponsor). Product footprint: Raptor Solar + RS Inspections (in-house drone program, digital twins, field mobile app, degradation analysis). Expansion potential (Sentry, Comply) now at risk. **Immediate action:** Confidential call with [Director of ROCC and Engineering] on 2027 budget and ownership outlook. **Support materials:** One-page ROI summary (drone cost/MW, inspection cost, uptime/production recovery, truck-roll reduction). **Escalation:** If divestment or ownership change confirmed, trigger warm intro and ROI brief to new leadership within 48 hours. Monitor BayWa AG earnings/news quarterly. Risk level: HIGH (parent-company distress, divestment risk, budget pressure)."
+    },
+    "doneWhen": "Confidential call completed with [Director of ROCC and Engineering]; 2027 budget outlook and ownership/divestment risk understood; ROI summary prepared and filed for potential handoff to new owner.",
+    "generatedAt": "2026-10-28T18:42:50.465Z"
   }
 }

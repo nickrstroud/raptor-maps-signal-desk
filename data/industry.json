@@ -1,5 +1,149 @@
 [
   {
+    "id": "lsaXR5LXNjYWxlLXNvbGFyLw",
+    "title": "CPP Wind Engineering develops wind testing certification for utility-scale solar",
+    "link": "https://www.solarpowerworldonline.com/2026/10/cpp-wind-engineering-develops-wind-testing-certification-for-utility-scale-solar/",
+    "sourceName": "Solar Power World",
+    "publishedAt": "2026-10-28T16:04:21.000Z",
+    "analyzedAt": "2026-10-28T18:43:01.084Z",
+    "updateType": "technology",
+    "relevance": 1,
+    "summary": "CPP Wind Engineering has launched the first utility-scale solar wind certification program to improve performance and durability across varying wind conditions. The certification is designed to de-risk solar projects in challenging environments.",
+    "angle": "Wind durability and performance certification is becoming a technical qualification for utility-scale solar; customers operating sites in high-wind regions or defending warranty/performance may need data demonstrating wind resilience, creating a conversation about comprehensive performance analytics.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar",
+      "inspections"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "QwWVRBMVRGSTRVazA_b2M9NQ",
+    "title": "New State Drone Laws Create Patchwork of Restrictions, Raising Concerns for Operators",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbVN4c296Umt3SUotYzIwQzF6c3Q2MEhoYzFSTUFUcmNpLWdlT1lXczJYVENjNlhhN1N1YUF6NlJ2VmFjME92Tmx1c2NGSkJZRVRnRFZYY1pPWkpiREd6TmRnLXJwcVBYZmc3MHBTakQtbEdrSnpSVmtDcUxBNUt0YTA1TFI4Uk0?oc=5",
+    "sourceName": "Dronelife",
+    "publishedAt": "2026-10-28T15:36:48.000Z",
+    "analyzedAt": "2026-10-28T18:43:16.492Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "New state drone laws are creating a fragmented regulatory landscape across the US, raising concerns about operational complexity for drone operators. This patchwork of restrictions directly impacts the ability to execute scheduled and autonomous inspections at distributed solar sites.",
+    "angle": "Raptor Sentry and Inspections customers need to understand how state-level drone restrictions may affect their inspection and monitoring workflows. This is a key talking point for retention and for positioning Raptor's platform as a solution to navigate compliance complexity.",
+    "play": "sentry",
+    "products": [
+      "sentry",
+      "inspections"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "HTlVkRGsyVW1sbFVRP29jPTU",
+    "title": "First Solar Opens Gaffney, SC Module Plant, Adding 3.7 GW Capacity - News and Statistics",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa09zWWVLM0hVNkxhNUhURURGREFpYm41aW10M25WbTZoNGI3dGU1RW4yZnM3Ym85TG5UZ05pSDJGT3BOcmRheGpRNlI3SDVXakJ2ai1oSVhwSmR5Wk1WblI5UmpoajRYYUtkYzMzQXhYVVQzZkxXRFBCcXlBVnJJaDZJMG9hNHJWOVlDbHQ1Rm1WcFZMOGNUdDk2UmllUQ?oc=5",
+    "sourceName": "IndexBox",
+    "publishedAt": "2026-10-28T15:20:38.000Z",
+    "analyzedAt": "2026-10-28T18:43:16.492Z",
+    "updateType": "expansion",
+    "relevance": 2,
+    "summary": "First Solar has opened its Gaffney, SC module manufacturing facility, adding 3.7 GW of domestic production capacity. This expands US module supply and strengthens First Solar's position in the domestic solar market.",
+    "angle": "First Solar's capacity expansion signals confidence in US solar build-out and may drive increased project development and O&M activity. This is an opportunity to discuss how Raptor Solar can support First Solar's customers and EPC partners in optimizing the performance and commissioning of projects built with these new modules.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar",
+      "inspections"
+    ],
+    "mentionedAccounts": [
+      "First Solar"
+    ]
+  },
+  {
+    "id": "luaXNoaW5nLWZhY2lsaXR5Lw",
+    "title": "First Solar to inaugurate South Carolina solar panel finishing facility",
+    "link": "https://www.solarpowerworldonline.com/2026/10/first-solar-to-inaugurate-south-carolina-solar-panel-finishing-facility/",
+    "sourceName": "Solar Power World",
+    "publishedAt": "2026-10-28T14:46:58.000Z",
+    "analyzedAt": "2026-10-28T18:43:01.084Z",
+    "updateType": "expansion",
+    "relevance": 2,
+    "summary": "First Solar inaugurates its $330 million South Carolina manufacturing facility for Series 6 Plus module finishing, currently employing 500 with plans to grow to 700 by mid-2027. This domestic capacity expansion signals increased U.S. solar module supply and deployment pace.",
+    "angle": "First Solar's onshore manufacturing ramp supports U.S. solar deployment growth and could drive increased MW additions for IPPs and O&M providers using First Solar modules. A key account expanding operations domestically may see higher project volume.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": [
+      "First Solar"
+    ]
+  },
+  {
+    "id": "XUXdUSHB5Y2tSZlVRP29jPTU",
+    "title": "FCC Touts Industry Support for Opening 800 MHz Cellular Spectrum to Drones",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMURFUDFPMmUtd3RCMFQxMVBHX1pLZWo4Slh1Vm1MMTdjZzd5YVYyMUFFVlpEajBnTjA0T3dMaHVTMmo5YUkyRzMzSVRzVFgzRHJtcGxRSGFFRkEzd2ZSR29HUE52aUZ3LVZYaTNRWFNqMGRFYXpNdVR2aWQwTHpyckRfUQ?oc=5",
+    "sourceName": "Dronelife",
+    "publishedAt": "2026-10-28T12:56:30.000Z",
+    "analyzedAt": "2026-10-28T18:43:16.492Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "The FCC is moving to open 800 MHz cellular spectrum to drone operations with demonstrated industry support. This regulatory shift could improve drone connectivity and enable more reliable autonomous and remote-controlled inspection flights.",
+    "angle": "This spectrum opening could unlock more reliable communications for Sentry autonomous docks and remote-triggered inspection flights, particularly for solar assets in areas with limited LTE/5G coverage. Worth proactively sharing with customers as a positive development for future automation scaling.",
+    "play": "sentry",
+    "products": [
+      "sentry",
+      "inspections"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "hdWN0aW9uLXByb2dyYW1tZS8",
+    "title": "‘Megawatts for Maryland’: US state launches US$200 million clean energy auction programme",
+    "link": "https://www.pv-tech.org/megawatts-for-maryland-us-state-us200-million-clean-energy-auction-programme/",
+    "sourceName": "PV Tech",
+    "publishedAt": "2026-10-28T11:39:19.000Z",
+    "analyzedAt": "2026-10-28T18:43:08.416Z",
+    "updateType": "expansion",
+    "relevance": 2,
+    "summary": "Maryland launches $200M clean energy auction programme to deploy capacity across the state. Represents meaningful new procurement and deployment opportunity in a key solar market.",
+    "angle": "Maryland's substantial state-backed clean energy investment signals a major build-out cycle in a core market. Raptor Solar customers bidding on or operating new Maryland assets will benefit from platform coverage tracking and optimizing performance across this new capacity.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "LUVd4RGVXeEJjMVIzP29jPTU",
+    "title": "Solar panel hail resilience ratings gain importance as climate change is projected to intensify hailstorms",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YVmFBc2x3VFhsclpUbGxKRnN1Sm9BeWtINXg3aXh2R0FRVFVraXdma2ZmZHFzRUdxLXg3U0xIaTlrMW94V2dLMk5qQ19ObFRZVHBPb2pnelA5WmJDU0FKV1RNemRKQWxDeWxBc1R3?oc=5",
+    "sourceName": "Energies Media",
+    "publishedAt": "2026-10-27T19:00:36.000Z",
+    "analyzedAt": "2026-10-28T18:43:08.416Z",
+    "updateType": "reliability",
+    "relevance": 2,
+    "summary": "Solar panel hail resilience ratings are gaining importance as climate change is projected to intensify hailstorms. Industry focus on module durability and damage assessment is increasing.",
+    "angle": "Rising hail damage risk and customer focus on panel resilience creates a direct conversation point for Raptor Inspections capabilities—thermal and visual damage detection, warranty evidence, and storm-response workflows protect customer asset value.",
+    "play": "inspections",
+    "products": [
+      "inspections"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "cGxveS01Z3ctY2FwYWNpdHkv",
+    "title": "Thai government greenlights US$1.48 billion rooftop solar programme, aims to deploy 5GW of capacity",
+    "link": "https://www.pv-tech.org/thai-government-greenlights-us1-48-billion-rooftop-solar-programme-deploy-5gw-capacity/",
+    "sourceName": "PV Tech",
+    "publishedAt": "2026-10-27T16:23:02.000Z",
+    "analyzedAt": "2026-10-28T18:43:08.416Z",
+    "updateType": "expansion",
+    "relevance": 1,
+    "summary": "Thailand cabinet approves $1.48B rooftop solar programme targeting 5 GW deployment under the People's Solar initiative. Represents significant distributed solar capacity expansion in Southeast Asia.",
+    "angle": "International rooftop solar expansion creates long-tail deployment opportunity for Raptor Solar as customers scale distributed asset management across many smaller sites.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "RzLW9uLTQtY3MvODMzMjk5Lw",
     "title": "Capacity, clarity, cash and compliance: the 4 C’s of electric co-op funding success",
     "link": "https://www.utilitydive.com/news/for-electric-cooperatives-winning-federal-state-funding-depends-on-4-cs/833299/",
@@ -255,6 +399,23 @@
     "products": [
       "inspections",
       "sentry"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "uVlRhbmcxVmxkM1JRP29jPTU",
+    "title": "Masdar acquires a solar project of more than 550 MW in Greece",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PbVJLZFNuWWZ6aDhNZGQ1ai1qTVhub0dnTHVzUGVVYjEydzNQVGUxRU5uVXUxSks3U3hUclZQeGM5dUJuQWJWOG9kUW9iMjBzRTdVWWdCamItelJ6R21yOUhsbEQyUGpoUEViUjJCaDZoNnVTang1Vld3RQ?oc=5",
+    "sourceName": "Inspenet",
+    "publishedAt": "2026-10-26T19:06:28.000Z",
+    "analyzedAt": "2026-10-28T18:43:08.416Z",
+    "updateType": "ma",
+    "relevance": 2,
+    "summary": "Masdar acquires 550 MW solar project in Greece with battery energy storage system. Large portfolio acquisition combining solar and storage assets.",
+    "angle": "Major solar+storage M&A signals consolidation and expansion by global developer. Raptor Solar platform use case for multi-site performance intelligence and storage integration workflows becomes relevant if Masdar adds the asset to platform coverage.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
     ],
     "mentionedAccounts": []
   },
@@ -632,6 +793,21 @@
     "products": [
       "raptor_solar"
     ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "VUk0VlV0TVVXRjRTUT9vYz01",
+    "title": "China solar module prices steady as proposed price floors meet skepticism",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMjRwSzV0NnpSX0JXM0M4djltRkFLQWs2REJuRnZkR0hLekpyRDJpSjBsanVIaGZDMFczcDFoSUEwdG5vdDZHNEVsVm1jb1lGMElrWnhIQ2tsQUZOeTFBWExNX0lXS1lBZGJYb3Z1MTY4allnMkNGU2phV1gtbk1LU3gxTU5yeHN2UWQyWjk3VnJtQlgyRF9vN0N0R185dlRzald4MnBWSk1naUI4VUtMUWF4SQ?oc=5",
+    "sourceName": "pv magazine USA",
+    "publishedAt": "2026-10-23T12:29:24.000Z",
+    "analyzedAt": "2026-10-28T18:43:16.492Z",
+    "updateType": "trade",
+    "relevance": 1,
+    "summary": "Chinese solar module prices remain stable despite proposed price floors, indicating market skepticism about tariff or trade intervention measures. This reflects ongoing trade tension and pricing dynamics in the global solar supply chain.",
+    "angle": "Trade and tariff uncertainty continues to shape module sourcing and project economics for US IPPs and O&M providers. Understanding cost pressure on module supply is background context for customer conversations about project ROI and O&M spending priorities.",
+    "play": "none",
+    "products": [],
     "mentionedAccounts": []
   },
   {

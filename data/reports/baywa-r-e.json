@@ -502,5 +502,24 @@
         "publishedAt": "2026-10-24T12:21:47.000Z"
       }
     ]
+  },
+  {
+    "company": "BayWa r.e.",
+    "runAt": "2026-10-28T18:42:32.577Z",
+    "source": "daily",
+    "headline": "BayWa AG restructuring deepens; parent-level distress creates budget and divestment risk for BayWa r.e. North America O&M business",
+    "signals": [
+      {
+        "category": "Parent company restructuring & creditor negotiations",
+        "updateType": "distress",
+        "play": "retention",
+        "score": -2,
+        "summary": "BayWa AG's financial restructuring has intensified: creditors rejected a 98% debt haircut, a planned buyer failed to materialize, and restructuring timelines have been extended. While article [0] suggests BayWa r.e. is still active in solar (Australian M&A with Atmos), articles [1-3] confirm the parent company remains in deep distress. This creates material risk of budget freezes, cost reductions, divestment of non-core assets (including North American O&M), or a change of control at BayWa r.e.—any of which could disrupt the Raptor Maps relationship and the ROCC operations.",
+        "suggestedAction": "Schedule a confidential call with Sean Bucher to understand BayWa r.e.'s 2027 budget and strategic priorities for North America O&M. Frame it as: 'We're monitoring restructuring news and want to ensure Raptor Solar and Inspections continue to deliver clear ROI (cost per MW, production recovered, truck-roll reduction). If BayWa r.e. is being divested or handed to a new owner, we'll need to help the new team quickly see the value.' Prepare a one-page ROI summary (drone cost/MW, inspection cost, uptime improvement) to share if asked.",
+        "sourceName": "ad-hoc-news.de",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaFIwYVZkVHZXdm1waVhTbTFhYnEwOWpVc0Q4WVhqQldhQzN2X1pXU2ZmMDdYSHZiVEhfRkhNamhKbUkyb0dCZFYtNjdkWGdacFZQOWxhcE1aT1BuYjNHSVc1ZmUzbkQyRl9tX1VMUkJnUWVTZ2oyb1U0MVBhUUNYOGE0Zk5vemlNc3Y4WXJaQlhQcGJ2RG1VQjFYZ3FFMW9DOXRSdzdIa1NERjVVZS1ENGNvdlJCeUwwYUdjd0Fhb3NSNFRGVEJaVElKZFIxV3YwNVpzYm02QnlXNU4wQ3c?oc=5",
+        "publishedAt": "2026-10-28T16:31:30.000Z"
+      }
+    ]
   }
 ]
