@@ -257,5 +257,24 @@
         "publishedAt": "2026-10-27T20:25:00.000Z"
       }
     ]
+  },
+  {
+    "company": "First Solar",
+    "runAt": "2026-10-29T18:50:52.692Z",
+    "source": "daily",
+    "headline": "First Solar inaugurates 1.7 GW South Carolina module plant — capex signal for expanded US output and potential warranty/quality analytics opportunity",
+    "signals": [
+      {
+        "category": "New manufacturing capacity (1.7 GW South Carolina)",
+        "updateType": "expansion",
+        "play": "raptor_solar",
+        "score": 1,
+        "summary": "First Solar inaugurated the initial 1.7 GW phase of a new module manufacturing facility in Gaffney, South Carolina. This represents a material capex commitment and signals sustained growth in US-based CdTe thin-film production, which strengthens First Solar's position as the leading domestic solar manufacturer. This increased volume will flow into more US utility-scale projects over the next 18–24 months.",
+        "suggestedAction": "Schedule a call with First Solar's field quality or warranty leadership to discuss how Raptor Solar's fleet-wide performance and module-defect analytics could help them monitor real-world reliability of modules produced at Gaffney as they scale deployment. Position this as an extension of your existing RS Inspections thin-film detection work and a way to close the loop between factory quality and field performance.",
+        "sourceName": "PV Tech",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQajE4ZEtQN1J5ZlpGbEtYUno2bEo0WVRrbzY5X016QS0wb2xpM3JzNFB1S3hLajFjVFZxRzEwQUVQVlIyOHlzNDB1MC03YnZOYVNleGdjNkNZRktPWFAxRThrNDBQcE8wbElIdEcya2ZKajdHR2JtU2hlcmVWMzkwMUQ1Vk55LW1XNkVVcEJjd3c1aWxIWDhBSkREV2ZWcTBoSjI5ZFVkUU8zMU5vVTE4NTNqWQ?oc=5",
+        "publishedAt": "2026-10-29T11:00:30.000Z"
+      }
+    ]
   }
 ]

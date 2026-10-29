@@ -521,5 +521,24 @@
         "publishedAt": "2026-10-28T16:31:30.000Z"
       }
     ]
+  },
+  {
+    "company": "BayWa r.e.",
+    "runAt": "2026-10-29T18:50:51.466Z",
+    "source": "daily",
+    "headline": "BayWa r.e. parent company navigating bondholder standoff; solar unit timing uncertain amid broader restructuring",
+    "signals": [
+      {
+        "category": "Parent company liquidity and restructuring risk",
+        "updateType": "distress",
+        "play": "retention",
+        "score": -1,
+        "summary": "BayWa AG faces a bondholder standoff that complicates the timeline for BayWa r.e.'s turnaround and potential divestment. This signals ongoing financial pressure at the parent level, which cascades to BayWa r.e. and could impact budget allocations, vendor commitments, or management attention to the North American O&M business during 2026–2030 transformation period.",
+        "suggestedAction": "Reach out to Sean Bucher to check in on budget stability and any changes to 2027 capex plans for ROCC operations or drone program expansion. Frame as a planning conversation to ensure Raptor Solar + Inspections roadmap aligns with their working capital needs; position Raptor Maps as a cost-per-MW efficiency lever if budget scrutiny increases.",
+        "sourceName": "ad-hoc-news.de",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOcGNndS1ZT1R3UDJpY0JZOUFDMXpZZlFrNENXOXhtMzNPVEI1ZjJMN2JjOXQ1RTJTNFVXYmlTSDFSeWRNQmV1Y0Z6Q3Y4R2pFVWRyZW9oLUM0MlJ1RU93TjJXdmJBNEVCTm1EeDM1N294YmFkWG5yX3JmNl80TnNrdlRvZGV2Q0wxS0x2SnJCWXpnN1pGRi1FWTV6Y2txdGlPSXJmV3k5el91NFEwdDZfV0hQZU5sZjJ4dTFkYld5Tzh5WVA3WWltMld4MlMwenM5Sm5WaXNMV2hIVHR5NmZ0NzBYRlJhTXRJdUd3NFV4MWFRRlBJWEM1THQ2RmZCRlE?oc=5",
+        "publishedAt": "2026-10-29T10:11:17.000Z"
+      }
+    ]
   }
 ]

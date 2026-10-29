@@ -4899,5 +4899,150 @@
     },
     "doneWhen": "Confidential call completed with [Director of ROCC and Engineering]; 2027 budget outlook and ownership/divestment risk understood; ROI summary prepared and filed for potential handoff to new owner.",
     "generatedAt": "2026-10-28T18:42:50.465Z"
+  },
+  "a_1xadwpt": {
+    "signalId": "a_1xadwpt",
+    "account": "BayWa r.e.",
+    "signalTitle": "Parent company liquidity and restructuring risk",
+    "play": "protect_renewal",
+    "goal": "Secure budget commitment for 2027 Raptor Solar and Inspections spend and position platform as a cost-efficiency lever during BayWa r.e.'s transformation period.",
+    "owner": "Account Executive + CS Director",
+    "contactRole": "Director of ROCC and Engineering, Operations Services",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0-1",
+        "tasks": [
+          "Review current contract terms, renewal date, and annual spend (RS + Inspections)",
+          "Check internal notes for any budget conversations, headcount changes, or management turnover at BayWa r.e.",
+          "Confirm MW coverage and drone program utilization metrics to quantify ROI story"
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Brief Ops/Support on restructuring context and flag any payment/support escalation risks",
+          "Align with Account Executive on whether this is a renewal protection or expansion conversation",
+          "Prepare cost-per-MW and production-recovery metrics (e.g., avoided truck rolls, degradation detection ROI)"
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3-5",
+        "tasks": [
+          "Email [Director of ROCC and Engineering] to schedule a 30-min planning call on 2027 capex and ROCC roadmap",
+          "Lead with their news (BayWa transformation) and position Raptor as a cost-efficiency partner in tighter times",
+          "Prepare to listen for budget freeze signals, new owner involvement, or O&M portfolio changes"
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 5-14",
+        "tasks": [
+          "During call: walk through 2026 performance metrics and ROI (cost avoidance, production uptime, field efficiency gains)",
+          "Agree on 2027 scope and budget; identify any stretch opportunities (Sentry for fewer truck rolls, Comply for utility clients)",
+          "Document budget commitment and any risks or new decision-makers to track"
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log call summary and budget/renewal status in CRM with next review date",
+          "Set monthly check-ins through 2027 to stay ahead of restructuring announcements or vendor reviews",
+          "Flag any change in contact, O&M contract wins/losses, or new owner activity immediately to leadership"
+        ]
+      }
+    ],
+    "email": {
+      "subject": "2027 ROCC Roadmap & Raptor Efficiency Planning",
+      "body": "Hi [Director of ROCC and Engineering],\n\nWe've been following BayWa r.e.'s transformation roadmap and wanted to check in on how it shapes your 2027 capex and ROCC priorities. Raptor Solar and Inspections have been key to your field efficiency and production visibility—we'd like to ensure our roadmap and pricing align with your working capital needs as you navigate this period.\n\nQuick call to review 2026 ROI (cost per MW, avoided truck rolls, degradation wins) and lock in 2027 scope? Happy to explore lean-cost options or new capabilities like Sentry if they help you operate leaner.\n\nLet's find 30 min this week or next.\n\nBest,\n[Your name]"
+    },
+    "slack": "🚨 **BayWa r.e. – Protect Renewal + Restructuring Risk** | Parent BayWa AG financial distress and ongoing O&M transformation create budget freeze and divestment risk. We need to secure 2027 contract + budget commitment from [Director of ROCC and Engineering] ASAP and surface any new owner involvement or portfolio changes. AE + CS lead planning call this week; focus on cost-per-MW ROI and position as efficiency lever. Flag any payment delays or management turnover immediately.",
+    "crmTask": {
+      "title": "BayWa r.e. – 2027 Budget & Renewal Security (Restructuring Context)",
+      "due": "In 3 days",
+      "notes": "Parent company liquidity strain + BayWa r.e. transformation (2026–2030) creates budget freeze and divestment risk. RS + Inspections currently cover 1+ GW North American O&M. Priority: secure 2027 capex commitment, quantify cost-per-MW ROI, identify any new owner/vendor review activity. Contact: Director of ROCC and Engineering. Risk flags: payment delays, management turnover, portfolio changes, new stakeholders."
+    },
+    "doneWhen": "2027 budget commitment documented in signed renewal or capex plan email from [Director of ROCC and Engineering].",
+    "generatedAt": "2026-10-29T18:51:06.293Z"
+  },
+  "a_1tzqdf3": {
+    "signalId": "a_1tzqdf3",
+    "account": "First Solar",
+    "signalTitle": "New manufacturing capacity (1.7 GW South Carolina)",
+    "play": "onboard_expand",
+    "goal": "Secure Raptor Solar contract to monitor field performance of First Solar's new Gaffney production line across the installed base, positioning Raptor as the factory-to-field quality feedback loop.",
+    "owner": "Account Executive + CS Director",
+    "contactRole": "Field Quality Manager, Warranty Engineering Lead",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0-1",
+        "tasks": [
+          "Confirm Gaffney ramp timeline and planned deployment customer targets from press release and Raptor Maps field intel",
+          "Review RS Inspections adoption and thin-film detection usage across current First Solar owner base to quantify addressable fleet",
+          "Map existing First Solar sponsors (quality, warranty, reliability) via LinkedIn and past interactions; identify who leads factory-to-field analytics"
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Brief Sales and Product on expansion thesis: Raptor Solar (fleet analytics + defect dashboards) as upstream quality assurance for Gaffney modules",
+          "Align on positioning: extend thin-film ML partnership (RS Inspections) to real-world performance tracking and early-warning for manufacturing cohorts",
+          "Agree AE leads customer outreach; CS Director owns technical deep-dive on data integration and warranty KPIs"
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3-5",
+        "tasks": [
+          "Email [Field Quality Manager] anchored to Gaffney news: congratulate scale-up, reference thin-film detection work, propose call on fleet-wide performance tracking for new production line",
+          "Personalize around First Solar's reliability targets and warranty cost management—show curiosity about how they'll monitor Gaffney modules in the field"
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 5-14",
+        "tasks": [
+          "Discovery call with [Warranty Engineering Lead] and [Field Quality Manager]: map their current defect-detection process, warranty claim workflows, and KPIs for module performance by manufacturing batch",
+          "Propose Raptor Solar pilot: dashboard for Gaffney cohort (production date, thermal signature, crack/degradation detection via RS Inspections) tied to warranty claims and performance deltas",
+          "Develop lightweight SOW and pricing for fleet analytics add-on to existing RS Inspections contract; position as factory-to-field feedback tool"
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log pilot SOW and champion engagement in CRM; set monthly check-ins through ramp phase",
+          "Track adoption: module cohorts monitored, defect signals surfaced, warranty insights fed back to Gaffney quality team",
+          "Close loop: share early wins (e.g., batch-level anomalies caught early) back to Product to refine thin-film detection and inform First Solar roadmap"
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Congrats on Gaffney—tracking Raptor Solar for fleet-wide module performance",
+      "body": "Hi [Field Quality Manager],\n\nCongrats on the Gaffney ramp—1.7 GW of US-made CdTe is significant. We've loved working with you on thin-film detection (RS Inspections), and this got us thinking: as Gaffney modules scale into the field over the next 18 months, how are you planning to close the loop between factory QA and real-world performance?\n\nWe'd like to explore Raptor Solar for exactly this—fleet-wide defect analytics and performance dashboards tied to production batch, so you can catch any cohort-level signals early and feed them back to manufacturing.\n\nAre you the right person to chat, or should we loop in [Warranty Engineering Lead]?\n\nBest,\nRaptor Maps"
+    },
+    "slack": "First Solar just inaugurated Gaffney (1.7 GW CdTe thin-film). Huge capex signal and 18-24 month deployment wave into US utility-scale fleet. We own thin-film detection (RS Inspections) with them; now pitch Raptor Solar for factory-to-field quality feedback loop—batch-level analytics and warranty tracking. AE to lead outreach to [Field Quality Manager] + [Warranty Engineering Lead]; CS Director handles technical discovery and pilot design. Win = pilot SOW + pathway to fleet monitoring contract.",
+    "crmTask": {
+      "title": "First Solar Gaffney expansion: Raptor Solar pilot for fleet-wide module performance monitoring",
+      "due": "In 3 days",
+      "notes": "Signal: First Solar inaugurated 1.7 GW Gaffney (SC) manufacturing facility (Oct 2026). Existing relationship: RS Inspections thin-film detection ML (developed via joint field research spring 2023). Expansion opportunity: Raptor Solar for fleet analytics, defect dashboards by production batch, warranty claim correlation—position as factory-to-field quality feedback. Champions needed in field quality, warranty engineering, or reliability. Risk: single-threaded; no named sponsor in case study."
+    },
+    "doneWhen": "Signed pilot SOW for Raptor Solar fleet analytics covering Gaffney cohort, or champion agreement to evaluate 90-day trial within 60 days.",
+    "generatedAt": "2026-10-29T18:51:08.316Z"
   }
 }

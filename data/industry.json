@@ -1,5 +1,256 @@
 [
   {
+    "id": "5ldy10ZXhhcy1mYWN0b3J5Lw",
+    "title": "SnapNrack increases domestic manufacturing with new Texas factory",
+    "link": "https://www.solarpowerworldonline.com/2026/10/snapnrack-increases-domestic-manufacturing-with-new-texas-factory/",
+    "sourceName": "Solar Power World",
+    "publishedAt": "2026-10-29T17:05:34.000Z",
+    "analyzedAt": "2026-10-29T18:51:24.414Z",
+    "updateType": "expansion",
+    "relevance": 1,
+    "summary": "SnapNrack, a Sunrun subsidiary, opens new manufacturing facility in El Paso, Texas, onshoring assembly and distribution operations from Mexico. Domestic racking and mounting supply capacity increasing.",
+    "angle": "Increased domestic manufacturing for balance-of-system components supports project cost stability and supply-chain resilience for your utility-scale and C&I customers.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "LXZhcmlhYmxlLWNsaW1hdGUv",
+    "title": "What summer 2026 tells us about solar generation in a more variable climate",
+    "link": "https://www.pv-tech.org/summer-2026-solar-generation-more-variable-climate/",
+    "sourceName": "PV Tech",
+    "publishedAt": "2026-10-29T16:30:59.000Z",
+    "analyzedAt": "2026-10-29T18:51:24.414Z",
+    "updateType": "weather",
+    "relevance": 2,
+    "summary": "Solargis report on summer 2026 extreme weather events and their impact on solar generation variability emphasizes need for asset owners and operators to respond to climate volatility. Variable, extreme weather is creating new operational stress on plants.",
+    "angle": "Extreme weather in 2026 is pressuring plant uptime and reliability. Your customers need continuous monitoring, rapid damage assessment, and predictive analytics—core Raptor Solar and Sentry value propositions to protect performance and revenue.",
+    "play": "sentry",
+    "products": [
+      "raptor_solar",
+      "sentry",
+      "inspections"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "5Sc1IxWTFSRkUxYWc_b2M9NQ",
+    "title": "FCC Opens 800 MHz to Drones, but BVLOS Still Waits on FAA Part 108",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN0gxMXhNTlF1NmlmOEN1QmZTRHFxQWhDbGhJaGVxTldRb0czcXlSWFlkLVFTb2lKenFyeklhSzB1Y3lMcG1venhtMkFDVTNSbl9SSkpoMnpqc1Rob2Z2aG8ycEh6elE2UkNXNV9fRllqY3RKQXNvRnRsR1Y1RFE1ag?oc=5",
+    "sourceName": "DroneXL",
+    "publishedAt": "2026-10-29T16:01:20.000Z",
+    "analyzedAt": "2026-10-29T18:51:35.105Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "FCC has opened 800 MHz spectrum to drones; BVLOS (Beyond Visual Line of Sight) operations still awaiting FAA Part 108 rules. This is a major step toward broader drone autonomy, but the final FAA rule remains pending.",
+    "angle": "FCC spectrum approval signals regulatory momentum toward autonomous drone operations. Raptor Sentry customers should be tracking when FAA Part 108 finalizes, as BVLOS capability is a key roadmap item for expanding uncrewed inspection coverage.",
+    "play": "sentry",
+    "products": [
+      "sentry"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "pb24taGFyZGVyLzg3MzA0MS8",
+    "title": "BAAJA gives federal regulators ‘bigger hammer’ to break transmission blocks",
+    "link": "https://www.utilitydive.com/news/baaja-permitting-reform-interregional-transmission-harder/873041/",
+    "sourceName": "Utility Dive",
+    "publishedAt": "2026-10-29T15:21:25.000Z",
+    "analyzedAt": "2026-10-29T18:51:29.529Z",
+    "updateType": "regulatory",
+    "relevance": 1,
+    "summary": "The BAAJA bill gives federal regulators greater authority to resolve transmission bottlenecks and includes cost-sharing mechanisms to encourage collaboration among utilities and grid operators.",
+    "angle": "Transmission congestion and interconnection delays directly affect solar project economics and timing; improved transmission cost-sharing may unlock easier grid access for your customers' portfolios.",
+    "play": "none",
+    "products": [],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "xpbmEtbW9kdWxlLXBsYW50Lw",
+    "title": "First Solar opens first phase of South Carolina module plant",
+    "link": "https://pv-magazine-usa.com/2026/10/29/first-solar-opens-first-phase-of-south-carolina-module-plant/",
+    "sourceName": "pv magazine USA",
+    "publishedAt": "2026-10-29T15:00:34.000Z",
+    "analyzedAt": "2026-10-29T18:51:24.414Z",
+    "updateType": "expansion",
+    "relevance": 2,
+    "summary": "First Solar opens 1.7 GW first phase of South Carolina module manufacturing facility with $330M investment, eventually reaching 3.4 GW annual capacity. This domestic manufacturing expansion signals strong U.S. solar build-out momentum and shifts supply-chain risk.",
+    "angle": "First Solar's major domestic manufacturing ramp supports robust solar project pipelines across your customers' portfolios. This is a talking point for capacity planning and procurement conversations, especially for EPCs and IPPs.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": [
+      "First Solar"
+    ]
+  },
+  {
+    "id": "eS1wcm9iZS1jb250aW51ZXMv",
+    "title": "U.S. customs frees detained Ethiopian solar cells as duty probe continues",
+    "link": "https://pv-magazine-usa.com/2026/10/29/us-customs-releases-toyos-ethiopian-cells-as-duty-probe-continues/",
+    "sourceName": "pv magazine USA",
+    "publishedAt": "2026-10-29T14:42:50.000Z",
+    "analyzedAt": "2026-10-29T18:51:24.414Z",
+    "updateType": "trade",
+    "relevance": 2,
+    "summary": "U.S. Customs released detained Ethiopian solar cells as a Commerce Department inquiry continues into whether these cells circumvent Chinese tariffs. Uncertainty around tariff exposure and sourcing rules remains active.",
+    "angle": "Ongoing tariff and duty disputes create supply-chain volatility for module procurement. Your solar customers and EPC partners need to track sourcing and inventory risk as part of project economics.",
+    "play": "none",
+    "products": [],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "ZhY2lsaXR5LWluLXRleGFzLw",
+    "title": "SEG Solar secures land for planned 4 GW HJT solar cell facility in Texas",
+    "link": "https://pv-magazine-usa.com/2026/10/29/seg-solar-secures-land-for-planned-4-gw-hjt-solar-cell-facility-in-texas/",
+    "sourceName": "pv magazine USA",
+    "publishedAt": "2026-10-29T14:26:26.000Z",
+    "analyzedAt": "2026-10-29T18:51:24.414Z",
+    "updateType": "expansion",
+    "relevance": 2,
+    "summary": "SEG Solar secures land for 4 GW HJT solar cell facility in Texas with $950M investment, co-locating cell, module, and component manufacturing. Major domestic manufacturing expansion in emerging HJT technology.",
+    "angle": "New manufacturing capacity and technology (HJT) entering U.S. supply chain indicates strong project pipeline growth ahead. Your customers should understand this as positive for module availability and pricing—a key planning variable.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "ac1QwODNaMHByVmxFP29jPTU",
+    "title": "Rick Scott doubles down on DJI and Autel drone restrictions as FCC reviews appeals",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4YVhGblJKcTFhVDd4amRHeVdxX013RHQ1bGNSSDFCb2VVTmZQZHRDb0lpMU9NSnJUQkN4SHVYYXI2bmk4SGhzODRFdmR5MjREbE1EekdOVGZVaWdCejZsT083Z0prVlE?oc=5",
+    "sourceName": "DroneDJ",
+    "publishedAt": "2026-10-29T13:51:00.000Z",
+    "analyzedAt": "2026-10-29T18:51:35.105Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "Senator Rick Scott is pushing for restrictions on DJI and Autel drones as the FCC reviews appeals. Supply and operational restrictions on commercial drone hardware are tightening.",
+    "angle": "DJI and Autel restrictions narrow the approved drone hardware ecosystem for US solar operations. Raptor Sentry customers need clarity on which drone platforms remain compliant and operational.",
+    "play": "sentry",
+    "products": [
+      "sentry"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "nYW4tc29sYXItcHJvamVjdC8",
+    "title": "DTE utility program funded a 132-MW Michigan solar project",
+    "link": "https://www.solarpowerworldonline.com/2026/10/dte-utility-customers-funded-a-132-mw-michigan-solar-project/",
+    "sourceName": "Solar Power World",
+    "publishedAt": "2026-10-29T13:34:04.000Z",
+    "analyzedAt": "2026-10-29T18:51:24.414Z",
+    "updateType": "expansion",
+    "relevance": 2,
+    "summary": "DTE Energy's 132-MW Fish Creek Solar Park in Michigan is now operational, fully funded through customer participation in DTE's MIGreenPower program. Major utility-scale deployment reflecting strong U.S. build-out.",
+    "angle": "Utility-scale procurement and project completions are accelerating. This is a benchmark for your customers' own pipeline maturity, construction timelines, and O&M staffing planning.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "RleGFzLWdyaWQvODczMTc4Lw",
+    "title": "Chinese-linked solar developer loses appeal over Texas grid interconnection",
+    "link": "https://www.utilitydive.com/news/chinese-linked-solar-developer-loses-appeal-to-connect-to-texas-grid/873178/",
+    "sourceName": "Utility Dive",
+    "publishedAt": "2026-10-29T13:21:29.000Z",
+    "analyzedAt": "2026-10-29T18:51:29.529Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "U.S. Court of Appeals for the 5th Circuit ruled that Texas can restrict foreign-owned companies' access to its electric grid, setting a potential precedent for other states and solar market participants.",
+    "angle": "Major U.S. solar developers and foreign-backed portfolio companies face new grid interconnection barriers in Texas and potentially other states—a critical talking point for your IPP customers managing transmission strategy and geographic expansion.",
+    "play": "none",
+    "products": [],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "uYWxseS1hYm91dC10by1hY3Q",
+    "title": "PJM desperately needs grid batteries. Here’s a way it could get some.",
+    "link": "https://www.canarymedia.com/articles/transmission/pjm-desperately-needs-grid-batteries-is-it-finally-about-to-act",
+    "sourceName": "Canary Media",
+    "publishedAt": "2026-10-29T07:30:00.000Z",
+    "analyzedAt": "2026-10-29T18:51:29.529Z",
+    "updateType": "regulatory",
+    "relevance": 1,
+    "summary": "PJM Interconnection is implementing reforms to expedite battery energy storage interconnection across the largest U.S. grid operator, serving 13 mid-Atlantic, Midwestern, and Southern states.",
+    "angle": "Faster battery interconnection improves solar+storage project viability and revenue in PJM territory; worth discussing with customers planning paired solar-storage developments in this region.",
+    "play": "none",
+    "products": [],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "NVhZVGcyVlV4dWEzVT9vYz01",
+    "title": "Changes to US federal tax credits reshaping wind and solar outlook",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQTVYVktLZjZnbS12VzFxWXFsbURtQzh6anUtbERaVWw1ZW5tZWFJRG80a0tzdTBWd0dCQll3VEdRN1ZYc3U1R09aNHJwYkNyRHlWNlNnMkRxeVc5Y3NkVHdFSUlSa0JxX3NfVWViTHpFRDRvNHBUZHRLc0c3ajl6a0NPQlhYVlRFZEg0aWx1OXdVVHJTc2FUQlZrV0RaVm5XYTg2VUxua3U?oc=5",
+    "sourceName": "Sustainability Online",
+    "publishedAt": "2026-10-29T07:00:00.000Z",
+    "analyzedAt": "2026-10-29T18:51:41.253Z",
+    "updateType": "policy",
+    "relevance": 2,
+    "summary": "U.S. federal tax credits for wind and solar are undergoing changes that are reshaping the market outlook for both technologies.",
+    "angle": "Tax credit changes directly affect the economics of solar projects that Raptor customers own and operate. Understanding the new credit structure is critical for project ROI and financing models.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "lObVZpTWxCRk5GRm4_b2M9NQ",
+    "title": "First Solar Opens $330M South Carolina Plant, Targets 3.4 GW Capacity by 2027",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd19keVZjMGJkZ3hjX1Z6WWNuQUI1MlRNUm1FckpWUl9CSmlVQ3dSenVDWC1BMUV0LXpnNUVDTWQ0b3ZYbTlDOVNpS1AzV1Z5VXhEdmNwYjJYOWt3SlpxWllfa0dJOGFhZHh2TWM0cjU0clJ3blpvcFF5Q0dYSkY4YWU0VkliNmViMlBFNFFn?oc=5",
+    "sourceName": "Yahoo Finance",
+    "publishedAt": "2026-10-29T04:04:00.000Z",
+    "analyzedAt": "2026-10-29T18:51:41.253Z",
+    "updateType": "expansion",
+    "relevance": 2,
+    "summary": "First Solar has opened a $330M manufacturing plant in South Carolina and targets 3.4 GW capacity by 2027, indicating aggressive domestic production expansion.",
+    "angle": "First Solar's massive capacity build underscores domestic manufacturing momentum and supply confidence. This may signal pricing pressures but also increased project activity that Raptor customers will need to monitor and manage operationally.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": [
+      "First Solar"
+    ]
+  },
+  {
+    "id": "MWtVemt5UnpGVmFFRT9vYz01",
+    "title": "FCC Nov. 19 Drone Vote Would Rewrite Two Single-Licensee Bands",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOHFTWFM4VEFnNERSNkhLUUphZUVIWnh3Q3d5YnA4bDFTME1IYzdleGthNExLQnpBbEtNN1RWMlFnYTdtRUtDdzI1eEFiQlAtNTN4cGtxcDl1MFZJREd0R2psdWQta2lRMzR4MHdiRjZUbHF1SXI4eXFCdVE4M2YydDBXa1NWQWZIQVY1OG1kUzkyRzFVaEE?oc=5",
+    "sourceName": "DroneXL",
+    "publishedAt": "2026-10-28T23:32:00.000Z",
+    "analyzedAt": "2026-10-29T18:51:35.105Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "FCC is set to vote November 19 on rewriting two single-licensee spectrum bands for drone use. This regulatory decision could reshape drone communication pathways and operational protocols.",
+    "angle": "Spectrum reallocation directly affects drone fleet communications and autonomy standards. Customers planning drone-scale inspections and autonomous monitoring should understand the evolving RF landscape.",
+    "play": "sentry",
+    "products": [
+      "sentry"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "WbWJVWmhkbWRLUjFFP29jPTU",
+    "title": "Waaree Energies shifts solar module production to the US as tariffs close the export route",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS2lNcTBRUUwtTkRLYWdjcUZTUEY2YlppNGF6TEJkMGd4bkxUV0F5ampRb0pLX3dDUC1SampJSzlmVXpFMHdmaThvYXVmTjVod0ZQaU9YSm85d253TEN2U1c3b1hkeWdQM0VOYXJydkNkTUMweF9Db1NxTkxRQURaVFF4TXlEeGotOGN1Q3Y3ZU5HakhkMVJHMFVCYUJrRUJnSnJqVUUySVllazJjVUVmbUZhdmdKR1E?oc=5",
+    "sourceName": "energynews.pro",
+    "publishedAt": "2026-10-28T22:32:15.000Z",
+    "analyzedAt": "2026-10-29T18:51:41.253Z",
+    "updateType": "trade",
+    "relevance": 2,
+    "summary": "Waaree Energies is shifting solar module production to the U.S. in response to tariffs closing export routes, reflecting broader supply-chain reshoring.",
+    "angle": "Tariff-driven production shifts affect module availability, pricing, and supply-chain strategy for Raptor customers. Portfolio owners and O&M providers should reassess module procurement and warranty strategies.",
+    "play": "none",
+    "products": [],
+    "mentionedAccounts": []
+  },
+  {
     "id": "lsaXR5LXNjYWxlLXNvbGFyLw",
     "title": "CPP Wind Engineering develops wind testing certification for utility-scale solar",
     "link": "https://www.solarpowerworldonline.com/2026/10/cpp-wind-engineering-develops-wind-testing-certification-for-utility-scale-solar/",
@@ -858,6 +1109,21 @@
     "products": [
       "raptor_solar"
     ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "cFZSRW90VjIweE9FRT9vYz01",
+    "title": "U.S. module maker announces Department of Commerce waiver allowing cell imports",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSUYzYXQySXV1WTQtRjE3cEJNYW9OTXBiemtwUGxQckhMUHRQcy1pQ3duZGZBMzk5WkZFTWpURElHSlRNUUZROHd1MTRoSXhPNkRHcXg2NkNQM1JFV0lNRjd2NUduMkJEUXZ1TjRGc1F0MWt2MEw3LWRQUUh1cnV4YWNjSTZUVkd3aFdiRjJNVjkwVFY3X1hRR3REeE53SmN3TG5pd1ltQjZWa2JrRVRnR1pVREotV20xOEE?oc=5",
+    "sourceName": "pv magazine Global",
+    "publishedAt": "2026-10-23T06:30:18.000Z",
+    "analyzedAt": "2026-10-29T18:51:41.253Z",
+    "updateType": "trade",
+    "relevance": 2,
+    "summary": "A U.S. module maker has announced a Department of Commerce waiver allowing cell imports, signaling a shift in tariff enforcement and import rules.",
+    "angle": "Tariff waivers and cell import policy changes affect module sourcing costs and supply-chain resilience for solar projects. This creates repricing opportunities and risks worth discussing with project owners and O&M providers.",
+    "play": "none",
+    "products": [],
     "mentionedAccounts": []
   },
   {
