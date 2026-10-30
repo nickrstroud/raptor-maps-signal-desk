@@ -55,5 +55,24 @@
         "publishedAt": "2026-09-21T13:41:17.000Z"
       }
     ]
+  },
+  {
+    "company": "Madison Energy Infrastructure",
+    "runAt": "2026-10-30T18:28:15.654Z",
+    "source": "daily",
+    "headline": "Madison Energy Infrastructure adding battery storage to three Colorado sites; baseline opportunity for new asset class management",
+    "signals": [
+      {
+        "category": "New 50 MW battery storage project at three Colorado sites",
+        "updateType": "expansion",
+        "play": "raptor_solar",
+        "score": 1,
+        "summary": "Madison Energy Infrastructure is partnering with CORE Electric to deploy 50 MW of battery storage across three Colorado sites. This represents new assets entering MEI's portfolio that will require performance monitoring, anomaly detection, and maintenance workflows—all core Raptor Solar capabilities already embedded in MEI's stack.",
+        "suggestedAction": "Reach out to Matthew Messer (VP Asset Management) this week to confirm: (1) whether the three new battery sites will be onboarded to Raptor Solar, and (2) whether MEI sees value in extending inspections/thermal imaging to battery cabinets and balance-of-system equipment as part of baseline health assessment and warranty documentation for the new assets.",
+        "sourceName": "ColoradoBiz",
+        "sourceLink": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBMNUF5YVVEWVl5UlJmYTJ4NDFHQ3RWOFIwN09RbnRqZnVzSDRNSGliM2JKY25zU05HVFFNR0hPdjhCUGM3UXphUEN3SGpqQm4ycVlRRlJrZjQwZnlUR3p3VkFWWkRwaUJzVWVPX1JCaHhsbUJaQk9PeHU4QQ?oc=5",
+        "publishedAt": "2026-10-27T22:01:39.000Z"
+      }
+    ]
   }
 ]

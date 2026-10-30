@@ -1,5 +1,253 @@
 [
   {
+    "id": "c3Rhbi1zb2xhci1hc3NldHMv",
+    "title": "Scatec Q3 2026 results impacted by Ukraine and Pakistan solar assets",
+    "link": "https://www.pv-tech.org/scatec-q3-2026-results-impacted-by-ukraine-and-pakistan-solar-assets/",
+    "sourceName": "PV Tech",
+    "publishedAt": "2026-10-30T16:53:37.000Z",
+    "analyzedAt": "2026-10-30T18:28:51.141Z",
+    "updateType": "distress",
+    "relevance": 2,
+    "summary": "Scatec reports impairment losses on solar assets in Ukraine and Pakistan during Q3 2026, driven by geopolitical and operational challenges at those facilities.",
+    "angle": "IPP portfolio stress—particularly in high-risk geographies—makes asset visibility and predictive O&M critical. Raptor Solar and Sentry are key tools for remote asset health and rapid response in geopolitically exposed fleets.",
+    "play": "sentry",
+    "products": [
+      "raptor_solar",
+      "sentry"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "bXhPWDJGNk5UQkdRUT9vYz01",
+    "title": "First Solar cuts sales forecast as tariff uncertainty slows orders",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZnFyZjdoUDRqaVRGb0lIaHpFTkk5QlMtbE16alFpZ09Wd1pJbUh1YkJ4RV95a3hYeVlwWUVIa1dIT1dxSWxtOUExUmhESG5NaWJhZ19vbTBpRDZVU1FuLXJRWXUwamlsUWNHSEY2U2NVckM0RVlQWDhPYU9pb0tMdzlTb1Vzck54b1hvUVZUaXo2V1FTUHQtX0FiM0haakNwcmxOX2F6NTBGQQ?oc=5",
+    "sourceName": "pv magazine Global",
+    "publishedAt": "2026-10-30T16:17:33.000Z",
+    "analyzedAt": "2026-10-30T18:29:12.144Z",
+    "updateType": "trade",
+    "relevance": 2,
+    "summary": "First Solar cuts sales forecast due to tariff uncertainty slowing orders. Section 232 tariff policies are reshaping U.S. solar economics and customer procurement timelines.",
+    "angle": "Tariff uncertainty is impacting customer order timing and project economics; a proactive conversation about how platform efficiency and inspection ROI become more critical when module/system costs are in flux.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": [
+      "First Solar"
+    ]
+  },
+  {
+    "id": "tcmV2ZW51ZS1ndWlkYW5jZS8",
+    "title": "First Solar sales down 23% year-on-year, cuts full-year revenue guidance",
+    "link": "https://www.pv-tech.org/first-solar-sales-down-23-year-on-year-cuts-full-year-revenue-guidance/",
+    "sourceName": "PV Tech",
+    "publishedAt": "2026-10-30T15:14:02.000Z",
+    "analyzedAt": "2026-10-30T18:28:51.141Z",
+    "updateType": "trade",
+    "relevance": 2,
+    "summary": "First Solar reports Q3 net sales of $1.23 billion, down 23% year-on-year, and cuts full-year revenue guidance amid tariff uncertainty.",
+    "angle": "Supply-chain and tariff-driven contraction is compressing near-term project starts and O&M budgets. Raptor Maps should proactively discuss how platform efficiency and monitoring help customers preserve margins and defer capex.",
+    "play": "retention",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": [
+      "First Solar"
+    ]
+  },
+  {
+    "id": "RabFZLT0ZOa09XcHY_b2M9NQ",
+    "title": "FCC lifts decades-old restriction on drone cellular operations",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hTHo4WnpURmhNZmc0dUtsalJQTlExVDBfNUdtLWxlVHhXbE1nU1pkWnBrYW9INDFOd2NLaTAwdnNKdnhWZFloM1hpZWZHXzZpclduWVdMTGxTSEw5T2ZtX3F4ZlVKOFNkOWpv?oc=5",
+    "sourceName": "DroneDJ",
+    "publishedAt": "2026-10-30T15:06:36.000Z",
+    "analyzedAt": "2026-10-30T18:29:06.389Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "FCC lifted decades-old restriction on drone cellular operations, enabling new operational models for remotely piloted and autonomous aircraft.",
+    "angle": "Regulatory clarity on cellular-enabled drone operations strengthens the business case for scaled autonomous inspection and rapid-response fleets at solar sites.",
+    "play": "sentry",
+    "products": [
+      "sentry",
+      "inspections"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "1TRmhZTTBkbFJqaFI_b2M9NQ",
+    "title": "DJI's 1280 Thermal Drones Skip the US. Economists Saw This Coming",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNklVbXpKOFpEZGdNVnF0ckRqYWZ5bDdqQjJJRk10b0pWY3YwV21LLWdkYlYtNnV2WlItTzhYT29Sa0JPb2k3RDJ3ejRIZFBFNzJDMS03Y3QyOEVjaFlKS2N3eXREM1N6Qi1ZYnBWejBVY1Awc1laTHNjMkZ0TzF1WGhOMEJGeDd6RTUzdVZmSFhYM0dlRjhR?oc=5",
+    "sourceName": "DroneXL",
+    "publishedAt": "2026-10-30T14:55:00.000Z",
+    "analyzedAt": "2026-10-30T18:29:06.389Z",
+    "updateType": "trade",
+    "relevance": 2,
+    "summary": "DJI's thermal drone model (1280) is not being sold in the US market due to trade and regulatory restrictions affecting Chinese drone manufacturers.",
+    "angle": "Restricted access to proven thermal imaging hardware creates opportunity for alternative inspection workflows and platforms that can fill the gap for US-based solar O&M.",
+    "play": "inspections",
+    "products": [
+      "inspections"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "cmlmZi1tYXJrZXQtc2hpZnQv",
+    "title": "First Solar posts 58% gross margin in Q3, trims 2026 sales guidance amid post-tariff market shift",
+    "link": "https://pv-magazine-usa.com/2026/10/30/first-solar-posts-58-gross-margin-in-q3-trims-2026-sales-guidance-amid-post-tariff-market-shift/",
+    "sourceName": "pv magazine USA",
+    "publishedAt": "2026-10-30T13:46:47.000Z",
+    "analyzedAt": "2026-10-30T18:28:51.141Z",
+    "updateType": "trade",
+    "relevance": 2,
+    "summary": "First Solar posts strong Q3 margins but trims 2026 guidance amid Section 232 tariff uncertainty affecting its customer base. The manufacturer is navigating trade policy shifts while investing in next-gen technology.",
+    "angle": "Tariff-driven uncertainty is reshaping customer investment timelines and capital allocation in utility solar. Raptor Maps customers facing delays or repricing should be proactively engaged on how to maximize ROI on existing assets and pipeline projects.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": [
+      "First Solar"
+    ]
+  },
+  {
+    "id": "xpdHktc2NhbGUtZmxlZXRzLw",
+    "title": "Mach launches Tier-1 autonomous solar mowing solution for utility-scale fleets",
+    "link": "https://pv-magazine-usa.com/2026/10/30/mach-launches-tier-1-autonomous-solar-mowing-solution-for-utility-scale-fleets/",
+    "sourceName": "pv magazine USA",
+    "publishedAt": "2026-10-30T12:31:07.000Z",
+    "analyzedAt": "2026-10-30T18:28:51.141Z",
+    "updateType": "expansion",
+    "relevance": 1,
+    "summary": "Mach launches a Tier-1 autonomous solar mowing solution targeting vegetation management for utility-scale IPPs. The fleet orchestration platform aims to reduce bottlenecks in O&M.",
+    "angle": "Autonomous vegetation management is a competing or complementary workflow in solar O&M. Raptor Solar customers and EPCs should understand how this fits into broader asset optimization and labor cost reduction strategies.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "kLWVhcm5pbmdzLzg3MzI3My8",
+    "title": "Xcel Energy rolls out $70B, 5-year capital plan focused on renewables",
+    "link": "https://www.utilitydive.com/news/xcel-energy-renewables-wind-earnings/873273/",
+    "sourceName": "Utility Dive",
+    "publishedAt": "2026-10-30T12:00:00.000Z",
+    "analyzedAt": "2026-10-30T18:29:00.886Z",
+    "updateType": "expansion",
+    "relevance": 2,
+    "summary": "Xcel Energy has announced a US$70 billion, 5-year capital plan that includes 9.2 GW of renewables and 2.3 GW of storage deployment.",
+    "angle": "Major utility capex surge on renewables+storage creates visibility into large new project pipeline; opportunities to discuss operational efficiency and real-time monitoring workflows with existing and prospective customers.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "9uc3RydWN0aW9uLXJpc2tzLw",
+    "title": "Factory-built EBOS systems scale to reduce utility solar construction risks",
+    "link": "https://pv-magazine-usa.com/2026/10/30/factory-built-ebos-systems-scale-to-reduce-utility-solar-construction-risks/",
+    "sourceName": "pv magazine USA",
+    "publishedAt": "2026-10-30T11:45:00.000Z",
+    "analyzedAt": "2026-10-30T18:28:51.141Z",
+    "updateType": "technology",
+    "relevance": 1,
+    "summary": "Factory-built electrical balance of system (EBOS) components and pre-assembly are reducing field labor, errors, and construction timelines for utility-scale projects.",
+    "angle": "EBOS pre-assembly accelerates project commissioning and reduces field risk—a window to discuss Raptor Solar and Inspections adoption during construction/commissioning QA and digital-twin workflows.",
+    "play": "inspections",
+    "products": [
+      "inspections",
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "LXNvbGFyLXB2LXByb2plY3Qv",
+    "title": "Solarcentury Africa to build 112MWp Zambian solar PV project",
+    "link": "https://www.pv-tech.org/solarcentury-africa-build-112mw-zambian-solar-pv-project/",
+    "sourceName": "PV Tech",
+    "publishedAt": "2026-10-30T10:03:27.000Z",
+    "analyzedAt": "2026-10-30T18:29:00.886Z",
+    "updateType": "expansion",
+    "relevance": 1,
+    "summary": "Solarcentury Africa and First Quantum Minerals are developing the 112MWp Kusoka Solar Plant in Zambia, expanding solar capacity in sub-Saharan Africa.",
+    "angle": "Growth signal in emerging African solar market; potential new build-out that could benefit from platform coverage and O&M workflows as project scales.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "xsLXBsYW50LWluLXRleGFzLw",
+    "title": "SEG Solar secures land for 4GW HJT solar cell plant in Texas",
+    "link": "https://www.pv-tech.org/seg-solar-secures-land-for-4gw-hjt-solar-cell-plant-in-texas/",
+    "sourceName": "PV Tech",
+    "publishedAt": "2026-10-30T09:50:39.000Z",
+    "analyzedAt": "2026-10-30T18:29:00.886Z",
+    "updateType": "expansion",
+    "relevance": 1,
+    "summary": "SEG Solar has secured land for a 4GW heterojunction (HJT) solar cell manufacturing facility near Houston, Texas, marking a major domestic capacity expansion.",
+    "angle": "U.S. domestic solar manufacturing expansion signals rising module supply and potential volume growth in U.S. utility-scale projects; relevant to customers planning new builds.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "udC1pbi1uZXctemVhbGFuZC8",
+    "title": "Masdar explores NZ$1 billion solar PV, wind and storage investment in New Zealand",
+    "link": "https://www.pv-tech.org/masdar-explores-nz1-billion-solar-pv-wind-energy-storage-investment-in-new-zealand/",
+    "sourceName": "PV Tech",
+    "publishedAt": "2026-10-30T09:08:02.000Z",
+    "analyzedAt": "2026-10-30T18:29:00.886Z",
+    "updateType": "expansion",
+    "relevance": 1,
+    "summary": "Masdar has signed an agreement with Invest New Zealand to explore up to NZ$1 billion in solar, wind, and battery storage investment in the country.",
+    "angle": "Large solar-plus-storage portfolio expansion in ANZ region; signals growing MW base and bundled solar+storage deployments that benefit from integrated performance monitoring.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "uZXctZmlybWVkLWVuZXJneS8",
+    "title": "Australia’s energy minister seeks AEMC rule change forcing data centres to contract new firmed energy",
+    "link": "https://www.pv-tech.org/australias-energy-minister-seeks-aemc-rule-change-forcing-data-centres-to-contract-new-firmed-energy/",
+    "sourceName": "PV Tech",
+    "publishedAt": "2026-10-30T01:18:09.000Z",
+    "analyzedAt": "2026-10-30T18:29:00.886Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "Australia's energy minister is seeking AEMC rule changes to require data centres to contract firmed energy and to ease grid connection alongside solar and storage.",
+    "angle": "Regulatory shift to ease solar+storage interconnection in Australia; creates new opportunity for project-level and portfolio-level monitoring of dual-asset performance.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "TmxUR1pLWWs1bFVXYz9vYz01",
+    "title": "FCC clears drone operations in 800MHz band",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaWlvQjUtdnZJbDVCWXNKNjlpb0xkSlIwc1BJdDF0dk1BQ2RKT0pwTWZRbjdfekt4ZjQ5TDc5UTI3MkJtcW9iM28yVjM2MHk3OW1JUjlPdnRBUVBMSFNaNkc5M3dWWkN2aF9qNFY2WHFjcUszUXhhZG1iLS1VVmZnX0pYSUtrU2VJQktUQVNlTGZKYk5lUWc?oc=5",
+    "sourceName": "Light Reading",
+    "publishedAt": "2026-10-29T19:26:21.000Z",
+    "analyzedAt": "2026-10-30T18:29:06.389Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "FCC cleared drone operations in the 800MHz band, adding regulatory pathways for unmanned aircraft communications.",
+    "angle": "Extended frequency bands reduce interference risk and improve reliability of autonomous drone fleets deployed for remote solar inspections and storm response.",
+    "play": "sentry",
+    "products": [
+      "sentry",
+      "inspections"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "5ldy10ZXhhcy1mYWN0b3J5Lw",
     "title": "SnapNrack increases domestic manufacturing with new Texas factory",
     "link": "https://www.solarpowerworldonline.com/2026/10/snapnrack-increases-domestic-manufacturing-with-new-texas-factory/",
@@ -49,6 +297,24 @@
     "play": "sentry",
     "products": [
       "sentry"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "U2F6VlpWblkxT0Uxbj9vYz01",
+    "title": "FCC Opens 50 MHz of Cellular Spectrum for Drone Operations",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSERHVE9xVHlRSFpjS1NlV3BtSm5IcUIzQlVFRTFUblJXRVpPWlk3N1VlRXpnSWM2czBoTzRBZmlTUjBzUk55ckdfVm1qc2RsbkNKb0hiUnZuakZ2cUlUZUZSaVR4MTZrLWRxNzlHWUY2NFZGMkpDUFhSazVZVnY1OE1n?oc=5",
+    "sourceName": "Dronelife",
+    "publishedAt": "2026-10-29T15:52:59.000Z",
+    "analyzedAt": "2026-10-30T18:29:06.389Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "FCC opened 50 MHz of cellular spectrum for drone operations, expanding connectivity options for remotely managed UAVs.",
+    "angle": "Broader cellular spectrum access improves drone coordination and fleet management capabilities for autonomous inspection and monitoring workflows.",
+    "play": "sentry",
+    "products": [
+      "sentry",
+      "inspections"
     ],
     "mentionedAccounts": []
   },
@@ -210,6 +476,25 @@
     "relevance": 2,
     "summary": "First Solar has opened a $330M manufacturing plant in South Carolina and targets 3.4 GW capacity by 2027, indicating aggressive domestic production expansion.",
     "angle": "First Solar's massive capacity build underscores domestic manufacturing momentum and supply confidence. This may signal pricing pressures but also increased project activity that Raptor customers will need to monitor and manage operationally.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": [
+      "First Solar"
+    ]
+  },
+  {
+    "id": "jM2JIQjZaVWhaVTNjP29jPTU",
+    "title": "First Solar Opens $330M South Carolina Plant, Targets 3.4 GW Capacity by 2027",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN2dqOUdtM1ZmdTFmNHQ0Q1JKZFZ5U2I1TDVaMl81XzRzcm03MGhFRTJ1ZkdOV3RuVjc2eFppM2lpZWlTRDZfQ1cxbnhPV1IzY0pnUDVuT1B5bmxtZXFsZ1cyYzBmYlRsakdXSnpRY2NIQUtRazRQbDMyMzNzbDBISklnSEFQM3NfWTBZNU9xY2xpRENhcDc5TVd3dEtGNjhfMUREVGZ2M1JaMmhYS1VBV2dZbEhMVlkzZ0llRXRxZzVZcVRHYTlMQWc3bHB6ZUhZU3c?oc=5",
+    "sourceName": "TradingView",
+    "publishedAt": "2026-10-29T04:04:00.000Z",
+    "analyzedAt": "2026-10-30T18:29:12.144Z",
+    "updateType": "expansion",
+    "relevance": 1,
+    "summary": "First Solar opens a $330M South Carolina manufacturing plant and targets 3.4 GW domestic capacity by 2027. Domestic module supply expansion supports U.S. solar growth and domestic-content compliance.",
+    "angle": "Increased domestic module production removes supply constraints and enables more U.S. solar build-out; customers expanding portfolios will need platform coverage and inspection workflows to scale projects efficiently.",
     "play": "raptor_solar",
     "products": [
       "raptor_solar"
@@ -463,6 +748,23 @@
     "mentionedAccounts": []
   },
   {
+    "id": "YWdlLXByb2plY3QtZWd5cHQv",
+    "title": "Scatec, investment banks close US$217 million investment for Dandara solar-plus-storage project in Egypt",
+    "link": "https://www.pv-tech.org/scatec-investment-banks-close-us217-million-investment-dandara-solar-plus-storage-project-egypt/",
+    "sourceName": "PV Tech",
+    "publishedAt": "2026-10-27T14:54:53.000Z",
+    "analyzedAt": "2026-10-30T18:29:00.886Z",
+    "updateType": "financing",
+    "relevance": 1,
+    "summary": "Scatec and multilateral development banks (EIB, EBRD, AfDB) have closed a US$217 million investment for the Dandara solar-plus-storage project in Egypt.",
+    "angle": "Large-scale solar-plus-storage financing closing signals continued capital availability for emerging-market projects; relevant to customers managing hybrid portfolios.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "SEpaZGsxS00xZFdRUT9vYz01",
     "title": "Percepto Opens Its Inspection AI to Rival Drones Under a New CEO",
     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcVRFRk9QOXN0RU1DUDA3ZUxPZWFreGtnNTZtZ0tnZEotTjZsWFlqMncxLTE4cWtxcm9lN1hyUnQwSG1nSTZNZVVfWVRfUWk1UXhmRFdkVzVId3BSNGRSVkVjN21NckZEV3NqQTZ2bWNoVGpFUVJpeDFBRGdZN0xZUmJqTHlGSHJZdk1KM1dWQQ?oc=5",
@@ -564,6 +866,21 @@
       "raptor_solar",
       "sentry"
     ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "JZMDVwV0VKd2FIRko_b2M9NQ",
+    "title": "Solar industry coalition opposes $67 billion Dominion-NextEra merger as proposed",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYm1zaUVwQXZMVHctUGQzcG5DaXZOeWhsTkFmUUdtdXFOblkwZXFpalJnajh5S1RFOFViUndLT3piSUZYRm9EWUJIT25YNXdBVHlKMllLbFZNQzl3WUpCTGR2NFhwRmwzd2xwRnhTQnlVOHdES014Z3llWHJucTdVTFBsSWFqSmo3ZjFDb2oycVA1eFhCTmdRZVF4dDluM1I0aE5SNS1BOWg5aUN4M2REUzlrY05pWEJwaHFJ?oc=5",
+    "sourceName": "pv magazine USA",
+    "publishedAt": "2026-10-27T11:48:48.000Z",
+    "analyzedAt": "2026-10-30T18:29:12.144Z",
+    "updateType": "ma",
+    "relevance": 2,
+    "summary": "Solar industry coalition opposes the proposed $67 billion Dominion-NextEra merger, citing concerns about consolidation and solar integration. Major utility M&A reshapes solar procurement and O&M partnership models.",
+    "angle": "Utility consolidation changes how independent solar operators contract and compete; customers should understand how grid and interconnection policies, as well as reliability compliance (NERC CIP), will shift under new utility control.",
+    "play": "none",
+    "products": [],
     "mentionedAccounts": []
   },
   {

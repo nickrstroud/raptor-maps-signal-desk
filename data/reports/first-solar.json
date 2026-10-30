@@ -276,5 +276,35 @@
         "publishedAt": "2026-10-29T11:00:30.000Z"
       }
     ]
+  },
+  {
+    "company": "First Solar",
+    "runAt": "2026-10-30T18:28:19.837Z",
+    "source": "daily",
+    "headline": "First Solar opens 1.7 GW South Carolina plant amid guidance cut; capacity expansion and near-term headwinds both material to supply chain and Raptor's installed-base growth",
+    "signals": [
+      {
+        "category": "Manufacturing Capacity Expansion",
+        "updateType": "expansion",
+        "play": "raptor_solar",
+        "score": 1,
+        "summary": "First Solar opened its first phase of a 1.7 GW/year module manufacturing facility in Gaffney, South Carolina. This is material US domestic capacity growth for thin-film CdTe production, which underpins supply to utility-scale solar owners across North America—Raptor Maps' core IPP and O&M customer base.",
+        "suggestedAction": "Contact First Solar's supply-chain or strategic partnerships team to understand which major utility-scale IPPs and O&M providers are securing modules from Gaffney phase-1 output. Identify 2–3 anchor customer relationships for co-marketing: Raptor Solar + First Solar reliability intelligence as a competitive moat for those First Solar module deployments (fleet quality, warranty claims, field-failure trending).",
+        "sourceName": "pv magazine Global",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM0ZnX0JOZHZkaXNCNDFEYnhrSGJzVnpHSVllaE9pWGkwaVl0dWdRTkxFckpUMW9IcnRaV2YtMmtOSlJIbzNuWVRRamp0MXF6OGlQSXF2ZThuOTNDTFV4a3BTR0FVRjRjQkRBOXYwWXNhaWZKbkhiQUtRRTkyNWxYV2lBZExaMDllc05xSEJrSUVRaGtRMjFSbjBtNA?oc=5",
+        "publishedAt": "2026-10-29T16:32:06.000Z"
+      },
+      {
+        "category": "Guidance Cut & Near-Term Pressure",
+        "updateType": "distress",
+        "play": "retention",
+        "score": -1,
+        "summary": "First Solar cut full-year 2026 sales guidance, signaling near-term market headwinds (likely tariffs, supply-chain cost, or demand softness). This may slow their own capex and strategic partnerships, and could constrain visibility into supply deals.",
+        "suggestedAction": "Maintain relationship momentum but temper expansion timelines. Confirm that the Gaffney ramp and supply commitments remain on track with First Solar's product leadership and quality teams. Frame Raptor Solar / RS Inspections as a risk-mitigation asset for First Solar customers under pricing pressure (field intelligence reduces warranty exposure and O&M costs).",
+        "sourceName": "Barron's",
+        "sourceLink": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FclBGN3h3M1JlQ1F5czk3T3B5TUhEbThZYks1T0kwQzNsZkxkNEpCSVk2WnZrQnp5MlM5cEVmaWxtZlJkalk4SkZ5c3d4SVNac0ZnZEJwMmZmb3VGTFZwLWYySkRvN2tCOU1yVWxwZFp1WVBKY0ltWnVjR2NJNU0?oc=5",
+        "publishedAt": "2026-10-29T21:09:00.000Z"
+      }
+    ]
   }
 ]

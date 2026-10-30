@@ -5044,5 +5044,291 @@
     },
     "doneWhen": "Signed pilot SOW for Raptor Solar fleet analytics covering Gaffney cohort, or champion agreement to evaluate 90-day trial within 60 days.",
     "generatedAt": "2026-10-29T18:51:08.316Z"
+  },
+  "a_8l0e6j": {
+    "signalId": "a_8l0e6j",
+    "account": "First Solar",
+    "signalTitle": "Manufacturing Capacity Expansion",
+    "play": "onboard_expand",
+    "goal": "Secure co-marketing anchor customers for Raptor Solar + First Solar field-quality intelligence by connecting supply-chain partners to First Solar's Gaffney capacity.",
+    "owner": "VP Sales + Strategic Partnerships (lead); CS Account Owner (support)",
+    "contactRole": "VP Supply Chain & Strategic Partnerships; Director of Field Quality / Warranty Engineering",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0-1",
+        "tasks": [
+          "Confirm Gaffney phase-1 module roadmap and volume allocation to existing IPP and O&M partners.",
+          "Cross-check current RS Inspections usage data to identify First Solar modules already in our operator customer base.",
+          "Map 2–3 largest utility-scale operators or O&M providers in Raptor platform who will likely secure Gaffney supply."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Align Sales, CS, and Product on Raptor Solar co-marketing narrative: thin-film-specific field-quality analytics reduce warranty claims and maximize 45X credit capture.",
+          "Brief [VP Supply Chain] on First Solar's margin play: positioning Gaffney modules as premium (reliability moat + co-marketing to anchor customers).",
+          "Confirm internal stakeholders (Product, Legal) can support co-marketing MOU or joint white paper."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3-5",
+        "tasks": [
+          "Email [VP Supply Chain & Strategic Partnerships] with Gaffney capacity news and a specific ask: a call to discuss First Solar's go-to-market story for anchor customers.",
+          "Propose joint angle: Raptor Solar + RS Inspections dashboards for First Solar owners—competitive advantage for Gaffney supply."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 7-21",
+        "tasks": [
+          "Co-create 1-pager or case-study outline: First Solar thin-film + Raptor field-quality intelligence for IPPs and O&M (e.g., warranty-claim trending, 45X credit alignment).",
+          "Secure 2–3 co-marketing anchor customer names from First Solar; confirm Raptor platform coverage and expansion plan.",
+          "Draft joint messaging for First Solar supply-chain and Raptor Sales to use in IPP/O&M outreach."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log co-marketing MOU or campaign launch date in CRM; tag anchor customer accounts with 'First Solar Gaffney co-marketing' campaign.",
+          "Track new Raptor Solar and RS Inspections consumption from anchor customer accounts; measure win rate and $ uplift vs. non-co-marketed First Solar owner accounts.",
+          "Quarterly check-in with [VP Supply Chain] on Gaffney production ramp, new module series, and co-marketing performance."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "First Solar Gaffney Ramp: Co-Marketing Raptor Solar to Your Key IPP Partners",
+      "body": "Hi [VP Supply Chain & Strategic Partnerships],\n\nCongratulations on Gaffney phase-1 coming online. We've been following your CdTe roadmap and see a major opportunity: your anchor IPP and O&M customers are hungry for field-quality and warranty intelligence that proves the value of First Solar modules.\n\nWe'd love a brief call to explore how Raptor Solar + RS Inspections could be part of your supply-chain competitive story—real-time fleet health, warranty-claim trending, and 45X credit alignment, all tied to Gaffney supply.\n\nWould you have 30 minutes in the next week?\n\nBest,\n[Your name]"
+    },
+    "slack": "First Solar opened Gaffney phase-1 (1.7 GW/year CdTe capacity). This is a big supply-side lever for our utility-scale IPP and O&M customer base. Play: co-marketing Raptor Solar + RS Inspections (thin-film-specific field quality) to First Solar's anchor customers as a competitive moat. Owner: Sales to lead outreach to [VP Supply Chain]; CS to identify anchor Raptor customers and track expansion. Ask: secure co-marketing MOU and 2–3 anchor customer names by end of Q1.",
+    "crmTask": {
+      "title": "First Solar Gaffney Capacity Expansion – Co-Marketing Raptor Solar to Anchor IPP Partners",
+      "due": "In 7 days",
+      "notes": "Signal: First Solar opened Gaffney phase-1 (1.7 GW/year). Play: Co-marketing Raptor Solar + RS Inspections as field-quality + warranty intelligence to anchor utility-scale IPP and O&M partners securing Gaffney supply. Key contacts: VP Supply Chain & Strategic Partnerships, Director of Field Quality. Success measure: co-marketing MOU signed, 2–3 anchor customer names identified, joint messaging launched by Q1 2027."
+    },
+    "doneWhen": "Co-marketing MOU signed with First Solar and 2–3 anchor customer accounts identified and tagged for joint Raptor Solar + First Solar campaign launch.",
+    "generatedAt": "2026-10-30T18:28:35.064Z"
+  },
+  "a_jyiakq": {
+    "signalId": "a_jyiakq",
+    "account": "First Solar",
+    "signalTitle": "Guidance Cut & Near-Term Pressure",
+    "play": "protect_renewal",
+    "goal": "Reposition RS Inspections as a risk hedge for First Solar's OEM partners facing tariff and margin pressure, and deepen relationships with field quality and warranty teams to lock in technical partnership and qualify new expansion paths.",
+    "owner": "Account Executive + CS Director",
+    "contactRole": "Director of Field Quality, VP Warranty & Reliability Engineering",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0-1",
+        "tasks": [
+          "Pull First Solar's installed module base (MW, geographies) on Raptor Solar to quantify joint inspection value under margin pressure.",
+          "Check RS Inspections uptake among top First Solar customer accounts (IPPs, utilities); flag any recent support or product feedback tied to thin-film defect detection.",
+          "Confirm renewal scope and technical contact coverage; note any single-threaded risk in the relationship."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Brief Account Executive on First Solar capex uncertainty and OEM partnership timelines; flag tariff/margin pressure as context for all expansion conversations.",
+          "Loop in Product on potential for thin-film series defects (e.g., 2024 Series 7) or new manufacturing ramp (Gaffney) that could unlock warranty/field-quality use cases.",
+          "Agree: CS leads relationship continuity and field-quality outreach; Account Executive owns pipeline for Raptor Solar co-analytics once margin outlook stabilizes."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3-5",
+        "tasks": [
+          "Reach [Director of Field Quality] with brief insight: how Raptor RS Inspections has helped First Solar's top customers reduce defect-driven warranty claims and O&M costs in a tightening margin environment.",
+          "Propose technical check-in on new module series ramp or Gaffney facility quality assurance—position as partner-led QA, not a sales conversation."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 5-14",
+        "tasks": [
+          "Conduct field-quality review call: share case study (anonymized) of a First Solar customer who used thin-film defect detection to lower warranty exposure; gather feedback on Series 7 or new ramp defect concerns.",
+          "Introduce Raptor Solar fleet analytics as a co-developed offering for First Solar to market to customers as a warranty/O&M cost-mitigation tool; agree next steps and timeline."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log call notes and product feedback (defect patterns, new series, manufacturing ramp concerns) in CRM; share insights with Product.",
+          "Schedule quarterly business review with [Director of Field Quality] and [VP Warranty & Reliability Engineering] to report on RS Inspections adoption among First Solar accounts and co-marketing roadmap."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "First Solar module quality & customer O&M cost—quick check-in",
+      "body": "Hi [Director of Field Quality],\n\nWith tariff headwinds and margin pressure in solar right now, First Solar customers are scrutinizing warranty exposure and O&M costs more closely. We've seen RS Inspections help several owners reduce defect-driven claims and downtime through early thin-film anomaly detection—especially on Series 6 and earlier.\n\nAs you ramp new capacity and series, we'd like to partner on field-quality assurance and share customer results. Quick call next week?\n\nBest,\n[Your name]"
+    },
+    "slack": "First Solar cut 2026 guidance—near-term capex and partnership pressure. Repositioning RS Inspections as a warranty/O&M risk hedge for their OEM partners under margin squeeze. AE to hold on Raptor Solar expansion until visibility improves; CS to own field-quality relationship deepening and defect feedback loop. Goal: lock technical partnership, qualify warranty analytics use case, secure channel to new manufacturing ramp quality reviews.",
+    "crmTask": {
+      "title": "First Solar: Margin Pressure & Field-Quality Partnership | RS Inspections Risk Mitigation",
+      "due": "In 7 days",
+      "notes": "Signal: FY2026 guidance cut / tariff and supply-chain headwinds. Relationship risk: single-threaded; no named exec sponsor. Action: reposition RS Inspections as OEM partner risk-mitigation asset for First Solar customers; engage field quality and warranty teams; gather defect and manufacturing ramp feedback; hold Raptor Solar expansion until capex visibility improves. Watch: Series 7 defects, Gaffney ramp, 45X credit impact on supply deals, new customer contracts."
+    },
+    "doneWhen": "Confirmed call with [Director of Field Quality] and/or [VP Warranty & Reliability Engineering]; documented defect feedback, new series/ramp concerns, and agreement on co-marketing or warranty analytics next steps in CRM.",
+    "generatedAt": "2026-10-30T18:28:35.421Z"
+  },
+  "a_1mvuj4b": {
+    "signalId": "a_1mvuj4b",
+    "account": "Madison Energy Infrastructure",
+    "signalTitle": "New 50 MW battery storage project at three Colorado sites",
+    "play": "onboard_expand",
+    "goal": "Onboard three new 50 MW battery storage sites into Raptor Solar and establish baseline inspection protocol for battery systems to extend MEI's proven asset health and preventive maintenance playbook.",
+    "owner": "Account Executive + CS Director",
+    "contactRole": "VP Asset Management",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0",
+        "tasks": [
+          "Confirm MEI's three new Colorado battery sites are operationalized (MW online, monitoring SCADA/inverter feeds available) and acquisition timeline.",
+          "Check MEI's current RS Inspections deployment model and whether battery thermal imaging / BOP inspections fit their underperformance-driven dispatch logic.",
+          "Flag API/integration dependencies: confirm AlsoEnergy or other production monitoring feeds are live for new sites and review any investor reporting requirements."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Brief Account Executive and Ops on expansion scope: three new sites + potential new inspection service line (battery thermal and BOP imaging).",
+          "Loop in Product: battery storage health signals (thermal deltas, BOP anomalies) as input to MEI's anomaly detection workflow; assess if Sentry dock is viable for any CO locations.",
+          "Agree: AE leads commercial expansion conversation; CS leads technical onboarding plan and baseline inspection scope."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3-5",
+        "tasks": [
+          "Send brief email to [VP Asset Management] anchored on their three new Colorado battery sites and the baseline health assessment opportunity.",
+          "Request 15-min call to walk through onboarding timeline, SCADA/production feed setup, and MEI's appetite for thermal imaging of battery cabinets + BoP (warranty documentation, anomaly detection input)."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 7-21",
+        "tasks": [
+          "Deliver technical onboarding plan: SCADA integration, user provisioning, baseline inspection schedule for three sites.",
+          "Propose battery thermal + BOP imaging scope (timeline, site access, deliverables) tied to acquisition warranty evidence and preventive maintenance workflows.",
+          "Build amendment or SOW to formalize new MW and inspection scope; confirm investor reporting feeds align with API stack."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log sites, MW, and inspection scope in CRM; confirm SCADA/production feeds in system of record within 14 days of go-live.",
+          "Schedule 30-day health check post-baseline inspection to validate anomaly detection logic works for battery assets and refine dispatch rules.",
+          "Close loop with Product on battery thermal + BOP signal quality and potential for future Sentry integration at other MEI locations."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Onboarding your new Colorado battery assets—and a baseline health scan idea",
+      "body": "Hi [VP Asset Management],\n\nCongrats on the new 50 MW battery addition across your three Colorado sites. We know from your Project Slingshot success how much offline strings and underperformance cost—and battery systems have their own health signatures (thermal deltas, BOP anomalies) that feed directly into the preventive maintenance workflow you've already built into Raptor Solar.\n\nQuick questions: (1) Are the three sites coming into your Raptor Solar / AlsoEnergy stack? (2) Would you see value in thermal imaging of battery cabinets and balance-of-system as part of your baseline health assessment and warranty documentation?\n\nHappy to walk through timing and scope this week.\n\nBest,\n[Raptor Maps]"
+    },
+    "slack": "Madison Energy Infrastructure won a 50 MW battery storage project (three CO sites) with CORE Electric—perfect fit for RS onboarding + baseline inspection expansion. MEI's proven integration model (SCADA → RS → reporting) and Project Slingshot success show appetite for battery thermal and BOP anomaly data. AE to lead commercial; CS to scope onboarding + inspection plan. Confirm with [VP Asset Management] this week whether new sites are in scope for RS and if MEI wants baseline battery thermal imaging for warranty and preventive maintenance.",
+    "crmTask": {
+      "title": "Madison Energy Infrastructure: 50 MW battery storage onboarding (CO) + baseline inspection scope",
+      "due": "In 5 days",
+      "notes": "Signal: New 50 MW battery storage portfolio (three CO sites) acquired by MEI in partnership with CORE Electric. Expansion opportunity: onboard sites to Raptor Solar (MW and consumption growth) + establish baseline battery thermal imaging and BOP inspection protocol (new service line). Anchor: MEI's existing integration depth (RS API + AlsoEnergy + BI stack) and proven value from Project Slingshot (2.5% annual fleet-wide recovery). Action: Confirm onboarding scope and inspection appetite with [VP Asset Management]; align AE and CS on commercial and technical play. Multi-threaded sponsors include Senior Manager of Analytics and Regional Asset Managers across CO sites."
+    },
+    "doneWhen": "Three new battery sites onboarded to Raptor Solar, baseline thermal + BOP inspection completed, and MEI confirms battery anomaly detection feeds into their preventive maintenance dispatch logic.",
+    "generatedAt": "2026-10-30T18:28:36.322Z"
+  },
+  "a_1w9l52": {
+    "signalId": "a_1w9l52",
+    "account": "BayWa r.e.",
+    "signalTitle": "Portfolio Divestment - Gresselgrund Solar-Plus-Storage Project",
+    "play": "protect_renewal",
+    "goal": "Confirm Raptor platform usage on divested assets, quantify revenue impact, and position BayWa r.e. Operations Services as trusted vendor to incoming owner(s).",
+    "owner": "Account Executive + CS Director",
+    "contactRole": "Director of ROCC and Engineering, Operations Services",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0-1",
+        "tasks": [
+          "Check Raptor Solar and RS Inspections contract terms for Gresselgrund project (MW, sites, consumption model) in CRM and billing records",
+          "Map all German/European assets managed by BayWa r.e. Operations Services that currently run on Raptor platform",
+          "Confirm with Finance/Sales whether revenue was recognized or if project was already off-contract"
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Brief Account Executive on divestment signal and any MW offboarded; flag if material to retention forecast",
+          "Align with Product on BayWa r.e.'s ROI metrics (cost per MW, uptime, inspection insights) to support new-owner pitch",
+          "Prepare 30-second talking point: Raptor platform reduces O&M cost and risk for new solar owner, with proven deployment at BayWa r.e. scale"
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3-5",
+        "tasks": [
+          "Email [Director of ROCC and Engineering] to acknowledge portfolio shifts in renewable O&M and offer a brief check-in on Raptor platform value and any upcoming ownership transitions",
+          "Suggest a call to review: (1) status of Gresselgrund and any other divested assets, (2) how Raptor is performing on retained portfolio, (3) how to position platform ROI to new stakeholders"
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 7-14",
+        "tasks": [
+          "Conduct call: ask about Gresselgrund and other divestitures, capture specifics (MW, revenue, assets), and listen for signs of budget or vendor review",
+          "If material revenue loss, create save/expansion brief: show BayWa r.e. cost-per-MW savings and production recovered from Raptor data (for their new investor pitch)",
+          "Offer to brief incoming owner's operations/technical team on Raptor platform deployment, ROI, and integration roadmap (position as warm handoff, not churn risk)"
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log outcome of outreach and Gresselgrund status in CRM (contract, revenue, offboarded MW)",
+          "Flag any vendor review or new-owner contact; share with Product for win/loss insight",
+          "Monitor BayWa r.e. North American O&M operations for restructuring signals (layoffs, budget freeze, new leadership); prepare reestablish play if engagement drops"
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Renewable portfolio shifts—how can Raptor help BayWa r.e. and your new partners?",
+      "body": "Hi [Director of ROCC and Engineering],\n\nWe've noticed portfolio activity at the parent company level (e.g., Gresselgrund) and recognize this reflects BayWa AG's strategic moves. From our side, we want to ensure Raptor is working as hard as it can for your North American O&M business and any incoming stakeholders.\n\nQuick questions: (1) Did Gresselgrund or other divested assets run on Raptor Solar or Inspections? (2) How is the platform performing across your retained portfolio? (3) As ownership structures evolve, is there anything we should know?\n\nHappy to hop on a brief call this week to dig in.\n\nBest,\n[Your name]"
+    },
+    "slack": "🚨 **Signal: BayWa AG divests Gresselgrund solar-storage project in Germany** – likely part of ongoing restructuring and cash stabilization. Unknown if this asset (or others) ran on Raptor Solar/Inspections; need to confirm MW/revenue at risk. Play: protect_renewal – check for offboarded sites, quantify impact, and position BayWa r.e. as trusted vendor to new owner. **AE + CS lead:** outreach to [Director ROCC] this week; flag if divestment signals material churn or new-owner due diligence.",
+    "crmTask": {
+      "title": "BayWa AG Gresselgrund Divestment – Revenue Risk & New-Owner Positioning",
+      "due": "In 3 days",
+      "notes": "Parent company BayWa AG sold Gresselgrund solar-plus-storage in Germany as part of broader restructuring/cash stabilization (planned sale val. dropped ~EUR 800M, restructuring extended to 2030, largest shareholders moved stake to trust). Signal: Continued divestment risk for North American O&M business; budget/vendor review likely with new owner. Immediate actions: (1) Confirm Raptor platform usage on Gresselgrund and other divested German/European assets managed by BayWa r.e. Ops Services; (2) Quantify any MW/revenue offboarded; (3) Prepare ROI brief for new owner and position as trusted partner. Watch for: additional divestitures, layoffs, budget freeze, new leadership, vendor consolidation."
+    },
+    "doneWhen": "Director of ROCC confirms Gresselgrund status (on/off platform, MW, revenue), and we have a plan to brief or support new owner relationship if material divestment occurs.",
+    "generatedAt": "2026-10-30T18:28:36.722Z"
   }
 }

@@ -540,5 +540,35 @@
         "publishedAt": "2026-10-29T10:11:17.000Z"
       }
     ]
+  },
+  {
+    "company": "BayWa r.e.",
+    "runAt": "2026-10-30T18:28:18.583Z",
+    "source": "daily",
+    "headline": "BayWa r.e. asset sales continue amid parent restructuring; cash runway extended but refinancing risk remains open",
+    "signals": [
+      {
+        "category": "Portfolio Divestment - Gresselgrund Solar-Plus-Storage Project",
+        "updateType": "ma",
+        "play": "retention",
+        "score": -1,
+        "summary": "BayWa AG sold the Gresselgrund solar-plus-storage project in Germany. While this asset may not be under BayWa r.e. North American O&M operations, it signals continued portfolio rationalization and asset sales at the parent company level to stabilize cash. This reinforces the restructuring and divestment risk outlined in the relationship context.",
+        "suggestedAction": "Confirm with Sean Bucher whether Gresselgrund or any other sold German/European assets were running on Raptor Solar or RS Inspections, and if any MW are being offboarded. If material, flag the revenue impact and explore whether the divestment creates opportunities to sell BayWa r.e. Operations Services' performance data and ROI case to the new owner.",
+        "sourceName": "Shanghai Metals Market",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTGF3clU5dVVpQlBSaVZUQk9xU3Q3U1BiVjBDX1BLZ0t2RWlYeTdfTWFLLUpodW1VQTh0T2tRb01fTWd6aTZ2Y3ZSQ1ZhS25JUnJFRWg2SHRlMXIyWElEWmhVcWhQMS1fSXVQRjNDWk5VelRBMjZ3bkZ2SjZ5YVNvRnZ5MVZ2RzQ0bTVLMW9QZk9kRkwyR3lRVjZhRnBsSk91WF9fUkhIOA?oc=5",
+        "publishedAt": "2026-10-30T10:43:00.000Z"
+      },
+      {
+        "category": "Parent Company Refinancing Progress",
+        "updateType": "financing",
+        "play": "retention",
+        "score": 0,
+        "summary": "BayWa won 'breathing room' at the solar unit level while the parent's broader bond refinancing risk remains unresolved. This suggests the North American O&M operations may have near-term stability, but parent-level solvency pressures persist. The turnaround structure and 2030 restructuring timeline create ongoing uncertainty.",
+        "suggestedAction": "Schedule a relationship check-in with Sean Bucher to assess budget outlook for 2027 and any planned changes to the North American O&M footprint, staffing, or vendor spend under the restructuring plan. Use this to reset expectations and frame Raptor Maps ROI metrics (cost-per-MW, uptime gains, inspection efficiency) as proof points for new owners or cost-conscious leadership.",
+        "sourceName": "ad-hoc-news.de",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSDVIaEd5UDgyWlNleUcyMmlBbVJXa0JFdzY2NWREdUxXSElDa0J2TmpocS1VTVZ2Q000cjNta3lrSzJoeWJMdW1qTzVQY3NRWjVkOXB3UVhVbXZxM0JuTTlWU25JbVVDQW82elhlaDV6QnZ4QmtPWVcwcE5XOUQ4bGhGZWpXbjFlUzNfRGhDYi0wT3VsRnpHT0VWcTByVXJCUDc3VUZNb3J5Mndad3ZwZXBfNXhTVkRTNm1KN2FBcTVJR0tKMUo3TnVCU2hXZDhhYUxEMzBnT0NMMnEzVEN6MzFmZHVfVVIwN3ItWUlfRQ?oc=5",
+        "publishedAt": "2026-10-29T10:11:17.000Z"
+      }
+    ]
   }
 ]
