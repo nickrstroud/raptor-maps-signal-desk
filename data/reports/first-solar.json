@@ -306,5 +306,24 @@
         "publishedAt": "2026-10-29T21:09:00.000Z"
       }
     ]
+  },
+  {
+    "company": "First Solar",
+    "runAt": "2026-10-31T17:33:50.175Z",
+    "source": "daily",
+    "headline": "First Solar Q3 2026 earnings miss; watch for impact on capex, new factory timelines, and field-quality priorities",
+    "signals": [
+      {
+        "category": "Q3 2026 earnings miss",
+        "updateType": "distress",
+        "play": "retention",
+        "score": -1,
+        "summary": "First Solar missed Q3 2026 sales expectations. Earnings misses typically trigger cost reviews, capex scrutiny, and potential delays in new initiatives—including field-quality and warranty-analytics programs that drive Raptor Solar and RS Inspections co-marketing expansion.",
+        "suggestedAction": "Schedule a check-in with First Solar's VP Field Quality or VP Warranty to understand whether the earnings miss affects their 2027 roadmap for joint inspection standards on new module series (e.g. Series 8 or next-gen thin-film) and any plans to expand Raptor Solar adoption among their installed-base customer base. Frame as partnership continuity and roadmap alignment, not as a sales push.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWnEwdWZURU5kNFNycmx3dVpyazRpaFRrWTdBalAzNFRrakoxVnRmdFN6THpTLVNtMWwtR3FRbTV2UFFLSmlHTUxIN2t5b3hxaFZCTnpxQlZYQ1hvTjRmbnJZVTFuLVA1RC1HYVJFczdUUGF4aGMyZmM2OG9GNGRvT3BFaUg0Ml95RjN6cGdRU21KMlh3S1hyU0lzTQ?oc=5",
+        "publishedAt": "2026-10-29T20:11:06.000Z"
+      }
+    ]
   }
 ]

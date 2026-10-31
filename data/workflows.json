@@ -5330,5 +5330,77 @@
     },
     "doneWhen": "Director of ROCC confirms Gresselgrund status (on/off platform, MW, revenue), and we have a plan to brief or support new owner relationship if material divestment occurs.",
     "generatedAt": "2026-10-30T18:28:36.722Z"
+  },
+  "a_1gi9pdz": {
+    "signalId": "a_1gi9pdz",
+    "account": "First Solar",
+    "signalTitle": "Q3 2026 earnings miss",
+    "play": "protect_renewal",
+    "goal": "Confirm that Q3 earnings miss does not derail 2027 joint inspection standards roadmap and Raptor Solar expansion plans with First Solar's installed-base customer base.",
+    "owner": "VP Product + Account Executive",
+    "contactRole": "VP Field Quality or VP Warranty Engineering",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0-1",
+        "tasks": [
+          "Review First Solar Q3 2026 earnings call transcript for any mentions of field-quality, warranty, or capex freezes affecting 2027 initiatives",
+          "Check Raptor Maps CRM for existing RS Inspections usage metrics, joint research milestones completed, and any pending Series 8 or next-gen module collaboration agreements",
+          "Confirm who owns field-quality roadmap and warranty analytics at First Solar (validate VP or identify if sponsor has changed since 2023 partnership launch)"
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Brief VP Product and Account Executive on Q3 earnings context and risk to 2027 roadmap commitments",
+          "Agree on outreach tone: partnership continuity and support during cost review, not sales pitch",
+          "Assign lead (likely Account Executive given relationship depth); confirm Product will attend call to discuss technical roadmap"
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 2-3",
+        "tasks": [
+          "Email [VP Field Quality or VP Warranty Engineering] expressing support and requesting a brief call to align on 2027 joint inspection standards roadmap for Series 8 and any Raptor Solar fleet-analytics expansion plans",
+          "If no response in 3 days, reach out to [VP Field Quality] via LinkedIn or secondary contact in field-quality engineering"
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 3-7",
+        "tasks": [
+          "Hold 30-min partnership continuity call: listen to 2027 capex and roadmap priorities, confirm RS Inspections thin-film standards remain relevant, discuss any shifts in timing or scope for Raptor Solar pilot or co-marketing to installed base",
+          "If roadmap is on track, propose next concrete milestone (e.g., Series 8 inspection standard review, Raptor Solar pilot scope with top 3 First Solar owner sites)",
+          "If roadmap is paused or scaled back, agree on hold/restart criteria and add to risk log for Account Executive to monitor"
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Day 7+",
+        "tasks": [
+          "Log call summary, any roadmap changes, and 2027 milestones in CRM; flag if Raptor Solar expansion or joint standards work is delayed or cancelled",
+          "Notify Product of any shifts in thin-film ML detection priorities or new module-series inspection requests",
+          "Set reminder for Q1 2027 check-in to confirm budget allocation and resource commitment to joint initiatives"
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Partnership Check-In: 2027 Inspection Standards & Roadmap",
+      "body": "Hi [VP Field Quality or VP Warranty Engineering],\n\nWe saw First Solar's Q3 results and wanted to check in on partnership continuity. The work we've done together on thin-film-specific inspection standards for RS Inspections has been valuable, and we want to make sure the 2027 roadmap for Series 8 standards and any Raptor Solar fleet-analytics expansion is still on track—or if priorities have shifted, to understand how we can best support your team.\n\nWould you have 30 minutes in the next week for a quick call? No agenda other than alignment.\n\nThanks,\n[Your name]"
+    },
+    "slack": "First Solar missed Q3 2026 earnings, which typically triggers capex and roadmap reviews. We need to confirm that our 2027 joint inspection-standards roadmap for Series 8 and Raptor Solar expansion plans with their installed-base customers aren't on the chopping block. **Play: protect_renewal.** [Account Executive] will lead outreach to [VP Field Quality or VP Warranty Engineering]. Product to join call if roadmap is intact. Risk flag: if this partnership is single-threaded or sponsor has left, escalate immediately.",
+    "crmTask": {
+      "title": "First Solar Q3 Miss: Protect 2027 Joint Roadmap",
+      "due": "In 7 days",
+      "notes": "Q3 2026 earnings miss may delay or freeze capex and new initiatives, including field-quality and warranty-analytics programs with Raptor Maps. Partnership began spring 2023 with joint research on thin-film-specific aerial inspection standards. No named sponsor identified; relationship risk if single-threaded. Confirm 2027 milestones (Series 8 inspection standards, Raptor Solar co-marketing/pilot with installed-base customers) remain funded and scheduled. If roadmap is paused, add hold/restart criteria to risk log."
+    },
+    "doneWhen": "Call completed with [VP Field Quality or VP Warranty Engineering]; roadmap status (on track, delayed, or cancelled) and any 2027 milestone changes logged in CRM and flagged for Account Executive quarterly review.",
+    "generatedAt": "2026-10-31T17:34:05.567Z"
   }
 }

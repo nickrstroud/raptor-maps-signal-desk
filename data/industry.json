@@ -1,5 +1,22 @@
 [
   {
+    "id": "RTM2xxYldwNFQyUjM_b2M9NQ",
+    "title": "Spare Grid Capacity Anchors Portland General's $1.75 Billion Oregon Build",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFI3WXhlc2diRXZ0QVZnRUxVcG96dy02cVFLQ1ByMDI4aXNOUElSRXlYWGtCb1ZYbWpyYTZLbk4zZWN5aFkyR09pNC1qWlQyWUM1cWFWdzN3X2hSS3labDd1NkdjU3RqV3B2LWxrZExwLVRva3l0aHVFUVh2Rm9RM0FZbk1OMmp4TkRFbkc1R3RueEcwTVUyWGNRY0toV1JyaDQ4dTRtU21tS3lqbWp4T2R3?oc=5",
+    "sourceName": "https://megaproject.com/",
+    "publishedAt": "2026-10-30T21:14:38.000Z",
+    "analyzedAt": "2026-10-31T17:34:16.718Z",
+    "updateType": "expansion",
+    "relevance": 2,
+    "summary": "Portland General Electric is anchoring a $1.75 billion solar build in Oregon leveraging spare grid capacity, representing significant utility-scale solar expansion and capital deployment.",
+    "angle": "Large utility solar builds require robust O&M platforms and monitoring. This project signals strong investment in utility-scale solar that could benefit from Raptor Solar's performance intelligence and site management capabilities.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "c3Rhbi1zb2xhci1hc3NldHMv",
     "title": "Scatec Q3 2026 results impacted by Ukraine and Pakistan solar assets",
     "link": "https://www.pv-tech.org/scatec-q3-2026-results-impacted-by-ukraine-and-pakistan-solar-assets/",
@@ -125,6 +142,25 @@
       "raptor_solar"
     ],
     "mentionedAccounts": []
+  },
+  {
+    "id": "V5VlhGVWEyODFZV2M_b2M9NQ",
+    "title": "First Solar, Inc. Q3 2026 Earnings Call Summary",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaEZuVUtIOWtzRTRHS21aZ1F2TzFWWXJJd2U2NDVtaFN3MHRNaTJvQ0xTdkhLZ3B4SWVWZlk5SXRoWEx5WTVXMjB6b24zWF9abUhTMzlqM0JkOGxVX3k0NHZhV21fRHRGT2pLVGxQYW4yQlpULXp1NjhaZzcxSFEyVXFUa281YWc?oc=5",
+    "sourceName": "Yahoo Finance",
+    "publishedAt": "2026-10-30T12:30:00.000Z",
+    "analyzedAt": "2026-10-31T17:34:14.306Z",
+    "updateType": "competitive",
+    "relevance": 2,
+    "summary": "First Solar reports Q3 2026 earnings results. Key financial and operational signals from major module manufacturer and EPC competitor.",
+    "angle": "First Solar earnings provide insight into manufacturing costs, module quality trends, and EPC pipeline health—relevant context for understanding customer capex and warranty exposure.",
+    "play": "inspections",
+    "products": [
+      "inspections"
+    ],
+    "mentionedAccounts": [
+      "First Solar"
+    ]
   },
   {
     "id": "kLWVhcm5pbmdzLzg3MzI3My8",
@@ -639,6 +675,23 @@
     "relevance": 2,
     "summary": "Maryland launches $200M clean energy auction programme to deploy capacity across the state. Represents meaningful new procurement and deployment opportunity in a key solar market.",
     "angle": "Maryland's substantial state-backed clean energy investment signals a major build-out cycle in a core market. Raptor Solar customers bidding on or operating new Maryland assets will benefit from platform coverage tracking and optimizing performance across this new capacity.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "pIYVd3d01pMWZaM00_b2M9NQ",
+    "title": "Argo Energy Acquires Additional 10 MW of Rooftop Solar, Bringing Total to 20 MW",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1taUlzeEZTZmlxeXFDdG1LWGRQRGZhVms2aFlyb3dGSnlwZ1k3MW1PWVZDRDlsZ1hDM0ZXTHVXVEhqaDA1bThPNnZvTDcxbllyMUhrejJLTk9RQzZHaWwwMi1fZ3M?oc=5",
+    "sourceName": "아시아경제",
+    "publishedAt": "2026-10-28T06:30:00.000Z",
+    "analyzedAt": "2026-10-31T17:34:14.306Z",
+    "updateType": "expansion",
+    "relevance": 2,
+    "summary": "Argo Energy acquires additional 10 MW of rooftop solar, bringing total portfolio to 20 MW. Represents portfolio growth and potential O&M scaling opportunity.",
+    "angle": "Rooftop solar growth signals increasing MW under management; relevant for discussing platform coverage expansion and multi-site analytics with customers managing distributed portfolios.",
     "play": "raptor_solar",
     "products": [
       "raptor_solar"
