@@ -1,5 +1,58 @@
 [
   {
+    "id": "UtdGhlLW5leHQtY3Jpc2lzLw",
+    "title": "PJM’s Emergency Order Should Be a Wake-Up Call for Michigan: Build More Power Before the Next Crisis",
+    "link": "https://www.solarpowerworldonline.com/2026/11/pjms-emergency-order-should-be-a-wake-up-call-for-michigan-build-more-power-before-the-next-crisis/",
+    "sourceName": "Solar Power World",
+    "publishedAt": "2026-11-01T12:00:30.000Z",
+    "analyzedAt": "2026-11-01T18:19:38.990Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "PJM Interconnection's October 2026 emergency order directing additional generating resources to address capacity shortfalls underscores grid stress and the need for faster interconnection and reliable solar operations during peak demand periods.",
+    "angle": "Solar operators in PJM need proven performance analytics and rapid response capabilities—this signals growing grid pressure and potential for higher dispatch/curtailment requirements. Sentry's remote monitoring and automated storm response capabilities become increasingly valuable for maintaining uptime.",
+    "play": "sentry",
+    "products": [
+      "sentry",
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "QmNVUkVRMDVxYzBGUj9vYz01",
+    "title": "Waaree Renewable Technologies Wins 5-Year O&M Mandate for 360 MWp Solar Project",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMjVxbnJxSE1RU0dXZ0NHX21ualFLNnZjZE41SnZCYzFiX0NKSkJVU3dpQ0c0cGNGYmVjemx2eWM3TnpYY2cwbGFCWUxIellIanF5U1g4TURhaWZRbE1lOVRubUh0dUEzUVE1cVlMWTBuRFFnd2R2MjFSUm1fWUlXLVpoRHp5aUxmM19sblBHUWd2WUt0NXZpSUkydUJ3ei1wUHFFX2Q4YU9KMi1jYmpvaElCcjFhYnNjU2FMN2s4bEZBcUREQ05qc0FR?oc=5",
+    "sourceName": "TipRanks",
+    "publishedAt": "2026-11-01T09:48:59.000Z",
+    "analyzedAt": "2026-11-01T18:19:38.990Z",
+    "updateType": "expansion",
+    "relevance": 1,
+    "summary": "Waaree Renewable Technologies has won a 5-year O&M contract for a 360 MWp solar project, indicating significant portfolio growth and new O&M mandate wins in the market.",
+    "angle": "Competitive O&M wins by regional players highlight the market's shift toward centralized, data-driven plant management. This is an opportunity to discuss how Raptor Solar's platform can help existing O&M operators and IPPs scale operations and reduce costs across growing portfolios.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "JVW0xc01HbDNja3hSP29jPTU",
+    "title": "SEIA Proposes Solar and Storage Grid Procurement Framework",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSWx3TTJuaUROajFURlp4Q1VCbFpFdXJxT1BmUnU1bmVCRDlXM1h4eHhkN2R3enY2ekhvNnJEVVJlWWphcDRDdjM2b3BZd3NzS3lWSmU0bWpoVXJqa3lDbUdKYkFnRlBDX0gzeldZUUx3MWtvRzR4QXA2dkhLalo5Y3JVWmNGaUdCYnZOZU5aemtiU0RJZm5wQ1BUaXh4cnY3azVqMEE5ZlJqTDlzd2hNY0dsYkRIUm1sMGl3ckxR?oc=5",
+    "sourceName": "Construction Owners",
+    "publishedAt": "2026-10-31T22:16:12.000Z",
+    "analyzedAt": "2026-11-01T18:19:38.990Z",
+    "updateType": "policy",
+    "relevance": 1,
+    "summary": "SEIA has proposed a new Solar and Storage Grid Procurement Framework, signaling industry efforts to streamline grid interconnection and procurement for paired solar-storage projects.",
+    "angle": "A more standardized grid procurement pathway will accelerate solar-plus-storage deployment. Raptor Solar and Comply can support customers navigating new grid interconnection workflows and compliance requirements for hybrid projects.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar",
+      "comply"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "RTM2xxYldwNFQyUjM_b2M9NQ",
     "title": "Spare Grid Capacity Anchors Portland General's $1.75 Billion Oregon Build",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFI3WXhlc2diRXZ0QVZnRUxVcG96dy02cVFLQ1ByMDI4aXNOUElSRXlYWGtCb1ZYbWpyYTZLbk4zZWN5aFkyR09pNC1qWlQyWUM1cWFWdzN3X2hSS3labDd1NkdjU3RqV3B2LWxrZExwLVRva3l0aHVFUVh2Rm9RM0FZbk1OMmp4TkRFbkc1R3RueEcwTVUyWGNRY0toV1JyaDQ4dTRtU21tS3lqbWp4T2R3?oc=5",
@@ -264,6 +317,26 @@
       "raptor_solar"
     ],
     "mentionedAccounts": []
+  },
+  {
+    "id": "x0V25WalIyTkpOVTA_b2M9NQ",
+    "title": "Lower Guidance Clouds First Solar Earnings Despite Rays of Light on the Horizon",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FclBGN3h3M1JlQ1F5czk3T3B5TUhEbThZYks1T0kwQzNsZkxkNEpCSVk2WnZrQnp5MlM5cEVmaWxtZlJkalk4SkZ5c3d4SVNac0ZnZEJwMmZmb3VGTFZwLWYySkRvN2tCOU1yVWxwZFp1WVBKY0ltWnVjR2NJNU0?oc=5",
+    "sourceName": "Barron's",
+    "publishedAt": "2026-10-29T21:09:00.000Z",
+    "analyzedAt": "2026-11-01T18:19:38.990Z",
+    "updateType": "competitive",
+    "relevance": 1,
+    "summary": "First Solar has issued lower earnings guidance despite some positive developments, reflecting module pricing pressure and slower-than-expected deployment momentum.",
+    "angle": "First Solar's guidance pressure underscores margin compression in solar manufacturing and procurement. This may drive EPC and IPP customers to seek operational efficiency gains through better analytics and inspection workflows—a Raptor Solar and Inspections conversation.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar",
+      "inspections"
+    ],
+    "mentionedAccounts": [
+      "First Solar"
+    ]
   },
   {
     "id": "TmxUR1pLWWs1bFVXYz9vYz01",

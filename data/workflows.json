@@ -5402,5 +5402,77 @@
     },
     "doneWhen": "Call completed with [VP Field Quality or VP Warranty Engineering]; roadmap status (on track, delayed, or cancelled) and any 2027 milestone changes logged in CRM and flagged for Account Executive quarterly review.",
     "generatedAt": "2026-10-31T17:34:05.567Z"
+  },
+  "a_1arjixr": {
+    "signalId": "a_1arjixr",
+    "account": "Madison Energy Infrastructure",
+    "signalTitle": "EQT Capital Partnership & CORE Cooperative Expansion",
+    "play": "onboard_expand",
+    "goal": "Identify new MW coming into MEI's operations through the CORE partnership and secure baseline inspections + onboarding to Raptor Solar before sites go live.",
+    "owner": "CS Director + Account Executive",
+    "contactRole": "VP Asset Management",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0–1",
+        "tasks": [
+          "Confirm current portfolio size (~800 sites, 1 GW) and whether CORE partnership has signed or is in LOI (impacts timeline).",
+          "Check if Director of Asset Management from earlier case study is still sponsor; identify current reporting integration points (AlsoEnergy, Power BI, API automation).",
+          "Review MEI's renewal date and any recent expansion ARR from Inspections consumption to establish renewal health baseline."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1–3",
+        "tasks": [
+          "Brief Sales on partnership structure: Are new sites M&A or co-developed? How many MW and what timing for onboarding?",
+          "Confirm Ops/Support readiness for potential inspection surge (baseline scans on new acquisition sites) and any new reporting schema needed for CORE member-owners.",
+          "Flag to Product: Does CORE's cooperative membership structure require new multi-tenant or entity-rollup reporting features?"
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3–7",
+        "tasks": [
+          "Email [VP Asset Management] with brief context on CORE partnership news and ask: Are new sites coming? If so, what's the onboarding and inspection timeline?",
+          "Frame as: We know baseline inspections on acquired assets (like Project Slingshot) have delivered ~2.5% annual recovery; we want to front-load discovery so we can have scans ready as soon as sites close."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 7–21",
+        "tasks": [
+          "If new sites are confirmed, schedule asset review call with [VP Asset Management] + [Senior Manager of Analytics] to scope inspection plan (timing, drone deployment, thermal + visual scope based on asset age/history).",
+          "Propose integrated onboarding workflow: site data import to Raptor Solar, baseline drone inspection, anomaly flagging wired into MEI's Power BI dashboard (existing workflow) for investor reporting.",
+          "If reporting needs differ for CORE (e.g., member-entity breakouts), document request and loop Product for prioritization."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log CRM: partnership scope, MW count, onboarding start date, and inspection backlog.",
+          "Track Inspections consumption growth and any new reporting features deployed for CORE structure.",
+          "Monthly check-in with [Regional Asset Manager] on inspection cadence and production recovery metrics to inform next renewal/expansion conversation."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Quick question on the CORE partnership: New sites coming?",
+      "body": "Hi [VP Asset Management],\n\nCongrats on the CORE partnership news. We saw the announcement and thought of Project Slingshot—when you brought that 300 MW acquisition online, baseline inspections caught hundreds of offline strings your SCADA missed, and your team recovered ~3 MW in three weeks.\n\nAre new sites coming into MEI's operations through CORE? If so, we'd love to front-load discovery so baseline drone inspections are ready to launch as soon as sites close. It's the fastest way to find hidden production recovery.\n\nWorth a quick call this week?\n\nBest,\n[Your name]"
+    },
+    "slack": "MEI (1 GW, 800 sites) just announced a partnership with CORE Electric Cooperative through EQT—likely signals new MW onboarding soon. We're running onboard_expand play: confirm new asset count/timing, scope baseline inspection plan, and validate whether CORE's cooperative structure needs new reporting features beyond current Raptor Solar + AlsoEnergy stack. CS leads outreach to [VP Asset Management]. Sales + Ops should prep for potential rapid onboarding + inspection surge. Ask: when do sites close, and what's the inspection timeline?",
+    "crmTask": {
+      "title": "MEI + CORE partnership: Scope new MW onboarding & baseline inspections",
+      "due": "In 3 days",
+      "notes": "Signal date: 2026-10-29. MEI (private C&I solar owner-operator, 1 GW / 800 sites / 30 states) + EQT partnership with CORE Electric Cooperative. Historical context: Project Slingshot (300 MW acquisition, baseline inspections, ~3 MW recovery in 3 weeks). Current integration depth: Raptor Solar as system of record, API to AlsoEnergy + 3Megawatt + Power BI for investor/client reporting. Known sponsors: VP Asset Management (Matthew Messer), Senior Manager of Analytics, Regional Asset Manager, Director of Asset Management (confirm still in role). Action: Confirm new MW count, onboarding timeline, baseline inspection scope, and any new reporting needs for CORE member-entity rollup."
+    },
+    "doneWhen": "Confirmed: (1) MW count in new CORE portfolio, (2) timeline for site close/onboarding start, and (3) baseline inspection plan drafted and scheduled.",
+    "generatedAt": "2026-11-01T18:19:27.088Z"
   }
 }

@@ -74,5 +74,24 @@
         "publishedAt": "2026-10-27T22:01:39.000Z"
       }
     ]
+  },
+  {
+    "company": "Madison Energy Infrastructure",
+    "runAt": "2026-11-01T18:19:10.598Z",
+    "source": "daily",
+    "headline": "EQT backing and CORE Electric Cooperative partnership signal potential portfolio expansion and new capital availability",
+    "signals": [
+      {
+        "category": "EQT Capital Partnership & CORE Cooperative Expansion",
+        "updateType": "expansion",
+        "play": "raptor_solar",
+        "score": 1,
+        "summary": "Madison Energy Infrastructure, already backed by EQT (private equity with significant capital), has struck a partnership with CORE Electric Cooperative. This signals potential growth through new project pipeline or portfolio acquisitions—either through co-developed projects with CORE or through EQT's typical infrastructure-fund playbook of platform-plus-bolt-ons. CORE's cooperative structure (serving member-owners across states) could unlock new geographic markets or customer-owned assets for MEI to operate or manage.",
+        "suggestedAction": "Reach out to Matthew Messer (VP Asset Management) to understand the CORE partnership structure: Are they co-developing new C&I or small-utility solar sites? Will MEI be taking on O&M for CORE's own portfolio or member projects? If new MW are entering MEI's management, confirm timing for onboarding to Raptor Solar and baseline inspection plans. Ask whether the partnership requires any new reporting or analytics capabilities beyond current Raptor Solar + AlsoEnergy stack.",
+        "sourceName": "Institutional Real Estate, Inc.",
+        "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZDBIOFVZUEhRdy03Ul9IMkxRZUFGR25yUFYtU3dweVJuWjRoajBWY2dDUnVSNGhCSkh4X0xYaE9scnk3c18yR0NjSjFzVm9TRF9aMW9yNVJIOUpJTXJ2WExBSTVFXzdVUzVkbGNVZmNxaURpT0YydXJPTVpROU1ULXBocDlDaEk4OXBiNzE0bGowX0dOTUd3eDVsYkQ5eDJHS3RVTUZKb2VfVGVZeVZJb2VR?oc=5",
+        "publishedAt": "2026-10-29T07:00:00.000Z"
+      }
+    ]
   }
 ]
