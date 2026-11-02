@@ -570,5 +570,24 @@
         "publishedAt": "2026-10-29T10:11:17.000Z"
       }
     ]
+  },
+  {
+    "company": "BayWa r.e.",
+    "runAt": "2026-11-02T22:13:25.823Z",
+    "source": "daily",
+    "headline": "BayWa AG debt restructuring deepens; bondholders rejecting haircut proposals; no imminent payment cliff but extended financial uncertainty ahead",
+    "signals": [
+      {
+        "category": "Parent company debt restructuring / bondholder negotiations",
+        "updateType": "distress",
+        "play": "retention",
+        "score": -1,
+        "summary": "BayWa AG's balance-sheet repair has stalled as bondholders reject a 98% haircut proposal on debt. No immediate payment cliff, but negotiations remain unresolved and financial pressure persists. This affects BayWa r.e.'s parent and increases risk of further cost-cutting, asset sales, or strategic reviews at the subsidiary level.",
+        "suggestedAction": "Schedule a check-in with Sean Bucher to understand any changes to OpEx budgets, O&M staffing, or vendor-review cycles in light of the parent company's ongoing restructuring. Frame as: 'We want to support your team's efficiency during this period—let's review how Raptor Solar is tracking against your cost-per-MW and production-recovery KPIs to ensure you're maximizing ROI in any budget discussions with leadership.' Prepare a 1-pager on platform value to new/interim owners.",
+        "sourceName": "ad-hoc-news.de",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNclF3dnhXRktkZHdFQW1ZN0ZLNE5PZTJaLTZCLThLRjVaRFV4U3duUVNmTTRhcmVsbi1QUk04a0xtN1NVMWR3MzkySWp6bXllSU40V01FY1V6UUxIa3J1cHdEUWd2Q2VkT3FsQWNmdVM1SnJWNFp2VXdBemw2MGI5U2FqN0xWVWxWNWh6WTJqWlFaN29NMldpV0k1LUota2s5YjVqUk0tNXNfUXFma1V2Q294MG83anBWS2F6TDYxaGpPWUt4M3RmVkJTdUZaYTRhODV1NGE0NkVtbzZGdmg5aTBZYnRzODVyRHBvSF9MUXhLTy1TMHVIOWxFU1o1SFUxcXc?oc=5",
+        "publishedAt": "2026-11-02T12:31:12.000Z"
+      }
+    ]
   }
 ]

@@ -1,5 +1,157 @@
 [
   {
+    "id": "LXF1YXJ0ZXJzLW9mLTIwMjYv",
+    "title": "Solar sector corporate funding increases 45% through three quarters of 2026",
+    "link": "https://pv-magazine-usa.com/2026/11/02/solar-sector-corporate-funding-increases-45-through-three-quarters-of-2026/",
+    "sourceName": "pv magazine USA",
+    "publishedAt": "2026-11-02T13:04:49.000Z",
+    "analyzedAt": "2026-11-02T22:13:52.277Z",
+    "updateType": "financing",
+    "relevance": 1,
+    "summary": "Total corporate funding into the solar sector reached $25.1 billion through three quarters of 2026, a 45% increase year-over-year, driven by venture capital, public markets, and debt financing.",
+    "angle": "Strong capital availability signals continued growth in solar development and M&A activity; helps assess customer investment appetite and expansion likelihood.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "UzFrY2paNk16UnlTUT9vYz01",
+    "title": "Brookfield-owned OnPath Energy reaches financial close on first solar-plus-storage project",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZDdfUDBGdmxuclpscDZiSzRuTmhYWHRpWEZQZDhtTkw0SExmZjJUWGZlYVd2VmROVWE4SWpleWhGOEdRM29CdEk4RWFWM2hRYTQtQXVRSHp1SFRseUR1Y0VpbWcyT1RzdHhUT21lWnF0cGNScnZxY1VnM29HTFBNUmc4dDdXNXlQdVF4Yzdnd20tTXkybEJONFNHMnNNNUtERFRFWTVqS2lqWUZqeWdWeGJieFJwREcxWEpma3dSNGNId2RZZm5mbHFVbnNBWS1kcjZ6MzRySQ?oc=5",
+    "sourceName": "Solar Power Portal",
+    "publishedAt": "2026-11-02T10:50:34.000Z",
+    "analyzedAt": "2026-11-02T22:14:11.837Z",
+    "updateType": "expansion",
+    "relevance": 1,
+    "summary": "Brookfield-owned OnPath Energy reached financial close on its first solar-plus-storage project, marking continued capital deployment in integrated renewable infrastructure.",
+    "angle": "Major capital deployment in solar-plus-storage creates new asset monitoring needs; customers managing hybrid projects require comprehensive digital twin and performance analytics coverage.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "dHktc2NhbGUtc29sYXItcHYv",
+    "title": "CPP launches wind certification programme for utility-scale solar PV",
+    "link": "https://www.pv-tech.org/cpp-launches-wind-certification-programme-for-utility-scale-solar-pv/",
+    "sourceName": "PV Tech",
+    "publishedAt": "2026-11-02T10:46:56.000Z",
+    "analyzedAt": "2026-11-02T22:13:52.277Z",
+    "updateType": "technology",
+    "relevance": 1,
+    "summary": "CPP Wind Engineering has launched the first wind certification programme for utility-scale solar PV projects, addressing structural and wind-load integrity of solar arrays.",
+    "angle": "Wind damage and tracker reliability is a key operational risk for utility-scale solar; certifications and standards affect O&M protocols and inspection requirements.",
+    "play": "inspections",
+    "products": [
+      "inspections"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "RoZXktcmVhZHkvODMxODQ3Lw",
+    "title": "Utilities need to become project developers. Are they ready?",
+    "link": "https://www.utilitydive.com/spons/utilities-need-to-become-project-developers-are-they-ready/831847/",
+    "sourceName": "Utility Dive",
+    "publishedAt": "2026-11-02T10:00:00.000Z",
+    "analyzedAt": "2026-11-02T22:13:58.061Z",
+    "updateType": "expansion",
+    "relevance": 2,
+    "summary": "U.S. utilities are facing 50x faster load growth than historical norms and are exploring ways to scale as project developers to meet demand.",
+    "angle": "Utilities expanding into solar and storage development will need O&M, performance monitoring, and operations tools to manage new fleets efficiently. Strong expansion signal for Raptor Solar platform uptake among utility-scale developers.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "NTR1l4UkhrMlUyeG4_b2M9NQ",
+    "title": "No Section 232 Tariffs on Robotics and Industrial Machinery",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mWTg5NEtxRm5mX0h3NkJMaUx6SlZuYVY5OWhvS0NtTzlhRHJKZ2paOWxrbmtpeHZGQy1rQXZjRTdOZm1URUVEYTNLMlZVZUdnQzlITUtMdEd3SGYxRHk2U2xn?oc=5",
+    "sourceName": "HKTDC Research",
+    "publishedAt": "2026-11-02T09:21:53.000Z",
+    "analyzedAt": "2026-11-02T22:14:11.837Z",
+    "updateType": "trade",
+    "relevance": 2,
+    "summary": "No Section 232 tariffs imposed on robotics and industrial machinery, preserving cost structures for automation equipment imports.",
+    "angle": "Tariff relief on robotics supports the business case for drone and robotic inspection deployments; customers can expand Sentry and Inspections programs without sudden cost escalation.",
+    "play": "sentry",
+    "products": [
+      "sentry",
+      "inspections"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "Y2stdG93YXJkcy1idXllcnMv",
+    "title": "Tax insurance after OBBB: Policies cost more, but the market is turning back towards buyers",
+    "link": "https://www.pv-tech.org/tax-insurance-after-obbb-policies-cost-more-but-the-market-is-turning-back-towards-buyers/",
+    "sourceName": "PV Tech",
+    "publishedAt": "2026-11-02T08:57:43.000Z",
+    "analyzedAt": "2026-11-02T22:13:58.061Z",
+    "updateType": "policy",
+    "relevance": 2,
+    "summary": "Tax credit insurance market has become more expensive post-IRA but is stabilizing as buyers return. Diligence can mitigate most risks associated with tax credit monetization.",
+    "angle": "For solar IPPs and O&M providers monetizing 48E and 45Y credits, tax insurance costs and availability shape project economics and cash-flow timing. Understanding credit risk and insurance options is critical for portfolio planning.",
+    "play": "raptor_solar",
+    "products": [],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "0wVm05aVlVWktOMmM_b2M9NQ",
+    "title": "Waaree Renewable Technologies signs five year O&M deal for 360 MWp solar project",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSndIdm95ZkZrQV9fUlVuV0NxUjEyYnFMak1ic0tWbF9OQTU2aGUzdGZ6QXZnRXFLcXZJZ29XbFRjZHp4MGc4NVozRVBZdGpFdGdOU0xaSG9yNVNWVzdpRTJZb1I1V1VUd1duLTJvUjNPcFpWMnlkZGwtZVBhRUdSaHRDWWw4NzV3LTNkZFQ2Wm9yOHg5ek1ZRWRvNFFGSkNlczM0Vm9iYUZKN2c?oc=5",
+    "sourceName": "BioEnergy Times",
+    "publishedAt": "2026-11-02T07:43:55.000Z",
+    "analyzedAt": "2026-11-02T22:14:03.602Z",
+    "updateType": "expansion",
+    "relevance": 2,
+    "summary": "Waaree Renewable Technologies has signed a five-year O&M contract for a 360 MWp solar project, expanding its operational O&M service delivery.",
+    "angle": "Large-scale O&M win signals growth in operations management demand. Raptor Solar's performance analytics and mobile workflows are value drivers for O&M contracts at this scale; explore whether Waaree or the project owner use Raptor for visibility and efficiency.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "zdG9yYWdlLXBvcnRmb2xpby8",
+    "title": "Neoen secures AU$1.8 billion to finance 1.2GW Australian solar, wind and storage portfolio",
+    "link": "https://www.pv-tech.org/neoen-secures-au1-8-billion-to-finance-1-2gw-australian-solar-wind-and-storage-portfolio/",
+    "sourceName": "PV Tech",
+    "publishedAt": "2026-11-02T02:05:44.000Z",
+    "analyzedAt": "2026-11-02T22:13:58.061Z",
+    "updateType": "financing",
+    "relevance": 1,
+    "summary": "Neoen secured AU$1.8 billion in debt financing from 13 lenders for a 1.2 GW Australian renewables portfolio including solar and storage.",
+    "angle": "Large portfolio financing in a key geographic market signals continued capital availability for utility-scale solar and storage; relevant for understanding competitive financing trends and MW capacity growth.",
+    "play": "none",
+    "products": [],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "1TjJkblRqWjVObEZSP29jPTU",
+    "title": "First Solar Lowers Its Guidance and Launches a Share Buyback Program",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNejdqbnJWZ2VsTDEtMlYxN20wX0I5cVY4VUVocklRTEdhd1NnVl9sNkJSNWxCNjYyaGhxNk9SZ3NGcEEwRnBpUGF6QXNsMlV5TnZrUl9TeXpWYWlJZ084SGhYakhDSHdoMUdXX2VaM0tyaXRWMXdlT3pYUnE5NnhhREJDLUtjRHlJVFkzV25zeUl5N2dnTjZ5NlFR?oc=5",
+    "sourceName": "energynews.pro",
+    "publishedAt": "2026-11-01T23:35:17.000Z",
+    "analyzedAt": "2026-11-02T22:14:11.837Z",
+    "updateType": "financing",
+    "relevance": 1,
+    "summary": "First Solar lowered full-year guidance and announced a share buyback program, signaling confidence in long-term cash generation despite near-term headwinds.",
+    "angle": "A named account (First Solar) facing near-term uncertainty may be reconsidering O&M efficiency and asset monitoring to protect margins—opportunity to discuss Raptor Solar's role in optimizing existing portfolio performance and reducing opex.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": [
+      "First Solar"
+    ]
+  },
+  {
     "id": "UtdGhlLW5leHQtY3Jpc2lzLw",
     "title": "PJM’s Emergency Order Should Be a Wake-Up Call for Michigan: Build More Power Before the Next Crisis",
     "link": "https://www.solarpowerworldonline.com/2026/11/pjms-emergency-order-should-be-a-wake-up-call-for-michigan-build-more-power-before-the-next-crisis/",
@@ -49,6 +201,24 @@
     "products": [
       "raptor_solar",
       "comply"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "VVld4a1NWSnlOa3BSP29jPTU",
+    "title": "PJM approves two ENGIE battery storage projects totaling 1,660 MW under new expedited interconnection process",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0aDBoZTFXODVENlM1ZVlyQUU0dUNBNGxCZ0pDcm9XVXdZVXBYRmRyQmM3MDNiaWExUzMwaTNPZmlvOW5IeWFEZ2RuWlBSY3JhaTFFZ3pZeER1Rk9CNC1mTGQwZFJUVWxkSVJyNkpR?oc=5",
+    "sourceName": "Energies Media",
+    "publishedAt": "2026-10-31T19:15:18.000Z",
+    "analyzedAt": "2026-11-02T22:14:11.837Z",
+    "updateType": "expansion",
+    "relevance": 2,
+    "summary": "PJM approved two ENGIE battery storage projects totaling 1,660 MW under a new expedited interconnection process, signaling accelerating solar-plus-storage deployment.",
+    "angle": "Rapid solar-plus-storage build-out increases demand for real-time monitoring and storm-response readiness; customers pairing storage with existing solar portfolios need integrated performance visibility and rapid response capabilities.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar",
+      "sentry"
     ],
     "mentionedAccounts": []
   },
@@ -353,6 +523,24 @@
     "products": [
       "sentry",
       "inspections"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "WSU1tSjZSMHRHTTBFP29jPTU",
+    "title": "Chinese-linked solar developer loses appeal over Texas grid interconnection",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNEpfdFdTdWVSWHJDTFJYazJUVUpiaWRrN1ZCakxvMndkZjRXS21FTUVjM1FZdlprTHlmV3J2NHpYaUVOSXgyYTNtdlU4cGNJSkcwb2pZZ093by1pU2dWZXNEOE9ocW1ySFlaUnR3OGhyUkFjZU5YS3haamVldEdrSk5FYWxrdUk5SU55b2pxZDdNMW1ienllX0drb2ZGd2FxaFA4WFVIMmJ6R0tGM0E?oc=5",
+    "sourceName": "Utility Dive",
+    "publishedAt": "2026-10-29T17:15:27.000Z",
+    "analyzedAt": "2026-11-02T22:14:11.837Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "A Chinese-linked solar developer lost an appeal over Texas grid interconnection, reflecting tightening security and political scrutiny around foreign ownership in US solar.",
+    "angle": "Interconnection delays and security reviews are becoming standard; customers need better asset visibility and compliance posture to navigate evolving grid gatekeeping—Comply and Raptor Solar support grid-ready operations.",
+    "play": "comply",
+    "products": [
+      "comply",
+      "raptor_solar"
     ],
     "mentionedAccounts": []
   },
@@ -755,6 +943,23 @@
     "mentionedAccounts": []
   },
   {
+    "id": "tVEdFdFkyOUdOSGxSP29jPTU",
+    "title": "UNSW study finds bushfire risks to PV assets extend far beyond direct fire damage",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON202b0hYZE5Mb0N3RzJCV09tVTZ4N1NHOTF6QWdldzA0aVRrWFNmVHFsdEU0ckhFVmtUUkVVa3RVcFhqdUJOYzMwTnpFSXQ2RkV3em5GRmVFbmRrVk1ZQTh6YVljRG5wMDR2VjQ5YnVoWWhPNm5CSHJ1Q25aQXo1OWxaeEpNTU1iZWloanY3TzVPSTItNUh0RVNTVkZBeWVRci1CTU5SR1B2WkFmTWs1MkphRWRmTGEtY29GNHlR?oc=5",
+    "sourceName": "pv magazine Global",
+    "publishedAt": "2026-10-28T08:19:53.000Z",
+    "analyzedAt": "2026-11-02T22:14:03.602Z",
+    "updateType": "weather",
+    "relevance": 2,
+    "summary": "UNSW research shows bushfire risks to PV assets extend beyond direct fire damage, including module degradation and performance loss from smoke and heat exposure.",
+    "angle": "Wildfire and extreme heat events are creating urgent need for rapid asset condition assessment and warranty documentation. Raptor Inspections' aerial thermography and visual analytics help quantify module and tracker damage for claims and risk management after fire/heat events.",
+    "play": "inspections",
+    "products": [
+      "inspections"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "pIYVd3d01pMWZaM00_b2M9NQ",
     "title": "Argo Energy Acquires Additional 10 MW of Rooftop Solar, Bringing Total to 20 MW",
     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1taUlzeEZTZmlxeXFDdG1LWGRQRGZhVms2aFlyb3dGSnlwZ1k3MW1PWVZDRDlsZ1hDM0ZXTHVXVEhqaDA1bThPNnZvTDcxbllyMUhrejJLTk9RQzZHaWwwMi1fZ3M?oc=5",
@@ -1007,6 +1212,23 @@
     "angle": "Utility consolidation changes how independent solar operators contract and compete; customers should understand how grid and interconnection policies, as well as reliability compliance (NERC CIP), will shift under new utility control.",
     "play": "none",
     "products": [],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "M2x6ZEU1UVYwcDZXQT9vYz01",
+    "title": "SEIA report outlines how operators, regulators can use DERs to meet grid needs",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWUxiRkxVYlZEV1YtMF9mQW1vT2s2d1hmQ1FjcllRWURtVnNKanVpZnFSaEs5TldlTTZDSUhoc3BSVHdJX1B3UWh2NjVXUkloZEdfYmFPbzhtV3g2UkZueEZyNDV1ZDVHcWVNSUdXSm9vcEZ6ZlZVaElEOXRJQWlhUDNzcVJybTJGeHZ6UDY1ZXdMV2dmcnhRMW16ZXpTeFJmSWY2bTZmcXVwdDNyVzFnWVVFU3lzdE5QV0p6WA?oc=5",
+    "sourceName": "Daily Energy Insider",
+    "publishedAt": "2026-10-27T11:44:51.000Z",
+    "analyzedAt": "2026-11-02T22:14:03.602Z",
+    "updateType": "regulatory",
+    "relevance": 1,
+    "summary": "SEIA report outlines how distributed energy resources (DERs) can be leveraged by operators and regulators to meet grid needs.",
+    "angle": "Growing grid integration and DER management requirements mean solar operators need better real-time monitoring and control. Raptor Solar's SCADA analytics and remote response capabilities support compliance and grid services revenue.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
     "mentionedAccounts": []
   },
   {
