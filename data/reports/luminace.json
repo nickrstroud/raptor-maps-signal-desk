@@ -73,5 +73,24 @@
     "source": "backfill",
     "headline": "No relevant coverage in the backfill window",
     "signals": []
+  },
+  {
+    "company": "Luminace",
+    "runAt": "2026-11-03T19:59:49.758Z",
+    "source": "daily",
+    "headline": "Luminace cherry valley project (700 homes) likely routine distributed-gen expansion; renewal cycle confirmed as imminent; ownership transition creates vendor-review and cost-optimization risk.",
+    "signals": [
+      {
+        "category": "Cherry Valley project (700 homes)",
+        "updateType": "expansion",
+        "play": "raptor_solar",
+        "score": 1,
+        "summary": "Luminace developing/operating new solar project powering 700 homes in Cherry Valley (Illinois). Consistent with their distributed-generation portfolio growth and ongoing development activity. Project scope and MW not specified in headline; likely small-to-mid-size for their 1,700+ site footprint.",
+        "suggestedAction": "Confirm project details (MW, site count, asset type: rooftop/carport/ground-mount, timeline to COD) with Luminace development or asset team. If ground-mount and >5 MW, offer baseline Instant Inspections plan for commissioning QA and thermal baseline. Track onboarding to Raptor Solar as system of record once operational.",
+        "sourceName": "Rockford Register Star",
+        "sourceLink": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTGpkalZSQ2VrQjhhQmh3MFNHNkc5NjczZGFmMHFWVHplNHNURFVQVWZ2cG05VG5RQVlQcGt3TkpBQWxRTlBmWm5vMnlROTZ1cVVuMElJdE1oR28xd2VoMkF0RXQyZlM5Y20xT3NIdTdQMk1QX2E0X1d0MXY5OFJUYkRVZzNUS3ZiSzQ2YnNRaU1CbFFnbkIwS2hYaGl1bnJLQUpYSTBaOGUyRnBrbzFVRXRscG1QQWNaeU0tS0VrUXRzYk50?oc=5",
+        "publishedAt": "2026-11-03T09:47:00.000Z"
+      }
+    ]
   }
 ]

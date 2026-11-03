@@ -589,5 +589,24 @@
         "publishedAt": "2026-11-02T12:31:12.000Z"
       }
     ]
+  },
+  {
+    "company": "BayWa r.e.",
+    "runAt": "2026-11-03T19:59:50.258Z",
+    "source": "daily",
+    "headline": "BayWa AG parent restructuring continues with stake shuffle and failed debt refinancing; North American O&M business faces budget and strategic review risk through 2030 turnaround",
+    "signals": [
+      {
+        "category": "Parent company financial distress and ownership transition",
+        "updateType": "distress",
+        "play": "retention",
+        "score": -1,
+        "summary": "BayWa AG's ongoing restructuring, failed debt deal, and stake shuffle signal continued financial pressure on the parent. BayWa r.e., the renewable subsidiary (which includes the North American O&M business using Raptor Maps), is under turnaround management extended to 2030. While the articles focus on parent-level balance-sheet moves, they indicate budget tightness, potential vendor reviews, and risk of divestment or consolidation of non-core O&M assets.",
+        "suggestedAction": "Reach out to Sean Bucher to understand: (1) whether budget headroom for platform expansion (Sentry pilots, new managed MW onboarding) remains intact for 2027, and (2) whether any ownership or management changes have triggered vendor reviews at the operations level. Frame as a partnership check-in to ensure Raptor Maps is aligned with their cost-optimization priorities under the turnaround plan.",
+        "sourceName": "ad-hoc-news.de",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOajdWMlRTRUx1NHhUZTB6RGwtY1AzVVFXSS1Vc1locDlJRE9rVVdiSTRGcE1mV1Y0aElvNm53aW14Y3ktazFTbjUzVF9fbElQS3JjRXdwUFhwZEpWdTRtbjd6NEJlNFhuVjZaNXo2amNxeS1HcXpoR1NkOUdEbGdaXzdmWnNLU0VVbERrd1lwcnZHLTZINkwxLVFTdUFQTjlZeWVRUUpEVFRHN1Ayc1RxZ1lVVldfbEs4VWkwZm9YXzRIaXluUHN3ZHdDVmNGRkVOVi1GWmRTdElVNUZsbW5Z?oc=5",
+        "publishedAt": "2026-11-03T13:31:32.000Z"
+      }
+    ]
   }
 ]

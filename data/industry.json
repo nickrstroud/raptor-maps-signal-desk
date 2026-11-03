@@ -1,5 +1,212 @@
 [
   {
+    "id": "TmhkMVY2YnpSamJuTT9vYz01",
+    "title": "Sunraycer Acquires 325 MW Solar Portfolio in Illinois and Missouri From Apricus Energy",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcUtDU1ZvR3RaT2xXYmxncGdCUGNkTktwRlhqbUxodnBqakwxdHZVTDhGY0tFeHdob09ZNWptc29xZklaS3Q4YnB3dlVlQ2ZpVzNSaTNTMk8yYnVrSHpOWi1PdnU5TS1VTzFwZTJBY3lUaEk3Wk9NVGVJNnVQRDREZU85eFBqb08tc0NxbEExQ1FWRVE3akQ2bE5PUUlMZU1lWGZBUDRtcWNZXzhxVVphNGpxNXAtZExOMlNhd1V6bzRjbnM?oc=5",
+    "sourceName": "citybiz",
+    "publishedAt": "2026-11-03T17:02:24.000Z",
+    "analyzedAt": "2026-11-03T20:00:34.810Z",
+    "updateType": "ma",
+    "relevance": 1,
+    "summary": "Sunraycer acquires 325 MW solar portfolio in Illinois and Missouri from Apricus Energy.",
+    "angle": "Portfolio M&A continues to consolidate solar ownership; new owners often integrate Raptor Solar to standardize O&M workflows and gain real-time visibility across newly acquired assets.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "1pdGMtc29sYXItbWFya2V0Lw",
+    "title": "Storage-first models and VPP integration define post-ITC solar market",
+    "link": "https://pv-magazine-usa.com/2026/11/03/storage-first-models-and-vpp-integration-define-post-itc-solar-market/",
+    "sourceName": "pv magazine USA",
+    "publishedAt": "2026-11-03T16:54:40.000Z",
+    "analyzedAt": "2026-11-03T20:00:21.208Z",
+    "updateType": "policy",
+    "relevance": 2,
+    "summary": "Declining net energy metering export rates and grid capacity constraints are driving residential solar installers toward storage-first models and virtual power plant participation.",
+    "angle": "Storage integration and VPP participation are reshaping solar economics and operational requirements; utility-scale and C&I operators should assess how battery pairing and grid services monetization affect their platform and monitoring needs.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar",
+      "sentry"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "KUlFsVTRWbHB1TTNjP29jPTU",
+    "title": "First Solar backs Section 232 tariffs on polysilicon",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSEFpbzlGbEIzaUZ5dkU5QnYwM3FMRlBkNnItSnZzZUh3NWpVTURrbXB3bHgycDNZV2o5LTBZLU1DOE1VQndibmJBdW5kWGRDMUpyNXNRdFkwdThKbDBPRl84UXdFNDY1ZlNBd2o0NWJVYU9FTVlNaTdjcmpyaXg5aUE1blJMR0NtVHFhaU42YndURGJQOExFOFRDTjRDck9sQTZBVXJRQlU4VlpuM3c?oc=5",
+    "sourceName": "scanx.trade",
+    "publishedAt": "2026-11-03T14:42:51.000Z",
+    "analyzedAt": "2026-11-03T20:00:42.252Z",
+    "updateType": "trade",
+    "relevance": 2,
+    "summary": "First Solar publicly backs Section 232 tariffs on polysilicon, signaling the company's position on trade protections for domestic solar supply chains.",
+    "angle": "Tariff outcomes will reshape project economics and supply-chain risk for Raptor customers; First Solar's advocacy highlights competitive positioning around domestic content rules that affect module sourcing and project margins.",
+    "play": "none",
+    "products": [],
+    "mentionedAccounts": [
+      "First Solar"
+    ]
+  },
+  {
+    "id": "QyYVVVM01rOXpja2M_b2M9NQ",
+    "title": "FCC Still Weighing Thermal and Spray Drone Ban, Adam Chan Says",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTE1vaU9Hb2I3bEdrbjZGa1c3LUdtWEkyaHVkVnY5T0otU0MtVVZVR0dHRjBuLTJYOW5iMXlmSFVkdU1HUzBBZ3RaczB0SGpUOE81RF9wNWNwWlc3RUVXa3AzaEExd3V3TjRhdXZSa01pMzJSTnkxd0QweFF1MXRYbHozV2hCWUd2aUU3Mk9zckc?oc=5",
+    "sourceName": "DroneXL",
+    "publishedAt": "2026-11-03T13:39:00.000Z",
+    "analyzedAt": "2026-11-03T20:00:34.810Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "FCC continues deliberation on potential thermal and spray drone ban, with uncertainty on final rules.",
+    "angle": "Drone restrictions remain in flux; solar operators relying on thermal imaging for inspections and vegetation monitoring should monitor FCC/FAA rulemaking—Raptor Inspections provides comprehensive thermal and visual analytics that can adapt to regulatory constraints.",
+    "play": "inspections",
+    "products": [
+      "inspections"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "ZC1vbnRvLXRheC1jcmVkaXRz",
+    "title": "Here’s how solar and wind developers can hold on to tax credits",
+    "link": "https://www.canarymedia.com/articles/sponsored/heres-how-solar-and-wind-developers-can-hold-onto-tax-credits",
+    "sourceName": "Canary Media",
+    "publishedAt": "2026-11-03T13:35:00.000Z",
+    "analyzedAt": "2026-11-03T20:00:28.376Z",
+    "updateType": "policy",
+    "relevance": 2,
+    "summary": "Canary Media article on how solar and wind developers can hold on to tax credits under the Inflation Reduction Act, addressing strategies to maintain federal incentive benefits.",
+    "angle": "IRA tax credit certainty remains a key deal driver for solar project economics; proactive outreach to customers on compliance, documentation, and domestic-content tracking can protect their credit eligibility and ROI.",
+    "play": "comply",
+    "products": [
+      "comply"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "hCU2NWTmZOa1o0VVE_b2M9NQ",
+    "title": "The Investment Case for Upgrading Older Solar Farms",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HY1BIeURXTERyVjE5VEZaREcydkwyZnFQZEZleWhHdDU3SG5kcjBINkZhRWpDU2dyOG54VWlwdXI3X2lQTDRfTlZMYS1qNE9SdlQxWldkeVhnYjBNMXBScVNfNkZ4UQ?oc=5",
+    "sourceName": "Securities.io",
+    "publishedAt": "2026-11-03T12:54:17.000Z",
+    "analyzedAt": "2026-11-03T20:00:34.810Z",
+    "updateType": "expansion",
+    "relevance": 2,
+    "summary": "Analysis of the business case for upgrading and retrofitting older solar farms to extend asset life and improve returns.",
+    "angle": "Older solar portfolios are entering a critical upgrade cycle; Raptor Solar's performance intelligence and analytics help IPPs and O&M providers justify capex investments in legacy fleet upgrades and expansion.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "pbGl0eS1zb2xhci1zaXRlcy8",
+    "title": "Mach unveils autonomous mower technology for utility solar sites",
+    "link": "https://www.pv-tech.org/mach-autonomous-mower-technology-utility-solar-sites/",
+    "sourceName": "PV Tech",
+    "publishedAt": "2026-11-03T12:49:47.000Z",
+    "analyzedAt": "2026-11-03T20:00:21.208Z",
+    "updateType": "technology",
+    "relevance": 2,
+    "summary": "Mach has launched commercial autonomous mower technology for utility solar assets, automating vegetation management on large solar sites.",
+    "angle": "Autonomous robotics and remote monitoring of site operations are evolving; operators relying on manual O&M workflows and visual inspections should explore how automated vegetation management and drone/robotics integration fit their cost and reliability model.",
+    "play": "inspections",
+    "products": [
+      "inspections",
+      "sentry"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "0LWluLXNvdXRoLWFmcmljYS8",
+    "title": "PNE sells 250MW solar PV plant in South Africa",
+    "link": "https://www.pv-tech.org/pne-sells-250mw-solar-pv-plant-in-south-africa/",
+    "sourceName": "PV Tech",
+    "publishedAt": "2026-11-03T11:19:44.000Z",
+    "analyzedAt": "2026-11-03T20:00:28.376Z",
+    "updateType": "ma",
+    "relevance": 1,
+    "summary": "German renewables developer PNE has sold a 250MW solar PV project in South Africa to an undisclosed independent power producer, reflecting continued M&A activity in the global solar market.",
+    "angle": "Portfolio consolidation and M&A in solar continues globally; understand which IPPs or O&M providers may be expanding their asset base and could benefit from Raptor's platform scaling across new sites.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "UQnNaRUUwTVhBd053P29jPTU",
+    "title": "Waaree Renewable Technologies secures 200 MW/500 MWh BESS EPC and 360 MWp solar O&M contracts",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcGJuWkxvV0owRG1yMkdoTkx5ZTQ3dTlzV3FpRGVmb3VVZS1Pd1RXN2FXSmlKakFKTklKLVhGckxjZ1dERTNkOGc0NjRKSEN4OC1UM1d0THZBVUlweHAxZWx1ZHFSQ2lZUUpkWVkzUUNHM0xrRHJwMXlCU3dCdWdaWTRVSHU4aVBmSm5yc1A5NXhiVGFPbTlaaWNDSndRN1hvT0NfM1JNeDhYSzRCQUZtTl82YXNaeW9kNW5ZTThZQld1MGxxN0NWOWlJMTBsZEE0MXAwNw?oc=5",
+    "sourceName": "pv magazine India",
+    "publishedAt": "2026-11-03T09:30:14.000Z",
+    "analyzedAt": "2026-11-03T20:00:34.810Z",
+    "updateType": "expansion",
+    "relevance": 1,
+    "summary": "Waaree Renewable Technologies secures 200 MW/500 MWh BESS EPC contract and 360 MWp solar O&M contracts.",
+    "angle": "Significant O&M contract wins signal growing demand for digitized solar operations; Raptor Solar supports O&M providers at scale to manage performance and warranties across large portfolios.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "uZXctemVhbGFuZC1zb2xhci8",
+    "title": "Lightyears secures NZ$174 million from Obayashi and Infradebt for New Zealand solar",
+    "link": "https://www.pv-tech.org/lightyears-secures-nz174-million-from-obayashi-and-infradebt-for-new-zealand-solar/",
+    "sourceName": "PV Tech",
+    "publishedAt": "2026-11-03T02:02:45.000Z",
+    "analyzedAt": "2026-11-03T20:00:28.376Z",
+    "updateType": "financing",
+    "relevance": 1,
+    "summary": "New Zealand solar developer Lightyears has secured NZ$174 million to accelerate solar PV build-out across the country, signaling capital availability for solar expansion in new geographies.",
+    "angle": "Growth capital flowing into solar development outside traditional US/EU markets; watch for new platform adoption and operational scaling needs as developers expand MW footprint.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "3ZXN0ZXJuLWF1c3RyYWxpYS8",
+    "title": "Frontier Energy signs AU$280 million debt facility for Waroona solar-plus-storage project in Western Australia",
+    "link": "https://www.pv-tech.org/frontier-energy-signs-au280-million-debt-facility-for-waroona-solar-plus-storage-project-in-western-australia/",
+    "sourceName": "PV Tech",
+    "publishedAt": "2026-11-03T02:00:44.000Z",
+    "analyzedAt": "2026-11-03T20:00:28.376Z",
+    "updateType": "financing",
+    "relevance": 1,
+    "summary": "Frontier Energy has secured AU$280 million in debt financing for its 132MW Waroona solar-plus-storage project in Western Australia, demonstrating continued capital flow to hybrid solar-storage deployments.",
+    "angle": "Solar-plus-storage projects increasingly commanding capital and debt support; customers operating hybrid assets may need enhanced monitoring, dispatch optimization, and compliance workflows.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "VTV3WkY5RlZWY3hUQT9vYz01",
+    "title": "Grand Forks drone industry representatives and users discuss regulations with FCC Chair Carr, Sen. Cramer",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOM1VIMnVWRDIwNUU1X1QtakY5X282ZHNlTER6MGlIRkJ5cnBYdm9wLUJmejVMSmhwb3hWMURObzFZTHR6d0VNOWhXcVd1QjFhXzE5aWZuemkxbzNjQkFMcmczcmM0V3RZQ3NDT0VVX2VPeFFsTGJWVW9LUHNpTlp6NmhxMUNDMklQVjhqZERBR0UxSUVmWExtdmNVSDVLenpZQ0hhWk9RVEpKbV9nQWtoYmFNbDhrRW9uTVp4MHFaYjF4SmEyZDlhbkZaemdQc1FYREZ6akpXZU5wZF9FVVcxTA?oc=5",
+    "sourceName": "Grand Forks Herald",
+    "publishedAt": "2026-11-02T23:06:00.000Z",
+    "analyzedAt": "2026-11-03T20:00:42.252Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "FCC Chair Carr and Senator Cramer met with Grand Forks drone industry representatives to discuss regulations. This signals ongoing policy engagement on drone operations, relevant to autonomous inspection and monitoring capabilities.",
+    "angle": "Regulatory clarity on drone operations (BVLOS, autonomous flights) directly impacts Raptor's Sentry and Inspections deployment roadmap. Customer conversations should highlight how Raptor is tracking these changes to ensure platform compliance.",
+    "play": "sentry",
+    "products": [
+      "sentry",
+      "inspections"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "LXF1YXJ0ZXJzLW9mLTIwMjYv",
     "title": "Solar sector corporate funding increases 45% through three quarters of 2026",
     "link": "https://pv-magazine-usa.com/2026/11/02/solar-sector-corporate-funding-increases-45-through-three-quarters-of-2026/",
@@ -509,6 +716,25 @@
     ]
   },
   {
+    "id": "5TmxwQ0xXMURUMkpWP29jPTU",
+    "title": "Sales fell 22.8%, but profit rose at First Solar (FSLR).",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY1FPd1M1d29nSGtzV1JsdGFyNTV1cG1xNHU0UXg1R0xTRHlRakwxZEZkS3piWXF6THhCNi1tbDJZTWl6Vl9ycWo2Tk9OYWhDOFVWd2NXUUI2dE12NDAxOTBjcFUzdTRBNzhNMlZENDZodFFnWVUzY1gwdWZiRmI1MWFPanFSOUc2TUFkay1QbFhDcXNEUklKSUR5bGFUMmVZQ0gyNlpCLW1DT2JV?oc=5",
+    "sourceName": "Stock Titan",
+    "publishedAt": "2026-10-29T20:07:38.000Z",
+    "analyzedAt": "2026-11-03T20:00:42.252Z",
+    "updateType": "competitive",
+    "relevance": 2,
+    "summary": "First Solar reported 22.8% sales decline but improved profitability in Q3 2026, signaling operational efficiency gains amid softer demand. The company is a key manufacturing partner and customer in the solar sector.",
+    "angle": "First Solar's margin expansion despite lower sales suggests aggressive cost management and production optimization—an opportunity to discuss how Raptor Solar's performance intelligence and O&M automation help customers achieve similar margin gains.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": [
+      "First Solar"
+    ]
+  },
+  {
     "id": "TmxUR1pLWWs1bFVXYz9vYz01",
     "title": "FCC clears drone operations in 800MHz band",
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaWlvQjUtdnZJbDVCWXNKNjlpb0xkSlIwc1BJdDF0dk1BQ2RKT0pwTWZRbjdfekt4ZjQ5TDc5UTI3MkJtcW9iM28yVjM2MHk3OW1JUjlPdnRBUVBMSFNaNkc5M3dWWkN2aF9qNFY2WHFjcUszUXhhZG1iLS1VVmZnX0pYSUtrU2VJQktUQVNlTGZKYk5lUWc?oc=5",
@@ -761,6 +987,25 @@
       "raptor_solar"
     ],
     "mentionedAccounts": []
+  },
+  {
+    "id": "LYTIxZmFIRnZPRmw0P29jPTU",
+    "title": "First Solar Opens $330M South Carolina Plant, Targets 3.4 GW Capacity by 2027",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSkd5TkNpQmxSZ2lnZ0YzZW0tV19wbzRDT0RLNGRPZ19ORWNBLWZscDJ4RmdOTEdOcV9BTVRNYmZ0RFhVRzEyVEd0WXNLMlBOWF92dDRaSE44RHNzUEZKY2otQjlMaHhUQVdpUHJBRVUxQnNSVWgxcVduQnZkOFIzSUpFTE9vcnp5NGVsZkVkLW5SUGIxZm1mODYtS05zbVZrbl9JV3dWU3RUMi0zWjBLby11R2oyRjVjcVhjZ2QtN2pnS0gxUENKa21faHFvOFl4?oc=5",
+    "sourceName": "TradingView",
+    "publishedAt": "2026-10-29T04:04:17.000Z",
+    "analyzedAt": "2026-11-03T20:00:42.252Z",
+    "updateType": "expansion",
+    "relevance": 2,
+    "summary": "First Solar opened a $330M manufacturing facility in South Carolina and targets 3.4 GW annual capacity by 2027, reflecting significant U.S. domestic production expansion under tax-credit incentives.",
+    "angle": "First Solar's manufacturing scale-up signals continued U.S. solar deployment surge. Raptor customers managing growing portfolios will need digital twin and asset management at scale—a platform expansion opportunity.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": [
+      "First Solar"
+    ]
   },
   {
     "id": "lObVZpTWxCRk5GRm4_b2M9NQ",

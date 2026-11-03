@@ -5546,5 +5546,145 @@
     },
     "doneWhen": "Completed ROI call with [Director ROCC and Engineering]; documented cost/MW, production-recovery $, and any budget or vendor-review risks in CRM; scheduled 60-day check-in or captured next steps.",
     "generatedAt": "2026-11-02T22:13:43.232Z"
+  },
+  "a_xvzn6u": {
+    "signalId": "a_xvzn6u",
+    "account": "Luminace",
+    "signalTitle": "Cherry Valley project (700 homes)",
+    "play": "onboard_expand",
+    "goal": "Confirm Cherry Valley project scope and secure Instant Inspections baseline inspection and Raptor Solar coverage at commissioning.",
+    "owner": "Account Executive + CS Director",
+    "contactRole": "COO",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0-1",
+        "tasks": [
+          "Confirm project scope with [COO] or development team: MW, site count, asset type (rooftop/carport/ground-mount), COD timeline.",
+          "Verify post-ownership contracting entity (Brookfield Super-Core or standalone operating co.) and any vendor review or cost-reduction initiatives underway.",
+          "Cross-check Instant Inspections coverage on Luminace's existing 1,700+ sites and the ~300 sites added since 2024."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Sync with Account Executive: if ground-mount and >5 MW, scope a commissioning QA and thermal baseline inspection plan; confirm pricing model (consumption-based).",
+          "Brief Onboarding/Ops: flag Cherry Valley for Raptor Solar system-of-record setup at COD; coordinate drone dock or flight logistics if Sentry is a fit for larger sites."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 2-3",
+        "tasks": [
+          "Email [COO] congratulating the Cherry Valley project win and asking brief questions on scope, timeline, and asset type to understand the best way Raptor can support commissioning and ops."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 3-7",
+        "tasks": [
+          "If ground-mount and >5 MW: propose baseline Instant Inspections for commissioning QA (detect thermal anomalies, cracks, construction defects pre-revenue) and thermal baseline for ongoing ops.",
+          "Schedule kickoff call with [COO], development lead, and Luminace asset/ops team to align on inspection timing, drone access, and Raptor Solar onboarding gate."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log project details and contracting entity in CRM; set renewal and expansion milestones for Cherry Valley and adjacent sites.",
+          "Track Instant Inspections usage and Raptor Solar adoption post-COD as proxy for customer health and expansion velocity."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Cherry Valley project — Commissioning inspection & solar ops support",
+      "body": "Hi [COO],\n\nCongratulations on the Cherry Valley project—700 homes is a great fit for Luminace's distributed-generation growth. We'd love to support the ramp-to-operations.\n\nA few quick questions: What's the MW and site breakdown (rooftop/carport/ground-mount), and when do you expect commercial operation? If it's ground-mount and mid-scale, a baseline thermal inspection at commissioning can catch defects early and give your ops team a thermal fingerprint for the asset's first year.\n\nHappy to jump on a quick call with your development and asset teams to explore the best fit.\n\nBest,\n[CSM]"
+    },
+    "slack": "Luminace (DG owner-operator, 1,700+ sites) is developing Cherry Valley project (700 homes, Illinois). Signal: expansion opportunity. Play: confirm project scope (MW, site type, COD), propose Instant Inspections baseline for commissioning QA + thermal baseline, and onboard Raptor Solar as system of record at ops ramp. Lead: AE + CS Director. Validation required: post-ownership contracting entity and any vendor review underway.",
+    "crmTask": {
+      "title": "Luminace Cherry Valley project — Instant Inspections + RS expansion",
+      "due": "In 3 days",
+      "notes": "Luminace developing 700-home solar project in Cherry Valley, IL. ~2.5-year relationship with RS + RS Inspections. Ownership change: Temasek acquired 50% from Brookfield (Oct 2025), entity split into operating co. and development co. Raptor relationship likely with operating co.; confirm contracting entity and vendor review status. ~300 sites added since 2024 announcement (1,400 to 1,700+). Whitespace: RS Sentry (larger ground-mount only); Raptor Comply (below NERC thresholds). Expansion: Instant Inspections coverage across new sites + acquisitions. Next: confirm project scope, asset type, and COD; propose commissioning inspection if ground-mount >5 MW."
+    },
+    "doneWhen": "Project scope (MW, site type, COD) confirmed, and if ground-mount >5 MW, Instant Inspections commissioning plan accepted and scheduled.",
+    "generatedAt": "2026-11-03T20:00:04.511Z"
+  },
+  "a_j5tmx2": {
+    "signalId": "a_j5tmx2",
+    "account": "BayWa r.e.",
+    "signalTitle": "Parent company financial distress and ownership transition",
+    "play": "protect_renewal",
+    "goal": "Protect renewal and platform expansion pipeline by understanding BayWa r.e.'s cost pressures, confirming budget for 2027 growth, and positioning Raptor Maps as a cost-optimization partner under their turnaround plan.",
+    "owner": "Account Executive + CS Director",
+    "contactRole": "Director of ROCC and Engineering, Operations Services",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0-1",
+        "tasks": [
+          "Pull BayWa r.e. contract terms, renewal date, and MRR/ARR for RS and Inspections; confirm current managed MW and active sites on platform.",
+          "Review parent company restructuring timeline (extended to 2030) and any public filings on divestment risk; check for layoffs or leadership changes at BayWa r.e. Operations Services.",
+          "Check Slack/internal notes for any recent vendor reviews, budget freezes, or change management at BayWa r.e."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Sync with Account Executive and CS Director: confirm [Director of ROCC and Engineering] is the right first contact and agrees on framing (partnership check-in, not defensive).",
+          "Prepare talking points on Raptor Maps ROI (cost per MW, production recovered, avoided truck rolls with Sentry) to support a cost-optimization narrative.",
+          "Brief ops/support lead on account risk tier and renewal vulnerability; plan escalation path if budget cuts emerge."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 2-3",
+        "tasks": [
+          "Email [Director of ROCC and Engineering] to request a brief sync: acknowledge their turnaround priorities and offer a partnership check-in to align Raptor Maps roadmap with their 2027 cost and scale goals.",
+          "In call: listen for budget headroom, vendor-review appetite, and any ownership/ops changes; probe on Sentry and expanded managed MW pipeline without selling."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 3-14",
+        "tasks": [
+          "If budget is intact: propose RS Sentry pilot plan for 1–2 high-traffic sites (quantify truck-roll savings); define success metrics and timeline.",
+          "If budget is tightening: present cost-per-MW benchmarks and production-recovery wins YTD; offer contract restructuring or credit-style scaling to link cost to performance.",
+          "If vendor review underway: prepare a one-pager on Raptor Maps' role in their ROCC and field-ops efficiency; offer reference call with a similar O&M provider."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Day 14 onwards",
+        "tasks": [
+          "Log call notes and budget-headroom status in CRM; confirm renewal status and flag if escalation needed.",
+          "Set a 30-day check-in to track any ownership changes and Sentry pilot interest; provide monthly cost-per-MW and production metrics to reinforce ROI under turnaround.",
+          "Share product roadmap updates (Comply, Sentry enhancements) with [Director of ROCC and Engineering] to maintain mindshare and signal continued innovation."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Raptor Maps partnership check-in: aligning with your 2027 priorities",
+      "body": "Hi [Director of ROCC and Engineering],\n\nI hope this finds you well. We're tracking the evolution of BayWa r.e.'s strategy under the turnaround plan and want to ensure Raptor Maps is aligned with your cost-optimization and operational scale goals for 2027.\n\nYour ROCC team has built something impressive with RS and our drone program—turning field data into measurable production recovery and fewer truck rolls. I'd like to do a brief partnership sync: understand your budget and expansion plans for next year, and share how we can support your cost-per-MW targets and new managed MW onboarding.\n\nWould you have 30 minutes in the next week?\n\nBest,\n[Your name]"
+    },
+    "slack": "BayWa r.e. signal: parent company restructuring (extended to 2030) + failed EUR 1.7B sale signals budget tightness and possible vendor review at operations level. AE + CS owner to call [Director of ROCC and Engineering] this week to confirm 2027 budget headroom, expansion pipeline (Sentry, managed MW growth), and any ownership/vendor-review changes. Position Raptor Maps as cost partner, not cost risk. Success: budget confirmed and Sentry pilot or contract terms agreed.",
+    "crmTask": {
+      "title": "BayWa r.e. turnaround check-in: budget & expansion alignment",
+      "due": "In 3 days",
+      "notes": "Parent company BayWa AG in financial restructuring (2030 target); planned EUR 1.7B sale of BayWa r.e. fell to EUR 900M; largest shareholders moved stake to trust; new turnaround management in place. Signals: budget tightness, possible vendor review, divestment risk for North American O&M. Current relationship: RS + Inspections in use; ROCC + field ops depend on platform for drone data, digital twin, and mobile workflows. Renewal risk: medium-high. Opportunity: prove ROI under cost-optimization imperative; Sentry pilot or expanded managed MW can anchor renewal and growth. Call objective: confirm 2027 budget, probe vendor review, assess ownership-change impact."
+    },
+    "doneWhen": "Call completed, budget status for 2027 confirmed (intact or tightened), and next step agreed (Sentry pilot, contract restructuring, or reference call) within 10 days.",
+    "generatedAt": "2026-11-03T20:00:07.046Z"
   }
 }
