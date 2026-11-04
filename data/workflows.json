@@ -5686,5 +5686,222 @@
     },
     "doneWhen": "Call completed, budget status for 2027 confirmed (intact or tightened), and next step agreed (Sentry pilot, contract restructuring, or reference call) within 10 days.",
     "generatedAt": "2026-11-03T20:00:07.046Z"
+  },
+  "a_6dfjem": {
+    "signalId": "a_6dfjem",
+    "account": "First Solar",
+    "signalTitle": "South Carolina 3.4-GW factory capacity completion",
+    "play": "onboard_expand",
+    "goal": "Deepen First Solar partnership by aligning RS Inspections thin-film standards with South Carolina factory ramp and co-marketing to their expanding US customer base.",
+    "owner": "Account Executive + CS Director",
+    "contactRole": "VP Field Quality, VP Warranty Reliability, Senior Reliability Engineer",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0-1",
+        "tasks": [
+          "Confirm South Carolina phase-one factory completion and module shipment timeline to existing/new utility-scale projects",
+          "Map current RS Inspections thin-film standards to latest First Solar Series designs and identify any gaps",
+          "Audit CRM for named sponsors in field quality, warranty, or reliability engineering (not just prior research contacts)"
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Brief AE on expansion opportunity (co-marketing to First Solar customers + standards refresh) and confirm AE leads outreach",
+          "Sync with Product on whether RS Inspections ML models need updates for new Series or SC-specific environmental conditions",
+          "Prepare CS case-study framework (field performance, crack detection, warranty data) for 2026 installed base"
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 2-3",
+        "tasks": [
+          "AE reaches out to [VP Field Quality] or [VP Warranty Reliability] with announcement hook (SC ramp) + ask for call to discuss standards refresh and co-marketing",
+          "Position as partnership deepening, not a new pitch: reference joint research from 2023 and offer to integrate new Series data into RS Inspections"
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 3-14",
+        "tasks": [
+          "Call with First Solar Field Quality/Warranty leads: review thin-film standards, gather early SC shipment field data or new Series specs",
+          "Propose co-marketing framework: joint case study, First Solar-branded inspection template, customer reference list",
+          "Outline RS Inspections expansion roadmap (Raptor Solar for fleet analytics across First Solar-equipped plants)"
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log case study scope, field data access agreement, and co-marketing terms in CRM",
+          "Measure: co-marketing launch date, customer references signed, new Series RS Inspections deployment (MW/sites)",
+          "Escalate Raptor Solar conversation to AE for follow-on cross-sell play"
+        ]
+      }
+    ],
+    "email": {
+      "subject": "First Solar SC capacity ramp: refreshing thin-film standards & co-marketing",
+      "body": "Hi [VP Field Quality / VP Warranty Reliability],\n\nCongratulations on the South Carolina factory phase one completion—3.4 GW of domestic CdTe capacity is a major milestone for the industry. We've been tracking module shipments to utility-scale projects, and we're seeing strong demand across the US installed base.\n\nWe'd like to refresh our thin-film-specific inspection standards as your South Carolina production ramps—especially any updates for your latest module series or field learnings from early shipments. We're also thinking about co-marketing RS Inspections to your utility-scale customers as they adopt the new modules.\n\nAre you available for a brief call next week? We can discuss verification workflows and explore a joint case study on CdTe field quality across 2026 projects.\n\nBest,\n[Your Name]"
+    },
+    "slack": "First Solar SC factory phase one complete (3.4 GW CdTe capacity). This signals material ramp in module shipments to US utility-scale projects—every First Solar owner is a Raptor prospect. Play: expand thin-film inspection standards w/ Field Quality & Warranty teams + co-marketing to their customer base. AE leads outreach; CS to identify champions and prep case study framework. Need confirmation: are there new Series designs or early field data we should incorporate into RS Inspections ML models?",
+    "crmTask": {
+      "title": "First Solar SC ramp: expand thin-film standards & co-marketing play",
+      "due": "In 2 days",
+      "notes": "South Carolina factory phase one live (3.4 GW CdTe capacity). Opportunity to refresh RS Inspections thin-film-specific standards (RGB anomalies, thermal signatures, crack detection) for new/updated Series and co-market to First Solar's expanding utility-scale customer base. Risk: no named sponsor in prior joint research—must identify and align Field Quality, Warranty Reliability, and Reliability Engineering as champions. Action: confirm new Series designs, request early SC shipment field data, propose joint case study on 2026 installed-base performance."
+    },
+    "doneWhen": "First Solar Field Quality or Warranty Reliability lead confirms a call within 5 days and provides early SC shipment field data or new Series design specs for RS Inspections ML refresh.",
+    "generatedAt": "2026-11-04T20:20:30.069Z"
+  },
+  "a_1s9f3hz": {
+    "signalId": "a_1s9f3hz",
+    "account": "BayWa r.e.",
+    "signalTitle": "Parent company debt restructuring / creditor haircut vote",
+    "play": "protect_renewal",
+    "goal": "Confirm budget stability and contract runway for BayWa r.e.'s North American O&M business, and position Raptor as a cost-efficiency asset to any new owner.",
+    "owner": "CS Director + Account Executive",
+    "contactRole": "Director of ROCC and Engineering, Operations Services",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0-1",
+        "tasks": [
+          "Check ARR, contract end dates, and any early renewal/termination clauses tied to BayWa AG events",
+          "Review current RS and Inspections usage metrics (MW managed, flights/inspections per month, production recovery $ impact)",
+          "Flag any recent support tickets, feature requests, or budget-related conversations in Slack or CRM"
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Brief AE and Ops lead: parent debt crisis does not directly affect BayWa r.e. trust status, but watch for capex freeze or forced vendor consolidation",
+          "Agree: AE leads business continuity check; CS lead prepares ROI one-pager (cost/MW, production uptime, labor savings)",
+          "Assign: one person to monitor for news of North American divestment or new ownership"
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 2-3",
+        "tasks": [
+          "AE calls [Director of ROCC and Engineering] to confirm 2026–2027 capex plans and whether parent restructuring affects O&M headcount or site expansions",
+          "Position as operational peer: 'We know BayWa AG is in transition; we want to make sure Raptor is running smoothly and adding real value to your cost model'"
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 3-7",
+        "tasks": [
+          "If budget confirmed stable: propose RS Sentry trial for 1–2 high-risk sites (reduce truck rolls, prove TCO benefit)",
+          "If budget pressure surfaces: share ROI one-pager and propose cost-benchmarking review (how much has Raptor saved vs. traditional inspections?)",
+          "If divestment risk surfaces: offer to prepare vendor summary for due diligence (reusable for any new O&M owner)"
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log call outcome: budget status, capex plans, any vendor review signals in CRM",
+          "Set monthly check-in cadence through 2027 (BayWa AG restructuring resolution expected ~2030)",
+          "Alert Product on any feature/compliance requests tied to new ownership transition"
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Raptor's role in your 2026 O&M roadmap—and our support through BayWa's transition",
+      "body": "Hi [Director of ROCC and Engineering],\n\nWe've been following BayWa AG's restructuring and wanted to check in on you directly. We know your trust structure insulates BayWa r.e. from immediate pressure, but we also know parent-company transitions affect budget and vendor reviews at the subsidiary level.\n\nQuick ask: can we grab 20 minutes to confirm your 2026–2027 capex plans and headcount outlook? We want to make sure Raptor is configured for success—and if budget tightens, we have some cost-benchmarking analysis ready to show your leadership team the ROI your ROCC has already captured.\n\nWe're here to support you through this transition.\n\nBest,\n[Your name]"
+    },
+    "slack": "🚨 **BayWa AG distress signal:** Parent company creditors rejected 98% debt haircut; restructuring continues. BayWa r.e. (trust-protected) is lower immediate risk, but watch for capex freeze, divestment of North American O&M ops, or new owner vendor reviews. **Play:** confirm budget + contract stability with [Director of ROCC and Engineering]; prepare ROI one-pager + due diligence summary in case of M&A. **Leads:** AE for business check, CS for ROI asset. **Due:** first call by Day 3.",
+    "crmTask": {
+      "title": "BayWa AG restructuring—confirm BayWa r.e. North American O&M budget and contract stability",
+      "due": "In 7 days",
+      "notes": "Signal: BayWa AG creditors rejected debt haircut; restructuring continues through 2030. BayWa r.e. in trust, but parent liquidity stress may trigger capex freeze, asset sales, or vendor consolidation. Risk: early termination or non-renewal if new owner conducts vendor review. Opportunity: prove ROI and position Raptor as efficiency asset. Context: Raptor Solar + Inspections running ROCC workflows, drone program, digital twins, field mobile app. 1+ GW managed, production analytics active. Action: (1) AE business continuity call; (2) CS prepares ROI one-pager (cost/MW, labor hours saved, production recovery $); (3) Monitor for divestment/new ownership news."
+    },
+    "doneWhen": "Confirmed call with [Director of ROCC and Engineering] completed; budget/contract status and 2026–2027 capex plans documented in CRM; ROI one-pager prepared and shared if budget pressure identified.",
+    "generatedAt": "2026-11-04T20:20:32.656Z"
+  },
+  "a_bgcawt": {
+    "signalId": "a_bgcawt",
+    "account": "Apex Clean Energy",
+    "signalTitle": "Data breach & OT security exposure",
+    "play": "protect_renewal",
+    "goal": "Secure Apex's confidence in their solar OT security posture and position Raptor Comply as the compliance backbone for their NERC-regulated fleet.",
+    "owner": "VP Operations and Maintenance + CS Director + Product (Security/Comply)",
+    "contactRole": "VP Operations and Maintenance",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0",
+        "tasks": [
+          "Confirm breach scope: did it touch OT systems, SCADA, or grid-facing infrastructure? Pull Apex's NERC registration status and asset thresholds.",
+          "Review Sentry deployment footprint and incident-response playbook used during tornado event—document real-time monitoring and evidence capture already in place.",
+          "Check for any recent security audits, compliance filings, or insurance claim activities related to wind/storage portfolio that might signal audit pressure."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1–2",
+        "tasks": [
+          "Brief Ops/Support on Sentry's role in Apex's incident response; flag any known security or compliance gaps from prior support interactions.",
+          "Align with Product (Comply team) on: NERC CIP audit readiness, claims-grade audit evidence workflows, and how Sentry + Comply together create a continuous, timestamped system of record.",
+          "Confirm internal lead (likely CS Director + VP Ops sponsor internally) and agree on positioning: support, not opportunism."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3–5",
+        "tasks": [
+          "Reach [VP Operations and Maintenance] with a warm, empathetic message: acknowledge the breach disclosure, express support, and offer a brief, confidential conversation about OT security and NERC compliance readiness.",
+          "Lead with Sentry's proven value in real-time monitoring and incident evidence capture—tie directly to the tornado response they know and trust.",
+          "Suggest a 20-minute call to map their current compliance documentation and response workflows; no pitch, just listening."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 7–14",
+        "tasks": [
+          "If audit or compliance review is underway: offer Raptor Comply as a phased OT security and audit-evidence platform, starting with a gap assessment and pilot on 1–2 key sites.",
+          "If not yet triggered: frame Comply as an insurance policy and audit accelerator—show how Sentry + Comply create a single system of record for real-time monitoring, incident response, and regulatory proof.",
+          "Explore whether Apex's internal security team or audit committee want to co-design a compliance roadmap with us (potential for reference + expansion into wind/storage if applicable)."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log all calls and findings in CRM; flag any NERC audit or regulatory action mentioned by Apex.",
+          "Measure success: scheduled Comply discovery call with [VP Operations and Maintenance] + security/compliance stakeholder within 10 business days; or signed LOI for Comply pilot within 30 days.",
+          "Share win/loss insights with Product: breach + NERC exposure = rising OT security urgency; use Apex feedback to refine Comply positioning for utility-scale and EPC segments."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Support on OT security & NERC readiness—no urgent action needed",
+      "body": "Hi [VP Operations and Maintenance],\n\nWe saw news of Apex's recent data security disclosure. Our team wants to check in: if there's anything we can do to support your OT security or compliance reviews, we're here.\n\nYour solar fleet's real-time monitoring is already a big asset—we've seen Sentry's incident evidence prove its worth. If you'd find it helpful, we could map your current NERC compliance workflows and talk through how Raptor Comply fits as an audit and incident-response backbone.\n\nNo pressure. Just want to make sure you have what you need.\n\nBest,\n[Your Name]"
+    },
+    "slack": "📢 **Apex Clean Energy: OT Security & NERC Compliance Play** — Breach disclosure signals rising organizational security scrutiny; Apex's 200+ MW fleet is above NERC registration thresholds. **Play:** Protect renewal by positioning Raptor Comply as OT audit backbone + incident evidence platform, leveraging trust built through Sentry's tornado response. **Lead:** CS Director + VP Ops, with Product (Comply) co-leading discovery. **Ask:** Warm outreach to [VP Ops] Day 3–5; discovery call + Comply gap assessment within 10 days; pilot LOI within 30 days.",
+    "crmTask": {
+      "title": "Apex Clean Energy: OT Security & NERC Compliance—Raptor Comply Discovery",
+      "due": "In 10 days",
+      "notes": "Signal: Data breach disclosure (medical/financial data, ~1,387 individuals). Scope appears to be employee/HR, not OT systems, but triggers organizational security review and likely NERC/regulatory audit activity. Opportunity: Apex is 200+ MW utility-scale owner-operator, above NERC CIP thresholds. Sentry already deployed fleet-wide with proven real-time monitoring and incident-response value (tornado event). Raptor Comply is natural fit as audit-evidence and OT security platform. Sponsor: [VP Operations and Maintenance]. Expansion play: OT security + compliance roadmap; potential wind/storage coverage if audit extends to non-solar assets. Success measure: Discovery call + gap assessment scheduled within 10 days; Comply pilot LOI within 30 days."
+    },
+    "doneWhen": "Scheduled Comply discovery call with [VP Operations and Maintenance] and security/compliance stakeholder; or signed Comply pilot LOI within 30 days.",
+    "generatedAt": "2026-11-04T20:20:33.807Z"
   }
 }

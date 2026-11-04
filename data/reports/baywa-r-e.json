@@ -608,5 +608,24 @@
         "publishedAt": "2026-11-03T13:31:32.000Z"
       }
     ]
+  },
+  {
+    "company": "BayWa r.e.",
+    "runAt": "2026-11-04T20:20:15.222Z",
+    "source": "daily",
+    "headline": "BayWa AG creditor debt restructuring vote ongoing; no direct O&M or solar operations impact yet, but liquidity risk persists for parent",
+    "signals": [
+      {
+        "category": "Parent company debt restructuring / creditor haircut vote",
+        "updateType": "distress",
+        "play": "retention",
+        "score": -1,
+        "summary": "BayWa AG creditors voted down a 98% haircut on debt; restructuring process continues with no resolution. While BayWa r.e. has been carved into a trust and is pursuing independent restructuring through 2030, the parent company's unresolved debt position and liquidity stress increase risk of forced asset sales, budget cuts, or operational changes at the subsidiary level.",
+        "suggestedAction": "Reach out to Sean Bucher to confirm current year budget and contract status for the North American O&M business. Ask whether the parent's debt situation is affecting capex or headcount plans for 2026–2027. Prepare a one-page ROI summary (cost per MW managed, production recovered, inspection labor hours saved) in case a new turnaround owner conducts vendor reviews.",
+        "sourceName": "ad-hoc-news.de",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdVJLeGdSTW95ZTBHcGlBamtVYlZpLWpWb3JoTjd0RVBDYXEzd0JqTEExNWVnamhpajhVWS1RN3NFdUhZSzVtTGE4N2dSRGNwbm4wOWlmYTZsUEx0Rjd5ZjFMWnFiRmU3bGtIYWNfV2xZaENuNkVENERlekxCTG1ZZjBCdEdMMTh4X3NFdVIxNTRnQ1hJWW9uSklGSHpnY3hyRmxLNzVSbk9rZ0FFa1l4al93ZDkzdTNfNkotclhtSUNDVl9tMFZ2emZfXzQyNHdhLW5rNWlIR0tWY3dRZHl5Um9UT042dGdsRnlrTlhENHNMZw?oc=5",
+        "publishedAt": "2026-10-30T02:41:04.000Z"
+      }
+    ]
   }
 ]

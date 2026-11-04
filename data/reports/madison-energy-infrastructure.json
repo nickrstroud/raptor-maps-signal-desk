@@ -93,5 +93,24 @@
         "publishedAt": "2026-10-29T07:00:00.000Z"
       }
     ]
+  },
+  {
+    "company": "Madison Energy Infrastructure",
+    "runAt": "2026-11-04T20:20:14.720Z",
+    "source": "daily",
+    "headline": "Madison Energy Infrastructure enters battery storage; CORE partnership signals possible adjacent services expansion",
+    "signals": [
+      {
+        "category": "Battery storage entry",
+        "updateType": "expansion",
+        "play": "none",
+        "score": 0,
+        "summary": "Madison Energy Infrastructure and CORE are planning a 50 MW battery energy storage system (BESS) in Colorado. This marks MEI's first named public move into standalone energy storage, beyond their established ~1 GW C&I solar portfolio.",
+        "suggestedAction": "Schedule a brief check-in with Matthew Messer (VP Asset Management) or Esteban Schrick (VP Analytics) to clarify: (1) whether MEI will operate this BESS as owner-operator (and thus under MEI management); (2) if operated, whether performance monitoring / analytics for the battery will feed Raptor Solar or sit in a separate stack; (3) any anticipated integration needs. Storage is outside Raptor Maps' current scope, but clarifying the architecture protects against a future vendor choice for battery APM.",
+        "sourceName": "iGrow News",
+        "sourceLink": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tYjNnSGRTUC12Mjc1QWJxSmZNVjNic0Z2ZTdlQUF6R25UNkFCckd4bktZM0E4T1ZiN1dTX2NqSXdnT1lJbXpRZF9ZWXJVbGtHYjY1SVpnZ0dkSlN0b3lIMVI5VHRzN1Zfckw5UlBjLXBhQQ?oc=5",
+        "publishedAt": "2026-11-04T15:34:06.000Z"
+      }
+    ]
   }
 ]

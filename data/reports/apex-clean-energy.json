@@ -183,5 +183,24 @@
         "publishedAt": "2026-10-21T12:21:52.000Z"
       }
     ]
+  },
+  {
+    "company": "Apex Clean Energy",
+    "runAt": "2026-11-04T20:20:15.095Z",
+    "source": "daily",
+    "headline": "Apex Clean Energy data breach exposes employee/contractor medical and financial data; OT security and compliance posture now under scrutiny",
+    "signals": [
+      {
+        "category": "Data breach & OT security exposure",
+        "updateType": "security",
+        "play": "comply",
+        "score": 1,
+        "summary": "Apex disclosed a breach exposing medical and financial information of at least 1,387 individuals (likely employees, contractors, or related parties). While the breach appears focused on employee/HR data rather than OT systems, it signals organizational cybersecurity gaps and will trigger regulatory scrutiny, audit activity, and internal security reviews. For a utility-scale operator managing 200+ MW sites above NERC registration thresholds, this creates urgency around OT security posture and compliance documentation.",
+        "suggestedAction": "Reach out to Neil James to understand the scope of the breach and whether it has triggered any NERC or grid-security audits. Use this as a natural opening to discuss Raptor Comply's role in establishing a claims-grade system of record for OT compliance, NERC CIP audit evidence, and incident response workflows—especially given Sentry's real-time monitoring capabilities already in place across their solar fleet.",
+        "sourceName": "teiss",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObUdoeEE4b25SblVFdXlleFYwUzlJamRvOEdwVngxY1ZqbjF6WFRzTUt6R3pFc0x1Q3BqSEJXMVVaNnBuWmU4Q09vTTR0QlJXWXo1WmxfY1NSM2VwMl9fY0NCeUN2TGdxSHEzeEdxRl9ISEplLWRld2psczB4S3ZQNmF2QThxNHFYRlo0eFVDVy1VdHRucHlxXzRIOVdMTUJCc1phLWV2SmJJc014VWh6am1ORkEyM3ZyWGg4T0xlTHFCaTRhaHhaaEdZUmgtNkw5RWc?oc=5",
+        "publishedAt": "2026-11-04T11:00:11.000Z"
+      }
+    ]
   }
 ]

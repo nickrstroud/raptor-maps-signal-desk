@@ -325,5 +325,24 @@
         "publishedAt": "2026-10-29T20:11:06.000Z"
       }
     ]
+  },
+  {
+    "company": "First Solar",
+    "runAt": "2026-11-04T20:20:16.228Z",
+    "source": "daily",
+    "headline": "First Solar completes South Carolina 3.4-GW production ramp; material capacity expansion fuels installed base growth and field-quality inspection demand",
+    "signals": [
+      {
+        "category": "South Carolina 3.4-GW factory capacity completion",
+        "updateType": "expansion",
+        "play": "inspections",
+        "score": 1,
+        "summary": "First Solar completed the first phase of its planned 3.4-GW PV module production capacity in South Carolina. This is a material capacity increase for US-made CdTe thin-film modules that strengthens First Solar's domestic market share and supply agreements with utility-scale owners. The ramp signals acceleration in module shipments to new and existing projects across the US installed base.",
+        "suggestedAction": "Reach out to First Solar's field quality and warranty reliability teams to discuss co-marketing RS Inspections to the expanding base of utility-scale projects shipping with South Carolina modules. Ask whether they want to refresh thin-film-specific inspection standards for any new Series or verify performance data on early South Carolina shipments. Propose a joint case study on CdTe field quality across the 2026 installed base.",
+        "sourceName": "EnergyTech",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWnlpaENaY0dMSC1lZDJCbDBvMmtaX19JVEtNRjlqbEs2TFp4ZVFHa08tVWFXc3IxblFmZGpXQjlfWHMwWWxUbTkzcHFpeVNVb2VjMWEtWnJoem05WTUtb2RYXzI5VDdwdm1mUkYzM0EzSVctUWRHWHF6Zk9fQ2ZubWM4YlAyYzVld1dfdDRZOWFWY1hsN3N0MTlXb29nZlpNWWJPZEJ0Qm9oYW12aWYxRTFmOHdFMzg0YTVZRTlaNjA2MVB3MzlkTGdDRmF0NXRZNHFqdXFEMkdlZ0NYUGc?oc=5",
+        "publishedAt": "2026-10-30T20:21:45.000Z"
+      }
+    ]
   }
 ]

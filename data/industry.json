@@ -1,5 +1,210 @@
 [
   {
+    "id": "tcHJhY3RpY2FsLzg3Mzc1Mi8",
+    "title": "Trump ban on foreign grid components sparks industry concern over practicality, cost",
+    "link": "https://www.utilitydive.com/news/trump-ban-on-foreign-grid-components-sparks-industry-concern-over-practical/873752/",
+    "sourceName": "Utility Dive",
+    "publishedAt": "2026-11-04T16:41:26.000Z",
+    "analyzedAt": "2026-11-04T20:20:55.345Z",
+    "updateType": "regulatory",
+    "relevance": 1,
+    "summary": "Trump administration order restricting foreign grid components raises concerns among stakeholders over feasibility and cost; critics argue geography-based rules miss functional and capability considerations.",
+    "angle": "Tariff and domestic-content rules affect inverter, tracker, and component sourcing for solar projects; CSMs should monitor for cost pressures and timeline delays affecting customer capex and project economics.",
+    "play": "none",
+    "products": [],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "5LWluZm9ybWF0Lzg3MzcwMy8",
+    "title": "Electric utilities join industries urging renewal of cybersecurity information-sharing law",
+    "link": "https://www.utilitydive.com/news/electric-utilities-join-industries-urging-renewal-of-cybersecurity-informat/873703/",
+    "sourceName": "Utility Dive",
+    "publishedAt": "2026-11-04T15:24:26.000Z",
+    "analyzedAt": "2026-11-04T20:20:55.345Z",
+    "updateType": "security",
+    "relevance": 2,
+    "summary": "Electric utilities urge renewal of CISA 2015 cybersecurity information-sharing law, set to expire next month; law provides liability protections for threat-indicator sharing with federal agencies and peers.",
+    "angle": "NERC CIP and critical infrastructure cybersecurity rules tighten; Raptor Comply and solar OT security posture become higher priority as utilities and IPPs face heightened compliance and audit risk.",
+    "play": "comply",
+    "products": [
+      "comply"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "ItMjAyOC1jb21wbGV0aW9uLw",
+    "title": "EDP Renewables’ 250-MW Arkansas solar project slated for 2028 completion",
+    "link": "https://www.solarpowerworldonline.com/2026/11/edp-renewables-250-mw-arkansas-solar-project-slated-for-2028-completion/",
+    "sourceName": "Solar Power World",
+    "publishedAt": "2026-11-04T15:06:04.000Z",
+    "analyzedAt": "2026-11-04T20:20:48.154Z",
+    "updateType": "expansion",
+    "relevance": 1,
+    "summary": "EDP Renewables broke ground on Cypress Knee Solar, a 250-MW utility-scale solar project in Arkansas with a long-term PPA with Meta, slated for 2028 completion.",
+    "angle": "Major utility-scale build-out with marquee offtaker signals continued growth in large-scale solar development; typical customer footprint for platform expansion.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "cnVyYWwtY29tbXVuaXRpZXMv",
+    "title": "rPlus Energies raises US$450 million to support US solar and energy storage projects in rural communities",
+    "link": "https://www.pv-tech.org/rplus-energies-raises-us450-million-to-support-us-solar-and-energy-storage-projects-in-rural-communities/",
+    "sourceName": "PV Tech",
+    "publishedAt": "2026-11-04T14:21:03.000Z",
+    "analyzedAt": "2026-11-04T20:20:48.154Z",
+    "updateType": "financing",
+    "relevance": 1,
+    "summary": "rPlus Energies closed a $450 million revolving credit facility to support its solar and energy storage project pipeline across the American West.",
+    "angle": "Developer capital growth in rural and distributed solar signals expansion opportunity; new projects typically require performance monitoring and O&M workflows.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "dC1jbG9zZW91dC1kZWxheXMv",
+    "title": "Ten solar installation deficiencies that can cause project closeout delays",
+    "link": "https://pv-magazine-usa.com/2026/11/04/ten-solar-installation-deficiencies-that-can-cause-project-closeout-delays/",
+    "sourceName": "pv magazine USA",
+    "publishedAt": "2026-11-04T14:20:16.000Z",
+    "analyzedAt": "2026-11-04T20:20:48.154Z",
+    "updateType": "expansion",
+    "relevance": 2,
+    "summary": "Construction quality control inspections are critical to prevent installation deficiencies that cause project closeout delays and ensure long-term operational safety at utility-scale solar sites.",
+    "angle": "Timely reminder for customers building or commissioning new solar projects: systematic aerial inspections and construction QA workflows reduce costly delays and warranty risks.",
+    "play": "inspections",
+    "products": [
+      "inspections"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "aGFyZHdhcmUtcGxhdGZvcm0v",
+    "title": "ARRAY Technologies and Shoals merge to create integrated solar hardware platform",
+    "link": "https://pv-magazine-usa.com/2026/11/04/array-technologies-and-shoals-merge-to-create-integrated-solar-hardware-platform/",
+    "sourceName": "pv magazine USA",
+    "publishedAt": "2026-11-04T14:09:05.000Z",
+    "analyzedAt": "2026-11-04T20:20:48.154Z",
+    "updateType": "ma",
+    "relevance": 2,
+    "summary": "ARRAY Technologies and Shoals Technologies are merging to create an integrated solar hardware platform combining utility-scale tracking, racking, and electrical balance-of-system solutions.",
+    "angle": "Major consolidation in solar hardware layer may reshape EPC and developer procurement; signals continued hardware-software integration trends and potential customer portfolio shifts.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "tcmVwb3J0cy1sZXZlbHRlbi8",
+    "title": "Solar PPA prices rose in Q3 as Section 232 tariffs began to take effect, reports LevelTen",
+    "link": "https://pv-magazine-usa.com/2026/11/04/solar-ppa-prices-rose-in-q3-as-section-232-tariffs-began-to-take-effect-reports-levelten/",
+    "sourceName": "pv magazine USA",
+    "publishedAt": "2026-11-04T12:51:49.000Z",
+    "analyzedAt": "2026-11-04T20:20:48.154Z",
+    "updateType": "trade",
+    "relevance": 2,
+    "summary": "Solar PPA prices in North America rose sharply in Q3 2026 as Section 232 tariffs on imported polysilicon products began to take effect, resuming an upward cost trend.",
+    "angle": "Tariff-driven cost pressure is reshaping project economics and may accelerate customer interest in O&M efficiency and performance optimization to improve project ROI.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "OV0RsNFQwOU1PVmQzP29jPTU",
+    "title": "Sunraycer Renewables buys 325 MW solar portfolio in the US Midwest",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTHNLUnZEcGhJSGpTVkZQdzRmcXRmbXJZbVp5YzFCNjlsTVM0bTg2WGlpUUFiX2lMMVl4MGZySms0ajB6TDRUTWlpVTNUUkliX3lUUXozUktqLTJrb1lHNE15THdkaHN5UHZpcE1xckFRQVp5QnZsMVAwUFBlYTNHaU1Td2tmdzhYTDNycnNuVkctYUEwUHQteVRNWDl4T09MOVd3?oc=5",
+    "sourceName": "Solarbytes",
+    "publishedAt": "2026-11-04T10:00:37.000Z",
+    "analyzedAt": "2026-11-04T20:21:04.407Z",
+    "updateType": "ma",
+    "relevance": 2,
+    "summary": "Sunraycer Renewables has acquired a 325 MW solar portfolio in the US Midwest, representing significant portfolio consolidation and potential MW reallocation among operators.",
+    "angle": "Portfolio acquisitions like this signal shifts in which operators control assets and may trigger platform expansion conversations with new owners or existing customers managing larger fleets.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "5vaXMtYW5kLW1pc3NvdXJpLw",
+    "title": "Sunraycer acquires 325MWac solar projects in Illinois and Missouri",
+    "link": "https://www.pv-tech.org/sunraycer-acquires-325mwac-solar-projects-in-illinois-and-missouri/",
+    "sourceName": "PV Tech",
+    "publishedAt": "2026-11-04T09:29:17.000Z",
+    "analyzedAt": "2026-11-04T20:20:55.345Z",
+    "updateType": "ma",
+    "relevance": 2,
+    "summary": "Sunraycer Renewables acquired two utility-scale solar projects totaling 325 MWac in Illinois and Missouri from Apricus Energy.",
+    "angle": "Portfolio consolidation and MW shifting hands creates an opportunity to engage the acquirer on platform coverage and O&M efficiency gains; relevant for customers operating competing or adjacent assets.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "cxSlFqQnNXamhaVVE_b2M9NQ",
+    "title": "El Niño Threatens Renewable Energy Projects As Extreme Weather Losses Rise Globally, Tokio Marine GX Warns",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObm4zdFJIYzFpNG9rRjZTeHRJdVNNQTFGRDgxelZaR0VZQ3p5YnZIWGp6MlJaSW9fSWRadWRkaURPM1VpRVl3NVo0Vkxaak1lbG1OenlfZFlCM1E1ZUJfRE0tSFVIVjRNWGc5YWtYZDhBSjBleVhFZnpXLS1sY3U4WG5pNUowbWFTRzc5UW4zMGJteWFITkwtcFJMdjZqRFF2dDVEbmp1b3VpT3R3MFhaYTVGNDVRSGloV2luSTRRaHlvdjFkcEtyN01kd18tOXVoUG1JQjBsWjhZUQ?oc=5",
+    "sourceName": "SolarQuarter",
+    "publishedAt": "2026-11-04T05:11:38.000Z",
+    "analyzedAt": "2026-11-04T20:20:55.345Z",
+    "updateType": "weather",
+    "relevance": 2,
+    "summary": "El Niño and extreme weather events globally are driving renewal energy losses up, per Tokio Marine GX analysis.",
+    "angle": "Hail, storms, and severe weather damage are escalating; customers need rapid visual and thermal inspection and storm-response capability to document losses for insurance and warranty claims.",
+    "play": "inspections",
+    "products": [
+      "inspections",
+      "sentry"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "pJMmVWSlBZekJTVFE_b2M9NQ",
+    "title": "Waaree Renewable Technologies Secures Five-Year O&M Contract For 360 MWp Solar Project",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONVQ1NVpRcTc5RXZHU0h5Y1hwOE0yS2QxWXU5WDF6M1hRY1RaVG5WQUx3OEF5U0Q0aEZzN0pYUGNBeG9GbVRqTlVPTWd0eENlNGpzSkIxbXJxRU56YWRMZHRiMGlPTV9uU2hUM1hHbDZoLXM4Z3lodlRrVER0TmdHdEFVVWdQd0pqNmdzZlQ0ZFVnYlh1SGZfQ2IwMjFUclFSVk03RHFXbDJIcmFLbVdURTFhUVJtMzI2eVJPYzBSTQ?oc=5",
+    "sourceName": "SolarQuarter",
+    "publishedAt": "2026-11-04T04:08:54.000Z",
+    "analyzedAt": "2026-11-04T20:21:00.673Z",
+    "updateType": "expansion",
+    "relevance": 2,
+    "summary": "Waaree Renewable Technologies secured a five-year O&M contract for a 360 MWp solar project, signaling major new site coverage and ongoing asset management responsibility.",
+    "angle": "A 360 MW solar O&M contract represents significant platform expansion opportunity; Raptor Solar can help optimize performance and lower O&M costs across this portfolio, and inspections/Sentry can enable predictive maintenance.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar",
+      "inspections"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "VnVYelJEVVdWWFVqQT9vYz01",
+    "title": "Purdue-Owned Windracers ULTRA Is First Autonomous Aircraft to Fly BVLOS in Indiana Drone Corridor - Avi-Go",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WWmlBaGVBQjVMQ3FXX2NWN1RrSlRFb3A2UVozenFtOGlzeGRSc3kwQmRQcUdiY1N5aS0xMHlrUktJU3JUZjhNZXJEMmU0RERRX05obF8zLWo4cFBMYXBBNzAwdktMd3MzcnVuXzRDUWVXUjA?oc=5",
+    "sourceName": "Avi-Go",
+    "publishedAt": "2026-11-04T02:22:34.000Z",
+    "analyzedAt": "2026-11-04T20:21:00.673Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "Purdue-owned Windracers ULTRA became the first autonomous aircraft to fly BVLOS (Beyond Visual Line of Sight) in Indiana's new FAA drone corridor, demonstrating expanding regulatory pathways for autonomous aerial operations.",
+    "angle": "FAA BVLOS corridors and autonomous drone approvals are opening new use cases for remote solar inspections and monitoring; this regulatory win signals faster adoption paths for Raptor Sentry and Inspections autonomous workflows.",
+    "play": "inspections",
+    "products": [
+      "inspections",
+      "sentry"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "TmhkMVY2YnpSamJuTT9vYz01",
     "title": "Sunraycer Acquires 325 MW Solar Portfolio in Illinois and Missouri From Apricus Energy",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcUtDU1ZvR3RaT2xXYmxncGdCUGNkTktwRlhqbUxodnBqakwxdHZVTDhGY0tFeHdob09ZNWptc29xZklaS3Q4YnB3dlVlQ2ZpVzNSaTNTMk8yYnVrSHpOWi1PdnU5TS1VTzFwZTJBY3lUaEk3Wk9NVGVJNnVQRDREZU85eFBqb08tc0NxbEExQ1FWRVE3akQ2bE5PUUlMZU1lWGZBUDRtcWNZXzhxVVphNGpxNXAtZExOMlNhd1V6bzRjbnM?oc=5",
@@ -207,6 +412,23 @@
     "mentionedAccounts": []
   },
   {
+    "id": "VNVVZXYVROSGRrMW4_b2M9NQ",
+    "title": "Next investor newsletter: cybersecurity risks for inverters and storage",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQWQ4YVZ6MTdHMVN4QVNHc3pKMkZIT1pLVXI0TmRLbkVjUWF0TGhQbUU1UHpic24wSDlqWXNzZWdpOXE3c1dfaGRZRmhKMHhrZVdQS0Zaa0xuOEY1UFhHTXZ3b1pHeFZLVTdoNXNHMWZnYWRoMGJPaXprSC1FVVd0VVVzVU1FelVHNWtQM2prcmJHNzVFcWtuMUVWaTNHdk1n?oc=5",
+    "sourceName": "pv Europe",
+    "publishedAt": "2026-11-02T16:00:06.000Z",
+    "analyzedAt": "2026-11-04T20:21:04.407Z",
+    "updateType": "security",
+    "relevance": 2,
+    "summary": "Industry reports are highlighting growing cybersecurity risks for inverters and storage systems, underscoring the need for OT security and compliance frameworks.",
+    "angle": "Inverter and storage cybersecurity threats are a direct trigger for NERC CIP compliance conversations and Raptor Comply platform value, especially for grid-connected and battery-paired solar assets.",
+    "play": "comply",
+    "products": [
+      "comply"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "LXF1YXJ0ZXJzLW9mLTIwMjYv",
     "title": "Solar sector corporate funding increases 45% through three quarters of 2026",
     "link": "https://pv-magazine-usa.com/2026/11/02/solar-sector-corporate-funding-increases-45-through-three-quarters-of-2026/",
@@ -357,6 +579,21 @@
     "mentionedAccounts": [
       "First Solar"
     ]
+  },
+  {
+    "id": "bTluV2pGUGVXSlNRUT9vYz01",
+    "title": "T1 Energy secures federal waiver to keep Texas solar manufacturing moving",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBicnRuUzRtckVqeko0bkNSWmUzNUFwOXoyLTR0cWhfWEZBTmVHRE1EcU5EM05HVGxtMWNxdXFCam5HQWtXbHFzV2pQeEtQeUtOZ1lwaUhNVEtfTXZFX3lHTUZjMDRXZXR0YkJiY3Z1ek9HRnF4Wm9nWjFPeWJSQQ?oc=5",
+    "sourceName": "Energies Media",
+    "publishedAt": "2026-11-01T18:30:21.000Z",
+    "analyzedAt": "2026-11-04T20:21:00.673Z",
+    "updateType": "policy",
+    "relevance": 2,
+    "summary": "T1 Energy secured a federal waiver to continue Texas solar manufacturing operations, indicating flexibility in domestic-content compliance and manufacturing policy enforcement.",
+    "angle": "Federal waiver flexibility on domestic-content rules affects solar module sourcing costs and project economics for solar owners and O&M providers; worth flagging to customers planning new deployments or module procurements.",
+    "play": "none",
+    "products": [],
+    "mentionedAccounts": []
   },
   {
     "id": "UtdGhlLW5leHQtY3Jpc2lzLw",
