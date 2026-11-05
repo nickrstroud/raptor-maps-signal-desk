@@ -1,5 +1,176 @@
 [
   {
+    "id": "kxVEU5cFZsUkNhV2s_b2M9NQ",
+    "title": "Curtailment wastes a fifth of Brazil’s solar and wind; associations call for action",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeTMtUlloUDduVmlzR1RxZllqX2lWR3A0bFgweE03bkQ5VS1JUF9ZdDU1Y0ZUT3VoSjA5eGVPaTdtc2w4Q1dBYUV4ZnhFQ3NoaHRfc0k1aFFuTGF2ZUhSWlJwNDUtaUd6MFVnd0xZeG5qS1dBdlVsWkdJY0ZnTmhsX0M1SFNmU1M5MDVwaFAwM3RlVTZnNUZnVkVIM0tmQ3RFc3QzZE1TRlVQY3dnamJqdnRWdFlTR3FxS3U5a29Sb2FjVk81cUlFVTI3NEd3S0Y1TE9pVlRCaWk?oc=5",
+    "sourceName": "BNamericas",
+    "publishedAt": "2026-11-05T14:16:33.000Z",
+    "analyzedAt": "2026-11-05T20:31:20.104Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "Brazil's solar and wind curtailment wastes approximately one-fifth of generation capacity; industry associations are calling for grid policy action.",
+    "angle": "Curtailment losses highlight the need for continuous monitoring, rapid response, and detailed performance analytics to optimize asset dispatch and maximize revenue in constrained grids—core value of Raptor Solar and Sentry.",
+    "play": "sentry",
+    "products": [
+      "raptor_solar",
+      "sentry"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "RkWk9HVktTSFZZUkE_b2M9NQ",
+    "title": "Sunraycer Acquires 325 MW US Solar Projects",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE16Uzg0UWxWZEFHb3pUUUhZbHZZVVpxOWZuMGx5SXJyMnl2Zm55TXBjZkw5eGVYNWF5MTI1RHBsRzZmQ3ZZb1Fib3ViMDJIMk1BNW9KUzJsMENpRVBXU1RWVkRwNWNjd2tPckRTbHg2NTdZOGVKSHVYRA?oc=5",
+    "sourceName": "www.mvapulse.com",
+    "publishedAt": "2026-11-05T13:31:58.000Z",
+    "analyzedAt": "2026-11-05T20:31:08.587Z",
+    "updateType": "expansion",
+    "relevance": 2,
+    "summary": "Sunraycer has acquired 325 MW of US solar projects, representing significant portfolio growth.",
+    "angle": "Portfolio acquisitions create immediate need for unified operational visibility across new assets; Raptor Solar enables rapid consolidation of digital twins and performance workflows.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "LXB2LXBsYW50LWluLW9oaW8v",
+    "title": "Energix begins commercial operations at 152MW solar PV plant in Ohio",
+    "link": "https://www.pv-tech.org/energix-begins-commercial-operations-at-152mw-solar-pv-plant-in-ohio/",
+    "sourceName": "PV Tech",
+    "publishedAt": "2026-11-05T13:10:28.000Z",
+    "analyzedAt": "2026-11-05T20:31:03.568Z",
+    "updateType": "expansion",
+    "relevance": 2,
+    "summary": "Energix Renewables has brought its 152MWdc Border Basin solar project online in Ohio, now delivering power to the PJM Interconnection market.",
+    "angle": "New utility-scale solar coming online in PJM represents an opportunity to engage the IPP on platform coverage and multi-site performance optimization.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "9yYWdlLWludGVncmF0aW9uLw",
+    "title": "Grid pressures accelerate utility solar and storage integration",
+    "link": "https://pv-magazine-usa.com/2026/11/05/grid-pressures-accelerate-utility-solar-and-storage-integration/",
+    "sourceName": "pv magazine USA",
+    "publishedAt": "2026-11-05T12:57:00.000Z",
+    "analyzedAt": "2026-11-05T20:31:03.568Z",
+    "updateType": "expansion",
+    "relevance": 2,
+    "summary": "AI and industrial electrification are driving utilities to accelerate solar and storage procurement, requiring adaptations in site engineering and plant architectures to meet modern grid demands.",
+    "angle": "Utility customers are under pressure to scale deployment and optimize site operations; this is a strong hook to discuss platform expansion, new site coverage, and multi-site operational efficiency.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "Btdy1tZXRhLWFya2Fuc2FzLw",
+    "title": "EDPR breaks ground on 250MW Cypress Knee Solar in Arkansas",
+    "link": "https://www.pv-tech.org/edpr-groundreaking-cypress-knee-250mw-meta-arkansas/",
+    "sourceName": "PV Tech",
+    "publishedAt": "2026-11-05T12:41:51.000Z",
+    "analyzedAt": "2026-11-05T20:31:03.568Z",
+    "updateType": "expansion",
+    "relevance": 2,
+    "summary": "EDP Renewables North America has begun construction on its 250MW Cypress Knee Solar project in Arkansas, which will supply power to Meta.",
+    "angle": "Large-scale utility solar project entering active construction phase; an opportunity to discuss platform onboarding, performance monitoring, and O&M workflow optimization as the project ramps toward commissioning.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "LWZpcmUtcGVyZm9ybWFuY2Uv",
+    "title": "What Class A reveals about solar PV module fire performance",
+    "link": "https://pv-magazine-usa.com/2026/11/05/what-class-a-reveals-about-solar-pv-module-fire-performance/",
+    "sourceName": "pv magazine USA",
+    "publishedAt": "2026-11-05T12:37:54.000Z",
+    "analyzedAt": "2026-11-05T20:31:03.568Z",
+    "updateType": "reliability",
+    "relevance": 1,
+    "summary": "Industry discussion on solar PV module safety and Class A fire performance designations highlights the importance of understanding module fire safety standards.",
+    "angle": "Module reliability and safety performance is a key operational concern for solar owners; inspections and warranty evidence capabilities become talking points for ensuring asset integrity.",
+    "play": "inspections",
+    "products": [
+      "inspections"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "b3ItYnVjay1raXdhLXB2ZWwv",
+    "title": "Nameplate power of PV modules: are you getting bang for your buck?",
+    "link": "https://www.pv-tech.org/nameplate-power-pv-modules-bang-for-buck-kiwa-pvel/",
+    "sourceName": "PV Tech",
+    "publishedAt": "2026-11-05T11:45:07.000Z",
+    "analyzedAt": "2026-11-05T20:31:08.587Z",
+    "updateType": "technology",
+    "relevance": 1,
+    "summary": "Analysis of PV module nameplate power ratings and their impact on project economics. Discussion of whether nameplate ratings accurately reflect real-world performance and financial returns.",
+    "angle": "Customers relying on nameplate specs alone may be overestimating project ROI; Raptor Solar's performance analytics and digital twin capabilities help bridge the gap between rated and actual output.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "5SldYaDBTblpSU0RnP29jPTU",
+    "title": "Solar PPA Prices Up 4.9% in Q3 2026: LevelTen Energy Report - News and Statistics",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZmF5aE81UzlDZy1IbThialBrQTk0REJocTFkMThET3Y0ZjJXRE95YldvWS1MZGNkUENLNGoyQjQtZm1fY2JPR3Y4MUc2VWY1ZDN4YklqdGdBdlhIanloa2NCRzU0UldHMDdSTFVRaGpaUXAxQms2WnFoMWhabFE3MDlUVDB4a0ctYmhmWHpWanlDTU9JWXh0SnZRSDg?oc=5",
+    "sourceName": "IndexBox",
+    "publishedAt": "2026-11-05T11:30:36.000Z",
+    "analyzedAt": "2026-11-05T20:31:20.104Z",
+    "updateType": "expansion",
+    "relevance": 1,
+    "summary": "LevelTen Energy reports solar PPA prices increased 4.9% in Q3 2026, reflecting market dynamics.",
+    "angle": "Rising PPA prices indicate tighter solar project economics and stronger market demand; a data point for customers evaluating project ROI and the value of performance optimization tools.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "ZOTlUyOUdYM0phVVE_b2M9NQ",
+    "title": "Kiwa Finds Greater Quality Risks At New PV Factories",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYnQxenpodkx1SEZpbWNSLUdPLVVPOG5kY21SNVlvcG1xVlNzUVYzdFFPOXRMZHJOenU0LXk4RWYzYXI4am5ZSGxCTEM5c0lTYURlaGV4QmEtSDJPampHNWVGWWxiZ3gyU2FzSmE3STB5S0R5MzZ1Y05KZjBNaXZQdTRYVGQyQ283dVNNU29GX3JaUQ?oc=5",
+    "sourceName": "TaiyangNews",
+    "publishedAt": "2026-11-05T06:34:57.000Z",
+    "analyzedAt": "2026-11-05T20:31:13.701Z",
+    "updateType": "reliability",
+    "relevance": 2,
+    "summary": "Kiwa testing finds elevated quality risks and defects at newly built PV manufacturing facilities. Underscores module reliability and warranty evidence challenges for solar operators.",
+    "angle": "Quality issues from new factories increase need for thermal imaging and visual inspection to catch early module defects; warranty documentation and claims evidence become critical for operators.",
+    "play": "inspections",
+    "products": [
+      "inspections"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "RKSmVtaHRaM2wxWnc_b2M9NQ",
+    "title": "Pew-Brattle Report Urges Wider Use, Easier Path for DERs",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObXBYT3BXdldRQWd5YlBuYTNyLUNQYVRBVWhrYkZ5SGlaenBhc1NtVzVaU3VtS3ZNT3M5UVFDQ1RsNTVaZzJDQjlvYU1lUXRVWVVRNzZkeUZDWHRmMTNUYW5POVU2OFhsWFRwNGgyenB0RTVTTnVhTU9hWmFpZUd6OUpEVG52UVdJQTJJemhtZ3l1Zw?oc=5",
+    "sourceName": "RTO Insider",
+    "publishedAt": "2026-11-05T05:10:30.000Z",
+    "analyzedAt": "2026-11-05T20:31:13.701Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "Pew-Brattle Report recommends wider use and easier interconnection pathways for distributed energy resources (DERs), including solar. This could expand opportunities for solar plant dispatch and aggregation.",
+    "angle": "Easier DER integration and solar aggregation economics may drive higher utilization and monitoring demands on platform; customer plants could see new revenue streams from grid services.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "tcHJhY3RpY2FsLzg3Mzc1Mi8",
     "title": "Trump ban on foreign grid components sparks industry concern over practicality, cost",
     "link": "https://www.utilitydive.com/news/trump-ban-on-foreign-grid-components-sparks-industry-concern-over-practical/873752/",
@@ -12,6 +183,23 @@
     "angle": "Tariff and domestic-content rules affect inverter, tracker, and component sourcing for solar projects; CSMs should monitor for cost pressures and timeline delays affecting customer capex and project economics.",
     "play": "none",
     "products": [],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "V04zVm01dFpqWXdidz9vYz01",
+    "title": "EDP Renewables Begins 250-MW Cypress Knee Solar Project in Arkansas - News and Statistics",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSGE2Q0tYdm1SV0pzS3lCMmdJUnZITTFoMnhrWHljaHBnSzA1QTQyZ056d1U5a2xTQlQ0YkZ3aExEZXFIaU8xX0N4OEFMNF9GSEsxZHJOR21EcENpTVRSelRhX0k4cUhwVzlWQk5leWczZTZYUFdmNC1HbERNSzBQZWZLZVpYY1hUbG9Ed29fdVdWYzJjZ2JvMzk5WWY0SVBxRXo0LXkzVnllVWN3Vm5tZjYwbw?oc=5",
+    "sourceName": "IndexBox",
+    "publishedAt": "2026-11-04T16:30:40.000Z",
+    "analyzedAt": "2026-11-05T20:31:13.701Z",
+    "updateType": "expansion",
+    "relevance": 1,
+    "summary": "EDP Renewables begins construction of 250-MW Cypress Knee solar project in Arkansas. Represents significant new solar capacity deployment in the region.",
+    "angle": "Large solar builds in operation represent expansion opportunities for platform coverage; potential to support EPC, O&M, or IPP customers deploying new MW.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
     "mentionedAccounts": []
   },
   {
@@ -775,6 +963,24 @@
     "mentionedAccounts": []
   },
   {
+    "id": "hReVUxZExXRmRLWnc_b2M9NQ",
+    "title": "General Services Administration Explores Solar Photovoltaic Storm Resilience After Hurricane Damage",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbVR4dVRuaVdqU3BxbUVpZnhDX0NIYnBSdGE5S19KYVV5VW1pT2g4U3hiWHZrRHg1MXdhZkZscVR4N0l4RkQ0QVAxbWdQVTBtaHJfMlpZZG5FaWp0YVhtcTFIbWlfZ25jT0xDWngyLXFEMmtZd3BLVWRfY2I0RVNnd0s0WklZNzdwc0YyMG9HQ0VaYl9CNHRWWjR3REVib28wT1FhdWV0ZS1HSVJPOHQyU1dLWFdKZw?oc=5",
+    "sourceName": "Department of Energy (.gov)",
+    "publishedAt": "2026-10-30T14:42:15.000Z",
+    "analyzedAt": "2026-11-05T20:31:08.587Z",
+    "updateType": "weather",
+    "relevance": 2,
+    "summary": "General Services Administration is exploring solar photovoltaic storm resilience measures following hurricane damage to solar assets.",
+    "angle": "Federal facilities are prioritizing storm-resilient solar operations; drone inspections and rapid damage assessment are critical to validate durability and enable faster recovery post-event.",
+    "play": "inspections",
+    "products": [
+      "inspections",
+      "sentry"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "cmlmZi1tYXJrZXQtc2hpZnQv",
     "title": "First Solar posts 58% gross margin in Q3, trims 2026 sales guidance amid post-tariff market shift",
     "link": "https://pv-magazine-usa.com/2026/10/30/first-solar-posts-58-gross-margin-in-q3-trims-2026-sales-guidance-amid-post-tariff-market-shift/",
@@ -933,6 +1139,23 @@
     "mentionedAccounts": []
   },
   {
+    "id": "BSbVpXUTNOMWhKWnc_b2M9NQ",
+    "title": "Chinese-linked solar developer loses appeal over Texas grid interconnection",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQemgwQVh6V3RfajVfbXBqLWhhWllfaG8yNV91c19YTkcwcUZtb25Kc2kyZGk3YmFxcHlJcXM1WDJnbXBnUG1mc2NudEZBdnBZQ0ZuSkgtQkFZNFJGSnJlU0c1YmpRNDV2cERZckc4T2FJM3YzbWxING5SMDJBcEp6Vm5Vb3hrcUJEQW54WmtWMEpWOFp4azk5QzZxVERETFhZOXJZcW50T3FSSDYzN0RmZWQ3N1hJZw?oc=5",
+    "sourceName": "https://megaproject.com/",
+    "publishedAt": "2026-10-29T21:11:14.000Z",
+    "analyzedAt": "2026-11-05T20:31:20.104Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "A Chinese-linked solar developer's appeal over Texas grid interconnection was unsuccessful, highlighting ongoing interconnection barriers in the U.S.",
+    "angle": "Interconnection delays and denials remain a material risk to project economics; customers need to monitor interconnection status and grid conditions closely, and Raptor tools provide real-time visibility into grid-constrained operations.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "x0V25WalIyTkpOVTA_b2M9NQ",
     "title": "Lower Guidance Clouds First Solar Earnings Despite Rays of Light on the Horizon",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FclBGN3h3M1JlQ1F5czk3T3B5TUhEbThZYks1T0kwQzNsZkxkNEpCSVk2WnZrQnp5MlM5cEVmaWxtZlJkalk4SkZ5c3d4SVNac0ZnZEJwMmZmb3VGTFZwLWYySkRvN2tCOU1yVWxwZFp1WVBKY0ltWnVjR2NJNU0?oc=5",
@@ -967,6 +1190,23 @@
     "products": [
       "raptor_solar"
     ],
+    "mentionedAccounts": [
+      "First Solar"
+    ]
+  },
+  {
+    "id": "VFUzWkVjWEJWUTFaRj9vYz01",
+    "title": "First Solar, Inc. Announces Third Quarter 2026 Financial Results, Updates Guidance, and Announces $500 Million Share Repurchase Program",
+    "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPR2RmNzlhdHkyV3R1dERCbURZTzdLdlc5SThtbnhJVlpYMmtwV05UYnN4Y3AtUVBUZ0VDaTZDWEN0S0FmNHNkWG1nZ2tuTmRrdDVXWVpDeGFzeUNqeE0wZVh5SFFmSG1RVFdqVFROWWh6eURYeFJoYzBHR0pnMlNrbE1mbWJIb3dfOE9KUGN0MHhEWlh6bmFGdC1ROWpXNjJjcVhTWFNFVzc2dHJhb25ISTU0ZUc4OXU2aDF6V0xRSWNSeVJtMkFEUjR6aEhsNnRPQmxfMmlXNThhdEJvSXI3SGxIelVzbFBjTTdDeENzXzNudGJXYWtMX3Z3T3Z2dmlZcWZoR2loSkw5QTZ5dmR5QXRTU3ZEcXBVQ1ZF?oc=5",
+    "sourceName": "Business Wire",
+    "publishedAt": "2026-10-29T20:02:00.000Z",
+    "analyzedAt": "2026-11-05T20:31:20.104Z",
+    "updateType": "financing",
+    "relevance": 1,
+    "summary": "First Solar announces Q3 2026 financial results, updates guidance, and announces $500M share repurchase program.",
+    "angle": "First Solar's strong financial position and capital return signal confidence in the solar market and the company's competitive standing; relevant context for conversations with First Solar as an account or benchmark.",
+    "play": "none",
+    "products": [],
     "mentionedAccounts": [
       "First Solar"
     ]

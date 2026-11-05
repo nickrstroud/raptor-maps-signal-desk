@@ -202,5 +202,24 @@
         "publishedAt": "2026-11-04T11:00:11.000Z"
       }
     ]
+  },
+  {
+    "company": "Apex Clean Energy",
+    "runAt": "2026-11-05T20:30:34.289Z",
+    "source": "daily",
+    "headline": "Data breach and class action investigation creates security/compliance risk and urgency for OT security controls",
+    "signals": [
+      {
+        "category": "Data breach & class action",
+        "updateType": "security",
+        "play": "comply",
+        "score": 1,
+        "summary": "Apex Clean Energy is under investigation for a customer data breach with class action claims filed. This exposes material gaps in data security and compliance posture, particularly relevant given their 200+ MW NERC-registered utility-scale fleet.",
+        "suggestedAction": "Reach out to Neil James (VP O&M) this week to understand scope and timeline of the breach response. Frame Raptor Comply as a forward-looking control: help them audit OT security and NERC CIP compliance across their solar plants now, before any regulatory inquiry widens. Offer a brief compliance risk assessment (NERC registration, grid-connected assets, cybersecurity incident response) to show Comply can lock down the systems that matter most to regulators.",
+        "sourceName": "PR Newswire",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNVW0zZ0M4aWRzZ0llZUctd290Ml8wbnZxdGRGbzZtTzN5dWFXTTBndWJ5WTBfMFF4RDI3RHQtZzY4S0UxOWg4bmdwcGo5b1d5NGZjV1k3aVNDeUZZQ2liRUJqWDJzc05LWlFPZHJVQWI0N2xwT0ZkdkVidmwzOXBXV0dpdm44MnN2cTRaZnQ1VEZRVE5Rd3dXUXcwTlRiQXN0YlJKUkd3eDEzcjJ6aERoOXJPT1JsNm9jaGxGcDFlbW9EQUpBalVMd2dUeERwUmtIQll5Q0pSUHNtYXl5dXdYT1JfV3BiM1ZZejZrLXBENmo0RG9jMGRNS0ktaUNWNFpET1ZkSDExLVhLQQ?oc=5",
+        "publishedAt": "2026-11-05T06:04:00.000Z"
+      }
+    ]
   }
 ]

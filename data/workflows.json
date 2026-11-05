@@ -5903,5 +5903,147 @@
     },
     "doneWhen": "Scheduled Comply discovery call with [VP Operations and Maintenance] and security/compliance stakeholder; or signed Comply pilot LOI within 30 days.",
     "generatedAt": "2026-11-04T20:20:33.807Z"
+  },
+  "a_1d4lfep": {
+    "signalId": "a_1d4lfep",
+    "account": "Apex Clean Energy",
+    "signalTitle": "Data breach & class action",
+    "play": "protect_renewal",
+    "goal": "Position Raptor Comply as a proactive compliance control to strengthen Apex's OT security and NERC CIP posture ahead of regulatory scrutiny, protecting both renewal and expansion.",
+    "owner": "CS Director + Account Executive",
+    "contactRole": "VP Operations and Maintenance",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0-1",
+        "tasks": [
+          "Confirm breach scope: which data, which assets, timeline of discovery and notification.",
+          "Map Apex's NERC registration status across 200+ MW fleet—which sites trigger CIP requirements, which are currently audited or self-assessed.",
+          "Check RS/Sentry deployment footprint: active sites, integrations, any systems handling grid or operational telemetry."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Brief Account Executive and Legal/Compliance stakeholder: frame Comply as defensive (regulatory readiness, evidence of controls), not opportunistic.",
+          "Confirm Account Executive leads the outreach; CS owns compliance risk narrative and Comply capability briefing.",
+          "Prepare 1-page 'OT Security & NERC CIP readiness scan' template so [VP O&M] sees exactly what Comply audits."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 2-3",
+        "tasks": [
+          "Email [VP O&M] this week (warm, factual, no pressure): reference the news, acknowledge operational risk, offer a brief forward-looking security audit focused on their NERC-registered sites.",
+          "Lead with support: 'We know incident response is demanding. We've helped other utility-scale operators audit OT security and NERC compliance before regulators ask—here's what that looks like.'"
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 3-10",
+        "tasks": [
+          "If [VP O&M] engages: deliver a 30-min Comply risk assessment call scoped to their 200+ MW solar fleet, NERC registration, and current OT security posture.",
+          "Walk Comply's audit workflow (asset discovery, CIP control mapping, incident response evidence chain) using Apex's grid-connected solar plants as examples."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log call, risk assessment results, and next steps in CRM; flag if Comply pilot or RFP opens.",
+          "Quarterly check-in: has Apex initiated any regulatory compliance review, and is Comply a formal solution contender?"
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Protecting 200+ MW: OT Security & NERC Compliance in a Post-Incident World",
+      "body": "Hi [VP O&M],\n\nWe're following the news around Apex and know incident response is intense. We also know that for 200+ MW utility-scale solar, regulators and insurers will be asking hard questions about OT security and NERC CIP controls.\n\nMany operators in your position use moments like this to audit their compliance footprint before regulators do. We've built Raptor Comply specifically for that—mapping grid-connected assets, testing OT security controls, and building timestamped evidence of compliance posture.\n\nWould a 30-minute scan of your NERC-registered sites make sense this month? No pitch—just a clear picture of where you stand and what regulators will want to see.\n\nBest,\n[CSM Name]"
+    },
+    "slack": "Apex Clean Energy is facing a customer data breach and class action. They're a 200+ MW NERC-registered solar operator on RS + Sentry—they're now exposed to regulatory scrutiny on OT security and compliance. We're positioning Raptor Comply as a forward-looking control: help them audit NERC CIP posture and build evidence before regulators widen their inquiry. AE leads outreach; CSM owns compliance risk narrative. Ask for a 30-min compliance risk assessment call this month.",
+    "crmTask": {
+      "title": "Raptor Comply: OT Security & NERC CIP Risk Assessment (Post-Incident Review)",
+      "due": "In 3 days",
+      "notes": "Signal: Apex Clean Energy data breach & class action. Apex operates 200+ MW NERC-registered solar fleet on RS, Sentry. Opportunity: position Comply as proactive compliance control before regulatory inquiry. Play: protect renewal + expand product footprint. Owner: CS Director + AE. Contact: [VP O&M]. Objective: secure 30-min compliance risk assessment call; explore Comply pilot or RFP within 60 days."
+    },
+    "doneWhen": "30-minute OT Security & NERC CIP risk assessment call scheduled and delivered, with Comply product interest or next step agreed (pilot, RFP, or quarterly check-in).",
+    "generatedAt": "2026-11-05T20:30:50.200Z"
+  },
+  "a_1h127fm": {
+    "signalId": "a_1h127fm",
+    "account": "BayWa r.e.",
+    "signalTitle": "Parent company financial distress",
+    "play": "protect_renewal",
+    "goal": "Quantify and lock in Raptor Solar + Inspections ROI before ownership transition, positioning for renewal and Sentry upsell under new shareholder scrutiny.",
+    "owner": "CS Director + Account Executive",
+    "contactRole": "Director of ROCC and Engineering, Operations Services",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0–1",
+        "tasks": [
+          "Pull current RS/Inspections contract terms, renewal date, and invoice run rate from Salesforce.",
+          "Internal sync: confirm current MW under management and historical production-recovery or cost-savings metrics from RS digital twin workflows.",
+          "Check for any open support tickets, SLA breaches, or product feedback from ROCC/field teams in the last 6 months."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1–2",
+        "tasks": [
+          "Brief Sales lead on ownership uncertainty and budget-freeze risk; align on Sentry positioning as operational-efficiency play (reduced truck rolls = lower headcount/capex).",
+          "Loop in Customer Success Ops to flag account for heightened renewal risk; set quarterly business review (QBR) cadence as early-warning trigger.",
+          "Flag to Product: BayWa r.e. is a reference-able customer for O&M ROCC workflows and drone operations; document use case for new-owner due diligence."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3–5",
+        "tasks": [
+          "Reach out to [Director of ROCC and Engineering] with a warm, low-pressure email: acknowledge the parent company restructuring (tactful), offer a quarterly business review to review 2025 platform ROI and any capex adjustments needed for Sentry expansion.",
+          "Suggest a brief call to walk through production-recovery metrics and cost per MW—position as inputs for any new shareholder or budget review, not a sales pitch."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 7–14",
+        "tasks": [
+          "Conduct QBR: present quantified ROI dashboard (production recovered, cost per MW managed, avoided inspection truck rolls, ROCC labor efficiency gains).",
+          "Pitch Sentry as a lever to reduce O&M headcount and capex on site visits; tie to the parent's turnaround mandate (cost reduction + scale).",
+          "Close with a formal renewal proposal and a Sentry pilot scope for Q1 2025 to bridge any budget uncertainty."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log QBR outcomes and any new budget constraints or timeline changes to Salesforce account record.",
+          "Schedule next check-in 60 days before renewal date; monitor news on BayWa r.e. ownership or restructuring announcements.",
+          "If Sentry pilot is approved, track pilot KPIs (truck-roll reduction, time-to-response, ROCC labor hours saved) as proof-of-concept for expansion."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Quarterly check-in: Raptor ROI & 2025 capex planning",
+      "body": "Hi [Director of ROCC and Engineering],\n\nWe'd like to sync on how Raptor Solar and Inspections are delivering for the ROCC and field teams heading into 2025—and where we can help streamline your capex and O&M ops.\n\nWe're ready to walk through production-recovery metrics, cost per MW managed, and labor savings from digital twin workflows. We're also excited about Sentry as a way to reduce truck rolls and site visits—a fit for your remote control model.\n\nLet's grab 30 minutes this month for a QBR. Happy to align on any budget or platform adjustments ahead.\n\nBest,\n[Your name]"
+    },
+    "slack": "🚨 **BayWa r.e. Distress Signal:** Parent company (BayWa AG) financial restructuring extends through 2030; planned 2026 sale halved in value and majority stake moved to trust. Risk: budget freeze, layoffs, vendor rationalization, or new-owner review. **Play:** Protect renewal and demonstrate ROI before ownership transition. **Lead:** CS Director + AE to lock in QBR and Sentry expansion story. **Ask:** Finance/Ops to pull current MW, production-recovery metrics, cost-per-MW baseline for defensible business case.",
+    "crmTask": {
+      "title": "BayWa r.e. – Distress (Parent Co. Restructuring): Protect Renewal & ROI QBR",
+      "due": "In 3 days",
+      "notes": "BayWa AG restructuring (2024–2030) and failed 2026 sale (€1.7B → €900M) create budget and ownership uncertainty for BayWa r.e. Operations Services. North American O&M business (1+ GW) at risk of vendor rationalization or new-owner tech review. Current products: RS, Inspections. Key opportunity: quantify ROI (production recovered, cost/MW, labor savings) and position Sentry as capex/headcount lever for new shareholder. Renewal exposure: monitor capex approvals and any org changes in ROCC/Engineering team."
+    },
+    "doneWhen": "QBR completed with [Director of ROCC and Engineering]; ROI metrics documented in Salesforce; renewal proposal and Sentry pilot scope sent by Day 14.",
+    "generatedAt": "2026-11-05T20:30:52.446Z"
   }
 }
