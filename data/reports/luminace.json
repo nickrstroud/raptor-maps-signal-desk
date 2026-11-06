@@ -92,5 +92,24 @@
         "publishedAt": "2026-11-03T09:47:00.000Z"
       }
     ]
+  },
+  {
+    "company": "Luminace",
+    "runAt": "2026-11-06T19:53:35.598Z",
+    "source": "daily",
+    "headline": "Luminace energizes large community solar project in ComEd territory; routine portfolio expansion, opportunity to baseline Inspections coverage on new sites",
+    "signals": [
+      {
+        "category": "New community solar project energization",
+        "updateType": "expansion",
+        "play": "inspections",
+        "score": 1,
+        "summary": "Luminace energized one of the largest community solar projects in ComEd's Illinois service territory. Consistent with their portfolio growth trajectory and distributed generation model. Represents new operational sites entering their fleet.",
+        "suggestedAction": "Confirm the MW and site count of the ComEd community solar project. Work with their operations team to baseline RS Inspections coverage on the newly energized facility—particularly valuable for community solar where fire risk and module condition directly impact insurance and customer relationships.",
+        "sourceName": "Morningstar",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPSVowWmR2aHhHSFh0X1ZvWUg1NG1nbVJmMjdrMExseFdHMFc4eFNmQjYyZ01TZDVWRWwtbW5EcHVWUW5XTnROWGdfQVA1X3M4YmV4V3FNMTRaOGVtQ1lWcW0zSm05d2hUNHRUcWlOY1N1U29aNkF1X0U1Tjk2U3BsYzRYX3l4UFBzZzV3M01aLXhlWDhvbzdPUHZiUkUtR0pRMlhtSVVRWjlxNEE3VnJPT2xTT2JDSnRlWUJkUjQ2RlZIMV9wNGdseGFjRzJhWWYyWTJFdDNwUWVYXzJkQzdjUkxsZVFNVzlFTFBSNDhHS2N2WDd6V1FuS3NJLTZnNWZ2Y1E?oc=5",
+        "publishedAt": "2026-11-06T16:48:00.000Z"
+      }
+    ]
   }
 ]

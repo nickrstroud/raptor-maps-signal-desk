@@ -6045,5 +6045,148 @@
     },
     "doneWhen": "QBR completed with [Director of ROCC and Engineering]; ROI metrics documented in Salesforce; renewal proposal and Sentry pilot scope sent by Day 14.",
     "generatedAt": "2026-11-05T20:30:52.446Z"
+  },
+  "a_fe98nl": {
+    "signalId": "a_fe98nl",
+    "account": "Luminace",
+    "signalTitle": "New community solar project energization",
+    "play": "onboard_expand",
+    "goal": "Baseline Raptor Solar and Inspections coverage on the newly energized ComEd community solar project and lock in expanded MW/site count in the next contract cycle.",
+    "owner": "CS Director + Account Executive",
+    "contactRole": "COO",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0",
+        "tasks": [
+          "Confirm MW capacity, site count, and go-live date of the ComEd community solar project.",
+          "Check renewal contract dates and current RS/Inspections coverage scope (sites, frequency); flag if new ~300 sites since 2024 are already in-scope.",
+          "Verify contracting entity post-Temasek ownership split (operating company vs. development company) and any vendor-review or cost-reduction initiatives underway."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Sync with Sales on expansion opex (new MW/sites + Inspections volume) and renewal timing; align on whether to propose incremental coverage or bundled renewal refresh.",
+          "Brief Ops/Support on operational readiness: flight windows, site access, and baseline inspection schedule for community solar asset.",
+          "Alert Product to community solar module condition and fire-risk use cases (thermal anomalies, vegetation, erosion) for Instant Inspections feedback."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3-5",
+        "tasks": [
+          "Email [COO] with project energization congrats; propose a brief site visit or call to discuss how Raptor Solar and Instant Inspections can support day-1 operational readiness and insurance/customer confidence.",
+          "Attach recent Instant Inspections case study from community solar or utility-scale rooftop portfolio to illustrate fire-risk mitigation and same-day remediation value."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 7-14",
+        "tasks": [
+          "Schedule operational baseline: walk [Operations Lead] through RS Inspections flight plan, thermal anomaly workflows, and mobile-app remediation tracking for the new asset.",
+          "Co-develop expansion proposal (or renewal amendment) covering ComEd site + any other 2024–2025 additions; include tiered Inspections cadence (launch, post-storm, seasonal)."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Day 14+",
+        "tasks": [
+          "Log expansion opportunity in CRM: site count, MW, and Inspections volume forecast; tie to renewal cycle.",
+          "Close loop with Product: document community solar operational priorities (fire risk, module condition, customer SLA reporting) for platform roadmap.",
+          "Confirm baseline flight and remediation data ingestion into Raptor Solar by end of Q1 2026."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Congrats on the ComEd community solar launch—let's baseline Inspections coverage",
+      "body": "Hi [COO],\n\nCongrats on energizing the new community solar project in ComEd's territory—a great addition to Luminace's growing portfolio. We'd love to help ensure day-1 operational readiness.\n\nGiven the fire-risk and insurance implications of community solar, we're recommending a baseline Instant Inspections flight in the first 30 days to map module condition and catch any thermal anomalies before they impact customer confidence or warranty claims. Same-day remediation has proven powerful for similar assets.\n\nAre you free for a brief call this week to discuss operational needs and inspection cadence?\n\nBest,\n[Your name]"
+    },
+    "slack": "Luminace energized a major ComEd community solar project (likely 10+ MW, 1+ site). Signal: expansion opportunity to baseline Raptor Solar + Instant Inspections coverage, plus refresh coverage scope for ~300 sites added since 2024 ahead of renewal cycle (renewal window likely 2026). Temasek ownership split (Oct 2025) creates need to re-confirm contracting entity and vendor appetite. CS Director leads outreach; Sales aligns on renewal + expansion opex bundle.",
+    "crmTask": {
+      "title": "Luminace: ComEd community solar project – baseline Inspections + renewal expansion",
+      "due": "In 7 days",
+      "notes": "Signal date: Nov 6, 2026. New energized asset in Illinois (ComEd service territory). Luminace portfolio now 1,700+ sites, 500+ customers in 32 markets (300 added since 2024 announcement). Key renewal risk/opportunity: confirm contracting entity post-Temasek split (late 2025), vendor-review appetite, and renewal cycle. Expansion play: baseline Instant Inspections on ComEd asset for fire-risk/insurance/customer SLA; lock in coverage for new ~300 sites. Fire risk and community solar use cases valuable for Product feedback. Status: Validate account context and ownership structure by Day 2; engage [COO] by Day 5."
+    },
+    "doneWhen": "Baseline Instant Inspections flight scheduled and operational data ingesting into Raptor Solar by end of Q1 2026; expansion MW/site count confirmed and renewal or amendment proposal signed by EOY 2026.",
+    "generatedAt": "2026-11-06T19:53:53.409Z"
+  },
+  "a_wa05jf": {
+    "signalId": "a_wa05jf",
+    "account": "First Solar",
+    "signalTitle": "New South Carolina manufacturing facility opening",
+    "play": "onboard_expand",
+    "goal": "Pilot Raptor Solar fleet analytics on First Solar's installed base to track field performance and warranty evidence across the new production capacity, deepening partnership and unlocking expansion ARR.",
+    "owner": "Account Executive + CS Director",
+    "contactRole": "VP Field Quality or Warranty Engineering",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0–1",
+        "tasks": [
+          "Confirm First Solar's new South Carolina facility production timeline and module ramp (via press release and internal supply intel).",
+          "Review current RS Inspections usage: which First Solar customer sites are running inspections today, and what thin-film-specific defect data are we already collecting?",
+          "Check renewal status and primary contact at First Solar—identify Field Quality, Warranty, or Reliability Engineering leads and their OKRs for 2026–2027."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1–2",
+        "tasks": [
+          "Brief Account Executive and Sales on the expansion opportunity: new SC capacity = 3–5 year growth in First Solar module installed base; Raptor Solar analytics can prove field performance and warranty ROI.",
+          "Align with Product on thin-film ML detection maturity and Raptor Solar's ability to track performance cohorts by module series and production batch.",
+          "Tag Ops/Support: ensure we can onboard large First Solar customer fleet data at scale and deliver field-quality dashboards in Q1 2027."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3–5",
+        "tasks": [
+          "Email [VP Field Quality] with congrats on SC expansion; note that our thin-film ML detection will help track the new production run's field performance in real time across US utility-scale sites.",
+          "Propose 30-min sync to explore a Raptor Solar pilot: fleet-wide performance analytics, warranty evidence automation, and batch-to-batch reliability comparison—framed as competitive differentiation in the supply narrative to utility customers."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 7–14",
+        "tasks": [
+          "In sync: demo Raptor Solar dashboard showing current First Solar module performance cohorts (if available) and warranty anomaly detection; propose 6-month pilot covering 3–5 customer sites with new SC modules.",
+          "Draft pilot scope: data access, dashboard KPIs (performance vs. design, warranty events, defect trends by batch), and go-live by Q1 2027.",
+          "Identify co-marketing angle: joint case study on how module-maker and software partner track field reliability for transparent supply positioning."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log pilot agreement in CRM; set milestone reviews for Month 2, Month 4, and Month 6 to track adoption, defect insights, and upsell readiness.",
+          "Share thin-film field-quality insights back to Product; collect First Solar feedback on ML detection accuracy and dashboard usability for future releases.",
+          "Post-pilot: proposal for full Raptor Solar seat(s) covering all First Solar customer sites + SC ramp, targeting ARR expansion by Q2 2027."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Tracking your new SC production: Real-time field performance visibility with Raptor Solar",
+      "body": "Hi [VP Field Quality],\n\nCongrats on the new South Carolina facility—an exciting expansion for First Solar's domestic footprint. We're tracking how your next generation of CdTe modules will perform across the US utility-scale fleet, and our thin-film ML detection (built with your team in 2023) is ready to prove reliability in the field.\n\nWe'd like to explore a quick pilot: Raptor Solar fleet analytics to track real-time performance, warranty events, and batch trends on your new SC production run across customer sites. It's a way to give your supply customers transparent, third-party field evidence—and for us to deepen the partnership.\n\nAre you open to a 30-min sync in the next week?\n\nBest,\n[CSM Name]"
+    },
+    "slack": "First Solar SC facility expansion signals 3–5 year growth in CdTe module installed base. We're proposing Raptor Solar fleet analytics pilot to track field performance and warranty events across First Solar customer sites, leveraging our thin-film ML detection. AE to lead outreach and scope; CSM to coordinate Product and Ops for Q1 2027 delivery. Goal: 6-month pilot → full Raptor Solar expansion by Q2 2027. Need confirmation on current First Solar customer site count and inspection usage by EOD tomorrow.",
+    "crmTask": {
+      "title": "First Solar SC expansion: Raptor Solar fleet analytics pilot",
+      "due": "In 7 days",
+      "notes": "Signal: First Solar opened SC manufacturing facility, expanding domestic CdTe production. Expansion play: Propose Raptor Solar pilot to track field performance and warranty analytics on new SC production run across utility-scale customer fleet. Leverage existing thin-film ML detection built in 2023 partnership. Target 6-month pilot Q1 2027, full expansion ARR proposal by Q2 2027. Relationship risk: confirm sponsor in Field Quality or Warranty Eng.; currently may be single-threaded. Co-marketing angle: joint case study on module-maker + software partner reliability transparency for supply positioning."
+    },
+    "doneWhen": "Pilot scope agreed with [VP Field Quality] (target: 3–5 customer sites, 6-month term, launch Q1 2027) and Raptor Solar onboarding plan documented in CRM.",
+    "generatedAt": "2026-11-06T19:53:54.327Z"
   }
 }

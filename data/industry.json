@@ -1,5 +1,258 @@
 [
   {
+    "id": "dyaWRsb2NrLXBlcnNpc3RzLw",
+    "title": "Democratic sweep in US midterms brings reprieve for solar, but federal gridlock persists",
+    "link": "https://www.pv-tech.org/democratic-sweep-in-us-midterms-brings-reprieve-for-solar-but-federal-gridlock-persists/",
+    "sourceName": "PV Tech",
+    "publishedAt": "2026-11-06T17:19:58.000Z",
+    "analyzedAt": "2026-11-06T19:54:05.385Z",
+    "updateType": "policy",
+    "relevance": 2,
+    "summary": "Democratic midterm sweep brings optimism for federal solar support and renewable incentives, though federal gridlock may persist on permitting and state-level implementation.",
+    "angle": "Political shift creates tailwinds for solar investment and development; proactive outreach to investors and IPPs to discuss 2027 growth plans and how platform scale supports expanded portfolio management.",
+    "play": "raptor_solar",
+    "products": [],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "xkMXBKUjFaRFVVcFY_b2M9NQ",
+    "title": "In Fremont, California, a factory line rated for 40 megawatts a year produced its first stacked solar panels, so the US got a working tandem cell plant",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBpWjBPMnBjZGVkR3I4SF9vM0Z2bUtDbDZwSi0xYkJNSEtaTWc5WUFGaEhnRmFxVzUxQk55YWRtQjVHeDVud0dFdVBqT3VrMW0xYkJYM1hWNlNMUFJ6bjFiUkZqU2lvSzQ1TVdld1pJR1ZDUUpV?oc=5",
+    "sourceName": "Energies Media",
+    "publishedAt": "2026-11-06T16:50:00.000Z",
+    "analyzedAt": "2026-11-06T19:54:19.890Z",
+    "updateType": "technology",
+    "relevance": 1,
+    "summary": "A Fremont, California factory begins production of stacked tandem solar panels at 40 MW/year capacity, marking progress in next-generation US solar module manufacturing.",
+    "angle": "Emerging tandem cell technology may drive new module reliability monitoring needs; customers with next-gen panel deployments will need enhanced analytics to validate performance.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "JiRmwyVjJrMmJYbEI_b2M9NQ",
+    "title": "FCC Ban Still Alive, Rick Scott Backs DJI Ban, Westborough Says No",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbXJyUExWc0N0cEVNU0ZCeS1jOUNaQ3UzSWdXcnN5QjlvN1Q4eG9SZVdhZlZyR0dKaDFNYldyTS12NS1OamthZWdkSHpsNWZSaTl3cXNNV2MwSWtYUFBvTFFaeGo3ZnFTZDhpcVhmbW5ON1JPUzZCM3Q3eTBnaHFhWGRveWdBbFl2V2k2bXlB?oc=5",
+    "sourceName": "DroneXL",
+    "publishedAt": "2026-11-06T14:54:00.000Z",
+    "analyzedAt": "2026-11-06T19:54:19.890Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "FCC drone ban remains active with political backing for DJI restrictions in the US, creating uncertainty around drone equipment and operations used in solar inspections.",
+    "angle": "DJI restrictions directly impact autonomous inspection capabilities and drone dock deployments; customers should proactively assess inspection strategy and alternative drone sourcing.",
+    "play": "inspections",
+    "products": [
+      "inspections",
+      "sentry"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "bU5HVVRCRFFrRjFVUT9vYz01",
+    "title": "DJI drones could be banned from the US due to alleged risk to national security",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZnBIN1MwSW83aktQYURJZ21qTy10QVZBcERLNnlXeWVaenp2aEVUMmd1NWRhYWstTkhCTFB6Q3JqbEJsZ2w2OUdIdTBrVkxucWkwTzFGUFJ5UktXQjBJWmYtNWFIc3hzSFpXVVVNUVU4aTdyNjljSTVlNmtRMGw3NW03cmt6UmNGUTBDQkF1UQ?oc=5",
+    "sourceName": "Yahoo",
+    "publishedAt": "2026-11-06T14:20:27.000Z",
+    "analyzedAt": "2026-11-06T19:54:19.890Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "DJI drones face potential US ban due to national security concerns, creating operational risk for inspection and monitoring programs that rely on DJI equipment.",
+    "angle": "A DJI ban would force inspection and sentry operators to transition to alternative drone platforms; early planning and compliance is critical for solar O&M programs.",
+    "play": "sentry",
+    "products": [
+      "inspections",
+      "sentry"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "Q2EzTkRjVmhxUWpsbj9vYz01",
+    "title": "New FCC Drone Rules Open 800 MHz Cellular Spectrum",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR2NqYWdYSjNMVVBsR1VUaUNxZkplREJUMnBVcGFkMWI1OW9kR0NKY0F2aWVyT3MzaWRHdjJQU1NvRlgwRE1yMW9MQlIyMVBvRnFFS04yV01vRlk3aE5SLW5XQlAwT1JpV1BrSTJoWTZBcXJDY0ZKY2VCa3NDcVhqQjln?oc=5",
+    "sourceName": "Arkansas Radio",
+    "publishedAt": "2026-11-06T13:42:47.000Z",
+    "analyzedAt": "2026-11-06T19:54:19.890Z",
+    "updateType": "regulatory",
+    "relevance": 1,
+    "summary": "New FCC drone rules open 800 MHz cellular spectrum for drone operations, expanding connectivity options for beyond-visual-line-of-sight (BVLOS) drone operations.",
+    "angle": "Expanded spectrum access enables more flexible remote drone operations for inspections and monitoring; relevant for autonomous dock and long-range flight capabilities.",
+    "play": "sentry",
+    "products": [
+      "sentry",
+      "inspections"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "ZS1pdGMtY29taW5nLWJhY2sv",
+    "title": "“Moving into a positive political environment for solar” &#8211; is the ITC coming back?",
+    "link": "https://pv-magazine-usa.com/2026/11/06/moving-into-a-positive-political-environment-for-solar-is-the-itc-coming-back/",
+    "sourceName": "pv magazine USA",
+    "publishedAt": "2026-11-06T13:31:00.000Z",
+    "analyzedAt": "2026-11-06T19:54:05.385Z",
+    "updateType": "policy",
+    "relevance": 2,
+    "summary": "Speculation mounting that solar Investment Tax Credit (ITC) could be reinstated following the Biden administration, with nine legislative proposals filed by U.S. Senators and Representatives to bring back tax incentives.",
+    "angle": "ITC reinstatement would significantly improve project economics for utility-scale and C&I solar customers; proactive touch to key accounts to understand how renewed incentives would affect their 2027 pipeline and capex plans.",
+    "play": "raptor_solar",
+    "products": [],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "MyLWRlYWRsaW5lLW5lYXJzLw",
+    "title": "U.S. solar developers navigate policy stack as Section 232 deadline nears",
+    "link": "https://pv-magazine-usa.com/2026/11/06/u-s-solar-developers-navigate-policy-stack-as-section-232-deadline-nears/",
+    "sourceName": "pv magazine USA",
+    "publishedAt": "2026-11-06T13:20:52.000Z",
+    "analyzedAt": "2026-11-06T19:54:05.385Z",
+    "updateType": "trade",
+    "relevance": 2,
+    "summary": "U.S. solar developers are adjusting procurement strategies and contracts as Section 232 tariff deadlines approach, with national inventory surging 126% in Q2 2026 ahead of shifting trade cutoffs.",
+    "angle": "Trade policy shifts create urgency around project timelines and module procurement; customers may accelerate or defer construction, affecting O&M ramp and platform coverage expansion.",
+    "play": "raptor_solar",
+    "products": [],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "JlcG9ydC1xMy1udW1iZXJzLw",
+    "title": "Earnings roundup: Sunrun, SolarEdge, Shoals, Array Technologies, FTC Solar report Q3 numbers",
+    "link": "https://pv-magazine-usa.com/2026/11/06/earnings-roundup-sunrun-solaredge-shoals-array-technologies-ftc-solar-report-q3-numbers/",
+    "sourceName": "pv magazine USA",
+    "publishedAt": "2026-11-06T12:30:00.000Z",
+    "analyzedAt": "2026-11-06T19:54:05.385Z",
+    "updateType": "ma",
+    "relevance": 2,
+    "summary": "Utility-scale solar and storage companies are expanding order backlogs and consolidating through mergers and acquisitions while the residential market remains slow.",
+    "angle": "M&A consolidation in utility-scale creates platform expansion opportunities as acquirers integrate portfolios and seek single operating systems; proactive motion to understand acquisition targets and integration needs.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "WVlNtVnBYMFprTUVVP29jPTU",
+    "title": "Study raises alarm over cybersecurity of solar PV systems",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQUNrdElKd3VURWItcnFWWlVYNDZ6NzI3cTJvcDBaaVFhOEgxNERSM29MWUlmd1d6ZF9FR3A0TVA3cTl6c3NWQ0RmN3BEc0N1OVI2cy1qOEIwZzJjSS1QczJEdW5HZUhDN05QZWROQkxzQThVdXBuUTBvYTVPMVlmMk1odUo3SzZGLVVVSmVpX0ZkMEU?oc=5",
+    "sourceName": "Enlit World",
+    "publishedAt": "2026-11-06T12:29:02.000Z",
+    "analyzedAt": "2026-11-06T19:54:28.523Z",
+    "updateType": "security",
+    "relevance": 2,
+    "summary": "A new study highlights cybersecurity vulnerabilities affecting solar PV systems, raising concerns about operational technology (OT) security across solar installations.",
+    "angle": "Utility-scale and C&I solar operators face growing OT security risks; this is a timely talking point for Raptor Comply adoption and for securing digital twins and SCADA integrations against cyber threats.",
+    "play": "comply",
+    "products": [
+      "comply"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "VUW1WVk1ISXRUVFZUP29jPTU",
+    "title": "Derisking PV Module Warranty Risks",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWk42aWMtY2RoVkxMVEdGa2NwZTIwbXhHcERWQy1CZXJDclB1SGJzeU1vV0xhM2N1M1BBODZZU2hKWlpucDk2elVlZlJYeDN2c2dOLUtQZEZJX1NiVTVfcWEtSW9iakNuWk10Xy13Zkc5V1JNSF9OYzlVTWFKbkVUQmVVMHItTTVT?oc=5",
+    "sourceName": "TaiyangNews",
+    "publishedAt": "2026-11-06T10:56:15.000Z",
+    "analyzedAt": "2026-11-06T19:54:19.890Z",
+    "updateType": "reliability",
+    "relevance": 1,
+    "summary": "Industry focus on derisking PV module warranty risks, addressing module reliability and long-term performance concerns in solar portfolios.",
+    "angle": "Module warranty and reliability is a key asset protection concern; comprehensive visual inspection and thermography analytics help document defects and support warranty claims.",
+    "play": "inspections",
+    "products": [
+      "inspections"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "TkJNbEZqUjBzME5saz9vYz01",
+    "title": "Optimal solar module tilt angle for hail protection is site-specific, researchers find",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcUtxOTdHemFrN2tNelBFdVN0Z0lSY3hfMFZPN1ZEVnNDOGp3X0NOY2huZzIxM2R4QWlTMzBlSC1YUHRlUUxaSHhIU1c1aUZaMmFiUUVpdDZnb0hkRVdJYkRWa2ZCcnJzQW1xdXlLUjhWRGtubGdVaVZ6TnNnU05PZGRnbWNpa000eFJtbkFiR0loaFhpMFNDaDhIdnZCeHpBZGdmSktYWVV1X1B4NmZmZjdIN1ZxRG51aENBMlFjR0s0Nlk?oc=5",
+    "sourceName": "pv magazine Global",
+    "publishedAt": "2026-11-06T09:02:13.000Z",
+    "analyzedAt": "2026-11-06T19:54:10.977Z",
+    "updateType": "reliability",
+    "relevance": 2,
+    "summary": "New research finds that optimal solar module tilt angles for hail protection are site-specific, suggesting that generalized design approaches may leave plants vulnerable to localized hail events.",
+    "angle": "Portfolio-wide hail risk varies by geography and tilt; customers need site-specific damage prediction and rapid post-event assessment to prioritize repairs and validate insurance claims.",
+    "play": "inspections",
+    "products": [
+      "inspections"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "NvbGFyLXN1cHBseS1jaGFpbg",
+    "title": "The wins and weak spots in America&#039;s solar supply chain",
+    "link": "https://www.canarymedia.com/articles/clean-energy-manufacturing/us-domestic-solar-supply-chain",
+    "sourceName": "Canary Media",
+    "publishedAt": "2026-11-06T08:30:00.000Z",
+    "analyzedAt": "2026-11-06T19:54:10.977Z",
+    "updateType": "expansion",
+    "relevance": 1,
+    "summary": "The U.S. solar supply chain is increasingly onshored as solar becomes America's go-to choice for new power plants. Domestic module and component sourcing is accelerating.",
+    "angle": "Domestic supply chain consolidation and manufacturing growth create new construction and commissioning QA opportunities; inspections platform adds value as new domestic capacity comes online.",
+    "play": "inspections",
+    "products": [
+      "inspections"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "Z3UTNObFIwNTFTVGc_b2M9NQ",
+    "title": "Co-located solar, storage jumps to 16% of all solar installations, up from 2% in 2017: EIA",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nR0l3ZWtvMDJ3ZmlnRVlNTVExSUw0Z0RHNXVZT2F1UXNySklld0g3WTdGTzJDUnFzWnZadzlJcmI0S3JELVZWWms2ZzRTQlVOZjhtbThnMVVkZEdUWjRrYjRZLUtLRWhVQ3VzRjhsSktxcjlLeEFwQ3NlR051STg?oc=5",
+    "sourceName": "Utility Dive",
+    "publishedAt": "2026-11-05T22:53:35.000Z",
+    "analyzedAt": "2026-11-06T19:54:26.303Z",
+    "updateType": "expansion",
+    "relevance": 2,
+    "summary": "Co-located solar-storage installations jumped to 16% of all U.S. solar installations in 2026, up from just 2% in 2017, per EIA data.",
+    "angle": "The rapid shift toward hybrid solar-storage portfolios creates operational complexity and new O&M requirements. Raptor Solar's digital twin and analytics platform scales naturally to manage blended renewable assets and optimize their interdependent performance.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "ZE9VMHN5VFVsUGJsUT9vYz01",
+    "title": "Shapiro Administration: PJM Interconnection Selects 3 PA Projects In Expedited Program To Add 1.7 GW Of Generation, Energy Storage To Grid; DEP Accepting New Proposals By Nov. 16",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRS13WXp1OUgtenNNSzN1WkNEdmo0RnFMbFMtWFFESkJUZGd3emR4cHhQT2Mwa1h0cllhR3I0bEo0SVRteFJwUGZRSFdScGduZzUyRlBuRWU2Yk8xTWRxVGdpd1JnS0dJUlQzRng5MHRwZlVfZkJaUnFaZHdOU0syTUlPblQ?oc=5",
+    "sourceName": "PA Environment Digest Blog",
+    "publishedAt": "2026-11-05T21:33:00.000Z",
+    "analyzedAt": "2026-11-06T19:54:26.303Z",
+    "updateType": "regulatory",
+    "relevance": 1,
+    "summary": "PJM Interconnection selected 3 Pennsylvania projects to add 1.7 GW of generation and storage under an expedited program; new proposals accepted through Nov. 16.",
+    "angle": "Expedited interconnection pathways are unlocking new project timelines and capacity in key regions. Customers pursuing PJM generation can leverage Raptor Solar's construction QA and commissioning workflows to accelerate time-to-revenue.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "uLWVpYS1zZWlhLzg3Mzg4Mi8",
+    "title": "Co-located solar, storage jumps to 16% of all installations, up from 2% in 2017: EIA",
+    "link": "https://www.utilitydive.com/news/storage-solar-colocation-eia-seia/873882/",
+    "sourceName": "Utility Dive",
+    "publishedAt": "2026-11-05T16:37:03.000Z",
+    "analyzedAt": "2026-11-06T19:54:10.977Z",
+    "updateType": "expansion",
+    "relevance": 2,
+    "summary": "Co-located solar and storage installations have jumped to 16% of all U.S. solar installations (up from 2% in 2017) and are projected to exceed 30% over the next two years. This reflects a major shift in project economics and operational requirements.",
+    "angle": "Customers operating paired solar-storage projects face new operational complexity: Raptor Solar's performance intelligence and Sentry's autonomous monitoring become more valuable as storage management and battery health integrate with solar performance tracking.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar",
+      "sentry"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "kxVEU5cFZsUkNhV2s_b2M9NQ",
     "title": "Curtailment wastes a fifth of Brazil’s solar and wind; associations call for action",
     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeTMtUlloUDduVmlzR1RxZllqX2lWR3A0bFgweE03bkQ5VS1JUF9ZdDU1Y0ZUT3VoSjA5eGVPaTdtc2w4Q1dBYUV4ZnhFQ3NoaHRfc0k1aFFuTGF2ZUhSWlJwNDUtaUd6MFVnd0xZeG5qS1dBdlVsWkdJY0ZnTmhsX0M1SFNmU1M5MDVwaFAwM3RlVTZnNUZnVkVIM0tmQ3RFc3QzZE1TRlVQY3dnamJqdnRWdFlTR3FxS3U5a29Sb2FjVk81cUlFVTI3NEd3S0Y1TE9pVlRCaWk?oc=5",
@@ -171,6 +424,23 @@
     "mentionedAccounts": []
   },
   {
+    "id": "FaHlXRkIzY21kbWVnP29jPTU",
+    "title": "Transrail proposes 49% stake in 990 MW Maharashtra solar",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOUVncWZSaWh4RDdIQ0g1empVVTFtY2RUTW5pY2oxWUozeENYWTViZWoxczVvNWF4ZzZNVjh3dVRmcE5aR25SdmFOREJaZ25CVW1CY0hvRFFPM2FMTlg1MjBMUVZYRFNwSjg0ei0zdHduUDlQcEdLdjgyZGRrY3Z3Q2hENFRpcW5BankxSEV6V0xmYnFPT0s1eW9RS3FCQzFoeUxodml6SEhyWFB3cmdmeg?oc=5",
+    "sourceName": "Multibagg AI",
+    "publishedAt": "2026-11-04T21:17:05.000Z",
+    "analyzedAt": "2026-11-06T19:54:19.890Z",
+    "updateType": "expansion",
+    "relevance": 1,
+    "summary": "Transrail proposes a 49% stake in a 990 MW solar project in Maharashtra, India, representing significant portfolio expansion for solar assets in the region.",
+    "angle": "Portfolio growth and consolidation in India's solar market; customers expanding MW coverage should consider platform scaling and multi-site management capabilities.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "tcHJhY3RpY2FsLzg3Mzc1Mi8",
     "title": "Trump ban on foreign grid components sparks industry concern over practicality, cost",
     "link": "https://www.utilitydive.com/news/trump-ban-on-foreign-grid-components-sparks-industry-concern-over-practical/873752/",
@@ -281,6 +551,23 @@
     "relevance": 2,
     "summary": "ARRAY Technologies and Shoals Technologies are merging to create an integrated solar hardware platform combining utility-scale tracking, racking, and electrical balance-of-system solutions.",
     "angle": "Major consolidation in solar hardware layer may reshape EPC and developer procurement; signals continued hardware-software integration trends and potential customer portfolio shifts.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "5ZEVWNlZGSmlaVzF6P29jPTU",
+    "title": "Solar PPA prices rose in Q3 as Section 232 tariffs began to take effect, reports LevelTen",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQy1vaVR0SWM4NEk1UGJ2azlZdi15UEljR2kzT05XS3FWR094VGhwQlpVNFFyb0RmNHltUVk1dnRBZHRzNWswaXNNOEQtY1JYMWVOOHdIYzVMTjdqdS0xMmxTYkhuRG1IYXRYc3dDOUhkZTEzend5X2x0RXhSUmNDaXJIUklvN3VzWTF1T1pSbUhQdnFnZHhxaVp1VjZDWHVEVzhsbHp3VTNrUG5VZEpUSUw4b3RCWGZ0a2lmZWRydEV6VFJiZW1z?oc=5",
+    "sourceName": "pv magazine USA",
+    "publishedAt": "2026-11-04T13:05:17.000Z",
+    "analyzedAt": "2026-11-06T19:54:26.303Z",
+    "updateType": "trade",
+    "relevance": 2,
+    "summary": "Solar PPA prices rose in Q3 2026 as Section 232 tariffs began to take effect, according to LevelTen data.",
+    "angle": "Tariff-driven cost pressures are reshaping PPA economics and project returns. Raptor Solar's analytics and performance intelligence help customers optimize operations and demonstrate value under tighter margin constraints.",
     "play": "raptor_solar",
     "products": [
       "raptor_solar"
@@ -443,6 +730,23 @@
     "mentionedAccounts": [
       "First Solar"
     ]
+  },
+  {
+    "id": "zYTFwNlExVTFPSEYzP29jPTU",
+    "title": "Sunraycer Acquires 325 MWac Solar Portfolio in Illinois and Missouri from Apricus Energy",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM3ZXS25hZ2F1Q1RfMm5nTHlKYVlkeHdEang1RENGaTZneF9tdFVKRldSWmxOSU9ab1czY3E4bXNXRm5USU5XZ1cxT1FCbGVlOVhsZ1lrdWZtTHA4N3MzWVdfaFYzeFFsUHRGSWNJTlVUX2J6aWpQZU1LdUkyYXdfSXo5eTNSbnVGSWFYZXRDOXVmdVVUQ3N4WF9iY2dxT0E5R05vUnkzYnZrSUxYRlZvUnh2RVJORXZ0dzJGakNRaHJhT2NfZzZ3a1p6Q1U1OHF3?oc=5",
+    "sourceName": "Lelezard",
+    "publishedAt": "2026-11-03T14:32:03.000Z",
+    "analyzedAt": "2026-11-06T19:54:26.303Z",
+    "updateType": "ma",
+    "relevance": 1,
+    "summary": "Sunraycer acquired a 325 MWac solar portfolio in Illinois and Missouri from Apricus Energy.",
+    "angle": "Portfolio M&A continues to consolidate MW under new operators; new owners often assess incumbent tool stacks and consider platform upgrades to standardize operations across merged assets.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
   },
   {
     "id": "QyYVVVM01rOXpja2M_b2M9NQ",

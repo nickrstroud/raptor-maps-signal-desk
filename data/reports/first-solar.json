@@ -344,5 +344,24 @@
         "publishedAt": "2026-10-30T20:21:45.000Z"
       }
     ]
+  },
+  {
+    "company": "First Solar",
+    "runAt": "2026-11-06T19:53:37.196Z",
+    "source": "daily",
+    "headline": "First Solar opens new South Carolina manufacturing plant; capacity expansion signals rising installed-base volume and OEM partnership leverage opportunity",
+    "signals": [
+      {
+        "category": "New South Carolina manufacturing facility opening",
+        "updateType": "expansion",
+        "play": "raptor_solar",
+        "score": 1,
+        "summary": "First Solar opened a new manufacturing plant in South Carolina, expanding domestic CdTe thin-film production capacity. This signals growing installed-base volume of First Solar modules across US utility-scale plants over the next 2–3 years, directly increasing the addressable fleet for Raptor Solar field-quality and warranty analytics.",
+        "suggestedAction": "Schedule a brief sync with First Solar's VP of Field Quality or Warranty Engineering to discuss how the new South Carolina production run will be tracked in the installed base. Propose a joint Raptor Solar analytics pilot covering fleet-wide performance and warranty evidence on First Solar modules (leveraging the thin-film ML detection already built into RS Inspections). Frame it as a way to demonstrate module reliability and support their supply narrative to utility-scale customers.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUVBZanJoOTFUZm1TYkFSTVhveWFEOW1NaTA5dHk1QnJVSW80bjl3NmdXaWw3QUMwcDRFdGtWWGlSblpWWnV3MTZlNFRaWGhCUDAtSDVxaHUya2pGS3hfMzVkcVNFN3I2RDRSQU8wak93VnVtNEpHVENQXy1XVm0tMzBPOHFWS3JWSms0WnZR?oc=5",
+        "publishedAt": "2026-11-06T01:20:00.000Z"
+      }
+    ]
   }
 ]
