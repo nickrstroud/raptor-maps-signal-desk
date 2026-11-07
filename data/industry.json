@@ -1,5 +1,91 @@
 [
   {
+    "id": "a1QycEpURGxUZEZCST9vYz01",
+    "title": "Sunraycer Renewables Acquires 325 MW Solar Portfolio From Apricus Energy In Illinois And Missouri",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS3dKTDREQ3ROd3o2dmlyMmxCN1JtSVJKdGFqS0tQOThNekdGSnZZd0lJU1pCYVBvUzhjQWk3QlVCMi1rM2hmblFreGROb1hEMk1UNFp2d09DeWZwMm5XVVV4ZEhWUDRLZi1PQzdNb0MtNlBuSVFMUlRyeEVpSkk0Y0gycUQ5NnhEVmxJeU5ZSHNRTmg3dmFpeF91a1kwcmtRSmMxNWRPanJ1bEZQMW9kT2pJTDlTdFBI?oc=5",
+    "sourceName": "Pulse 2.0",
+    "publishedAt": "2026-11-07T17:41:37.000Z",
+    "analyzedAt": "2026-11-07T17:58:17.041Z",
+    "updateType": "ma",
+    "relevance": 2,
+    "summary": "Sunraycer Renewables has acquired a 325 MW solar portfolio from Apricus Energy across Illinois and Missouri, representing a consolidation of operating assets.",
+    "angle": "Portfolio M&A means new operational complexity for the buyer; digital twin and performance analytics become critical to integrate assets and quickly identify performance gaps across the acquired fleet.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "c1aU1reFlWV3R0Wnc_b2M9NQ",
+    "title": "FSLR: Tariffs Still Matter, But Booking Traction Now Sets The Upside",
+    "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNaGhLWGFPY0FEdHpjUFBTYTJlenBjMEtBWUxMaTIweUcxVW1yZmZ4YnllN2NfQ0RjVTFXOHU0eWY5aHNiR1B3UmpYTkN0ZURrYzVWQ1p0dDYyRzk1elNseEYtN2FOWnhRWTR6VHpPcHgzbTJKTHJ4R0xXQkhvRWhIdGh2Q0kzT3JpODdOZkhUaHJFY0hoMWNfU0d3YWlkb25ibmdOZTZ6R3JoZ2JGc1ZIWUhMXzdsTVQ2ZjFEeEtYY3JPbHFRcHZjWHNkeWpxR0ZjTVAtNFJjUHdsYS0waXhZekhGOF93SFJpY2pPZ2prN3doWk91RzZEak9OeUEwUF91T3VTSlJaOUVxdFlYTHBsb3ctWUxLY1hLa2t1WFczRFJGeVVoNVVwUG05X19IQldDRDlYM3B2bEk2UEJaVlUtdlRLS2l2N0pSV2RudnR6UXY4d2Q0M1VGN2daVDZON2FmeW5iMkxYVWttZw?oc=5",
+    "sourceName": "Simply Wall St",
+    "publishedAt": "2026-11-07T04:57:04.000Z",
+    "analyzedAt": "2026-11-07T17:58:32.496Z",
+    "updateType": "trade",
+    "relevance": 2,
+    "summary": "First Solar reports tariff headwinds remain a factor but booking traction is now the primary growth driver. Module tariffs continue to shape solar project economics and procurement strategies.",
+    "angle": "Tariff impacts on module pricing and project IRR remain relevant to all solar operators; First Solar's positive booking signals suggest near-term project activity may accelerate despite trade uncertainty.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "pkM1FYUk5kbU5YY3c_b2M9NQ",
+    "title": "Solar panel glass survives hail impacts under about 20 joules almost untouched, but modules crack at far lower energy when the ice lands near the edge instead of the center",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa3h5UTJ0UmotSzUtUU42UjF2a29ZNDBEUWI1MTdJdWg1eldVQjJ0bXJtMC1LNzZaWmNNeVVJZmF5eFpXbmE3MnEtVm1EYzBjUlFmN2dlLTBNYmhsUUo3d0VDWTZUc3lZX1pnMTNUZl8yWUd3dTFsajd3QXRNdmNXcw?oc=5",
+    "sourceName": "EcoPortal.net",
+    "publishedAt": "2026-11-06T22:50:00.000Z",
+    "analyzedAt": "2026-11-07T17:58:17.041Z",
+    "updateType": "reliability",
+    "relevance": 2,
+    "summary": "Research shows solar panel glass survives hail impacts under ~20 joules without damage, but modules crack at far lower energy when ice impacts near the edge rather than the center.",
+    "angle": "Hail damage risk is location-dependent on the module; customers operating in hail-prone regions need visual inspection post-storm to identify edge-impact cracks that threaten long-term panel performance and warranty claims.",
+    "play": "inspections",
+    "products": [
+      "inspections"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "saDNUVUozU2pGaVV3P29jPTU",
+    "title": "DJI Ban Outlasts the Midterms: Democrats Can't Lift It Before 2029",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWWFwZUxERXlxcHY2R3ZfWEE5TzNrNG0zUUNQQ2xOVU5adnd1emxkS0pPRTVVMGhpVWgxMEtGRER4ZDFIbDc4QV9ydWRiZUFSbGk2TlRfVXhHQUt6UFp1VmZPSUJkLTY0cWVieDZGMmZGejc4b28xeUVqYXJubGNKN2ZXYlh3TUJ3SjFiUw?oc=5",
+    "sourceName": "DroneXL",
+    "publishedAt": "2026-11-06T22:38:00.000Z",
+    "analyzedAt": "2026-11-07T17:58:25.582Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "DJI drone ban remains in place through at least 2029; regulatory restriction on the most widely used commercial drone platform will persist across the political cycle.",
+    "angle": "Persistent DJI restrictions narrow vendor options for solar inspections and monitoring; customers using or considering DJI-dependent workflows need alternative suppliers like Raptor's autonomous drone solutions.",
+    "play": "sentry",
+    "products": [
+      "sentry",
+      "inspections"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "6V0RWWVR6QkxjR2RCP29jPTU",
+    "title": "Waypoint: BVLOS Rule Will Be Starting Point, Not Finish Line",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbW1MLVNCS1plcVl4ZXZWLWEyZlRHQWFwSmxVVUNFdEU5ZGlqSW5LT2FjYmNPNm1vUTVQQTFxVGJBZFdESTZQYzU2WG9SN1I3OWQzVElJSXRGU1hNY280cWlMZXluc1BfU01jSVA3UG9kZkFpTkVCckxLSTRXRk1KMDBEM2lNUGpJWVdITVJiZ2xnMVBBUkh0TVRVNTRVSWpVdzkzQzRHTEphUmNGb0NSWnJsMUdzWDVYTzBLcGdB?oc=5",
+    "sourceName": "Aviation Week",
+    "publishedAt": "2026-11-06T21:52:54.000Z",
+    "analyzedAt": "2026-11-07T17:58:25.582Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "FAA Part 108 BVLOS rule is now in effect, opening the path for expanded drone operations beyond visual line of sight. Industry experts note this is a starting point with further regulatory refinements expected.",
+    "angle": "BVLOS authorization enables Sentry autonomous drone docks and broader deployment of inspection workflows across solar portfolios; customers can now plan scaled drone operations with regulatory certainty.",
+    "play": "sentry",
+    "products": [
+      "sentry"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "dyaWRsb2NrLXBlcnNpc3RzLw",
     "title": "Democratic sweep in US midterms brings reprieve for solar, but federal gridlock persists",
     "link": "https://www.pv-tech.org/democratic-sweep-in-us-midterms-brings-reprieve-for-solar-but-federal-gridlock-persists/",
@@ -116,6 +202,23 @@
     "mentionedAccounts": []
   },
   {
+    "id": "c5cExVRlpTVmg2ZHc_b2M9NQ",
+    "title": "NERC files final grid reliability standards for inverter-based resources",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1FrQmlnMk5PY1YzWmRETDJhUXVsQlRUaUVONUdFdHBhTkg3NVAxc0cwbHNmU2xnV3JWVWdIRDItS3F1T0pHcjd0YVdiY2dIdmV5c3lTc3ZPdVdaei1Oa0F6X3V6N3Z5cE9xZ1l3b1J0WmRBVDA3S2s5OWVfeWtGZG9uNklwaWtScDI3STZCRU1wTURNdGFRajRudkk2NFZCdHFmZks3b1RibF9ybG9pLUFZSVh6dw?oc=5",
+    "sourceName": "Daily Energy Insider",
+    "publishedAt": "2026-11-06T12:54:38.000Z",
+    "analyzedAt": "2026-11-07T17:58:32.496Z",
+    "updateType": "security",
+    "relevance": 3,
+    "summary": "NERC has filed final grid reliability standards for inverter-based resources (IBR), establishing mandatory compliance requirements for solar and storage plants connected to the grid.",
+    "angle": "All solar operators must now comply with new NERC IBR standards; this is a direct trigger for OT security and reliability conversations and a clear use case for Raptor Comply across utility-scale and C&I portfolios.",
+    "play": "comply",
+    "products": [
+      "comply"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "JlcG9ydC1xMy1udW1iZXJzLw",
     "title": "Earnings roundup: Sunrun, SolarEdge, Shoals, Array Technologies, FTC Solar report Q3 numbers",
     "link": "https://pv-magazine-usa.com/2026/11/06/earnings-roundup-sunrun-solaredge-shoals-array-technologies-ftc-solar-report-q3-numbers/",
@@ -167,6 +270,23 @@
     "mentionedAccounts": []
   },
   {
+    "id": "l2V21kcFlrRk5MVkU_b2M9NQ",
+    "title": "Gulf Power Arithmetic: Demand Arrives In Months, Transformers Take Years",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX3ZrejdlZDZRWWIxcWhrWklncUhrU184eFh5OTBFX3p6NVVKaXJXTU82RGo0NEJ6blp6TmxucXNLTTBTZjZmSG5wcnc1a1J1cVkyc1NjVGZSTGZkMThlSTJpcUt1a1BVWElxMGR0UjNTQkdiTmk5Z25PNDNhT1dKU0ZEbkdtb2VUNkViQU9BN0VPaThDZUl5cG9vWmdpYkFNLVE?oc=5",
+    "sourceName": "Mena FN",
+    "publishedAt": "2026-11-06T09:19:37.000Z",
+    "analyzedAt": "2026-11-07T17:58:32.496Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "Gulf region faces transformer and grid infrastructure bottlenecks; demand for new capacity is arriving faster than transmission infrastructure can be built, creating interconnection and curtailment constraints.",
+    "angle": "Infrastructure constraints may force solar operators to optimize existing plant performance and explore ancillary services; digital twins and performance intelligence become critical to maximize value under curtailment.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "TkJNbEZqUjBzME5saz9vYz01",
     "title": "Optimal solar module tilt angle for hail protection is site-specific, researchers find",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcUtxOTdHemFrN2tNelBFdVN0Z0lSY3hfMFZPN1ZEVnNDOGp3X0NOY2huZzIxM2R4QWlTMzBlSC1YUHRlUUxaSHhIU1c1aUZaMmFiUUVpdDZnb0hkRVdJYkRWa2ZCcnJzQW1xdXlLUjhWRGtubGdVaVZ6TnNnU05PZGRnbWNpa000eFJtbkFiR0loaFhpMFNDaDhIdnZCeHpBZGdmSktYWVV1X1B4NmZmZjdIN1ZxRG51aENBMlFjR0s0Nlk?oc=5",
@@ -201,6 +321,23 @@
     "mentionedAccounts": []
   },
   {
+    "id": "MZEdSeE9FbFRZMGRuP29jPTU",
+    "title": "Right on Queue: Opportunities for Interconnection Queue Reform in the United States",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVkZ6TkZvb0FUUENXcjFVTGt3QW92TTRjaWk1WWlROFJFS1lYaS1CQjRYdmpabEdTNlVSTzR4dVFqMndKRURuVXVQOUZaMEpNWF91bV9sYi15dllnNmQ1UTRmODd3U2c4RmRxSy1DYVdGWHhqc1NaVkFRRllfd0twSk9aN2pSNG9GQm1YMlRkbVktSl95Z0Q0UEdLdGRxOElTY0dn?oc=5",
+    "sourceName": "Clean Air Task Force",
+    "publishedAt": "2026-11-06T03:31:23.000Z",
+    "analyzedAt": "2026-11-07T17:58:32.496Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "Clean Air Task Force outlines opportunities for interconnection queue reform to accelerate solar and renewable projects currently stuck in interconnection delays.",
+    "angle": "Interconnection queue reform could unlock significant MW of stalled solar capacity; customers with queued projects should proactively plan for faster deployment timelines and operational readiness.",
+    "play": "expansion",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "Z3UTNObFIwNTFTVGc_b2M9NQ",
     "title": "Co-located solar, storage jumps to 16% of all solar installations, up from 2% in 2017: EIA",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nR0l3ZWtvMDJ3ZmlnRVlNTVExSUw0Z0RHNXVZT2F1UXNySklld0g3WTdGTzJDUnFzWnZadzlJcmI0S3JELVZWWms2ZzRTQlVOZjhtbThnMVVkZEdUWjRrYjRZLUtLRWhVQ3VzRjhsSktxcjlLeEFwQ3NlR051STg?oc=5",
@@ -228,6 +365,23 @@
     "relevance": 1,
     "summary": "PJM Interconnection selected 3 Pennsylvania projects to add 1.7 GW of generation and storage under an expedited program; new proposals accepted through Nov. 16.",
     "angle": "Expedited interconnection pathways are unlocking new project timelines and capacity in key regions. Customers pursuing PJM generation can leverage Raptor Solar's construction QA and commissioning workflows to accelerate time-to-revenue.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "5aWGNubzViR00xWWc_b2M9NQ",
+    "title": "Hull Street Energy acquires FirstLight portfolio in the United States",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QaUR6LXJCajkxdTNob3BPU3ZnOXJNM3AyU2NDQlFBNmM3ZVRwM216eGh6S3NpaXpZUmdsS0J4c0FNR2ttNFhsRnZ5aUJ4WGtibzhvTDJvMlhHdXpiMGxCUHlROHN2Njkwdktxa0ZmZnZXcno5bGM1Yg?oc=5",
+    "sourceName": "Inspenet",
+    "publishedAt": "2026-11-05T19:38:12.000Z",
+    "analyzedAt": "2026-11-07T17:58:17.041Z",
+    "updateType": "ma",
+    "relevance": 1,
+    "summary": "Hull Street Energy has acquired FirstLight's portfolio in the United States, consolidating renewable and storage assets.",
+    "angle": "Asset consolidation creates operational demands; platform coverage and asset management capability become a priority for integrated portfolio performance.",
     "play": "raptor_solar",
     "products": [
       "raptor_solar"
@@ -383,6 +537,23 @@
     "relevance": 1,
     "summary": "LevelTen Energy reports solar PPA prices increased 4.9% in Q3 2026, reflecting market dynamics.",
     "angle": "Rising PPA prices indicate tighter solar project economics and stronger market demand; a data point for customers evaluating project ROI and the value of performance optimization tools.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "GTFZacmEzZHhWV3RqP29jPTU",
+    "title": "U.S. solar PPA prices rose in Q3 as Section 232 tariffs began to take effect",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVEtYQ0tjangxYU5wS0hoWTBtYS1TMDRzQ2NyMGJabDNTMnI0eXE0U0E5a0VSTm5yUGRHaFBRSjU4TTB6NlFVam1vQmgxV3V0ZXA0b285Vnp1ZzFhNksxRzI5OWp3Y2lESEtNVHdmQWlINkhfWVk1d0c2WkQ1d3pGUkkwZDlldEsxdnBBSE1WZGRkTzEya0taOUoyenVhckZuWkU1SHhDVXBYNmVOR2xCTWZEREY2R1RKSE9semxFLVZra3dxVWtj?oc=5",
+    "sourceName": "pv magazine Global",
+    "publishedAt": "2026-11-05T10:30:00.000Z",
+    "analyzedAt": "2026-11-07T17:58:25.582Z",
+    "updateType": "trade",
+    "relevance": 2,
+    "summary": "U.S. solar PPA prices rose in Q3 2026 as Section 232 steel and aluminum tariffs took effect, increasing project costs and affecting economics across the solar industry.",
+    "angle": "Rising tariff-driven capex and O&M costs make operational efficiency and asset performance visibility more critical; customers need Raptor Solar's performance intelligence to optimize ROI and cash flow under margin pressure.",
     "play": "raptor_solar",
     "products": [
       "raptor_solar"
@@ -592,6 +763,21 @@
     "mentionedAccounts": []
   },
   {
+    "id": "VXcyUlVFeWJsb3dkUT9vYz01",
+    "title": "ISMA Vision 2047: India Solar Manufacturing to Create 3.23 Million Jobs, Draw $89 Billion - News and Statistics",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSVFaemR6SWZxT3VMNlhzSi1xcWdacXhKZHFIM1ZISEtsWjVRWXBtcWhzQnN6TkdnN1Z5NkxkY0l2Z3dqalRTZ1NzZWFxalFUc3ZZRnJBVThheVBkSjk5X1U4LTN3aGFqZUxnVzF4UlN0anh0Y2Nub1VaSWNTX0pZN2JLYjZnLUkxanB0ZGlRanRLM2RhSUpVcElQcG05T21Oc0o5ajdIYXNhcEhyNWhYUHJoUUw2RUEyblowdQ?oc=5",
+    "sourceName": "IndexBox",
+    "publishedAt": "2026-11-04T11:20:48.000Z",
+    "analyzedAt": "2026-11-07T17:58:25.582Z",
+    "updateType": "expansion",
+    "relevance": 1,
+    "summary": "India's solar manufacturing vision projects 3.23 million jobs and $89 billion investment through 2047, signaling massive capacity buildout in the region.",
+    "angle": "India's solar manufacturing and deployment scale creates long-term demand for O&M, performance analytics, and inspection services; a market expansion signal for solar operators and EPCs in the region.",
+    "play": "none",
+    "products": [],
+    "mentionedAccounts": []
+  },
+  {
     "id": "OV0RsNFQwOU1PVmQzP29jPTU",
     "title": "Sunraycer Renewables buys 325 MW solar portfolio in the US Midwest",
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTHNLUnZEcGhJSGpTVkZQdzRmcXRmbXJZbVp5YzFCNjlsTVM0bTg2WGlpUUFiX2lMMVl4MGZySms0ajB6TDRUTWlpVTNUUkliX3lUUXozUktqLTJrb1lHNE15THdkaHN5UHZpcE1xckFRQVp5QnZsMVAwUFBlYTNHaU1Td2tmdzhYTDNycnNuVkctYUEwUHQteVRNWDl4T09MOVd3?oc=5",
@@ -672,6 +858,24 @@
     "relevance": 2,
     "summary": "Purdue-owned Windracers ULTRA became the first autonomous aircraft to fly BVLOS (Beyond Visual Line of Sight) in Indiana's new FAA drone corridor, demonstrating expanding regulatory pathways for autonomous aerial operations.",
     "angle": "FAA BVLOS corridors and autonomous drone approvals are opening new use cases for remote solar inspections and monitoring; this regulatory win signals faster adoption paths for Raptor Sentry and Inspections autonomous workflows.",
+    "play": "inspections",
+    "products": [
+      "inspections",
+      "sentry"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "RGx2YW1kaFkwcHZjQT9vYz01",
+    "title": "Part 108: The BVLOS Revolution Is Coming, but Can Mapping Companies Afford It? Part 1",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbkNBY2VnSHdMYzNEeVpBMUxxNHE5TC1SZUF0QmowQnh3TGZNZmswOVdxeEhCWDZGRzk0YnROaEtqUW1RUE4ycXNUZXJhSFEzS0F6SmxHWmh1QU5KMC1tanhwNGhpOW5mekR3bkNTXzJ0a193Q05WWkJrTlBhMVk4UmVFM242UHhqTl9Zd2FTWTR0ZEludmxPbnl5WjBOMDgwUVlMeXZGNkxCWDVVSmRzdUUwdDlvamdhY0pvcA?oc=5",
+    "sourceName": "Geo Week News",
+    "publishedAt": "2026-11-03T17:14:05.000Z",
+    "analyzedAt": "2026-11-07T17:58:25.582Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "Part 108 BVLOS rule adoption poses cost and compliance challenges for mapping and inspection service companies, raising questions about affordability and scalability.",
+    "angle": "As drone inspection operators and solar O&M providers navigate Part 108 compliance costs, Raptor's inspection and sentry capabilities become more valuable as integrated, proven alternatives to building internal drone programs.",
     "play": "inspections",
     "products": [
       "inspections",
