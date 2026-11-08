@@ -646,5 +646,24 @@
         "publishedAt": "2026-10-30T16:50:54.000Z"
       }
     ]
+  },
+  {
+    "company": "BayWa r.e.",
+    "runAt": "2026-11-08T18:16:05.098Z",
+    "source": "daily",
+    "headline": "BayWa AG restructuring enters new phase with new controlling owner; transformation extended to 2030 — watch for vendor review and North America O&M strategy clarity",
+    "signals": [
+      {
+        "category": "Parent company restructuring; new controlling shareholder",
+        "updateType": "distress",
+        "play": "retention",
+        "score": -1,
+        "summary": "BayWa AG moving to a new controlling owner as part of ongoing restructuring extending to 2030. BayWa r.e. was originally slated for sale but deal collapsed; company is now in turnaround mode. New ownership typically triggers vendor review cycles and strategy reassessment.",
+        "suggestedAction": "Schedule a check-in with Sean Bucher (Director of ROCC and Engineering) to understand how the new ownership transition affects r.e.'s North America O&M strategy and budget roadmap for 2027. Clarify whether the Raptor platform roadmap (Sentry for ROCC efficiency, Comply for owned utility-scale sites) remains a priority, and offer a brief ROI recap (cost per MW, production recovery, truck-roll savings) to support internal budget discussions with the new owner.",
+        "sourceName": "ad-hoc-news.de",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOLVdHYmlUcGFUQktKeFNBemxFSzFMVWxwRXBMc1ZfMEhhMFhHM201MDdjSTNEQmNZRlNOWUxXWmpLRjF3TzJfSE1XeDRIakRtM0hPRjBUOEd2ajNZUkJ1QVBVc196NmJ0YURva2pycHdPVl9pWWU4aXpQX1lrMGNZWjFyWVNZZzk1aFZsdVIyZlItNU1hMXgzS1pwdlZoM0oyM0l5dkNIWTFTRFo4OHBOb2hnX0U5ZmNhRXZtZmNTMzFSdTREeDdEX2dWR0R0RkdWSzJqZHRuX1VDRlNET0MwQ2ZLbV9CUEZNQS1wd0tvSDI3VUdwTmF5ekN1akxzZw?oc=5",
+        "publishedAt": "2026-11-08T16:44:02.000Z"
+      }
+    ]
   }
 ]

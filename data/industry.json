@@ -1,5 +1,39 @@
 [
   {
+    "id": "a1pFZHdWWGRVVjE5Vz9vYz01",
+    "title": "A 2.2 inch lab ice ball hits solar panel glass at 76 miles per hour, and the first crack shows up 126 millionths of a second later",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0c3NuMEl1SmJiYm9fbkZzY2NBcjFvNWlmTmlRMkZ2Sk5MUGFtR0pZQzBjZlZFN1U2TkswRllJcmVrWXZ6T3hpVVZXX1hwVnptc2piUGhHM3JtUTUxY2hkZEdwVXdUV19W?oc=5",
+    "sourceName": "EcoPortal.net",
+    "publishedAt": "2026-11-08T12:50:00.000Z",
+    "analyzedAt": "2026-11-08T18:16:33.281Z",
+    "updateType": "reliability",
+    "relevance": 2,
+    "summary": "Lab testing demonstrates rapid hail impact damage to solar panel glass: a 2.2-inch ice ball at 76 mph produces visible cracks in 126 microseconds.",
+    "angle": "Hail-induced module reliability is a key concern for solar plant operators. This research underscores the need for rapid damage detection and quantification post-storm—a core use case for aerial thermography and visual inspections.",
+    "play": "inspections",
+    "products": [
+      "inspections"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "SkRPRmhhTkZKVVkzTT9vYz01",
+    "title": "Grid Connection Delays Threaten 2,500 GW of Global Energy Projects as India Faces 20 GW Renewable Connectivity Risk",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWFlaNk1FcHRkUjNvcVU5aXNwTmRJVzVxMVhIVmpOS0ZIODc4MHpmcGlrUG8zbnVCLTRqRmtnQnR6X0JOY0tCTW9mVVprRG12YzJQSGtHcTdpRE1oQ3hhVnc3N2V3U1FrMDJkNWE3aENsTVdUTjF3Sm1jemx6cEJWaklqOWFsOUZpaWFONVVWMlowelY5WjllM0d6Yk9tQzZnd3RVRVo5QUUxZHRBUjhQM19BQ1lPXzJVek5SbTZpLXEwOW5HcDZKOURGdTJVZDFpdTUtRkxLVzhzRTN4ZXJDOFhaNFJUY3M?oc=5",
+    "sourceName": "GreentechLead",
+    "publishedAt": "2026-11-08T10:30:25.000Z",
+    "analyzedAt": "2026-11-08T18:16:33.281Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "Global interconnection queue delays threaten 2,500 GW of energy projects; India alone faces 20 GW renewable connectivity risk.",
+    "angle": "Grid connection delays directly impact solar project ROI and operational economics. Operators on delayed projects may need to optimize performance on existing sites—a key driver for platform expansion and performance intelligence adoption.",
+    "play": "raptor_solar",
+    "products": [
+      "raptor_solar"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "a1QycEpURGxUZEZCST9vYz01",
     "title": "Sunraycer Renewables Acquires 325 MW Solar Portfolio From Apricus Energy In Illinois And Missouri",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS3dKTDREQ3ROd3o2dmlyMmxCN1JtSVJKdGFqS0tQOThNekdGSnZZd0lJU1pCYVBvUzhjQWk3QlVCMi1rM2hmblFreGROb1hEMk1UNFp2d09DeWZwMm5XVVV4ZEhWUDRLZi1PQzdNb0MtNlBuSVFMUlRyeEVpSkk0Y0gycUQ5NnhEVmxJeU5ZSHNRTmg3dmFpeF91a1kwcmtRSmMxNWRPanJ1bEZQMW9kT2pJTDlTdFBI?oc=5",
@@ -150,6 +184,23 @@
     "products": [
       "inspections",
       "sentry"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "RVVUU0VVVFelRVTTA_b2M9NQ",
+    "title": "DJI drones could be banned from the US due to alleged risk to national security",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNjNfeU84M3JXYWhDVFRSUVJVWTdVVWlmaXhaMjE5UllvVzNjdkI3MDdBOFo2dndQWWdneXVBNzNfT3JBUkVzS1JrYU93d2Q4bEM0NmVKN0xTZzkxUlVBRFNfYUp5MVhHcXoxdV9icm9HNEtkdUN5b0NwaVFGZEZiWU12aTYyU0NxRmFXSUdGczEwbTl0QXJ5NV9RR2FXNzllMHRjTVR5MzRxRnRLMlJRUVVtUUE4UUEzTUM0?oc=5",
+    "sourceName": "Digital Camera World",
+    "publishedAt": "2026-11-06T14:20:27.000Z",
+    "analyzedAt": "2026-11-08T18:16:33.281Z",
+    "updateType": "regulatory",
+    "relevance": 3,
+    "summary": "DJI drones face potential US ban due to national security concerns, threatening the commercial drone market and autonomous inspection workflows.",
+    "angle": "A DJI ban would force solar operators and O&M providers to immediately transition to compliant alternatives (non-DJI platforms, robotic docks). Operators relying on DJI for inspections face workflow disruption and cost shifts.",
+    "play": "inspections",
+    "products": [
+      "inspections"
     ],
     "mentionedAccounts": []
   },

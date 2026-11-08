@@ -111,5 +111,24 @@
         "publishedAt": "2026-11-06T16:48:00.000Z"
       }
     ]
+  },
+  {
+    "company": "Luminace",
+    "runAt": "2026-11-08T18:16:04.566Z",
+    "source": "daily",
+    "headline": "Luminace Bristol solar project environmental fine; assess operational risk and inspection/compliance needs",
+    "signals": [
+      {
+        "category": "Environmental violation fine at Bristol site",
+        "updateType": "incident",
+        "play": "inspections",
+        "score": 0,
+        "summary": "Luminace's Bristol, Maine solar project was fined $94K for environmental violations. The nature and severity of violations are unclear from headline alone, but environmental compliance issues at distributed sites can signal gaps in pre-construction inspections, environmental site assessments, or post-construction monitoring.",
+        "suggestedAction": "Reach out to Elizabeth Brennan (COO) to understand the Bristol incident details: what was violated, whether it was pre-construction, construction, or operational, and whether Luminace is reviewing inspection/monitoring practices at other sites to prevent recurrence. This is a low-key touch, not accusatory—positioned as a partner ensuring their sites are protected. If operational monitoring gaps exist, RS Inspections could help prevent future environmental compliance issues.",
+        "sourceName": "Bangor Daily News",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeG5keFVMMmxqVlBZWEVNMVN0cnV3Nzc1ZDhJdlV5WW9QZDF0VngzdkI1VEVhYmZ4TGJmVzdJYkxfSFFvZVc1UTYxNFAzNlphX1gzUG5Wb3VuMmVVWnZYX0RCYnM3cUhpTzFVMHRNd0twQmpFLVIwZHRpczBTNU5BcjMwbWE0QjlneUdSaHNWeVdmZ3pvLXNmcFkyRkJlOTNBYVhVUlhGRDB1MThwU1h1ZXJmZjNjWGVtYVRlRXN6d2M2TUJqQzloVGF3?oc=5",
+        "publishedAt": "2026-11-08T13:58:05.000Z"
+      }
+    ]
   }
 ]

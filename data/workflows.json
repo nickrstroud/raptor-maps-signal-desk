@@ -6188,5 +6188,148 @@
     },
     "doneWhen": "Pilot scope agreed with [VP Field Quality] (target: 3–5 customer sites, 6-month term, launch Q1 2027) and Raptor Solar onboarding plan documented in CRM.",
     "generatedAt": "2026-11-06T19:53:54.327Z"
+  },
+  "a_la09pq": {
+    "signalId": "a_la09pq",
+    "account": "BayWa r.e.",
+    "signalTitle": "Parent company restructuring; new controlling shareholder",
+    "play": "protect_renewal",
+    "goal": "Stabilize the relationship through ownership transition by demonstrating ROI and clarifying Raptor's role in BayWa r.e.'s O&M efficiency strategy.",
+    "owner": "CS Director + Account Executive",
+    "contactRole": "Director of ROCC and Engineering",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0-1",
+        "tasks": [
+          "Confirm current contract end date, renewal status, and any vendor review notices from BayWa r.e. leadership.",
+          "Audit current Raptor Solar and Inspections usage: MW covered, drone flights YTD, remediation tickets closed, production recovery quantified.",
+          "Flag any payment delays, support tickets, or product gaps that may signal dissatisfaction under new ownership."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Brief Account Executive on BayWa AG restructuring context; agree on AE ownership of new-owner relationship if divestment or strategic review triggers.",
+          "Prepare a one-page ROI summary (cost per MW, truck-roll reduction, production recovered %) to support internal budget justification to new ownership.",
+          "Confirm with Finance whether BayWa r.e. is flagged for payment risk or contract review; agree on escalation path if needed."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 2-3",
+        "tasks": [
+          "Reach out to [Director of ROCC and Engineering] with a personal check-in: acknowledge the ownership transition, express support, and ask for a 20-min call to discuss how Raptor fits into r.e.'s North America roadmap under new ownership.",
+          "In the call, listen for budget, divestment, or strategy concerns; share ROI narrative and Sentry/Comply expansion potential only if asked."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 3-7",
+        "tasks": [
+          "Based on [Director] feedback, either: (a) schedule a formal business review with new owner stakeholders (if required by ownership change), or (b) send a brief renewal confirmation + 2026 roadmap summary + ROI recap.",
+          "If budget cuts or divestment are signaled, pivot to a cost-optimization play: Sentry ROI (fewer on-site inspections, fewer truck rolls) or Comply as a revenue-share opportunity for their utility clients."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Day 7 & Ongoing",
+        "tasks": [
+          "Log call outcome and any new owner strategy signals in CRM; flag if vendor review is underway.",
+          "Set quarterly check-ins through 2027 to monitor divestment rumors, budget freezes, or ownership changes to the North America business.",
+          "Track production recovery and cost savings metrics monthly to support renewal discussions."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "BayWa r.e. ROCC: how Raptor fits in your transition",
+      "body": "Hi [Director of ROCC and Engineering],\n\nWith the ownership transition underway, I wanted to reach out and check in. We know new ownership often triggers strategy reviews, and we're here to support however we can.\n\nOver the past two years, your team has built a best-in-class drone program and turned Raptor Solar into your system of record for site health and remediation. We've quantified the impact—cost per MW, truck-roll reductions, production recovered—and we'd love to walk through those numbers with you and any new stakeholders.\n\nWould you have 20 minutes this week to chat about your North America roadmap for 2027 and how Raptor can continue to drive efficiency for your ROCC?\n\n—[Your Name]"
+    },
+    "slack": "🚨 **BayWa r.e. (ROCC/O&M) – Ownership transition risk.** Parent BayWa AG completing restructuring; r.e. sale collapsed, now in turnaround mode under new controlling shareholder. Divestment or vendor review of North America O&M business is possible. Play: protect renewal by demonstrating ROI (cost/MW, truck-roll savings, production recovery) and clarifying Raptor's role in new owner's efficiency strategy. **AE + CS Director leads.** Call [Director of ROCC and Engineering] this week to listen and position Sentry/Comply if they see budget pressure.",
+    "crmTask": {
+      "title": "BayWa r.e. – Ownership transition check-in & ROI alignment",
+      "due": "In 3 days",
+      "notes": "Parent company restructuring: BayWa AG sale plan failed; new controlling shareholder in place; restructuring to 2030. BayWa r.e. North America O&M (~1+ GW managed) at risk for divestment or vendor review. Current products: Raptor Solar (core), RS Inspections (drone program). Key sponsor: [Director of ROCC and Engineering]. Action: Check in on 2027 budget/strategy; share ROI summary (cost/MW, truck-roll reduction, production recovery) to support internal justification to new owner. Secondary expansion: Sentry (ROCC efficiency), Comply (for owned utility-scale sites). Watch for payment delays, budget freeze, or divestment announcements."
+    },
+    "doneWhen": "20-minute call with [Director of ROCC and Engineering] completed; feedback documented on new owner strategy, budget outlook, and Raptor renewal status.",
+    "generatedAt": "2026-11-08T18:16:21.847Z"
+  },
+  "a_1mybqoe": {
+    "signalId": "a_1mybqoe",
+    "account": "Enel Green Power",
+    "signalTitle": "VPP expansion and grid-connected storage assets",
+    "play": "onboard_expand",
+    "goal": "Expand Raptor platform coverage into Enel's new North American VPP solar and storage sites, and secure Raptor Comply for NERC CIP compliance across the growing fleet.",
+    "owner": "Account Executive + CS Director",
+    "contactRole": "Head of Industrial Risk & Cross Technology Improvement, North America",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0-1",
+        "tasks": [
+          "Confirm with [Head of Industrial Risk & Cross Technology Improvement, North America] whether new solar or co-located storage sites from the Enel X VPP expansion are planned for North America in 2027–2028.",
+          "Map MW, site count, and expected go-live dates for storage and solar assets; identify which cross NERC CIP registration thresholds.",
+          "Review current Sentry deployment status across the 181 MWdc Texas site and other North America solar assets to understand installed base."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Brief Account Executive and Product (Storage + Comply leads) on VPP portfolio timing and NERC footprint to shape feature readiness and pricing.",
+          "Confirm whether Comply roadmap includes battery energy storage systems (BESS) and inverter OT security; flag any product gaps.",
+          "Agree that CS Director leads Comply scoping and Account Executive leads Sentry/Solar expansion opportunity."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 2-3",
+        "tasks": [
+          "Send brief, values-first email to [Head of Industrial Risk & Cross Technology Improvement, North America] referencing the VPP expansion and NERC compliance as a shared planning opportunity.",
+          "Propose a focused 30-min call (Week 1 of next month) to map the storage/solar roadmap and discuss how Raptor Comply and Sentry can reduce go-live risk and opex."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 5-14",
+        "tasks": [
+          "Conduct asset-scoping call with [Head of Industrial Risk & Cross Technology Improvement, North America] and [procurement/engineering lead if available]; document site list, MW, NERC threshold crossings, and commissioning timeline.",
+          "Prepare Comply and Sentry proposal tailored to storage asset types (co-located battery, standalone, distributed) and NERC CIP scope; include risk-mitigation ROI.",
+          "Propose pilot Comply integration on one new storage site 60 days pre-go-live to validate workflow and OT security posture."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log all VPP asset details, NERC thresholds, and timeline in CRM; tag for quarterly business review.",
+          "Create expansion opportunity for each new solar site (Sentry + Inspections) and storage asset (Comply + Sentry); forecast by go-live date.",
+          "Schedule monthly check-in with [Head of Industrial Risk & Cross Technology Improvement, North America] to align on Enel X VPP timeline and confirm no portfolio changes affecting North America MW."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Raptor + Enel's VPP Expansion: NERC Compliance &amp; Storage Readiness",
+      "body": "Hi [Head of Industrial Risk & Cross Technology Improvement, North America],\n\nCongratulations on Enel X's VPP expansion—a powerful next step for grid-resilient renewables. With new solar and co-located storage sites entering North America, we'd like to partner early on compliance and operational readiness.\n\nRaptor Comply is built for NERC CIP on utility-scale solar and storage; early OT security integration during commissioning cuts risk and go-live delays. Plus, Sentry drone monitoring works seamlessly alongside battery assets.\n\nWould a brief call next week make sense to map the portfolio timeline and explore how we can de-risk your deployment? Happy to work around your schedule.\n\nThanks,\n[Your name]"
+    },
+    "slack": "🎯 Signal: Enel X VPP expansion into North American solar + storage. Key play: confirm new site locations, map NERC CIP footprint, and pilot Raptor Comply on storage assets before go-live to reduce commissioning risk and ensure OT security posture. AE leads expansion scooping; CS Director leads Comply readiness. Need Product (Comply team) to confirm BESS coverage and timeline. **Ask: AE to schedule scoping call this week; CS to prep preliminary Comply scope by Day 10.**",
+    "crmTask": {
+      "title": "Enel North America VPP Expansion – Solar &amp; Storage Site Mapping &amp; Raptor Comply Pilot",
+      "due": "In 3 days",
+      "notes": "Signal: Enel X VPP expansion adds new distributed solar and grid-connected storage assets to Enel North America portfolio. Risk: new storage sites may cross NERC CIP thresholds and require OT security compliance. Opportunity: expand Sentry to new solar sites and deploy Raptor Comply on all storage assets. Sponsor: [Head of Industrial Risk & Cross Technology Improvement, North America]. Action: validate site count/MW/go-live dates, confirm NERC footprint, propose Comply pilot 60 days pre-go-live on first storage asset. Timeline: expect 2027–2028 deployments. Watch: portfolio changes, capex shifts, new TX/US projects."
+    },
+    "doneWhen": "Confirmed list of new North American VPP solar and storage sites, MW count, commissioning dates, and NERC CIP thresholds; Comply and Sentry scoping proposal delivered to sponsor; pilot project identified.",
+    "generatedAt": "2026-11-08T18:16:22.603Z"
   }
 }

@@ -161,5 +161,24 @@
         "publishedAt": "2026-10-25T16:50:15.000Z"
       }
     ]
+  },
+  {
+    "company": "Enel Green Power",
+    "runAt": "2026-11-08T18:16:05.632Z",
+    "source": "daily",
+    "headline": "Enel X virtual power plant expansion signals potential new solar/storage capex and cross-sell opportunity on Raptor Comply for grid-connected assets",
+    "signals": [
+      {
+        "category": "VPP expansion and grid-connected storage assets",
+        "updateType": "expansion",
+        "play": "comply",
+        "score": 1,
+        "summary": "Enel X's expansion into virtual power plants with solar, battery, and EV grid integration implies new distributed solar and storage sites entering the Enel North America portfolio. Grid-connected storage and VPP assets carrying NERC registration thresholds create compliance and OT cybersecurity risks.",
+        "suggestedAction": "Confirm with William Badnaruk whether new solar or co-located storage sites from the VPP expansion will be deployed in North America; map their NERC CIP footprint and explore Raptor Comply readiness for the new storage/battery assets before they go live.",
+        "sourceName": "GreentechLead",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOV3JrdDhWcS1OSVRobjFpN19oRi1oTmtoZi1JOVJpTm51UHo5aENXSGtIUE1fRWRoWm9VWkNQZzFrSGNiYi1qaS1KWE5faHhoeE1mX1RSSjhGMTJLVy1HN2NKOUFudl9WbnhyVlh0ZFo4SnROdXh5djRpUnZfSlFIQ3IxdHpsM0tUUW9tc0pLOEc3Q1MtZWNISjduS2FkQjBkRXQyUmtCa0tBMTRNX29aeXU3NVpmc2VrbHJ2cFRHMlFtLVpRS1BYOVZnWmlUeUJfcVpqVkhyMWRtLWRCZ00zZQ?oc=5",
+        "publishedAt": "2026-11-08T10:22:04.000Z"
+      }
+    ]
   }
 ]
